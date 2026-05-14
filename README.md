@@ -1,7 +1,7 @@
 # MedKGraphFusion
 
 **MedKGraphFusion** is an ontology-guided framework for constructing and expanding biomedical knowledge graphs (KGs) from heterogeneous text using large language models (LLMs). It integrates ontology-guided seed discovery, schema-constrained zero-shot extraction, and concept-centric global fusion with structured verification, enabling scalable biomedical KG construction, prognostic modeling, and patient-level mechanistic interpretation.  
-
+![image](https://github.com/jwang2lucky/MedKGraphFusion/blob/main/overview.png)
 This repository contains code and data to reproduce experiments in our paper: *MedKGraphFusion: Ontology-Guided Knowledge Graph Construction via LLM-Powered Graph Fusion for Heterogeneous Biomedical Texts*.
 
 ---
