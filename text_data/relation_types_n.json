@@ -1,0 +1,127 @@
+{
+  "Treats": {
+    "label": "Treats",
+    "description": "Therapeutic Application: A drug, medical procedure, or therapeutic intervention (Subject) is clinically administered to cure, manage, or alleviate a disease or phenotype (Object). [Direction: Intervention -> Disease]",
+    "example": "Metformin treats Type 2 Diabetes."
+  },
+  "Causes": {
+    "label": "Causes",
+    "description": "Etiological Causation: An external agent, pathogen, chemical, or specific behavior (Subject) is the direct initiating cause of a disease or physiological condition (Object). [Direction: Cause -> Effect]",
+    "example": "Human Papillomavirus (HPV) causes Cervical Cancer."
+  },
+  "Associated-With": {
+    "label": "Associated-With",
+    "description": "Statistical/Clinical Correlation: A general, non-causal, or bidirectional correlation exists between two entities where explicit directionality or mechanism is undefined or ambiguous in the context. [Direction: Symmetric/Undirected]",
+    "example": "Hypertension is associated with Obstructive Sleep Apnea."
+  },
+  "Expressed-In": {
+    "label": "Expressed-In",
+    "description": "Biological Localization: A gene, protein, or molecular entity (Subject) is synthesized or functionally present within a specific tissue, cell type, or anatomical structure (Object). [Direction: Molecule -> Location]",
+    "example": "Insulin is expressed in Pancreatic Beta Cells."
+  },
+  "Located-In": {
+    "label": "Located-In",
+    "description": "Anatomical Containment: A biological structure, lesion, or pathological finding (Subject) is spatially situated within a larger anatomical body part or region (Object). [Direction: Sub-structure -> Super-structure]",
+    "example": "Deep Vein Thrombosis is located in the Lower Extremity."
+  },
+  "Part-Of": {
+    "label": "Part-Of",
+    "description": "Meronymy: An entity (Subject) is a physical component or constituent element of a larger biological system or structure (Object). [Direction: Component -> Whole]",
+    "example": "The Alveolus is part of the Lung."
+  },
+  "Subtype-Of": {
+    "label": "Subtype-Of",
+    "description": "Taxonomic Hierarchy: An entity (Subject) is a specific category or child concept of a broader biological or medical class (Object). [Direction: Child -> Parent]",
+    "example": "Glioblastoma Multiforme is a subtype of Astrocytoma."
+  },
+  "Interacts-With": {
+    "label": "Interacts-With",
+    "description": "Molecular Interaction: A chemical or biological molecule (Subject) physically or functionally engages with another molecule (Object) without a clearly defined directional dominance. [Direction: Symmetric/Undirected]",
+    "example": "Aspirin interacts with Warfarin (drug-drug interaction)."
+  },
+  "Inhibits": {
+    "label": "Inhibits",
+    "description": "Negative Regulation: A chemical substance or biological molecule (Subject) decreases, suppresses, or blocks the biological activity, expression, or function of a target molecule or pathway (Object). [Direction: Regulator -> Target]",
+    "example": "Imatinib inhibits BCR-ABL tyrosine kinase."
+  },
+  "Activates": {
+    "label": "Activates",
+    "description": "Positive Regulation: A chemical substance or biological molecule (Subject) increases, stimulates, or upregulates the biological activity, expression, or function of a target molecule or pathway (Object). [Direction: Regulator -> Target]",
+    "example": "Interleukin-2 activates T-cell proliferation."
+  },
+  "Diagnoses": {
+    "label": "Diagnoses",
+    "description": "Diagnostic Utility: A specific test, imaging modality, or assay (Subject) is utilized to confirm or detect the presence of a disease or condition (Object). [Direction: Tool -> Disease]",
+    "example": "RT-PCR diagnoses COVID-19 infection."
+  },
+  "Has-Symptom": {
+    "label": "Has-Symptom",
+    "description": "Phenotypic Manifestation: A disease or pathological condition (Subject) manifests clinically through a specific observable symptom or sign (Object). [Direction: Disease -> Phenotype]",
+    "example": "Meningitis has symptom Neck Stiffness."
+  },
+  "Used-For": {
+    "label": "Used-For",
+    "description": "General Indication: A medical device, substance, or object (Subject) is utilized for a broad medical purpose or procedure (Object), distinguishable from treating a specific disease. [Direction: Item -> Purpose]",
+    "example": "Catheters are used for Urinary Drainage."
+  },
+  "Contraindicated-For": {
+    "label": "Contraindicated-For",
+    "description": "Medical Restriction: A drug or procedure (Subject) must not be administered due to the presence of a specific disease, condition, or patient state (Object). [Direction: Drug -> Condition]",
+    "example": "Beta-blockers are contraindicated for Asthma."
+  },
+  "Biomarker-Of": {
+    "label": "Biomarker-Of",
+    "description": "Diagnostic Indicator: A measurable molecule or genetic characteristic (Subject) serves as a quantifiable indicator for the presence or severity of a disease state (Object). [Direction: Molecule -> Disease]",
+    "example": "PSA (Prostate-Specific Antigen) is a biomarker of Prostate Cancer."
+  },
+  "Agonism-or-Antagonism": {
+    "label": "Agonism-or-Antagonism",
+    "description": "Receptor Modulation: A drug or ligand (Subject) binds to a receptor (Object) to trigger (agonist) or block (antagonist) a biological response. Used when specific direction is abstract. [Direction: Ligand -> Receptor]",
+    "example": "Naloxone acts on Opioid Receptors (Antagonism)."
+  },
+  "Binding": {
+    "label": "Binding",
+    "description": "Physical Attachment: A molecule (Subject) physically attaches to a specific site on another molecule (Object) with high affinity. [Direction: Ligand -> Target]",
+    "example": "Carbon Monoxide binds to Hemoglobin."
+  },
+  "Affects-Expression": {
+    "label": "Affects-Expression",
+    "description": "Gene Regulation: A drug, chemical, or upstream gene (Subject) alters the transcription or translation levels of a downstream gene or protein (Object). [Direction: Regulator -> Gene/Protein]",
+    "example": "Dexamethasone affects expression of Anti-inflammatory genes."
+  },
+  "Metabolizes": {
+    "label": "Metabolizes",
+    "description": "Metabolic Conversion: An enzyme or biological system (Subject) chemically transforms a drug or substrate (Object). [Direction: Enzyme -> Substrate]",
+    "example": "CYP2D6 metabolizes Codeine."
+  },
+  "Transports": {
+    "label": "Transports",
+    "description": "Molecular Transport: A protein or transporter channel (Subject) facilitates the movement of a solute or ion (Object) across a biological membrane. [Direction: Transporter -> Solute]",
+    "example": "Hemoglobin transports Oxygen."
+  },
+  "Enzyme-Activity": {
+    "label": "Enzyme-Activity",
+    "description": "Activity Modulation: A substance (Subject) specifically impacts the catalytic rate or functional efficiency of an enzyme (Object). [Direction: Modulator -> Enzyme]",
+    "example": "Allopurinol reduces Xanthine Oxidase enzyme activity."
+  },
+  "Side-Effect": {
+    "label": "Side-Effect",
+    "description": "Adverse Reaction: A pharmaceutical agent or treatment (Subject) unintentionally causes a harmful or unwanted phenotype or condition (Object). [Direction: Drug -> Phenotype]",
+    "example": "Chemotherapy causes Hair Loss (Side-Effect)."
+  },
+  "Contributes-To-Pathogenesis": {
+    "label": "Contributes-To-Pathogenesis",
+    "description": "Pathogenic Mechanism: A biological process, pathway, or molecular event (Subject) is a component of the mechanism driving the development or progression of a disease (Object). [Direction: Mechanism -> Disease]",
+    "example": "Amyloid Beta accumulation contributes to pathogenesis of Alzheimer's Disease."
+  },
+  "Mutation-Affects-Disease": {
+    "label": "Mutation-Affects-Disease",
+    "description": "Genetic Risk: A specific genetic variant or mutation (Subject) is causally linked to an increased risk or modulation of a disease phenotype (Object). [Direction: Variant -> Disease]",
+    "example": "BRCA1 Mutation affects Breast Cancer risk."
+  },
+  "Gene-Regulates-Gene": {
+    "label": "Gene-Regulates-Gene",
+    "description": "Gene Regulatory Network: An upstream gene or transcription factor (Subject) controls the expression or function of a downstream gene (Object). [Direction: Regulator -> Target Gene]",
+    "example": "p53 regulates p21 expression."
+  }
+}
