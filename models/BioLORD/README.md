@@ -48,34 +48,6 @@ You can also take a look at last year's model and paper:
 
 - [BioLORD-2022](https://huggingface.co/FremyCompany/BioLORD-STAMB2-v1) (also known as BioLORD-STAMB2-v1)
 
-## Training strategy
-
-### Summary of the 3 phases
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f04e8865d08220171a0ad3f/my94lNjxATRU_Rg5knUZ8.png)
-
-### Contrastive phase: details
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f04e8865d08220171a0ad3f/_jE2ETcXkLvYLr7TeOdci.png)
-
-### Self-distallation phase: details
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/5f04e8865d08220171a0ad3f/7xuqi231RB0OzvcxK3bf-.png)
-
-## Citation
-This model accompanies the [BioLORD-2023: Learning Ontological Representations from Definitions](https://arxiv.org/abs/2311.16075) paper. When you use this model, please cite the original paper as follows:
-
-```latex
-@article{remy-etal-2023-biolord,
-    author = {Remy, François and Demuynck, Kris and Demeester, Thomas},
-    title = "{BioLORD-2023: semantic textual representations fusing large language models and clinical knowledge graph insights}",
-    journal = {Journal of the American Medical Informatics Association},
-    pages = {ocae029},
-    year = {2024},
-    month = {02},
-    issn = {1527-974X},
-    doi = {10.1093/jamia/ocae029},
-    url = {https://doi.org/10.1093/jamia/ocae029},
-    eprint = {https://academic.oup.com/jamia/advance-article-pdf/doi/10.1093/jamia/ocae029/56772025/ocae029.pdf},
-}
-```
 
 ## Usage (Sentence-Transformers)
 This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 768 dimensional dense vector space and can be used for tasks like clustering or semantic search. This model has been finentuned for the biomedical domain. While it preserves a good ability to produce embeddings for general-purpose text, it will be more useful to you if you are trying to process medical documents such as EHR records or clinical notes. Both sentences and phrases can be embedded in the same latent space.
