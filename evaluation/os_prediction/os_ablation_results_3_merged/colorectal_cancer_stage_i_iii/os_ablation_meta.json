@@ -1,0 +1,16 @@
+{
+  "dataset": "Colorectal Cancer - Stage I-III",
+  "rows": 3144,
+  "event_rate": 0.24618320610687022,
+  "median_os_time": 27.55065474,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Colorectal Cancer": 3144
+  },
+  "stage_group_counts": {
+    "Stage I-III": 3144
+  }
+}

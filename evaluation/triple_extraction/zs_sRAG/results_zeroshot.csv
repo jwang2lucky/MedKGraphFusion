@@ -1,0 +1,101 @@
+head,tail,predicted_relation,method
+left ventricular,heart,Part-Of,Zero-shot
+abnormal hgb,cirrhosis,Associated-With,Zero-shot
+right lower lobe pneumonia,cough,Has-Symptom,Zero-shot
+nondisplaced intertrochanteric fracture of the right femur,right femur,Located-In,Zero-shot
+chronic kidney injury,diabetes type 2,Associated-With,Zero-shot
+blood culture,fever,Diagnoses,Zero-shot
+hypoxia,hyponatremia,Associated-With,Zero-shot
+mast cell,skin tissue,Located-In,Zero-shot
+LDL,High cholesterol,Associated-With,Zero-shot
+ureteral stent,treatment of left ureteral stone,Used-For,Zero-shot
+pyelonephritis,ct scan,Diagnoses,Zero-shot
+hmga1,pancreatic adenocarcinoma,Contributes-To-Pathogenesis,Zero-shot
+dry gangrene,wet gangrene,No_Relation,Zero-shot
+thought process,delusions,Has-Symptom,Zero-shot
+multifocal pneumonia,levofloxacin,Treats,Zero-shot
+lipid lowering,LDL-C,Inhibits,Zero-shot
+abnormal mcv,hepatitis c,Associated-With,Zero-shot
+HPV16 e6 antibody levels,recurrence of HPV-driven oropharyngeal cancer (hpv-opc),Biomarker-Of,Zero-shot
+nausea vomiting,flash pulmonary edema,Has-Symptom,Zero-shot
+prn pain,pain,Used-For,Zero-shot
+moderate to severe mitral regurgitation,mitral valve,Part-Of,Zero-shot
+lipopolysaccharide,antiretroviral therapy,Interacts-With,Zero-shot
+vancomycin,c diff colitis,Side-Effect,Zero-shot
+radiation necrosis,tonsillar carcinoma,No_Relation,Zero-shot
+omeprazole,gastroesophageal reflux disease,Treats,Zero-shot
+left ureteral stent,mild left hydronephrosis,Located-In,Zero-shot
+metoprolol succinate,atrial fibrillation,Treats,Zero-shot
+osteomyelitis,bone marrow edema,Associated-With,Zero-shot
+tricuspid valve,regurgitation,Has-Symptom,Zero-shot
+paranoid schizophrenia,hypertension,Associated-With,Zero-shot
+antiretroviral therapy,IL-6,Interacts-With,Zero-shot
+severe headache,headache,Has-Symptom,Zero-shot
+left occipital lobe,brain,Part-Of,Zero-shot
+flail chest,rib fractures,Causes,Zero-shot
+hypokalemia,iv potassium,Treats,Zero-shot
+intraoperative ultrasound,metastatic colon,Diagnoses,Zero-shot
+panic attack,anxiety,Associated-With,Zero-shot
+health literacy,black race compared to white race,Associated-With,Zero-shot
+MRI calcium indicators,measuring calcium dynamics in the brain,Used-For,Zero-shot
+gastritis,gastric antrum,Located-In,Zero-shot
+atrial fibrillation,echocardiogram,Diagnoses,Zero-shot
+radiation nephropathy,renal failure,Causes,Zero-shot
+cyclin d1,rhabdomyosarcoma,Contributes-To-Pathogenesis,Zero-shot
+aortic stenosis,heart failure,Causes,Zero-shot
+portal gastropathy,endoscopy,Diagnoses,Zero-shot
+human papillomavirus,oropharyngeal cells,Causes,Zero-shot
+keflex,morbilliform drug eruption,Side-Effect,Zero-shot
+hematuria,prostate_cancer,Has-Symptom,Zero-shot
+pain medication,diverticulitis,Treats,Zero-shot
+factor v leiden,supratherapeutic inr,Causes,Zero-shot
+inhalers,obstructive defect,Used-For,Zero-shot
+patient,septic shock,Has-Symptom,Zero-shot
+word finding difficulty,lethargy,Has-Symptom,Zero-shot
+depressive symptom,behavioral activation,Activates,Zero-shot
+lacosamide,side effects,Side-Effect,Zero-shot
+bilateral adrenal masses,adrenal gland,Located-In,Zero-shot
+CK-MB,Myocardial infarction,Biomarker-Of,Zero-shot
+type 2 diabetes,retinopathy,Causes,Zero-shot
+coffee ground emesis,esophageal cancer,Has-Symptom,Zero-shot
+shortness of breath,metoprolol tartrate,Treats,Zero-shot
+CRP,Inflammation,Biomarker-Of,Zero-shot
+bowel loop,small bowel,Part-Of,Zero-shot
+perceived control over anxiety,binge drinking days,Associated-With,Zero-shot
+partial visualization of a large left upper lobe/ lingular mass,lung,Located-In,Zero-shot
+Toxoplasma gondii,HIV,Associated-With,Zero-shot
+chronic diarrhea,etoh use,Causes,Zero-shot
+alcohol withdrawal,chronic alcohol abuse,Causes,Zero-shot
+intimate partner violence,hiv risk,Associated-With,Zero-shot
+thought process,psychosis,Has-Symptom,Zero-shot
+chest ct,pleural effusions,Diagnoses,Zero-shot
+spinal cord,neurons,Part-Of,Zero-shot
+abnormal mcv,hypothyroidism,Associated-With,Zero-shot
+head ct,extensive calcification of the cavernous internal carotid arteries,Diagnoses,Zero-shot
+po,oral medication intake,Used-For,Zero-shot
+ascites,hepatocellular carcinoma (HCC),Associated-With,Zero-shot
+CT scan,Brain tumor,Diagnoses,Zero-shot
+metastatic colon cancer,death,Causes,Zero-shot
+volume overload,cardiac stress,Causes,Zero-shot
+head ct,diagnoses,Diagnoses,Zero-shot
+metastatic colon,colon cancer,Subtype-Of,Zero-shot
+cysteine residues,protein,Part-Of,Zero-shot
+panic attack,effexor xr,Treats,Zero-shot
+health literacy,osteoarthritis patients,Associated-With,Zero-shot
+inpatient blood culture,diagnosis,Diagnoses,Zero-shot
+shortness of breath,non-ischemic cardiomyopathy,Has-Symptom,Zero-shot
+tylenol,pain,Treats,Zero-shot
+establishment size,working condition,Associated-With,Zero-shot
+blood sugar,diabetes mellitus type ii,Associated-With,Zero-shot
+viral vector,myoblasts,Interacts-With,Zero-shot
+nausea,vomiting,Has-Symptom,Zero-shot
+viral vector,imaging,Used-For,Zero-shot
+difficulty breathing,small cell lung cancer,Has-Symptom,Zero-shot
+chest tube,right-sided spontaneous pneumothorax,Used-For,Zero-shot
+bcr abl1,chronic myeloid leukemia,Causes,Zero-shot
+CXCR4 expression on endothelium,monocyte recruitment,Interacts-With,Zero-shot
+diet quality,cardiovascular disease,Associated-With,Zero-shot
+right groin,patient,Located-In,Zero-shot
+acetaminophen,prn pain,Used-For,Zero-shot
+hyponatremia,chronic renal failure,Associated-With,Zero-shot
+hypertension,lisinopril,Treats,Zero-shot

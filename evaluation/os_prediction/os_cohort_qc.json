@@ -1,0 +1,18 @@
+{
+  "input_rows": 24950,
+  "strict_rows": 24857,
+  "dropped_rows": 93,
+  "num_multi_sample_patients": 90,
+  "num_multi_cancer_type_patients": 90,
+  "os_event_rate": 0.4523876574003299,
+  "median_os_time": 24.52600052,
+  "missing_tmb_rate": 0.0,
+  "missing_tumor_purity_rate": 0.023132316852395703,
+  "top_cancer_types": {
+    "Non-Small Cell Lung Cancer": 7741,
+    "Colorectal Cancer": 5502,
+    "Breast Cancer": 5342,
+    "Prostate Cancer": 3188,
+    "Pancreatic Cancer": 3084
+  }
+}

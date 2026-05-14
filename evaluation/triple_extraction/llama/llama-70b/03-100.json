@@ -1,0 +1,100 @@
+{"s": "left ventricle", "p": "Located-In", "o": "heart"}
+{"s": "agitation", "p": "Associated-With", "o": "word finding difficulty"}
+{"s": "vsg surgery", "p": "Treats", "o": "obesity-related comorbidities"}
+{"s": "Antiretroviral Therapy (ART)", "p": "Used-For", "o": "Weight Gain"}
+{"s": "aspirin", "p": "Used-For", "o": "blood thinning"}
+{"s": "transforming growth factor-", "p": "Causes", "o": "epithelial-mesenchymal transition"}
+{"s": "unsaturated fatty acids", "p": "Associated-With", "o": "nuts"}
+{"s": "narcotic pain medication", "p": "Used-For", "o": "pain management"}
+{"s": "Diabetes Mellitus", "p": "Associated-With", "o": "Fatigue"}
+{"s": "Breast Cancer", "p": "Associated-With", "o": "Colon Cancer"}
+{"s": "Calcium Influx", "p": "Associated-With", "o": "Neural Function"}
+{"s": "Prior Therapy", "p": "Interacts-With", "o": "Experimental Agent"}
+{"s": "CRISPR/Cas9", "p": "Part-Of", "o": "Genome Editing"}
+{"s": "Vomiting", "p": "Has-Symptom", "o": "Anemia"}
+{"s": "Inpatient psychiatric care", "p": "Used-For", "o": "Nurse staffing ratios"}
+{"s": "Statin treatment", "p": "Used-For", "o": "American College of Cardiology/American Heart Association guidelines"}
+{"s": "blood culture", "p": "Associated-With", "o": "sepsis"}
+{"s": "Alcohol Dependence", "p": "Contributes-To-Pathogenesis", "o": "Thrombocytopenia"}
+{"s": "Hypernatremia", "p": "Causes", "o": "Delirium"}
+{"s": "Multiple Sclerosis", "p": "Associated-With", "o": "Panic Attack"}
+{"s": "lactate level measurement", "p": "Used-For", "o": "07 blood"}
+{"s": "Gold nanoparticles", "p": "Affects-Expression", "o": "genes involved in cancer progression"}
+{"s": "balloon angioplasty of the left profunda femoris to popliteal artery vein bypass graft", "p": "Treats", "o": "stenosis in the distal portion of his vein graft"}
+{"s": "Spinal Stenosis", "p": "Part-Of", "o": "Degenerative Disk Disease"}
+{"s": "puncture site", "p": "Located-In", "o": "groin"}
+{"s": "Pubertal timing", "p": "Associated-With", "o": "Lead exposure"}
+{"s": "cardiovascular system", "p": "Part-Of", "o": "left ventricle"}
+{"s": "ADHD", "p": "Associated-With", "o": "Denies SI/Hi"}
+{"s": "maternal psychiatric disorders", "p": "Causes", "o": "shorter gestational length"}
+{"s": "Coronary Artery Disease", "p": "Associated-With", "o": "Atrial Fibrillation"}
+{"s": "bone marrow", "p": "Located-In", "o": "spleen"}
+{"s": "Prostate Cancer", "p": "Associated-With", "o": "Urinary Tract Symptoms"}
+{"s": "HIV", "p": "Associated-With", "o": "Weight Gain"}
+{"s": "Metastatic Colon Cancer", "p": "Located-In", "o": "Right Lobe of the Liver"}
+{"s": "Seizure Frequency", "p": "Associated-With", "o": "Alcohol Use Disorder"}
+{"s": "transforming growth factor- signaling pathway", "p": "Part-Of", "o": "tgf type ii receptor"}
+{"s": "cultureblood culture", "p": "Located-In", "o": "hemodialysis unit"}
+{"s": "Transurethral Resection of Prostate/Photovaporization of Prostate", "p": "Part-Of", "o": "Major Surgical or Invasive Procedure"}
+{"s": "Severe Headache", "p": "Associated-With", "o": "Stroke"}
+{"s": "Viral Vector", "p": "Interacts-With", "o": "MicroRNA"}
+{"s": "paraseptal emphysema and chronic small airway inflammation", "p": "Located-In", "o": "intrathoracic"}
+{"s": "flash pulmonary edema", "p": "Associated-With", "o": "medications"}
+{"s": "alcohol use disorder", "p": "Associated-With", "o": "psychiatric history"}
+{"s": "chest tube", "p": "Has-Symptom", "o": "air leak"}
+{"s": "Non-Specific Interstitial Pneumonia", "p": "Part-Of", "o": "Interstitial Lung Disease"}
+{"s": "thought content", "p": "Associated-With", "o": "logical thought process"}
+{"s": "kava extract", "p": "Affects-Expression", "o": "CYP3A1"}
+{"s": "borderline personality disorder", "p": "Has-Symptom", "o": "suicidal thoughts"}
+{"s": "obstetrics", "p": "Used-For", "o": "short cervix"}
+{"s": "Circulating Blood Cells", "p": "Associated-With", "o": "Oxidative Stress"}
+{"s": "Crampy Abdominal Pain", "p": "Has-Symptom", "o": "Diabetes Mellitus"}
+{"s": "Leptin Resistance", "p": "Has-Symptom", "o": "Diet-Induced Obese Mice"}
+{"s": "Paranoid Schizophrenia", "p": "Associated-With", "o": "Acute on Chronic Kidney Disease"}
+{"s": "cardiovascular disease", "p": "Causes", "o": "oxidative stress"}
+{"s": "evaluation of left hand pain and swelling", "p": "Used-For", "o": "hand surgery"}
+{"s": "Image-guided intervention", "p": "Used-For", "o": "MR image"}
+{"s": "26", "p": "Associated-With", "o": "Hco3"}
+{"s": "narcotic pain", "p": "Used-For", "o": "pain management"}
+{"s": "lymph nodes", "p": "Part-Of", "o": "bone marrow"}
+{"s": "left hip fracture", "p": "Located-In", "o": "left proximal femur"}
+{"s": "port placement", "p": "Used-For", "o": "sternal debridement"}
+{"s": "CT Head", "p": "Used-For", "o": "diagnosis of nasal fracture"}
+{"s": "Pyelonephritis", "p": "Associated-With", "o": "Hafnia alvei"}
+{"s": "gestational age", "p": "Associated-With", "o": "preterm birth"}
+{"s": "Acute Pulmonary Embolism", "p": "Causes", "o": "Altered Mental Status"}
+{"s": "Alcohol Withdrawal", "p": "Causes", "o": "Seizures"}
+{"s": "Immune system", "p": "Part-Of", "o": "CD4 cell"}
+{"s": "gallstones", "p": "Located-In", "o": "gallbladder"}
+{"s": "Polymeric nanomaterials", "p": "Used-For", "o": "tissue engineering"}
+{"s": "Pantoprazole", "p": "Used-For", "o": "Gastritis"}
+{"s": "chronic infarcts", "p": "Associated-With", "o": "bilateral parietal lobes"}
+{"s": "acute ischemic stroke", "p": "Associated-With", "o": "carotid stenosis"}
+{"s": "Hypotension", "p": "Associated-With", "o": "Chronic Renal Insufficiency"}
+{"s": "Gallstones", "p": "Associated-With", "o": "Abdominal Pain"}
+{"s": "schizophrenia", "p": "Associated-With", "o": "preterm birth"}
+{"s": "CD4", "p": "Expressed-In", "o": "T cells"}
+{"s": "Framingham Heart Study", "p": "Located-In", "o": "Multi-cohort setting"}
+{"s": "Hepatic Encephalopathy", "p": "Associated-With", "o": "Liver Disease"}
+{"s": "Myocardial wall stress", "p": "Associated-With", "o": "NT-proBNP"}
+{"s": "cholangitis", "p": "Has-Symptom", "o": "abdominal pain"}
+{"s": "culture blood culture", "p": "Used-For", "o": "diagnosis of infection"}
+{"s": "Microvascular and Cerebrovascular Function", "p": "Associated-With", "o": "Cognitive Performance"}
+{"s": "Musculoskeletal System", "p": "Part-Of", "o": "Right Foot"}
+{"s": "Hearing Intact", "p": "Associated-With", "o": "Right Facial Droop"}
+{"s": "Denies SI/Hi", "p": "Associated-With", "o": "Anxiety and Cyclical Thoughts"}
+{"s": "Coffee Ground Emesis", "p": "Associated-With", "o": "Esophageal Adenocarcinoma"}
+{"s": "LCS6 Variant Allele", "p": "Affects-Expression", "o": "Kras Gene Regulation"}
+{"s": "Upper Respiratory Infection", "p": "Associated-With", "o": "Asthma Exacerbation"}
+{"s": "Zofran ODT", "p": "Used-For", "o": "Nausea and vomiting"}
+{"s": "C. diff colitis", "p": "Has-Symptom", "o": "Abdominal pain"}
+{"s": "high cholesterol", "p": "Associated-With", "o": "acute ischemic stroke"}
+{"s": "Hco3", "p": "Associated-With", "o": "26"}
+{"s": "Chronic Renal Insufficiency", "p": "Associated-With", "o": "Pulmonary Edema"}
+{"s": "Klebsiella", "p": "Causes", "o": "Urinary Tract Infection"}
+{"s": "left ventricle", "p": "Associated-With", "o": "low normal ejection fraction and normal regional global systolic function"}
+{"s": "gentle laxative", "p": "Treats", "o": "constipation"}
+{"s": "right temporal", "p": "Located-In", "o": "brain"}
+{"s": "Word Finding Difficulty", "p": "Associated-With", "o": "Agitation"}
+{"s": "Kava extract", "p": "Affects-Expression", "o": "CYP3A3"}
+{"s": "Ciprofloxacin", "p": "Treats", "o": "Pyelonephritis"}

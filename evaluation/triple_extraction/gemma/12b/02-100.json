@@ -1,0 +1,100 @@
+{"s": "subject", "p": "Expressed-In", "o": "cd4 cell"}
+{"s": "global ejection fraction", "p": "Biomarker-Of", "o": "left ventricle"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "prostate cancer"}
+{"s": "albuterol inhaler", "p": "Side-Effect", "o": "chest tightness"}
+{"s": "inpatient blood", "p": "Biomarker-Of", "o": "disease"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "organized electrographic seizures"}
+{"s": "blood", "p": "Associated-With", "o": "hcv"}
+{"s": "neural foraminal", "p": "Associated-With", "o": "nerve root compression"}
+{"s": "sarcolemma", "p": "Part-Of", "o": "sarcoplasmic reticulum"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "metabolic acidosis"}
+{"s": "micrornas", "p": "Associated-With", "o": "metastatic phenotype"}
+{"s": "right temporal", "p": "Associated-With", "o": "embolic infarcts"}
+{"s": "resume regular", "p": "Part-Of", "o": "home diet"}
+{"s": "ibuprofen", "p": "Treats", "o": "pain"}
+{"s": "chest tube", "p": "Part-Of", "o": "right lung"}
+{"s": "12 blood", "p": "Associated-With", "o": "lipase"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "fatigue"}
+{"s": "chronic degenerative diseases", "p": "Associated-With", "o": "high fat"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune system"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "renal failure"}
+{"s": "c-life", "p": "Used-For", "o": "physical activity"}
+{"s": "eeg monitoring", "p": "Diagnoses", "o": "seizure disorder"}
+{"s": "transgenic mouse", "p": "Part-Of", "o": "s100a7 transgenic mouse model"}
+{"s": "daily continue", "p": "Associated-With", "o": "home"}
+{"s": "12 blood", "p": "Associated-With", "o": "benzoyl"}
+{"s": "flash pulmonary", "p": "Associated-With", "o": "medications"}
+{"s": "micrornas", "p": "Associated-With", "o": "tumor formation"}
+{"s": "patient", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "operative extremity", "p": "Associated-With", "o": "mobility"}
+{"s": "outpatient psychiatrist", "p": "Associated-With", "o": "major depressive disorder"}
+{"s": "l2", "p": "Located-In", "o": "thoracolumbar junction"}
+{"s": "ck mb", "p": "Biomarker-Of", "o": "digoxin toxicity"}
+{"s": "renal transplant", "p": "Associated-With", "o": "renal failure"}
+{"s": "tablet", "p": "Affects-Expression", "o": "tablet sig tablet po"}
+{"s": "left hand", "p": "Associated-With", "o": "swelling"}
+{"s": "docusate sodium capsule", "p": "Used-For", "o": "constipation"}
+{"s": "decadron", "p": "Used-For", "o": "inflammation"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "past medical history"}
+{"s": "left ventricular", "p": "Subtype-Of", "o": "ventricle"}
+{"s": "c7 nerve root", "p": "Associated-With", "o": "weakness"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune competence"}
+{"s": "drainage bag", "p": "Used-For", "o": "medical purpose"}
+{"s": "service urology", "p": "Associated-With", "o": "b12 deficiency"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "left foot ulcer"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved learning"}
+{"s": "oxycodone-acetaminophen", "p": "Used-For", "o": "pain"}
+{"s": "docusate sodium", "p": "Used-For", "o": "constipation"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal alkphos"}
+{"s": "nucleoporins", "p": "Binding", "o": "nuclear pore"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "etoh abuse"}
+{"s": "high fat", "p": "Affects-Expression", "o": "hyperglycemia"}
+{"s": "hiv", "p": "Associated-With", "o": "inflammatory bowel disease"}
+{"s": "narcotic pain reliever", "p": "Side-Effect", "o": "blurry vision"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "risk"}
+{"s": "esophageal stent", "p": "Treats", "o": "esophageal stricture"}
+{"s": "MCV", "p": "Has-Symptom", "o": "Anemia"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "coronary artery disease"}
+{"s": "video eeg", "p": "Associated-With", "o": "theta slowing"}
+{"s": "ms", "p": "Has-Symptom", "o": "nausea"}
+{"s": "small bowel", "p": "Part-Of", "o": "gastrointestinal system"}
+{"s": "neural foraminal", "p": "Part-Of", "o": "spinal canal"}
+{"s": "ip quad", "p": "Part-Of", "o": "leg"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone resorption"}
+{"s": "left occipital lobe", "p": "Associated-With", "o": "arm"}
+{"s": "patient", "p": "Has-Symptom", "o": "coughing fits"}
+{"s": "dilaudid", "p": "Used-For", "o": "pain"}
+{"s": "pt", "p": "Associated-With", "o": "vp shunt"}
+{"s": "simvastatin", "p": "Used-For", "o": "hyperlipidemia"}
+{"s": "foley catheter", "p": "Located-In", "o": "urinary tract"}
+{"s": "transgene", "p": "Expressed-In", "o": "tg mouse"}
+{"s": "Anemia", "p": "Associated-With", "o": "Cirrhosis"}
+{"s": "TIA/Stroke", "p": "Associated-With", "o": "Stroke mortality"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone formation"}
+{"s": "spinal cord injury", "p": "Associated-With", "o": "minor trauma"}
+{"s": "synaptic plasticity", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "lactulose", "p": "Treats", "o": "hepatic encephalopathy"}
+{"s": "miconazole cream", "p": "Used-For", "o": "fungal rash"}
+{"s": "omeprazole", "p": "Used-For", "o": "gerd"}
+{"s": "oxycodone", "p": "Side-Effect", "o": "pain"}
+{"s": "subject", "p": "Associated-With", "o": "cd4 cell"}
+{"s": "body temperature", "p": "Associated-With", "o": "xylazine"}
+{"s": "12 blood", "p": "Associated-With", "o": "asa-neg"}
+{"s": "coronary artery disease", "p": "Associated-With", "o": "hypertension"}
+{"s": "argatroban", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "urean", "p": "Associated-With", "o": "chronic renal failure"}
+{"s": "narcotic pain medication", "p": "Side-Effect", "o": "constipation"}
+{"s": "patient", "p": "Has-Symptom", "o": "suicidal ideation"}
+{"s": "foley catheter", "p": "Used-For", "o": "urinary retention"}
+{"s": "left ventricular", "p": "Located-In", "o": "heart"}
+{"s": "lesion", "p": "Part-Of", "o": "kidney"}
+{"s": "cd4 count", "p": "Associated-With", "o": "immune reconstitution"}
+{"s": "psychiatric history", "p": "Associated-With", "o": "suicide attempts"}
+{"s": "lesion", "p": "Associated-With", "o": "cyst"}
+{"s": "25 oh d3", "p": "Side-Effect", "o": "vitamin d insufficiency status"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "age"}
+{"s": "patient", "p": "Has-Symptom", "o": "cognitive changes"}
+{"s": "precursor cell", "p": "Associated-With", "o": "tissue repair"}
+{"s": "iv vancomycin", "p": "Side-Effect", "o": "tongue swelling"}
+{"s": "operative extremity", "p": "Associated-With", "o": "gum surgery"}
+{"s": "drainage bag", "p": "Associated-With", "o": "fluid"}

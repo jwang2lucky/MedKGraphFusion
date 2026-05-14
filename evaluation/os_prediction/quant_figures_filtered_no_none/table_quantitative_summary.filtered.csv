@@ -1,0 +1,32 @@
+﻿Metric,Value
+Base node count,129312.0
+Merged node count,141905.0
+New node count,12593.0
+Node coverage lift (%),9.7385
+Base triple count,8100498.0
+Merged triple count,8137244.0
+New triple count,36732.0
+Triple growth (%),0.4536
+Base entity type count,10.0
+Merged entity type count,11.0
+New entity type count,1.0
+Base relation count,30.0
+Merged relation count,52.0
+New relation count,22.0
+Relation diversity lift (%),73.3333
+Base display relation count,18.0
+Merged display relation count,37.0
+New display relation count,19.0
+Base relation entropy,1.824889
+Merged relation entropy,1.850544
+Base display relation entropy,1.655931
+Merged display relation entropy,1.677025
+Base 2-hop paths,24188604118.0
+Merged 2-hop paths,24207928312.0
+Estimated new 2-hop paths,19324194.0
+New entity pair count,35678.0
+New type pair count,68.0
+Novel triple rate (%),100.0
+Novel entity-pair rate (%),100.0
+Novel relation usage rate (%),42.3077
+Novel type-pair rate (%),61.8182

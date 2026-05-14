@@ -1,0 +1,100 @@
+{"s": "corticospinal neurons", "p": "Used-For", "o": "motor control"}
+{"s": "abnormal totbili", "p": "Causes", "o": "decreased urine output"}
+{"s": "operative day", "p": "Used-For", "o": "postoperative care"}
+{"s": "simvastatin", "p": "Used-For", "o": "hyperlipidemia"}
+{"s": "polycythemia", "p": "Causes", "o": "inpatient blood"}
+{"s": "gastroparesis", "p": "Has-Symptom", "o": "chronic abdominal pain"}
+{"s": "physical therapy", "p": "Used-For", "o": "rehabilitation"}
+{"s": "tissue valve", "p": "Located-In", "o": "aortic position"}
+{"s": "gp120", "p": "Treats", "o": "HIV-1 infection"}
+{"s": "itraconazole", "p": "Treats", "o": "non-small cell lung cancer"}
+{"s": "velcade", "p": "Treats", "o": "plasmacytoma"}
+{"s": "HIV-x4 tropism", "p": "Treats", "o": "Breast Cancer"}
+{"s": "whole brain irradiation", "p": "Causes", "o": "small cell lung cancer"}
+{"s": "Abdominal wound infection", "p": "Has-Symptom", "o": "Swelling"}
+{"s": "Amikacin", "p": "Treats", "o": "Pseudomonas aeruginosa"}
+{"s": "angioplasty of the left superficial femoral artery and peroneal artery", "p": "Used-For", "o": "restore blood flow to the blood vessels"}
+{"s": "large cystic lesion", "p": "Located-In", "o": "transplanted kidney"}
+{"s": "rectal cancer", "p": "Causes", "o": "fever"}
+{"s": "SLC6A4", "p": "Transports", "o": "serotonin"}
+{"s": "Microglial activation", "p": "Expressed-In", "o": "Brain tissue"}
+{"s": "operative day", "p": "Located-In", "o": "hospital"}
+{"s": "AGO2", "p": "Activates", "o": "STAT3 signaling"}
+{"s": "metastatic colon cancer", "p": "Located-In", "o": "Liver"}
+{"s": "HIV", "p": "Contributes-To-Pathogenesis", "o": "Inflammatory Bowel Disease"}
+{"s": "Locked nucleic acid (LNA)", "p": "Used-For", "o": "mirna regulation"}
+{"s": "small cell lung cancer", "p": "Causes", "o": "word finding difficulty"}
+{"s": "high-density lesion", "p": "Causes", "o": "proteinaceous content"}
+{"s": "paraseptal emphysema", "p": "Associated-With", "o": "small airway"}
+{"s": "HIV", "p": "Associated-With", "o": "Breast Cancer"}
+{"s": "Pancreatic cancer", "p": "Associated-With", "o": "Dyspnea"}
+{"s": "operative extremity", "p": "Part-Of", "o": "lower extremity"}
+{"s": "cultureblood culture routine", "p": "Used-For", "o": "infectious w/u"}
+{"s": "HIV-1", "p": "Causes", "o": "AIDS-related illnesses"}
+{"s": "Subdural Hematoma", "p": "Has-Symptom", "o": "Headache"}
+{"s": "severe vision impairment", "p": "Associated-With", "o": "white matter"}
+{"s": "Bowel loop", "p": "Located-In", "o": "Abdomen"}
+{"s": "oxcarbazepine", "p": "Associated-With", "o": "seizure management"}
+{"s": "Warfarin", "p": "Treats", "o": "Subdural Hematoma"}
+{"s": "GFP reporter", "p": "Used-For", "o": "monitoring mir-133 activity in living cells"}
+{"s": "patient", "p": "Has-Symptom", "o": "discoloration"}
+{"s": "Losartan potassium", "p": "Used-For", "o": "Hypertension"}
+{"s": "angioplasty of the left superficial femoral artery and peroneal artery", "p": "Used-For", "o": "restoring blood flow to the blood vessels"}
+{"s": "aortic stenosis", "p": "Treats", "o": "albuterol sulfate"}
+{"s": "rib cage", "p": "Associated-With", "o": "flail chest"}
+{"s": "anxiety sensitivity", "p": "Treats", "o": "binge drinking"}
+{"s": "Cord Compression", "p": "Located-In", "o": "Spine"}
+{"s": "minimize risk of constipation", "p": "Associated-With", "o": "regular home diet"}
+{"s": "Jakafi", "p": "Used-For", "o": "GVHD treatment"}
+{"s": "HLA DR", "p": "Associated-With", "o": "Severe Aplastic Anemia"}
+{"s": "infection", "p": "Causes", "o": "chronic ulcer"}
+{"s": "Ibuprofen", "p": "Causes", "o": "Hematemesis"}
+{"s": "vasogenic edema", "p": "Associated-With", "o": "brain metastases"}
+{"s": "higher pa", "p": "Associated-With", "o": "lower salivary crp"}
+{"s": "Diabetes Mellitus Type 2", "p": "Treats", "o": "Metformin"}
+{"s": "DNA methylation", "p": "Causes", "o": "Liver cancer"}
+{"s": "Prostate Cancer", "p": "Causes", "o": "Somatic deletion of ppp2r2a"}
+{"s": "atrial fibrillation", "p": "Contributes-To-Pathogenesis", "o": "stroke"}
+{"s": "overweight", "p": "Contributes-To-Pathogenesis", "o": "asthma"}
+{"s": "L5-S1", "p": "Associated-With", "o": "Hypertension"}
+{"s": "gastroesophageal reflux disease (GERD)", "p": "Associated-With", "o": "elevated blood CRP"}
+{"s": "Biliary Obstruction", "p": "Located-In", "o": "Pancreas"}
+{"s": "pseudomonas aeruginosa", "p": "Causes", "o": "infection"}
+{"s": "etoh cirrhosis", "p": "Contraindicated-For", "o": "rifaximin po"}
+{"s": "metastatic melanoma", "p": "Contributes-To-Pathogenesis", "o": "vasogenic edema"}
+{"s": "jagged1", "p": "Located-In", "o": "vascular endothelial cells"}
+{"s": "HD-MTX", "p": "Treats", "o": "Burkitt lymphoma"}
+{"s": "HBV", "p": "Contributes-To-Pathogenesis", "o": "Inflammatory Bowel Disease"}
+{"s": "microcephaly", "p": "Associated-With", "o": "white matter"}
+{"s": "urine culture", "p": "Associated-With", "o": "f Foley catheter"}
+{"s": "C7-T1", "p": "Located-In", "o": "cervical spine"}
+{"s": "colonic adenocarcinoma", "p": "Has-Symptom", "o": "vomiting"}
+{"s": "Post-ictal period", "p": "Causes", "o": "Decreased level of interaction"}
+{"s": "congestive heart failure", "p": "Contributes-To-Pathogenesis", "o": "liver disease"}
+{"s": "hypothyroidism", "p": "Associated-With", "o": "pleural effusion"}
+{"s": "family history of sudden cardiac death and early CAD in fathers side", "p": "Contributes-To-Pathogenesis", "o": "cardiac disease"}
+{"s": "12 blood", "p": "Associated-With", "o": "renal failure"}
+{"s": "help gels", "p": "Associated-With", "o": "mechanical properties"}
+{"s": "esophageal cancer", "p": "Causes", "o": "esophageal stricture"}
+{"s": "negative affect", "p": "Causes", "o": "salivary interleukin-6"}
+{"s": "DMSO", "p": "Associated-With", "o": "NMR"}
+{"s": "aortic regurgitation", "p": "Associated-With", "o": "aortic valve"}
+{"s": "hypertension", "p": "Contributes-To-Pathogenesis", "o": "kidney disease"}
+{"s": "Omeprazole", "p": "Used-For", "o": "Preventing Gastritis"}
+{"s": "levofloxacin", "p": "Treats", "o": "multifocal pneumonia"}
+{"s": "Prostate cancer", "p": "Has-Symptom", "o": "Fever"}
+{"s": "circumferentially thickened portion of small bowel", "p": "Associated-With", "o": "post-transplant lymphoproliferative disorder"}
+{"s": "atrial fibrillation", "p": "Has-Symptom", "o": "chest pain"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "fibromyalgia"}
+{"s": "rectal cancer", "p": "Associated-With", "o": "fever"}
+{"s": "gp120", "p": "Associated-With", "o": "Viral entry"}
+{"s": "remnant cystic duct", "p": "Located-In", "o": "common bile duct"}
+{"s": "Staphylococcus capitis", "p": "Associated-With", "o": "Central line"}
+{"s": "Group B Streptococcus", "p": "Associated-With", "o": "Urine Culture"}
+{"s": "post-obstructive pneumonia", "p": "Associated-With", "o": "elevated blood CRP"}
+{"s": "keppra", "p": "Used-For", "o": "seizure management"}
+{"s": "Lipopolysaccharide (LPS)", "p": "Associated-With", "o": "Hypertension"}
+{"s": "chest pain", "p": "Causes", "o": "coronary artery disease"}
+{"s": "oxcarbazepine", "p": "Used-For", "o": "seizure management"}
+{"s": "vascular events", "p": "Causes", "o": "portal hypertension"}
+{"s": "behavioral issues", "p": "Contributes-To-Pathogenesis", "o": "cognitive disorder nos"}

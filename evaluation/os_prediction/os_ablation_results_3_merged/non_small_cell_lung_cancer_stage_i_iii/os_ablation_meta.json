@@ -1,0 +1,16 @@
+{
+  "dataset": "Non-Small Cell Lung Cancer - Stage I-III",
+  "rows": 4347,
+  "event_rate": 0.35725787899700945,
+  "median_os_time": 29.03010517,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Non-Small Cell Lung Cancer": 4347
+  },
+  "stage_group_counts": {
+    "Stage I-III": 4347
+  }
+}

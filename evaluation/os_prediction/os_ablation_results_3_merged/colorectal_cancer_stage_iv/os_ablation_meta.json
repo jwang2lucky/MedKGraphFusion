@@ -1,0 +1,16 @@
+{
+  "dataset": "Colorectal Cancer - Stage IV",
+  "rows": 2358,
+  "event_rate": 0.6039016115351993,
+  "median_os_time": 21.43559295,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Colorectal Cancer": 2358
+  },
+  "stage_group_counts": {
+    "Stage IV": 2358
+  }
+}

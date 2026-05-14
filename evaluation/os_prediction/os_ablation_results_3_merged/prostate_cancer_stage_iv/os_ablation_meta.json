@@ -1,0 +1,16 @@
+{
+  "dataset": "Prostate Cancer - Stage IV",
+  "rows": 1559,
+  "event_rate": 0.37780628608082106,
+  "median_os_time": 30.44380225,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Prostate Cancer": 1559
+  },
+  "stage_group_counts": {
+    "Stage IV": 1559
+  }
+}

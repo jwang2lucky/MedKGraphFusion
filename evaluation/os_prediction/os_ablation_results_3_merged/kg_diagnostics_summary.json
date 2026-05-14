@@ -1,0 +1,11 @@
+{
+  "n_patients": 24857,
+  "disease_mapping_patient_rate": 1.0,
+  "anatomy_mapping_patient_rate": 0.9985114856981937,
+  "treatment_mapping_rate_nonempty": 0.9937601926024358,
+  "gene_mapping_rate_nonempty": 0.9911837533678456,
+  "patients_with_any_treatment": 21387,
+  "patients_with_any_gene": 23692,
+  "patients_with_unmapped_treatments": 619,
+  "patients_with_unmapped_genes": 1627
+}

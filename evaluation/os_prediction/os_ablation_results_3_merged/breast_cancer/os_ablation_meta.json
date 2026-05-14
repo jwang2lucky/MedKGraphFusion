@@ -1,0 +1,17 @@
+{
+  "dataset": "Breast Cancer",
+  "rows": 5342,
+  "event_rate": 0.36971171845750656,
+  "median_os_time": 36.26297396,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Breast Cancer": 5342
+  },
+  "stage_group_counts": {
+    "Stage I-III": 4252,
+    "Stage IV": 1090
+  }
+}

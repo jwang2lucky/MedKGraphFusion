@@ -1,0 +1,12 @@
+﻿entity_type,entity_type_label,merged_node_total,base_existing_nodes,text_added_nodes,text_added_fraction
+biological_process,Biological process,30851,28642,2209,0.0716022171080354
+gene/protein,Gene/protein,28513,27610,903,0.03166976466874759
+disease,Disease,18064,17080,984,0.05447298494242692
+effect/phenotype,Effect/phenotype,17841,15311,2530,0.14180819460792557
+anatomy,Anatomy,15665,14033,1632,0.1041812958825407
+molecular_function,Molecular function,11306,11169,137,0.012117459755881833
+drug,Drug,8701,7957,744,0.08550741294104126
+cellular_component,Cellular component,4679,4176,503,0.10750160290660397
+exposure,Exposure,3696,818,2878,0.7786796536796536
+pathway,Pathway,2573,2516,57,0.022153128643606686
+procedure,Procedure,16,0,16,1.0

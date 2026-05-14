@@ -1,0 +1,100 @@
+{"s": "atypical right-sided mediastinal contour", "p": "Located-In", "o": "mediastinum"}
+{"s": "post-grasping activated csns", "p": "Located-In", "o": "spinal cord"}
+{"s": "enlarged prostate", "p": "Located-In", "o": "bladder"}
+{"s": "12 blood", "p": "Has-Symptom", "o": "choledocolithiasis"}
+{"s": "respiratory failure", "p": "Affects-Expression", "o": "treatment"}
+{"s": "outpatient psychiatrist", "p": "Diagnoses", "o": "alcohol dependence"}
+{"s": "alcohol", "p": "Treats", "o": "schizophrenia"}
+{"s": "patient", "p": "Associated-With", "o": "mental status"}
+{"s": "puncture site", "p": "Expressed-In", "o": "groin"}
+{"s": "transurethral resection", "p": "Treats", "o": "benign prostatic hypertrophy"}
+{"s": "patient", "p": "Associated-With", "o": "osteoarthritis"}
+{"s": "psychiatric history", "p": "Expressed-In", "o": "nephrology"}
+{"s": "metastatic colon", "p": "Expressed-In", "o": "right lobe of the liver"}
+{"s": "alcohol dependence", "p": "Treats", "o": "alcohol withdrawal"}
+{"s": "wound", "p": "Expressed-In", "o": "mouth"}
+{"s": "csns", "p": "Located-In", "o": "spinal cord"}
+{"s": "brain tumor", "p": "Subtype-Of", "o": "tumor"}
+{"s": "c7 nerve root", "p": "Affects-Expression", "o": "cervical radiculopathy at c7"}
+{"s": "respiratory failure", "p": "Has-Symptom", "o": "shortness of breath"}
+{"s": "lisinopril", "p": "Used-For", "o": "hypertension"}
+{"s": "coffee ground emesis", "p": "Causes", "o": "esophageal thickening"}
+{"s": "depressive disorder not otherwise specified", "p": "Has-Symptom", "o": "suicidal ideation"}
+{"s": "bile duct", "p": "Located-In", "o": "liver"}
+{"s": "Diagnoses", "p": "Used-For", "o": "iopamidol"}
+{"s": "enlarged abdomen", "p": "Diagnoses", "o": "hepatic encephalopathy"}
+{"s": "tr", "p": "Expressed-In", "o": "bi"}
+{"s": "bile", "p": "Transports", "o": "totbili"}
+{"s": "shortness of breath", "p": "Diagnoses", "o": "metastatic colon cancer"}
+{"s": "severe aortic stenosis", "p": "Causes", "o": "severe respiratory distress"}
+{"s": "miconazole cream", "p": "Used-For", "o": "rash in intertriginous areas"}
+{"s": "alcohol use disorder", "p": "Diagnoses", "o": "psychiatric history"}
+{"s": "extensive stage small cell lung cancer", "p": "Treats", "o": "left pathologic humerus fracture"}
+{"s": "alcohol", "p": "Causes", "o": "anemia"}
+{"s": "heart failure", "p": "Affects-Expression", "o": "aortic stenosis"}
+{"s": "i", "p": "Has-Symptom", "o": "si/hi"}
+{"s": "right coronary artery", "p": "Expressed-In", "o": "coronary artery"}
+{"s": "head ct", "p": "Diagnoses", "o": "lacunes"}
+{"s": "left hip", "p": "Has-Symptom", "o": "persistent left hip pain"}
+{"s": "pericardial effusion", "p": "Biomarker-Of", "o": "heart failure"}
+{"s": "spinal cord", "p": "Located-In", "o": "spinal cord"}
+{"s": "bipolar disorder", "p": "Associated-With", "o": "sleep/wake schedules"}
+{"s": "g-tube", "p": "Located-In", "o": "esophagus"}
+{"s": "video eeg", "p": "Used-For", "o": "seizure activity"}
+{"s": "blood culture", "p": "Associated-With", "o": "confusion"}
+{"s": "L5", "p": "Expressed-In", "o": "Sensory-L3"}
+{"s": "joint pain", "p": "Has-Symptom", "o": "sickle cell disease"}
+{"s": "chronic alcohol abuse", "p": "Causes", "o": "alcoholic hepatitis"}
+{"s": "pt", "p": "Associated-With", "o": "blood crp"}
+{"s": "bowel", "p": "Associated-With", "o": "bladder"}
+{"s": "left proximal femur", "p": "Expressed-In", "o": "hip"}
+{"s": "albuterol sulfate", "p": "Used-For", "o": "Respiratory Distress"}
+{"s": "non-ischemic cardiomyopathy", "p": "Subtype-Of", "o": "cardiomyopathy"}
+{"s": "duodenal stent", "p": "Treats", "o": "biliary and duodenal obstruction"}
+{"s": "right distal femur nonunion", "p": "Affects-Expression", "o": "weight bearing as tolerated on the operative extremity"}
+{"s": "narcotic pain reliever", "p": "Side-Effect", "o": "lightheadedness"}
+{"s": "docusate sodium", "p": "Used-For", "o": "constipation"}
+{"s": "regular diet", "p": "Used-For", "o": "discharge instructions"}
+{"s": "alcohol use disorder", "p": "Affects-Expression", "o": "gene expression"}
+{"s": "complex partial seizure", "p": "Diagnoses", "o": "generalized tonic-clonic seizure"}
+{"s": "physical therapy", "p": "Used-For", "o": "gait"}
+{"s": "pre-grasping activated csns", "p": "Located-In", "o": "spinal cord"}
+{"s": "cardiac review of systems", "p": "Has-Symptom", "o": "chest pain"}
+{"s": "alcohol dependence/abuse", "p": "Treats", "o": "alcohol withdrawal"}
+{"s": "ulcerative colitis", "p": "Contributes-To-Pathogenesis", "o": "substance abuse"}
+{"s": "comminuted intratrochanteric fracture", "p": "Located-In", "o": "left proximal femur"}
+{"s": "L5", "p": "Expressed-In", "o": "Sensory-L2"}
+{"s": "oral and scrotal ulcers", "p": "Diagnoses", "o": "infectious disease"}
+{"s": "substance abuse", "p": "Has-Symptom", "o": "syncope"}
+{"s": "left occipital lobe", "p": "Located-In", "o": "head"}
+{"s": "sickle cell disease", "p": "Subtype-Of", "o": "disease"}
+{"s": "right upper lobe", "p": "Located-In", "o": "lung"}
+{"s": "amputation site", "p": "Located-In", "o": "foot"}
+{"s": "esophageal stent", "p": "Located-In", "o": "ge junction"}
+{"s": "toxic metabolic encephalopathy", "p": "Has-Symptom", "o": "altered mental status"}
+{"s": "left-sided disc herniation", "p": "Located-In", "o": "spinal cord"}
+{"s": "patient", "p": "Affects-Expression", "o": "docusate sodium"}
+{"s": "right flank", "p": "Has-Symptom", "o": "anatomical region"}
+{"s": "alcoholic hepatitis", "p": "Causes", "o": "chronic alcohol abuse"}
+{"s": "dexamethasone", "p": "Used-For", "o": "inflammation"}
+{"s": "plt", "p": "Affects-Expression", "o": "alcohol"}
+{"s": "severe aortic stenosis", "p": "Causes", "o": "aortic valve severe aortic stenosis with valve area 0 8 and peak gradient 4 2 m/s"}
+{"s": "renal insufficiency", "p": "Subtype-Of", "o": "renal failure"}
+{"s": "left knee", "p": "Located-In", "o": "operative extremity"}
+{"s": "bloody diarrhea", "p": "Has-Symptom", "o": "hepatic encephalopathy"}
+{"s": "albuterol inhaler", "p": "Activates", "o": "Behavior/Lifestyle factor"}
+{"s": "physical therapy", "p": "Has-Symptom", "o": "unsteadiness"}
+{"s": "small vessel ischemic disease", "p": "Affects-Expression", "o": "gene X"}
+{"s": "painful crisis", "p": "Has-Symptom", "o": "sickle cell disease"}
+{"s": "hypertension", "p": "Treats", "o": "lisinopril"}
+{"s": "blood culture routine-pending inpatient", "p": "Diagnoses", "o": "diagnosis"}
+{"s": "Sensory-L4", "p": "Expressed-In", "o": "L4"}
+{"s": "left hip pain", "p": "Diagnoses", "o": "left hip fracture"}
+{"s": "panic attack", "p": "Has-Symptom", "o": "multiple sclerosis"}
+{"s": "esophageal adenocarcinoma", "p": "Has-Symptom", "o": "coffee ground emesis"}
+{"s": "sickle cell disease", "p": "Subtype-Of", "o": "hemoglobinopathy"}
+{"s": "status post renal transplant on renal suppression", "p": "Diagnoses", "o": "renal failure"}
+{"s": "squamous cell carcinoma", "p": "Diagnoses", "o": "squamous cell lung cancer"}
+{"s": "mitral valve", "p": "Affects-Expression", "o": "mitral annular calcification"}
+{"s": "coffee ground emesis", "p": "Has-Symptom", "o": "esophageal adenocarcinoma"}
+{"s": "operative extremity", "p": "Located-In", "o": "left knee"}

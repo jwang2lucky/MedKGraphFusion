@@ -1,0 +1,81 @@
+start,end,found,path,explanation
+Nicotine Gum,Lung Cancer,True,Nicotine Gum -> Smoking Cessation -> Lung Cancer,Nicotine Gum --[Used-For]--> Smoking Cessation | Smoking Cessation --[Treats]--> Lung Cancer
+Aortic Stenosis,Pulmonary edema,False,No Path,
+Alcoholic Hepatitis,Chronic Liver Disease,True,Alcoholic Hepatitis -> Chronic Liver Disease,Alcoholic Hepatitis --[Part-Of]--> Chronic Liver Disease
+Warfarin,Anemia,True,Warfarin -> GI Bleed -> Anemia,Warfarin --[Causes]--> GI Bleed | GI Bleed --[Causes]--> Anemia
+Klebsiella,Hematuria,True,Klebsiella -> Urinary Tract Infection -> Hematuria,Klebsiella --[Causes]--> Urinary Tract Infection | Urinary Tract Infection --[Associated-With]--> Hematuria
+enlarged prostate,Urinary Retention,False,No Path,
+Atrial Fibrillation,Facial Droop,False,No Path,
+Smoking,Severe Headache,False,No Path,
+High Cholesterol,Aspirin,False,No Path,
+Atorvastatin,Acute Ischemic Stroke,True,Atorvastatin -> High Cholesterol -> Acute Ischemic Stroke,Atorvastatin --[Used-For]--> High Cholesterol | High Cholesterol --[Associated-With]--> Acute Ischemic Stroke
+carotid stenosis,Antithrombotic Therapy,False,No Path,
+Intensive Statin Therapy,Acute Ischemic Stroke,True,Intensive Statin Therapy -> High Cholesterol -> Acute Ischemic Stroke,Intensive Statin Therapy --[Treats]--> High Cholesterol | High Cholesterol --[Associated-With]--> Acute Ischemic Stroke
+Metoprolol Succinate,Left Ventricle Dysfunction,True,Metoprolol Succinate -> Atrial Fibrillation -> Left Ventricle Dysfunction,Metoprolol Succinate --[Used-For]--> Atrial Fibrillation | Atrial Fibrillation --[Causes]--> Left Ventricle Dysfunction
+Aortic Valve Replacement,Heart Failure,True,Aortic Valve Replacement -> Aortic Stenosis -> Heart Failure,Aortic Valve Replacement --[Treats]--> Aortic Stenosis | Aortic Stenosis --[Causes]--> Heart Failure
+Coronary Artery Bypass Grafting,Atrial Fibrillation,True,Coronary Artery Bypass Grafting -> Coronary Artery Disease -> Atrial Fibrillation,Coronary Artery Bypass Grafting --[Treats]--> Coronary Artery Disease | Coronary Artery Disease --[Associated-With]--> Atrial Fibrillation
+Lisinopril,Cardiovascular disease,True,Lisinopril -> Hypertension -> Cardiovascular disease,Lisinopril --[Treats]--> Hypertension | Hypertension --[Causes]--> Cardiovascular disease
+Hydrochlorothiazide,Cardiovascular disease,True,Hydrochlorothiazide -> Hypertension -> Cardiovascular disease,Hydrochlorothiazide --[Treats]--> Hypertension | Hypertension --[Causes]--> Cardiovascular disease
+African American,Cardiovascular disease,True,African American -> Cardiovascular disease,African American --[Associated-With]--> Cardiovascular disease
+Lipitor,Cardiovascular disease,True,Lipitor -> Hyperlipidemia -> Cardiovascular disease,Lipitor --[Treats]--> Hyperlipidemia | Hyperlipidemia --[Associated-With]--> Cardiovascular disease
+Metformin,Cardiovascular disease risk,True,Metformin -> Prediabetes -> Cardiovascular disease risk,Metformin --[Treats]--> Prediabetes | Prediabetes --[Associated-With]--> Cardiovascular disease risk
+Metformin,Diabetes risk,True,Metformin -> Prediabetes -> Diabetes risk,Metformin --[Treats]--> Prediabetes | Prediabetes --[Associated-With]--> Diabetes risk
+Intensive lifestyle intervention,Cardiovascular disease risk,True,Intensive lifestyle intervention -> Prediabetes -> Cardiovascular disease risk,Intensive lifestyle intervention --[Treats]--> Prediabetes | Prediabetes --[Associated-With]--> Cardiovascular disease risk
+Insulin,Gastroparesis,False,No Path,
+Levothyroxine sodium,Type 1 Diabetes Mellitus,True,Levothyroxine sodium -> Hypothyroidism -> Type 1 Diabetes Mellitus,Levothyroxine sodium --[Used-For]--> Hypothyroidism | Hypothyroidism --[Associated-With]--> Type 1 Diabetes Mellitus
+Metastatic Colon Cancer,Metoprolol Succinate,False,No Path,
+Metastatic Colon Cancer,Liver,True,Metastatic Colon Cancer -> Right Lobe of the Liver -> Liver,Metastatic Colon Cancer --[Located-In]--> Right Lobe of the Liver | Right Lobe of the Liver --[Located-In]--> Liver
+Asthma Exacerbation,Albuterol,False,No Path,
+Asthma Exacerbation,Albuterol,False,No Path,
+Upper Respiratory Infection,Albuterol,False,No Path,
+Pantoprazole,Epigastric Pain,False,No Path,
+Chronic Pancreatitis,Nausea,True,Chronic Pancreatitis -> Nausea,Chronic Pancreatitis --[Associated-With]--> Nausea
+Alcoholic Hepatitis,Epigastric Pain,True,Alcoholic Hepatitis -> Pancreatitis -> Epigastric Pain,Alcoholic Hepatitis --[Associated-With]--> Pancreatitis | Pancreatitis --[Associated-With]--> Epigastric Pain
+Chronic Pancreatitis,C. diff colitis,True,Chronic Pancreatitis -> Diarrhea -> C. diff colitis,Chronic Pancreatitis --[Associated-With]--> Diarrhea | Diarrhea --[Has-Symptom]--> C. diff colitis
+Vancomycin,Diarrhea,True,Vancomycin -> C. diff colitis -> Diarrhea,Vancomycin --[Treats]--> C. diff colitis | C. diff colitis --[Has-Symptom]--> Diarrhea
+Alcoholic Hepatitis,esophageal varix,False,No Path,
+portal hypertension,lower third of esophagus,True,portal hypertension -> esophageal varix -> lower third of esophagus,portal hypertension --[Associated-With]--> esophageal varix | esophageal varix --[Located-In]--> lower third of esophagus
+Liver Disease,Lactulose,False,No Path,
+Liver Dysfunction,Altered Mental Status,False,No Path,
+Ascites,Altered Mental Status,False,No Path,
+Acute Pulmonary Embolism,Tachycardia,True,Acute Pulmonary Embolism -> Altered Mental Status -> Acute PE -> Tachycardia,Acute Pulmonary Embolism --[Causes]--> Altered Mental Status | Altered Mental Status --[Associated-With]--> Acute PE | Acute PE --[Causes]--> Tachycardia
+Toxic Metabolic Encephalopathy,Visual Hallucinations,True,Toxic Metabolic Encephalopathy -> Visual Hallucinations,Toxic Metabolic Encephalopathy --[Causes]--> Visual Hallucinations
+Ciprofloxacin,Flank Pain,True,Ciprofloxacin -> Pyelonephritis -> Flank Pain,Ciprofloxacin --[Treats]--> Pyelonephritis | Pyelonephritis --[Causes]--> Flank Pain
+Hafnia alvei,Flank Pain,True,Hafnia alvei -> Pyelonephritis -> Flank Pain,Hafnia alvei --[Associated-With]--> Pyelonephritis | Pyelonephritis --[Causes]--> Flank Pain
+Urine Culture,Hematuria,True,Urine Culture -> Urinary Tract Infection -> Hematuria,Urine Culture --[Diagnoses]--> Urinary Tract Infection | Urinary Tract Infection --[Associated-With]--> Hematuria
+Tamsulosin,Urethral Obstruction,True,Tamsulosin -> Urinary Retention -> Urethral Obstruction,Tamsulosin --[Treats]--> Urinary Retention | Urinary Retention --[Causes]--> Urethral Obstruction
+Foley Catheter,Urethral Obstruction,True,Foley Catheter -> Urinary Retention -> Urethral Obstruction,Foley Catheter --[Treats]--> Urinary Retention | Urinary Retention --[Causes]--> Urethral Obstruction
+Transurethral Resection,Bladder Outlet Obstruction,True,Transurethral Resection -> Bladder Outlet Obstruction,Transurethral Resection --[Used-For]--> Bladder Outlet Obstruction
+obstructing lesion at the left uvj,left kidney,True,obstructing lesion at the left uvj -> moderate hydronephrosis -> left kidney,obstructing lesion at the left uvj --[Causes]--> moderate hydronephrosis | moderate hydronephrosis --[Located-In]--> left kidney
+Renal Cysts,adult polycystic kidney disease,False,No Path,
+Aminoglycosides,Cystatin C,False,No Path,
+Serum Creatinine,Aminoglycosides,True,Serum Creatinine -> Kidney Injury -> Aminoglycosides,Serum Creatinine --[Biomarker-Of]--> Kidney Injury | Kidney Injury --[Causes]--> Aminoglycosides
+Hypotension,Systolic Heart Failure,True,Hypotension -> Chronic Renal Insufficiency -> Systolic Heart Failure,Hypotension --[Associated-With]--> Chronic Renal Insufficiency | Chronic Renal Insufficiency --[Associated-With]--> Systolic Heart Failure
+Chronic Renal Insufficiency,Pleural Effusion,False,No Path,
+Congestive Heart Failure,Lung,True,Congestive Heart Failure -> Pleural Effusion -> Lung,Congestive Heart Failure --[Associated-With]--> Pleural Effusion | Pleural Effusion --[Located-In]--> Lung
+Chest CT,Lung,True,Chest CT -> Pleural Effusion -> Lung,Chest CT --[Diagnoses]--> Pleural Effusion | Pleural Effusion --[Located-In]--> Lung
+Amiodarone Toxicity,Multifocal Pneumonia,True,Amiodarone Toxicity -> Chest CT -> Multifocal Pneumonia,Amiodarone Toxicity --[Associated-With]--> Chest CT | Chest CT --[Associated-With]--> Multifocal Pneumonia
+metformin toxicity,pt,True,metformin toxicity -> lactic acidosis -> pt,metformin toxicity --[Associated-With]--> lactic acidosis | lactic acidosis --[Associated-With]--> pt
+Coffee Ground Emesis,Esophageal Stent,False,No Path,
+esophageal cancer,esophageal thickening,True,esophageal cancer -> GE junction -> esophageal thickening,esophageal cancer --[Located-In]--> GE junction | GE junction --[Located-In]--> esophageal thickening
+Dysphagia/Odynophagia,Esophageal Adenocarcinoma,True,Dysphagia/Odynophagia -> Coffee Ground Emesis -> Esophageal Adenocarcinoma,Dysphagia/Odynophagia --[Has-Symptom]--> Coffee Ground Emesis | Coffee Ground Emesis --[Associated-With]--> Esophageal Adenocarcinoma
+Hydromorphone,Coffee Ground Emesis,False,No Path,
+right frontal lesion,left frontal lesion,True,right frontal lesion -> vasogenic edema -> left frontal lesion,right frontal lesion --[Associated-With]--> vasogenic edema | vasogenic edema --[Associated-With]--> left frontal lesion
+multiple hemorrhagic cerebral metastases,right frontal lesion,True,multiple hemorrhagic cerebral metastases -> vasogenic edema -> right frontal lesion,multiple hemorrhagic cerebral metastases --[Associated-With]--> vasogenic edema | vasogenic edema --[Associated-With]--> right frontal lesion
+EMT,left parietal,True,EMT -> metastasis -> left parietal,EMT --[Causes]--> metastasis | metastasis --[Located-In]--> left parietal
+Tonsillar Carcinoma,Worsening Headache,True,Tonsillar Carcinoma -> Radiation Necrosis -> Worsening Headache,Tonsillar Carcinoma --[Associated-With]--> Radiation Necrosis | Radiation Necrosis --[Associated-With]--> Worsening Headache
+Photophobia,Visual Blurriness,True,Photophobia -> Worsening Headache -> Visual Blurriness,Photophobia --[Associated-With]--> Worsening Headache | Worsening Headache --[Associated-With]--> Visual Blurriness
+AVM,Nausea,False,No Path,
+Agitation,Lorazepam,False,No Path,
+Zonisamide,Seizure Frequency,True,Zonisamide -> Epilepsy -> Seizure Frequency,Zonisamide --[Treats]--> Epilepsy | Epilepsy --[Associated-With]--> Seizure Frequency
+Medication Non-Adherence,Epilepsy,True,Medication Non-Adherence -> Seizure Frequency -> Epilepsy,Medication Non-Adherence --[Associated-With]--> Seizure Frequency | Seizure Frequency --[Associated-With]--> Epilepsy
+Disc Herniation,Myelopathy,True,Disc Herniation -> Myelopathy,Disc Herniation --[Causes]--> Myelopathy
+Spinal Cord Injury,Cervical Spine,False,No Path,
+C6-C7,Degenerative Disk Disease,True,C6-C7 -> Spinal Stenosis -> Degenerative Disk Disease,C6-C7 --[Located-In]--> Spinal Stenosis | Spinal Stenosis --[Part-Of]--> Degenerative Disk Disease
+Fibromyalgia,C6-C7,True,Fibromyalgia -> Spinal Stenosis -> C6-C7,Fibromyalgia --[Associated-With]--> Spinal Stenosis | Spinal Stenosis --[Located-In]--> C6-C7
+Paranoid Schizophrenia,Stroke,True,Paranoid Schizophrenia -> Atrial Fibrillation -> Stroke,Paranoid Schizophrenia --[Associated-With]--> Atrial Fibrillation | Atrial Fibrillation --[Associated-With]--> Stroke
+HPV16 E6 Antibodies,HPV16 DNA,True,HPV16 E6 Antibodies -> Oropharyngeal Squamous Cell Carcinoma -> HPV16 DNA,HPV16 E6 Antibodies --[Biomarker-Of]--> Oropharyngeal Squamous Cell Carcinoma | Oropharyngeal Squamous Cell Carcinoma --[Associated-With]--> HPV16 DNA
+HPV,HPV18 E6 Antibodies,False,No Path,
+Genetic Variants,Renal Cell Carcinoma Risk,True,Genetic Variants -> Leukocyte Telomere Length -> Renal Cell Carcinoma Risk,Genetic Variants --[Associated-With]--> Leukocyte Telomere Length | Leukocyte Telomere Length --[Associated-With]--> Renal Cell Carcinoma Risk
+Telomerase Activity,Relative Telomere Length,True,Telomerase Activity -> Renal Cell Carcinoma -> Relative Telomere Length,Telomerase Activity --[Contributes-To-Pathogenesis]--> Renal Cell Carcinoma | Renal Cell Carcinoma --[Associated-With]--> Relative Telomere Length
+BRAF V600E,Tumor Growth,False,No Path,

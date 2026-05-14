@@ -1,0 +1,100 @@
+{"s": "dafs absence", "p": "Biomarker-Of", "o": "cd8 cell"}
+{"s": "aspirin", "p": "Metabolizes", "o": "salicylic acid"}
+{"s": "cough", "p": "Has-Symptom", "o": "pt"}
+{"s": "type b aortic dissection", "p": "Biomarker-Of", "o": "unspecified biomarker"}
+{"s": "blood", "p": "Affects-Expression", "o": "Gene Regulation"}
+{"s": "remnant cystic", "p": "Biomarker-Of", "o": "cholangiocarcinoma"}
+{"s": "hypotension", "p": "Has-Symptom", "o": "patient"}
+{"s": "atorvastatin", "p": "Metabolizes", "o": "HMG-CoA reductase"}
+{"s": "huntington disease", "p": "Biomarker-Of", "o": "huntington disease"}
+{"s": "Type 2 Diabetes Mellitus", "p": "Biomarker-Of", "o": "Polyuria"}
+{"s": "mast cell", "p": "Interacts-With", "o": "histamine"}
+{"s": "aminoglycoside", "p": "Binding", "o": "DNA"}
+{"s": "pt", "p": "Biomarker-Of", "o": "Type 2 Diabetes Mellitus"}
+{"s": "Type 2 Diabetes Mellitus", "p": "Associated-With", "o": "Hyperglycemia"}
+{"s": "antithrombotic therapy", "p": "Biomarker-Of", "o": "Disease"}
+{"s": "remnant cystic", "p": "Associated-With", "o": "debris"}
+{"s": "ducts", "p": "Associated-With", "o": "remnant cystic"}
+{"s": "nlrp3 inflammasome", "p": "Associated-With", "o": "homocysteine"}
+{"s": "5-methylcytosine", "p": "Associated-With", "o": "liver cancer"}
+{"s": "blood CRP", "p": "Associated-With", "o": "pt"}
+{"s": "combex", "p": "Biomarker-Of", "o": "Hyperglycemia"}
+{"s": "rifaximin po", "p": "Used-For", "o": "hepatitis"}
+{"s": "hepatitis b viral load", "p": "Associated-With", "o": "cd4 cell"}
+{"s": "aminoglycoside", "p": "Inhibits", "o": "gene expression"}
+{"s": "remnant cystic", "p": "Associated-With", "o": "dropped stones"}
+{"s": "llfs family members", "p": "Biomarker-Of", "o": "alzheimer disease"}
+{"s": "mast cell", "p": "Expressed-In", "o": "skin"}
+{"s": "rib cage", "p": "Associated-With", "o": "pneumothorax"}
+{"s": "weight bearing", "p": "Used-For", "o": "bone fracture"}
+{"s": "left foot infection", "p": "Treats", "o": "left foot infection"}
+{"s": "hiv hbv", "p": "Associated-With", "o": "inflammatory bowel disease"}
+{"s": "complex partial seizure", "p": "Has-Symptom", "o": "increased seizure frequency"}
+{"s": "drug delivery", "p": "Treats", "o": "bladder cancer"}
+{"s": "stroke", "p": "Associated-With", "o": "facial droop"}
+{"s": "remnant cystic", "p": "Located-In", "o": "common bile duct"}
+{"s": "complex partial seizure", "p": "Has-Symptom", "o": "episodes of confusion"}
+{"s": "hepatitis b viral load", "p": "Biomarker-Of", "o": "disease"}
+{"s": "neuronal cell", "p": "Biomarker-Of", "o": "Diabetes mellitus"}
+{"s": "ureteral stent", "p": "Associated-With", "o": "left ureteral stone"}
+{"s": "atorvastatin", "p": "Used-For", "o": "risk factor modification"}
+{"s": "non bleeding", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "complex partial seizure", "p": "Diagnoses", "o": "episodes of confusion"}
+{"s": "left kidney", "p": "Biomarker-Of", "o": "Diabetes Mellitus"}
+{"s": "bone marrow biopsy", "p": "Diagnoses", "o": "multiple myeloma"}
+{"s": "drug metabolizing enzyme", "p": "Metabolizes", "o": "drug"}
+{"s": "telomere length", "p": "Associated-With", "o": "hypertension"}
+{"s": "empyema", "p": "Has-Symptom", "o": "purulent effusion"}
+{"s": "ureteral stent", "p": "Diagnoses", "o": "left ureteral stone"}
+{"s": "confusion", "p": "Associated-With", "o": "blood culture"}
+{"s": "chq-cf87", "p": "Has-Symptom", "o": "self esteem"}
+{"s": "flash pulmonary edema", "p": "Has-Symptom", "o": "patient"}
+{"s": "non bleeding", "p": "Has-Symptom", "o": "esophageal varices"}
+{"s": "common bile duct", "p": "Located-In", "o": "cbd stent"}
+{"s": "urinary tract infection", "p": "Biomarker-Of", "o": "urinary tract infection"}
+{"s": "bone marrow biopsy", "p": "Used-For", "o": "diagnostic procedure"}
+{"s": "multiple pockets of fluid", "p": "Biomarker-Of", "o": "Disease"}
+{"s": "albuterol sulfate", "p": "Agonism-or-Antagonism", "o": "receptors"}
+{"s": "depressive symptom", "p": "Has-Symptom", "o": "hostility"}
+{"s": "donor daf1", "p": "Treats", "o": "cd8 cell"}
+{"s": "atorvastatin", "p": "Inhibits", "o": "gene expression"}
+{"s": "mast cell", "p": "Biomarker-Of", "o": "histamine release"}
+{"s": "5-methylcytosine", "p": "Expressed-In", "o": "liver"}
+{"s": "Spouses", "p": "Associated-With", "o": "Cognitive Decline"}
+{"s": "non bleeding", "p": "Biomarker-Of", "o": "esophageal varices"}
+{"s": "left foot infection", "p": "Has-Symptom", "o": "Cellulitis"}
+{"s": "esophageal varices", "p": "Associated-With", "o": "Has-Symptom"}
+{"s": "enteritis", "p": "Treats", "o": "enteritis"}
+{"s": "uti", "p": "Associated-With", "o": "dysuria"}
+{"s": "left kidney", "p": "Located-In", "o": "human body"}
+{"s": "patient", "p": "Has-Symptom", "o": "urinary tract infection"}
+{"s": "small bowel", "p": "Located-In", "o": "abdomen"}
+{"s": "Cell/Tissue/Organ", "p": "Expressed-In", "o": "fatty acid"}
+{"s": "huntington disease", "p": "Associated-With", "o": "alzheimer disease"}
+{"s": "drug metabolizing gene", "p": "Associated-With", "o": "liver"}
+{"s": "chq-pf28", "p": "Has-Symptom", "o": "self esteem"}
+{"s": "type b aortic dissection", "p": "Associated-With", "o": "renal artery"}
+{"s": "ptld", "p": "Treats", "o": "Type 2 Diabetes Mellitus"}
+{"s": "Decreased Interactiveness", "p": "Associated-With", "o": "Alzheimer's Disease"}
+{"s": "multiple myeloma", "p": "Has-Symptom", "o": "flank pain"}
+{"s": "multiple pockets of fluid", "p": "Located-In", "o": "anatomical structure"}
+{"s": "Gene Regulation", "p": "Gene-Regulates-Gene", "o": "BNF gene"}
+{"s": "post ictal", "p": "Associated-With", "o": "Seizures"}
+{"s": "liver disease", "p": "Has-Symptom", "o": "cognitive performance"}
+{"s": "type b aortic dissection", "p": "Diagnoses", "o": "renal artery"}
+{"s": "left parietal", "p": "Expressed-In", "o": "Cerebrum"}
+{"s": "uti", "p": "Associated-With", "o": "frequency"}
+{"s": "nlrp3 inflammasome", "p": "Biomarker-Of", "o": "diabetes mellitus"}
+{"s": "aspirin", "p": "Biomarker-Of", "o": "ischemic stroke"}
+{"s": "increased seizure frequency", "p": "Has-Symptom", "o": "complex partial seizure"}
+{"s": "blood ck", "p": "Has-Symptom", "o": "Polydipsia"}
+{"s": "donor daf1 / hearts", "p": "Treats", "o": "cd8 cell"}
+{"s": "alzheimer disease", "p": "Treats", "o": "llfs offspring generation"}
+{"s": "drug metabolizing enzyme", "p": "Expressed-In", "o": "liver"}
+{"s": "Decreased Interactiveness", "p": "Associated-With", "o": "Depression"}
+{"s": "homocysteine", "p": "Biomarker-Of", "o": "Diabetes mellitus"}
+{"s": "telomere length", "p": "Associated-With", "o": "HIV infection"}
+{"s": "pleural space", "p": "Treats", "o": "empyema"}
+{"s": "metabolic dysfunction", "p": "Associated-With", "o": "mir-33"}
+{"s": "depressive symptom", "p": "Associated-With", "o": "hostility"}
+{"s": "esophageal varices", "p": "Treats", "o": "Diabetes"}

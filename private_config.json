@@ -1,0 +1,10 @@
+{
+  "OPENAI_API_KEY": "sk-xxx",
+  "GOOGLE_API_KEY": "AIxxx",
+  "CEREBRAS_API_KEY":"csk-xxx",
+  "NEO4J": {
+    "URI": "[uri]",
+    "USER": "[user]",
+    "PASSWORD":"[password]"
+  }
+}

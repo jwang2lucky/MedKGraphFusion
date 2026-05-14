@@ -1,0 +1,30 @@
+### Instruction:
+You are a domain expert in medicine and biomedical informatics. You are building a medical knowledge graph. Given the scientific abstract (### Content) and a query concept (### Concept), perform the following:
+
+#### 1. Entity Extraction & Filtering
+Identify relevant medical entities from the text. 
+- **Entity Types:** Strictly limit to: Disease, Symptom/Sign, Clinical measurement/Lab value, Gene/Protein/Variant, Drug/Chemical/Exposure, Cell/Tissue/Organ, Medical procedure/Test, Behavior/Lifestyle factor, Population/Demographic group, Risk factor.
+- **Filtering:** 
+  - **Exclude** generic, abstract, or non-medical terms (e.g., "patient", "study", "data", "significance", "hope").
+  - **Exclude** relative time/dates (e.g., "yesterday", "follow-up").
+- **Normalization:** Map entities to their canonical clinical form (e.g., "T2DM" -> "Type 2 Diabetes Mellitus") whenever possible.
+#### 2. Relation Extraction
+- Identify relationships between the query concept and the extracted concepts from Step 1, and represent them in triple format: (<head concept>, <relation>, <tail concept>). The query entity can be the head entity or tail entity.
+#### 3. Schema Compliance
+- You **MUST** use relation types **EXACTLY** as defined in the provided schema: 
+    {relation_definitions}
+   - Some relations are directional (e.g., (A, Treats, B) ≠ (B, Treats, A)), while others like "Co-occurs-with" are symmetric.
+####4. You may also extract triplets among the extracted concepts even if the query concept is not involved.
+####5. Your output should only include a list of triplets in JSON array format with keys 's', 'p', 'o' and represent them as **triples** in the form:
+("s": "<head concept>", "p": "<relation type>", "o": "<tail concept>") in this format:
+####6. Output strictly in **pure JSON array** format. 
+- Do NOT include any explanations, comments, or markdown formatting such as ```json. 
+- Do NOT include any text before or after the JSON array.
+- Do not include numbers, or line breaks.
+- If ### Content is empty or no relations are found, output an empty array: `[]`
+
+### Content:
+{abstracts}
+
+### Concept:
+{concepts}

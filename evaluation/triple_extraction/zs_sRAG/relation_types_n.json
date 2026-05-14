@@ -1,0 +1,102 @@
+{
+  "Treats": {
+    "label": "Treats",
+    "description": "A drug, procedure, or intervention is used to treat or manage a disease or condition. Example: 'Aspirin treats myocardial infarction.'"
+  },
+  "Causes": {
+    "label": "Causes",
+    "description": "An entity (e.g., gene, chemical, behavior) leads to a disease or condition. Example: 'BRCA1 mutation causes breast cancer.'"
+  },
+  "Associated-With": {
+    "label": "Associated-With",
+    "description": "A general or correlative association between entities. Example: 'Obesity is associated with diabetes.'"
+  },
+  "Expressed-In": {
+    "label": "Expressed-In",
+    "description": "Describes the tissue or cell type where a gene/protein is expressed. Example: 'ACE2 is expressed in lung epithelial cells.'"
+  },
+  "Located-In": {
+    "label": "Located-In",
+    "description": "Spatial containment or localization of an entity. Example: 'Tumor is located in the pancreas.'"
+  },
+  "Part-Of": {
+    "label": "Part-Of",
+    "description": "One entity is a constituent or component of another. Example: 'Alveoli are part of the lungs.'"
+  },
+  "Subtype-Of": {
+    "label": "Subtype-Of",
+    "description": "A more specific subtype of a broader category. Example: 'Glioblastoma is a subtype of brain tumor.'"
+  },
+  "Interacts-With": {
+    "label": "Interacts-With",
+    "description": "Biochemical or pharmacological interaction between entities. Example: 'Warfarin interacts with Vitamin K.'"
+  },
+  "Inhibits": {
+    "label": "Inhibits",
+    "description": "Suppressive relationship where one entity reduces the activity of another. Example: 'Aspirin inhibits COX-1 enzyme.'"
+  },
+  "Activates": {
+    "label": "Activates",
+    "description": "An entity increases the expression or activity of another. Example: 'IL-6 activates STAT3 signaling.'"
+  },
+  "Diagnoses": {
+    "label": "Diagnoses",
+    "description": "A diagnostic tool or marker identifies a disease. Example: 'MRI diagnoses brain tumor.'"
+  },
+  "Has-Symptom": {
+    "label": "Has-Symptom",
+    "description": "A disease presents a clinical symptom. Example: 'COVID-19 has symptom fever.'"
+  },
+  "Used-For": {
+    "label": "Used-For",
+    "description": "An entity serves a general medical or diagnostic purpose. Example: 'CT scan is used for tumor detection.'"
+  },
+  "Contraindicated-For": {
+    "label": "Contraindicated-For",
+    "description": "An entity should not be used for a specific condition. Example: 'NSAIDs are contraindicated for peptic ulcer.'"
+  },
+  "Biomarker-Of": {
+    "label": "Biomarker-Of",
+    "description": "An entity serves as a biomarker for a disease or condition. Example: 'CA-125 is a biomarker of ovarian cancer.'"
+  },
+  "Agonism-or-Antagonism": {
+    "label": "Agonism-or-Antagonism",
+    "description": "A compound activates or blocks a biological target. Example: 'Tamoxifen antagonizes estrogen receptor.'"
+  },
+  "Binding": {
+    "label": "Binding",
+    "description": "Describes direct binding between molecules. Example: 'Ligand binds to receptor.'"
+  },
+  "Affects-Expression": {
+    "label": "Affects-Expression",
+    "description": "Regulation of gene expression by a drug or another gene. Example: 'TNF-alpha induces IL-6 expression.'"
+  },
+  "Metabolizes": {
+    "label": "Metabolizes",
+    "description": "A gene/protein metabolizes a drug or chemical. Example: 'CYP3A4 metabolizes warfarin.'"
+  },
+  "Transports": {
+    "label": "Transports",
+    "description": "Transport of a substance by a protein or gene. Example: 'SLC6A4 transports serotonin.'"
+  },
+  "Enzyme-Activity": {
+    "label": "Enzyme-Activity",
+    "description": "Describes modulation of enzymatic activity. Example: 'Fluoride inhibits enolase activity.'"
+  },
+  "Side-Effect": {
+    "label": "Side-Effect",
+    "description": "Indicates adverse effects of a drug or treatment. Example: 'Aspirin causes gastric bleeding.'"
+  },
+  "Contributes-To-Pathogenesis": {
+    "label": "Contributes-To-Pathogenesis",
+    "description": "The entity plays a mechanistic role in disease development. Example: 'Smoking contributes to lung cancer.'"
+  },
+  "Mutation-Affects-Disease": {
+    "label": "Mutation-Affects-Disease",
+    "description": "A gene variant contributes to disease risk. Example: 'BRCA1 mutation increases breast cancer risk.'"
+  },
+  "Gene-Regulates-Gene": {
+    "label": "Gene-Regulates-Gene",
+    "description": "Regulatory interaction between genes. Example: 'TP53 regulates BAX.'"
+  }
+}

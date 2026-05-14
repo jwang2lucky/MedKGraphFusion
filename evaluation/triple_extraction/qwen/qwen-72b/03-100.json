@@ -1,0 +1,100 @@
+{"s": "MEK inhibition", "p": "Causes", "o": "PI3K pathway activation"}
+{"s": "biliary obstruction", "p": "Associated-With", "o": "polycystic kidney disease"}
+{"s": "mitral valve", "p": "Has-Symptom", "o": "mild annular calcification"}
+{"s": "Cigarette Smoking", "p": "Associated-With", "o": "NT-proBNP"}
+{"s": "atrial fibrillation", "p": "Has-Symptom", "o": "right facial droop"}
+{"s": "foley catheter", "p": "Used-For", "o": "hypotension"}
+{"s": "blood pressure", "p": "Affects-Expression", "o": "phenylephrine"}
+{"s": "therapy administered", "p": "Treats", "o": "Acute Ischemic Stroke"}
+{"s": "Endothelial Dysfunction", "p": "Causes", "o": "Oxidative Stress"}
+{"s": "post operative", "p": "Has-Symptom", "o": "delirium"}
+{"s": "life event", "p": "Contributes-To-Pathogenesis", "o": "perceived stress"}
+{"s": "Cigarette Smoking", "p": "Causes", "o": "Elevated NT-proBNP"}
+{"s": "wound care", "p": "Used-For", "o": "scrotal ulcers"}
+{"s": "po pain medication", "p": "Subtype-Of", "o": "pain medication"}
+{"s": "aminoglycoside", "p": "Causes", "o": "acute kidney injury"}
+{"s": "remnant cystic duct", "p": "Located-In", "o": "right upper quadrant"}
+{"s": "left toe", "p": "Has-Symptom", "o": "necrotic area to the plantar surface of the left third toe"}
+{"s": "left toe", "p": "Part-Of", "o": "left foot"}
+{"s": "spinal cord", "p": "Has-Symptom", "o": "compression"}
+{"s": "head ct", "p": "Diagnoses", "o": "subarachnoid hemorrhage"}
+{"s": "blood wbc", "p": "Affects-Expression", "o": "neuts"}
+{"s": "activity weight bearing", "p": "Used-For", "o": "right femur nonunion"}
+{"s": "kava product use", "p": "Causes", "o": "liver injury"}
+{"s": "mitral valve", "p": "Has-Symptom", "o": "mildly thickened leaflets"}
+{"s": "service neurology", "p": "Used-For", "o": "neurocysticercosis"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "anxiety vs bipolar"}
+{"s": "plasma membrane", "p": "Located-In", "o": "macrophages"}
+{"s": "cynicism", "p": "Associated-With", "o": "depressive symptom"}
+{"s": "tamoxifen", "p": "Treats", "o": "cognitive impairment"}
+{"s": "hmga1", "p": "Contributes-To-Pathogenesis", "o": "pancreatic adenocarcinoma"}
+{"s": "weight gain", "p": "Contributes-To-Pathogenesis", "o": "hypertension"}
+{"s": "head ct", "p": "Diagnoses", "o": "cerebral infarction"}
+{"s": "substance abuse", "p": "Side-Effect", "o": "syncope"}
+{"s": "cystatin c rise", "p": "Biomarker-Of", "o": "acute kidney injury"}
+{"s": "cystic duct", "p": "Part-Of", "o": "biliary system"}
+{"s": "beta-lactam", "p": "Causes", "o": "allergic reaction"}
+{"s": "aortic valve", "p": "Expressed-In", "o": "right ventricle"}
+{"s": "CD4 Cell", "p": "Biomarker-Of", "o": "HIV Infection"}
+{"s": "mast cell activation", "p": "Causes", "o": "hives"}
+{"s": "video eeg", "p": "Contraindicated-For", "o": "seizure detection"}
+{"s": "estrogen", "p": "Treats", "o": "cognitive impairment"}
+{"s": "pi3-k/akt", "p": "Activates", "o": "anchorage-independent proliferation"}
+{"s": "Blood Sugar", "p": "Biomarker-Of", "o": "Diabetes Mellitus Type II"}
+{"s": "condom use", "p": "Has-Symptom", "o": "inconsistent condom use"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "depression"}
+{"s": "head ct", "p": "Diagnoses", "o": "moyamoya disease"}
+{"s": "causal variant", "p": "Part-Of", "o": "supergene"}
+{"s": "metastatic colon cancer", "p": "Biomarker-Of", "o": "ct scan"}
+{"s": "precursor cell", "p": "Part-Of", "o": "Hematopoietic system"}
+{"s": "foley catheter", "p": "Part-Of", "o": "genitourinary system"}
+{"s": "final inpatient blood", "p": "Biomarker-Of", "o": "Fever"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "myeloma"}
+{"s": "pain", "p": "Associated-With", "o": "redness"}
+{"s": "metabolic flexibility", "p": "Contributes-To-Pathogenesis", "o": "cancer"}
+{"s": "cd4 cell", "p": "Affects-Expression", "o": "Interleukin 2 Receptor Alpha Chain"}
+{"s": "comminuted intratrochanteric fracture", "p": "Located-In", "o": "left hip"}
+{"s": "Cyclin D1", "p": "Affects-Expression", "o": "Embryonal Rhabdomyosarcoma"}
+{"s": "diffuse ttp", "p": "Has-Symptom", "o": "abdominal pain"}
+{"s": "prior therapy", "p": "Interacts-With", "o": "experimental agent"}
+{"s": "left hand", "p": "Has-Symptom", "o": "redness"}
+{"s": "mrsa empyema", "p": "Diagnoses", "o": "pleural fluid culture"}
+{"s": "12 blood", "p": "Biomarker-Of", "o": "hypoxemic respiratory failure"}
+{"s": "final inpatient blood culture", "p": "Biomarker-Of", "o": "Infection"}
+{"s": "increased redness", "p": "Has-Symptom", "o": "jejunostomy tube site abscess"}
+{"s": "ureteral stent", "p": "Causes", "o": "mild left hydronephrosis"}
+{"s": "S1", "p": "Located-In", "o": "Spinal Cord"}
+{"s": "light transport", "p": "Affects-Expression", "o": "image quality"}
+{"s": "magn reson", "p": "Diagnoses", "o": "white adipose tissue"}
+{"s": "pain", "p": "Associated-With", "o": "swelling"}
+{"s": "weight loss", "p": "Affects-Expression", "o": "ambulatory systolic blood pressure reduction"}
+{"s": "denies si hi", "p": "Associated-With", "o": "depressed mood"}
+{"s": "DNA Methylation", "p": "Affects-Expression", "o": "Gene Expression"}
+{"s": "urinary tract", "p": "Located-In", "o": "ureters"}
+{"s": "abnormal hgb", "p": "Associated-With", "o": "hematuria"}
+{"s": "bariatric surgery", "p": "Used-For", "o": "long-term weight management"}
+{"s": "abnormal hgb", "p": "Has-Symptom", "o": "chronic anemia"}
+{"s": "unsaturated fatty acids", "p": "Affects-Expression", "o": "Dyslipidaemia"}
+{"s": "L5", "p": "Part-Of", "o": "Spinal Nerve"}
+{"s": "increased redness", "p": "Associated-With", "o": "abdominal pain"}
+{"s": "conduct problem", "p": "Associated-With", "o": "low self-control"}
+{"s": "ibuprofen", "p": "Treats", "o": "minor pain"}
+{"s": "perinatal hypoxia", "p": "Affects-Expression", "o": "dentate gyrus"}
+{"s": "birth weight", "p": "Biomarker-Of", "o": "term birth"}
+{"s": "pericardial effusion", "p": "Associated-With", "o": "bilateral pleural effusions"}
+{"s": "PI3K pathway activation", "p": "Affects-Expression", "o": "cell cycle"}
+{"s": "Tylenol", "p": "Treats", "o": "minor pain"}
+{"s": "left mid-temporal sharp wave discharges", "p": "Biomarker-Of", "o": "focal irritability"}
+{"s": "atrial fibrillation", "p": "Contributes-To-Pathogenesis", "o": "increased cardiac demand"}
+{"s": "left proximal femur", "p": "Located-In", "o": "left hip"}
+{"s": "urine culture", "p": "Used-For", "o": "diagnosis of urinary tract infection"}
+{"s": "loss of adaptive homeostasis", "p": "Contributes-To-Pathogenesis", "o": "mitochondrial protein aggregates"}
+{"s": "left hip fracture", "p": "Has-Symptom", "o": "hip pain"}
+{"s": "high fat", "p": "Affects-Expression", "o": "Leptin resistance"}
+{"s": "nk cell", "p": "Expressed-In", "o": "epithelial cell"}
+{"s": "depressive symptom", "p": "Associated-With", "o": "hostility"}
+{"s": "urinary tract", "p": "Located-In", "o": "bladder"}
+{"s": "cce/cck", "p": "Part-Of", "o": "protein complex"}
+{"s": "small establishments", "p": "Associated-With", "o": "latino workers"}
+{"s": "abnormal totbili", "p": "Biomarker-Of", "o": "Thoracic Outlet Syndrome"}
+{"s": "L1-L2 Fracture", "p": "Affects-Expression", "o": "L5"}

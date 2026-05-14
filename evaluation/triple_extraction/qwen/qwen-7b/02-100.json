@@ -1,0 +1,100 @@
+{"s": "monocyte recruitment", "p": "Causes", "o": "macrophage burden"}
+{"s": "left main coronary artery", "p": "Expressed-In", "o": "coronary artery"}
+{"s": "pt", "p": "Has-Symptom", "o": "cough"}
+{"s": "help", "p": "Expressed-In", "o": "hyaluronan and elastin-like protein"}
+{"s": "post ictal period", "p": "Has-Symptom", "o": "seizure history"}
+{"s": "flail chest", "p": "Located-In", "o": "rib cage"}
+{"s": "heart failure", "p": "Affects-Expression", "o": "aortic stenosis"}
+{"s": "oxycodone-acetaminophen", "p": "Used-For", "o": "pain"}
+{"s": "cancer survivor", "p": "Diagnoses", "o": "Type 2 Diabetes Mellitus"}
+{"s": "left hip fracture", "p": "Has-Symptom", "o": "left hip pain"}
+{"s": "preventive service", "p": "Used-For", "o": "up-to-date with preventive care"}
+{"s": "help", "p": "Metabolizes", "o": "not applicable"}
+{"s": "young woman", "p": "Affects-Expression", "o": "education"}
+{"s": "gene amplification", "p": "Mutation-Affects-Disease", "o": "lung cancer"}
+{"s": "left hip fracture", "p": "Has-Symptom", "o": "hip pain"}
+{"s": "Glucose tolerance", "p": "Affects-Expression", "o": "Obesity"}
+{"s": "mek inhibitor", "p": "Inhibits", "o": "ras-raf-mitogen-activated protein kinase/extra-cellular signal-regulated kinase erk kinase mek"}
+{"s": "coronary artery", "p": "Treats", "o": "disease"}
+{"s": "hyponatremia", "p": "Has-Symptom", "o": "weakness"}
+{"s": "right facial droop", "p": "Associated-With", "o": "stroke"}
+{"s": "left knee", "p": "Located-In", "o": "operative extremity"}
+{"s": "docusate sodium", "p": "Used-For", "o": "General Indication"}
+{"s": "mek inhibitors", "p": "Affects-Expression", "o": "pi3k pathway"}
+{"s": "1,25-Dihydroxyvitamin D3", "p": "Activates", "o": "PPAR"}
+{"s": "pt", "p": "Associated-With", "o": "blood crp"}
+{"s": "serms", "p": "Treats", "o": "cognitive impairment"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "Symptom/Sign"}
+{"s": "trait hostility", "p": "Contributes-To-Pathogenesis", "o": "poor smoking cessation outcome"}
+{"s": "vessel", "p": "Located-In", "o": "brain"}
+{"s": "tumor cell", "p": "Activates", "o": "osteoblast activity"}
+{"s": "family caregiver", "p": "Affects-Expression", "o": "their own energy"}
+{"s": "Dynamic contrast-enhanced mri", "p": "Used-For", "o": "Quantitative dce-mri"}
+{"s": "generalized tonic clonic seizure", "p": "Has-Symptom", "o": "increased seizure frequency"}
+{"s": "Nonalcoholic fatty liver disease", "p": "Subtype-Of", "o": "Fatty liver disease"}
+{"s": "sarcoplasmic reticulum", "p": "Part-Of", "o": "muscle cell"}
+{"s": "Behcet's syndrome", "p": "Treats", "o": "infectious disease"}
+{"s": "dentate gyrus", "p": "Located-In", "o": "hippocampal formation"}
+{"s": "schwann cell", "p": "Part-Of", "o": "myelin segment"}
+{"s": "patient", "p": "Associated-With", "o": "adhd"}
+{"s": "mast cell", "p": "Expressed-In", "o": "tissue"}
+{"s": "pre-reaching activated csns", "p": "Located-In", "o": "spinal cord"}
+{"s": "patient", "p": "Diagnoses", "o": "deceased"}
+{"s": "tumor cell", "p": "Located-In", "o": "bone marrow"}
+{"s": "family caregiver", "p": "Associated-With", "o": "visitors"}
+{"s": "L5", "p": "Located-In", "o": "Spine"}
+{"s": "ms100a7a15", "p": "Expressed-In", "o": "mouse"}
+{"s": "coffee-ground emesis", "p": "Has-Symptom", "o": "esophageal adenocarcinoma"}
+{"s": "mitral valve", "p": "Affects-Expression", "o": "mitral annular calcification"}
+{"s": "hbv dna", "p": "Treats", "o": "Hepatocellular Carcinoma"}
+{"s": "small airway inflammation", "p": "Located-In", "o": "lung"}
+{"s": "c57/bl6 mtdna", "p": "Causes", "o": "increased bioenergetic dysfunction"}
+{"s": "renal failure", "p": "Diagnoses", "o": "status post renal transplant on renal suppression"}
+{"s": "acute kidney injury", "p": "Contributes-To-Pathogenesis", "o": "aminoglycoside nephrotoxicity"}
+{"s": "outpatient psychiatrist", "p": "Diagnoses", "o": "alcohol dependence"}
+{"s": "left ureteral stent", "p": "Located-In", "o": "left ureter"}
+{"s": "crispr cas9", "p": "Used-For", "o": "Genome Editing"}
+{"s": "L5", "p": "Expressed-In", "o": "Sensory-L2"}
+{"s": "Macrophage", "p": "Has-Symptom", "o": "Foam Cell Formation"}
+{"s": "ck-mb", "p": "Affects-Expression", "o": "trop t"}
+{"s": "pre-grasping activated csns", "p": "Located-In", "o": "spinal cord"}
+{"s": "blood culture", "p": "Associated-With", "o": "confusion"}
+{"s": "mri detection of membrane potential", "p": "Expressed-In", "o": "brain"}
+{"s": "ythdf1", "p": "Activates", "o": "translation"}
+{"s": "mir-17-92 cluster", "p": "Activates", "o": "creb1"}
+{"s": "metastatic colon cancer", "p": "Treats", "o": "colon ca s/p resection"}
+{"s": "acute kidney injury", "p": "Biomarker-Of", "o": "serum cystatin c"}
+{"s": "operative extremity", "p": "Affects-Expression", "o": "right lower extremity"}
+{"s": "ponatinib", "p": "Used-For", "o": "treatment of patients with ret gene fusions"}
+{"s": "Sig tablet", "p": "Used-For", "o": "Diagnosis and treatment of gastrointestinal symptoms"}
+{"s": "MDA-MB-231 cells", "p": "Has-Symptom", "o": "Cell Cycle Arrest"}
+{"s": "n-terminal pro-brain natriuretic peptide", "p": "Expressed-In", "o": "myocardium"}
+{"s": "heart failure", "p": "Has-Symptom", "o": "decreased exercise tolerance"}
+{"s": "infected cell", "p": "Expressed-In", "o": "aeedes albopictus c6/36"}
+{"s": "iv vancomycin", "p": "Used-For", "o": "Pulmonary scc s/p resection with recurrence rul pet-avid lesion s/p rfa r hydropneumothorax complicated by bronchopleural fistula rul pulmonary abscess/empyema with mrsa"}
+{"s": "dicer", "p": "Metabolizes", "o": "pre-mirna"}
+{"s": "shortness of breath", "p": "Has-Symptom", "o": "year old male with pmhx non-ischemic cardiomyopathy permanent atrial fibrillation on warfarin and hypertension"}
+{"s": "telomere length", "p": "Affects-Expression", "o": "renal cell carcinoma risk"}
+{"s": "schizophrenia/schizoaffective disorder", "p": "Diagnoses", "o": "psychiatric history"}
+{"s": "patient", "p": "Associated-With", "o": "antithrombotic therapy"}
+{"s": "metformin", "p": "Activates", "o": "ampk"}
+{"s": "subarachnoid hemorrhage", "p": "Biomarker-Of", "o": "malignant carcinoid of the bowel"}
+{"s": "Angioedema", "p": "Associated-With", "o": "mast cell activation"}
+{"s": "complex partial seizure", "p": "Causes", "o": "intractable seizures"}
+{"s": "atypical right-sided mediastinal contour", "p": "Located-In", "o": "mediastinum"}
+{"s": "obese", "p": "Treats", "o": "Type 2 Diabetes Mellitus"}
+{"s": "il-12p70", "p": "Activates", "o": "th1 response"}
+{"s": "rfs-mycs62a", "p": "Expressed-In", "o": "mouse"}
+{"s": "cystic duct", "p": "Expressed-In", "o": "Liver"}
+{"s": "active site cysteine", "p": "Expressed-In", "o": "ubiquitin protein ligase"}
+{"s": "mutant p53 protein", "p": "Activates", "o": "SDF-1"}
+{"s": "kidney disease", "p": "Mutation-Affects-Disease", "o": "acute kidney injury"}
+{"s": "64cu-dota-vmip-ii", "p": "Affects-Expression", "o": "macrophage burden"}
+{"s": "incidence rate", "p": "Affects-Expression", "o": "hodgkin lymphoma"}
+{"s": "service neurology", "p": "Used-For", "o": "Diagnoses"}
+{"s": "coffee ground emesis", "p": "Causes", "o": "esophageal thickening"}
+{"s": "left hand", "p": "Located-In", "o": "finger"}
+{"s": "aortic stenosis", "p": "Causes", "o": "gi bleed"}
+{"s": "breakthrough seizure", "p": "Has-Symptom", "o": "epilepsy"}
+{"s": "self esteem", "p": "Affects-Expression", "o": "chq-pf28"}
+{"s": "c7-t1", "p": "Expressed-In", "o": "left-sided disc herniation"}

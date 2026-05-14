@@ -1,0 +1,283 @@
+query,target,pred,correct
+CHF,Congestive Heart Failure,Congestive Heart Failure,True
+high blood pressure,Hypertension,Hypertension,True
+short of breath,Shortness of Breath,Dyspnea,False
+dyspnea,Dyspnea,Difficulty breathing,False
+breathless,Shortness of Breath,Dyspnea,False
+Hypertensive,Hypertension,Hypertension,True
+Lisinopril,Lisinopril,Lisinopril,True
+HCTZ,Hydrochlorothiazide,Hydrochlorothiazide,True
+Statin,Statin,HMG-CoA Reductase Inhibitor,False
+Lipitor,Lipitor,Atorvastatin,False
+Atorvastatin,Atorvastatin,Atorvastatin,True
+ASA,Aspirin,Acetylsalicylic acid,False
+aspirin,Aspirin,Aspirin,True
+stroke,Stroke,Cerebrovascular Accident,False
+AIS,Acute Ischemic Stroke,Acute Inflammatory Demyelinating Polyradiculoneuropathy,False
+TIA,Transient Ischemic Attack,Transient Ischemic Attack,True
+Afib,Atrial Fibrillation,Atrial Fibrillation,True
+a fib,Atrial Fibrillation,Atrial Fibrillation,True
+CAD,Coronary Artery Disease,Coronary Artery Disease,True
+CABG,Coronary Artery Bypass Graft,Coronary Artery Bypass Grafting,True
+AVR,Aortic Valve Replacement,Arteriovenous Malformation,False
+AS,Aortic Stenosis,Aspirin,False
+MR,Mitral Valve,Magnetic Resonance Imaging,False
+LVH,left ventricular hypertrophy,left ventricular hypertrophy,True
+EF,left ventricle,E2,False
+metop succinate,Metoprolol Succinate,Metoprolol Succinate,True
+Metoprolol tartrate,Metoprolol Tartrate,METOPROLOL TARTRATE,True
+NT-proBNP,NT-proBNP,N-terminal pro b-type natriuretic peptide,False
+BNP,NT-proBNP,Natriuretic Peptide B-Type,False
+heart failure,Heart failure,Heart Failure,True
+CHF,Congestive Heart Failure,Congestive Heart Failure,True
+pulmonary edema,Pulmonary edema,Pulmonary Edema,True
+pleural effusions,Pleural Effusion,Pleural Effusion,True
+Lasix,Furosemide,Furosemide,True
+PE,Acute Pulmonary Embolism,Pulmonary Embolism,False
+Type 2 DM,Diabetes Mellitus Type II,Diabetes Mellitus Type II,True
+DM2,Diabetes Mellitus Type II,Diabetes Mellitus Type II,True
+T1DM,Type 1 Diabetes Mellitus,Type 1 diabetes mellitus,True
+DM,Diabetes Mellitus,Diabetes Mellitus,True
+High blood sugar,High Blood Sugar,Hyperglycemia,False
+blood glucose,Blood Glucose,Blood Glucose,True
+metformin,Metformin,Metformin,True
+Insulin,Insulin,Insulin,True
+Prediabetes,Prediabetes,Impaired Glucose Regulation,False
+IGT,Impaired glucose tolerance,IgE,False
+IFG,Impaired fasting glucose,Impaired Fasting Glucose,True
+A1c,Elevated A1c,Hemoglobin A1c,False
+Hypothyroidism,Hypothyroidism,Hypothyroidism,True
+Synthroid,Levothyroxine sodium,Levothyroxine sodium,True
+CKD,Chronic Kidney Disease,Chronic Kidney Disease,True
+ESRD,end-stage renal disease,End Stage Renal Disease,False
+HD,Dialysis,HDR,False
+Hemodialysis,hemodialysis unit,hemodialysis,False
+AKI,Acute Kidney Injury,Acute Kidney Injury,True
+Creat,Creat,Serum Creatinine,True
+creatinine,Abnormal Creatinine,Serum Creatinine,False
+Cystatin C,Cystatin C,Cystatin C,True
+renal insufficiency,Chronic Renal Insufficiency,Chronic Renal Insufficiency,True
+UTI,Urinary Tract Infection,Urinary Tract Infection,True
+Pyelo,Pyelonephritis,Pyelonephritis,True
+cipro,Ciprofloxacin,Ciprofloxacin,True
+Hematuria,Hematuria,Hematuria,True
+Foley,Foley Catheter,Foley Catheter,True
+retention,Urinary Retention,Urinary retention,True
+Flomax,Tamsulosin,tamsulosin,True
+BPH,Benign Prostatic Hypertrophy,Benign Prostatic Hyperplasia,False
+TURP,Transurethral Resection,Transurethral Resection Of The Prostate,True
+prostate cancer,Prostate Cancer,Prostate Cancer,True
+Bladder mass,Bladder Mass,Mass of bladder,False
+stent,Nephroureteral Stent,Stent,False
+obstruction,Urinary Tract Obstruction,Obstruction,False
+Urethral obstruction,Urethral Obstruction,Urethral Obstruction,True
+Hydronephrosis,moderate hydronephrosis,Hydronephrosis,False
+cysts,Renal Cysts,Cysts,False
+PKD,Polycystic Kidney Disease,Polycystic Kidney Disease,True
+APKD,adult polycystic kidney disease,Abdominal Pain Killer Drug,False
+horseshoe kidney,horseshoe kidney,Horseshoe kidney,True
+renal artery,Renal Artery,Renal Artery,True
+left renal artery,Left Renal Artery,Left Renal Artery,True
+Sepsis,Sepsis,Sepsis,True
+Bacteremia,Bacteremia,bacteremia,True
+Blood cultures,blood culture,blood culture,True
+Urine cx,Urine Culture,urine culture,True
+Fever,Fever,fever,True
+Febrile neutropenia,Febrile Neutropenia,Febrile Neutropenia,True
+Neutropenia,Neutropenia,Neutropenia Associated-With Abnormal Blood,True
+CBC,Complete Blood Count (CBC),Complete Blood Count,False
+MCV,MCV,Mean Corpuscular Volume,False
+anemia,Anemia,Anemia,True
+IDA,Iron Deficiency Anemia,Interstitial Lung Disease,False
+ACD,Anemia of Chronic Disease,Aortic Calcific Disease,False
+GI bleed,GI Bleed,Gastrointestinal Hemorrhage,False
+warfarin,Warfarin,Warfarin,True
+Thrombocytopenia,Thrombocytopenia,Thrombocytopenia,True
+Vanc,Vancomycin,Vancomycin,True
+IV vanc,IV Vancomycin,Intravenous Vancomycin,False
+Meropenem,Meropenem,meropenem,True
+Tobra,tobramycin,tobramycin,True
+Doxy,Doxycycline,Doxycycline,True
+Zithromax,Azithromycin,Azithromycin,True
+URI,Upper Respiratory Infection,Urinary Tract Infection,False
+asthma exacerbation,Asthma Exacerbation,Asthma Exacerbation,True
+Albuterol,Albuterol,Albuterol,True
+Pred,Prednisone,Prednisone,True
+Decadron,Decadron,Dexamethasone,False
+Dex,Dexamethasone,Dexamethasone,True
+Wheezing,Wheezing,wheeze,False
+wheeze,expiratory wheeze,Wheezing,False
+Chest tightness,chest tightness,chest tightness,True
+cough,Dry Cough,Cough,False
+COPD,COPD,Chronic Obstructive Pulmonary Disease,False
+Asthma,Asthma/COPD,Asthma,False
+PNA,Multifocal Pneumonia,Pneumonia,False
+Aspiration PNA,Aspiration,Pneumonia,False
+necrotizing pneumonia,Necrotizing Pneumonia,Necrotizing pneumonia,True
+respiratory distress,Respiratory Distress,Dyspnea,False
+hypoxemic resp failure,hypoxemic respiratory failure,Hypoxemic respiratory failure,True
+Chest tube,Chest Tube,Thoracostomy Tube,False
+empyema,MRSA Empyema/Abscess,Pulmonary Abscess/Empeyema,False
+Atelectasis,Atelectasis,Collapse of lung tissue affecting all or most of the lungs residual air remains in the 2/3rd part of the lungs,False
+Chest CT,Chest CT,Computed Tomography of the Chest,False
+CXR,Chest CT,Chest X-ray,False
+Head CT,Head CT,CT Head,False
+CT head,CT head w/o contrast,Head CT,False
+CT Head,CT Head,Head CT,False
+ICH,intracranial hemorrhage,Intraparenchymal Hemorrhage,False
+IPH,Intraparenchymal Hemorrhage,Intraperitoneal hemorrhage,False
+SDH,Subdural Hematoma,Subdural Hematoma,True
+SAH,Subarachnoid Hemorrhage,Subarachnoid Hemorrhage,True
+CNS,Central Nervous System,Central Nervous System,True
+BBB,Blood-Brain Barrier,Blood Brain Barrier,False
+meningioma,meningioma,Meningioma,True
+calcified meningioma,right frontal calcified meningioma,meningioma,False
+AVM,AVM,Arteriovenous Malformation,False
+seizure disorder,Seizure Disorder,Epilepsy,False
+CPS,Complex Partial Seizure,Child Protective Services,False
+post-ictal,Post-ictal period,Post-ictal period,True
+vEEG,Video EEG,Video Electroencephalogram,False
+EEG,eeg monitoring,Electroencephalogram,False
+Keppra,Levetiracetam,Levetiracetam,True
+Zonegran,Zonisamide,zonisamide,True
+Lorazepam,Lorazepam,Lorazepam,True
+Ativan,Risperdal and Ativan,Lorazepam,False
+Epilepsy,Epilepsy,Epilepsy,True
+non-epileptic seizures,Non-epileptiform seizures,Non-epileptiform seizures,True
+withdrawal seizures,Alcohol Withdrawal,Alcohol Withdrawal Causes Seizures,True
+AUD,Alcohol Use Disorder,Alcohol Use Disorder,True
+Alcohol abuse,Alcohol Abuse,Alcohol use disorder,False
+alcoholic cirrhosis,Alcoholic Cirrhosis,Alcoholic Cirrhosis,True
+alcoholic hepatitis,Alcoholic Hepatitis,Alcoholic Hepatitis,True
+cirrhosis,cirrhosis,Liver Cirrhosis,True
+CLD,Chronic Liver Disease,Coronary Artery Disease,False
+HE,Hepatic Encephalopathy,Hepatic Encephalopathy,True
+Lactulose,Lactulose,Lactulose,True
+Rifaximin,Rifaximin,Bacterial Infection,False
+Ascites,Ascites,Ascites,True
+portal HTN,portal hypertension,Portal Hypertension,True
+varices,esophageal varices,esophageal varices,True
+portal gastropathy,portal gastropathy,Portal gastropathy,True
+AMS,Altered Mental Status,Angina,False
+TME,Toxic Metabolic Encephalopathy,Tumor Microenvironment,False
+hallucinations,Visual Hallucinations,Hallucinations,False
+delirium,Delirium,Hypernatremia,False
+hypernatremia,Hypernatremia,Hypernatremia,True
+hyponatremia,Hyponatremia,Hyponatremia,True
+hypokalemia,Hypokalemia,Hypokalemia,True
+K,K,Potassium,False
+Na,Na,narcotic pain reliever,True
+Cl,Cl,Clopidogrel,True
+HCO3,Hco3,Bicarbonate,False
+Anion gap,Angap,Anion Gap,False
+BUN,Urean,Blood Urea Nitrogen,False
+lactic acidosis,lactic acidosis,Lactic Acidosis,True
+metformin toxicity,metformin toxicity,Lactic acidosis,False
+ALT,ALT,Alanine Transaminase,False
+liver disease,Liver disease,Liver Disease,True
+liver biopsy,liver biopsy,Liver Biopsy,True
+CK,Blood CK,Creatine Kinase,False
+CK-MB,CK-MB,Creatine kinase MB,False
+MI,Myocardial Infarction,MICA,False
+fibromyalgia,Fibromyalgia,Fibromyalgia,True
+esophageal CA,esophageal cancer,Esophageal Cancer,True
+adenoCA,Esophageal Adenocarcinoma,adenocarcinoma,False
+coffee ground emesis,Coffee Ground Emesis,Hematemesis,False
+dysphagia,Dysphagia/Odynophagia,Dysphagia/Odynophagia,True
+stricture,Esophageal Stricture,Stricture,False
+stent,Esophageal Stent,Stent,False
+GERD,Gastroesophageal Reflux Disease,Gastroesophageal Reflux Disease,True
+omeprazole,Omeprazole,Omeprazole,True
+pantoprazole,Pantoprazole,Pantoprazole,True
+ranitidine,Ranitidine,Ranitidine,True
+colon cancer,Colon Cancer,Colonic Adenocarcinoma,False
+metastatic colon CA,Metastatic Colon Cancer,Metastatic Colorectal Adenocarcinoma,False
+colonic adenoCA,Colonic Adenocarcinoma,Colonic Adenocarcinoma,True
+liver mets,Right Lobe of the Liver,Liver Metastases,False
+cholangio,cholangiocarcinoma,Cholangiocarcinoma,True
+pancreatic CA,pancreatic cancer,Pancreatic Ductal Adenocarcinoma,False
+breast CA,Breast Cancer,Breast Cancer,True
+prostate CA,Prostate Cancer,Prostatic Neoplasms,False
+SCLC,Non-Small Cell Lung Cancer,Small Cell Lung Cancer,False
+NSCLC,Non-small cell lung cancer,Non-Small Cell Lung Cancer,True
+lung CA,Lung Cancer,Lung Neoplasms,False
+OPSCC,Oropharyngeal Squamous Cell Carcinoma,Oropharyngeal Squamous Cell Carcinoma,True
+HPV,HPV,Human Papillomavirus,False
+cervical CA,Cervical Cancer,Cervical Cancer,True
+thyroid CA,Thyroid cancer,Thyroid Cancer,True
+ATC,Anaplastic Thyroid Carcinoma,Oral Anticoagulation Therapy,False
+BRAF,BRAF V600E,"B-Raf proto-oncogene, serine/threonine kinase",False
+RCC,Renal Cell Carcinoma,Red Cell Count,False
+Glioma,Glioma,Glioma,True
+mets,multiple hemorrhagic cerebral metastases,Metoprolol Succinate,False
+vasogenic edema,vasogenic edema,Vasogenic edema,True
+brain mets,Brain Metastases,Brain Metastases,True
+rad necrosis,Radiation Necrosis,Radiation Necrosis,True
+tonsillar CA,Tonsillar Carcinoma,Tonsillar Carcinoma,True
+EMT,EMT,Epithelial-to-mesenchymal transition,False
+epithelial mesenchymal transition,epithelial-mesenchymal transition,Epithelial-mesenchymal transition,True
+TGF,TGF,transforming growth factor,False
+TGFBR2,TGFBR2,tgf type ii receptor,False
+USP11,USP11,Ubiquitin carboxyl-terminal hydrolase 11,False
+Dicer,Dicer,DICER1,True
+miRNA,MicroRNAs,MicroRNA,False
+AGO2,AGO2,Argonaute RISC Catalytic Component 2,False
+RISC,RISC,MicroRNA-induced silencing complex,False
+Let-7,Let-7 Family of miRNAs,"There is no information in the reference knowledge provided that relates to ""Let-7"". The reference knowledge appears to be about associations between various terms, but none of them mention ""Let-7"".
+
+However, based on external knowledge, I can tell you that ""Let-7"" is a type of microRNA. If you're looking for a standard canonical medical term, it would likely be ""let-7 microRNA"".",False
+Kras,Kras 3' UTR,KRAS gene,False
+MEK inhibitors,MEK inhibitors,Mitogen-activated protein kinase kinase inhibitors,False
+PI3K,PI3K pathway,Phosphatidylinositol 3-kinase,False
+PIK3CA,PIK3CA mutation,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha",False
+ERK,ERK signaling,Extracellular Signal-Regulated Kinase,False
+SHH,Hedgehog Pathway Activity,"There is no information provided about ""SHH"" in the reference knowledge, so I couldn't find a match.",False
+BRCA2,BRCA2 Mutation,BRCA2,False
+apoptosis,Apoptosis,Cell death,False
+oxidative stress,Oxidative Stress,Oxidative Stress,True
+ROS,reactive oxygen species,reactive oxygen species,True
+mtDNA,mitochondrial DNA,mitochondrial DNA,True
+DMD,Duchenne Muscular Dystrophy,Duchenne Muscular Dystrophy,True
+HIV,HIV,Human Immunodeficiency Virus,False
+ART,Antiretroviral Therapy (ART),Antiretroviral Therapy,False
+CD4,CD4 count,CD4 cell,False
+HAND,HAND,HIV-associated neurocognitive disorder,False
+Ipi,Ipilimumab,Ipilimumab,True
+Nivo,Nivolumab,Nivolumab,True
+Paclitaxel,Paclitaxel,Paclitaxel,True
+Ang1005,Ang1005,Angiopep-2,False
+MDD,major depressive disorder,Major Depressive Disorder,True
+depression,depression,Depression,True
+SI,suicidal ideation,Suicidal Ideation,True
+suicidal thoughts,suicidal thoughts,Suicidal Ideation,False
+anhedonia,anhedonia,major depressive disorder,False
+BPD,bipolar disorder,Borderline Personality Disorder,False
+schizophrenia,schizophrenia,Schizophrenia,True
+paranoid schizophrenia,Paranoid Schizophrenia,Paranoid Schizophrenia,True
+BPD,borderline personality disorder,Borderline Personality Disorder,True
+ADHD,ADHD,Attention Deficit Hyperactivity Disorder,False
+anxiety,Anxiety,Anxiety Disorder,True
+panic attack,Panic Attack,Panic Attack,True
+polysubstance abuse,polysubstance abuse,Polysubstance-related disorder,False
+SUD,Substance Use Disorder,Substance Use Disorder,True
+cannabis,Cannabis,Cannabis Abuse Unspecified with Psychotic Disorder with Delusions,True
+avoiding eye contact,poor eye contact,poor eye contact,True
+anomia,word finding difficulty,Anomia,False
+memory lapses,memory lapses,Memory lapses,True
+cognitive changes,cognitive changes,Cognitive Decline,False
+tremulousness,tremulousness,Tremulousness,True
+facial droop,Facial Droop,Facial Weakness,False
+R arm/leg weakness,Right Arm and Leg Weakness,Hemiparesis,False
+paresthesias,Paresthesias,Paresthesias,True
+disc herniation,Disc Herniation,Disc Herniation,True
+cervical stenosis,cervical stenosis,Spinal Stenosis,False
+spinal stenosis,Spinal Stenosis,Spinal Stenosis,True
+DDD,Degenerative Disk Disease,Degenerative Disk Disease,True
+myelopathy,Myelopathy,Myelopathy,True
+SCI,Spinal Cord Injury,Spinal Cord Injury,True
+L hip fx,left hip fracture,left hip fracture,True
+ORIF,open reduction internal fixation,Open Reduction Internal Fixation,True
+distal femur fx,distal femur fracture,Distal femur fracture,True
+gangrene,gangrene,Gangrene,True
+PVD,peripheral vascular disease,Peripheral Vascular Disease,True
+ERCP,ERCP,Endoscopic Retrograde Cholangiopancreatography,False

@@ -1,0 +1,281 @@
+query,target,predicted,score,correct
+CHF,Congestive Heart Failure,HCT,0.53448254,False
+high blood pressure,Hypertension,blood pressure,0.8694,False
+short of breath,Shortness of Breath,shortness of breath,0.87429726,True
+dyspnea,Dyspnea,Dyspnea,1.0,True
+breathless,Shortness of Breath,Lung,0.51499957,False
+Hypertensive,Hypertension,Hypertension,0.8100378,True
+Lisinopril,Lisinopril,Lisinopril,1.0,True
+HCTZ,Hydrochlorothiazide,HCT,0.6809733,False
+Statin,Statin,Statin,0.9999999,True
+Lipitor,Lipitor,Lipitor,1.0000002,True
+Atorvastatin,Atorvastatin,Atorvastatin,1.0000001,True
+ASA,Aspirin,Angap,0.39184928,False
+aspirin,Aspirin,Aspirin,1.0,True
+stroke,Stroke,Stroke,0.9999999,True
+AIS,Acute Ischemic Stroke,Automatism,0.44910094,False
+TIA,Transient Ischemic Attack,Tat,0.6045522,False
+Afib,Atrial Fibrillation,rapid afib,0.706837,False
+a fib,Atrial Fibrillation,Fcer1a,0.39928642,False
+CAD,Coronary Artery Disease,Darc,0.4076331,False
+CABG,Coronary Artery Bypass Graft,Darc,0.42078072,False
+AVR,Aortic Valve Replacement,AVM,0.77227217,False
+AS,Aortic Stenosis,Ascites,0.543117,False
+MR,Mitral Valve,MR image,0.6634838,False
+LVH,left ventricular hypertrophy,MCH,0.38905522,False
+EF,left ventricle,TGF,0.53185767,False
+metop succinate,Metoprolol Succinate,Metoprolol Succinate,0.9126513,True
+Metoprolol tartrate,Metoprolol Tartrate,Metoprolol Tartrate,1.0000001,True
+NT-proBNP,NT-proBNP,NT-proBNP,1.0000004,True
+BNP,NT-proBNP,Right Flank,0.3442352,False
+heart failure,Heart failure,Heart failure,1.0,True
+CHF,Congestive Heart Failure,HCT,0.53448254,False
+pulmonary edema,Pulmonary edema,Pulmonary Edema,1.0000001,True
+pleural effusions,Pleural Effusion,Pleural effusions,1.0,False
+Lasix,Furosemide,plavix,0.5020774,False
+PE,Acute Pulmonary Embolism,Acute PE,0.6803815,False
+Type 2 DM,Diabetes Mellitus Type II,Diabetes Mellitus Type II,0.4403778,True
+DM2,Diabetes Mellitus Type II,Cd2,0.5144287,False
+T1DM,Type 1 Diabetes Mellitus,TGFBR2,0.4870594,False
+DM,Diabetes Mellitus,AVM,0.4341551,False
+High blood sugar,High Blood Sugar,High Blood Sugar,0.9999998,True
+blood glucose,Blood Glucose,Blood Glucose,0.9999999,True
+metformin,Metformin,Metformin,1.0,True
+Insulin,Insulin,Insulin,1.0000004,True
+Prediabetes,Prediabetes,Prediabetes,1.0000001,True
+IGT,Impaired glucose tolerance,IgE level,0.57573944,False
+IFG,Impaired fasting glucose,IgE level,0.51097447,False
+A1c,Elevated A1c,Elevated A1c,0.60680044,True
+Hypothyroidism,Hypothyroidism,Hypothyroidism,1.0000002,True
+Synthroid,Levothyroxine sodium,Levothyroxine sodium,0.539797,True
+CKD,Chronic Kidney Disease,CKD stage III,0.57585293,False
+ESRD,end-stage renal disease,ERCP,0.5658146,False
+HD,Dialysis,HDR,0.7004623,False
+Hemodialysis,hemodialysis unit,Dialysis,0.8078871,False
+AKI,Acute Kidney Injury,Hafnia alvei,0.40939137,False
+Creat,Creat,Creat,1.0000001,True
+creatinine,Abnormal Creatinine,Serum Creatinine,0.824371,False
+Cystatin C,Cystatin C,Cystatin C,1.0000004,True
+renal insufficiency,Chronic Renal Insufficiency,renal insufficiency,1.0000005,False
+UTI,Urinary Tract Infection,Urinary Tract Infection,0.79491246,True
+Pyelo,Pyelonephritis,Klebsiella,0.46491405,False
+cipro,Ciprofloxacin,Ciprofloxacin,0.5765902,True
+Hematuria,Hematuria,Hematuria,1.0,True
+Foley,Foley Catheter,Foley Catheter,0.5624035,True
+retention,Urinary Retention,Urinary Retention,0.4870604,True
+Flomax,Tamsulosin,mucinex,0.56791276,False
+BPH,Benign Prostatic Hypertrophy,MCH,0.55043226,False
+TURP,Transurethral Resection,Urean,0.44386014,False
+prostate cancer,Prostate Cancer,Prostate Cancer,0.9999999,True
+Bladder mass,Bladder Mass,Bladder Mass,1.0000001,True
+stent,Nephroureteral Stent,Nephroureteral Stent,0.6875481,True
+obstruction,Urinary Tract Obstruction,Distraction,0.47006947,False
+Urethral obstruction,Urethral Obstruction,Urethral Obstruction,1.0,True
+Hydronephrosis,moderate hydronephrosis,hydronephrosis,1.0,False
+cysts,Renal Cysts,cystic lesions,0.78046733,False
+PKD,Polycystic Kidney Disease,MDD,0.48273736,False
+APKD,adult polycystic kidney disease,MDD,0.33356217,False
+horseshoe kidney,horseshoe kidney,horseshoe kidney,1.0,True
+renal artery,Renal Artery,Renal Artery,1.0000001,True
+left renal artery,Left Renal Artery,Left Renal Artery,0.9999998,True
+Sepsis,Sepsis,sepsis,1.0000002,True
+Bacteremia,Bacteremia,bacteremia,1.0000002,True
+Blood cultures,blood culture,blood culture,0.9071528,True
+Urine cx,Urine Culture,Urine Culture,0.55481154,True
+Fever,Fever,fever,1.0,True
+Febrile neutropenia,Febrile Neutropenia,Febrile Neutropenia,1.0000001,True
+Neutropenia,Neutropenia,Neutropenia,1.0000004,True
+CBC,Complete Blood Count (CBC),Complete Blood Count (CBC),0.4680774,True
+MCV,MCV,MCV,1.0000004,True
+anemia,Anemia,anemia,1.0000004,True
+IDA,Iron Deficiency Anemia,Ipilimumab,0.37417623,False
+ACD,Anemia of Chronic Disease,MDD,0.5726885,False
+GI bleed,GI Bleed,GI Bleed,1.0,True
+warfarin,Warfarin,Warfarin,1.0000004,True
+Thrombocytopenia,Thrombocytopenia,Thrombocytopenia,1.0000002,True
+Vanc,Vancomycin,Vanc/Cefepime,0.7027377,False
+IV vanc,IV Vancomycin,Vanc/Cefepime,0.60906816,False
+Meropenem,Meropenem,meropenem,1.0000001,True
+Tobra,tobramycin,tobramycin,0.4978213,True
+Doxy,Doxycycline,Doxycycline,0.4707979,True
+Zithromax,Azithromycin,Zonisamide,0.772691,False
+URI,Upper Respiratory Infection,Urean,0.6359338,False
+asthma exacerbation,Asthma Exacerbation,Asthma Exacerbation,1.0,True
+Albuterol,Albuterol,Albuterol,1.0000001,True
+Pred,Prednisone,MDD,0.47788283,False
+Decadron,Decadron,Decadron,0.9999999,True
+Dex,Dexamethasone,MDD,0.48566642,False
+Wheezing,Wheezing,wheezing,1.0000004,True
+wheeze,expiratory wheeze,wheezing,0.48908618,False
+Chest tightness,chest tightness,chest tightness,0.99999994,True
+cough,Dry Cough,Cough,0.9999999,False
+COPD,COPD,COPD,0.99999964,True
+Asthma,Asthma/COPD,asthma,0.99999964,False
+PNA,Multifocal Pneumonia,Senna,0.44704786,False
+Aspiration PNA,Aspiration,Aspiration,0.60483325,True
+necrotizing pneumonia,Necrotizing Pneumonia,Necrotizing Pneumonia,1.0000002,True
+respiratory distress,Respiratory Distress,Respiratory Distress,0.9999998,True
+hypoxemic resp failure,hypoxemic respiratory failure,hypoxemic respiratory failure,0.7824929,True
+Chest tube,Chest Tube,chest tube,1.0000001,True
+empyema,MRSA Empyema/Abscess,MRSA Empyema/Abscess,0.629536,True
+Atelectasis,Atelectasis,Atelectasis,0.99999994,True
+Chest CT,Chest CT,Chest CT,1.0,True
+CXR,Chest CT,bcr abl1,0.44321823,False
+Head CT,Head CT,head ct,0.99999994,True
+CT head,CT head w/o contrast,CT Head,0.99999976,False
+CT Head,CT Head,CT Head,0.99999976,True
+ICH,intracranial hemorrhage,trapezii,0.3810976,False
+IPH,Intraparenchymal Hemorrhage,MCH,0.56020963,False
+SDH,Subdural Hematoma,MCH,0.5626524,False
+SAH,Subarachnoid Hemorrhage,MCH,0.4335051,False
+CNS,Central Nervous System,Central Nervous System,0.5823447,True
+BBB,Blood-Brain Barrier,TGFBR2,0.4342235,False
+meningioma,meningioma,meningioma,1.0000001,True
+calcified meningioma,right frontal calcified meningioma,right frontal calcified meningioma,0.8778949,True
+AVM,AVM,AVM,1.0000002,True
+seizure disorder,Seizure Disorder,Seizure Disorder,1.0000001,True
+CPS,Complex Partial Seizure,Inpatient psychiatric care,0.45163086,False
+post-ictal,Post-ictal period,Post-ictal period,0.82950497,True
+vEEG,Video EEG,Vivitrol,0.4275242,False
+EEG,eeg monitoring,eeg monitoring,0.7202785,True
+Keppra,Levetiracetam,Levetiracetam,0.63826764,True
+Zonegran,Zonisamide,trapezii,0.43553653,False
+Lorazepam,Lorazepam,Lorazepam,0.9999998,True
+Ativan,Risperdal and Ativan,Risperdal and Ativan,0.7017455,True
+Epilepsy,Epilepsy,Epilepsy,0.99999994,True
+non-epileptic seizures,Non-epileptiform seizures,Non-epileptiform seizures,0.9672429,True
+withdrawal seizures,Alcohol Withdrawal,Seizures,0.7114162,False
+AUD,Alcohol Use Disorder,Ang1005,0.40755233,False
+Alcohol abuse,Alcohol Abuse,Alcohol Abuse,1.0000002,True
+alcoholic cirrhosis,Alcoholic Cirrhosis,Alcoholic Cirrhosis,1.0000002,True
+alcoholic hepatitis,Alcoholic Hepatitis,Alcoholic Hepatitis,1.0000001,True
+cirrhosis,cirrhosis,cirrhosis,0.9999998,True
+CLD,Chronic Liver Disease,Cl,0.738164,False
+HE,Hepatic Encephalopathy,NHEJ,0.32304657,False
+Lactulose,Lactulose,Lactulose,0.9999999,True
+Rifaximin,Rifaximin,Rifaximin,1.0,True
+Ascites,Ascites,Ascites,1.0,True
+portal HTN,portal hypertension,hepatic portal system,0.48780364,False
+varices,esophageal varices,esophageal varices,0.7038033,True
+portal gastropathy,portal gastropathy,portal gastropathy,1.0,True
+AMS,Altered Mental Status,AVM,0.45219755,False
+TME,Toxic Metabolic Encephalopathy,Tat,0.46443477,False
+hallucinations,Visual Hallucinations,hallucinations,1.0000001,False
+delirium,Delirium,Delirium,1.0,True
+hypernatremia,Hypernatremia,Hypernatremia,0.9999999,True
+hyponatremia,Hyponatremia,Hyponatremia,1.0,True
+hypokalemia,Hypokalemia,Hypokalemia,0.99999994,True
+K,K,K,1.0,True
+Na,Na,Na,0.99999994,True
+Cl,Cl,Cl,1.0000002,True
+HCO3,Hco3,Hco3,1.0,True
+Anion gap,Angap,air leak,0.28359836,False
+BUN,Urean,Insulin,0.35879827,False
+lactic acidosis,lactic acidosis,lactic acidosis,1.0000001,True
+metformin toxicity,metformin toxicity,metformin toxicity,1.0000001,True
+ALT,ALT,ALT,1.0000001,True
+liver disease,Liver disease,liver disease,1.0000001,True
+liver biopsy,liver biopsy,Liver Biopsy,1.0,True
+CK,Blood CK,Blood CK,0.59822387,True
+CK-MB,CK-MB,CK-MB,0.9999999,True
+MI,Myocardial Infarction,MCV,0.38692456,False
+fibromyalgia,Fibromyalgia,Fibromyalgia,1.0,True
+esophageal CA,esophageal cancer,esophageal cancer,0.6824628,True
+adenoCA,Esophageal Adenocarcinoma,adenocarcinoma,0.7536193,False
+coffee ground emesis,Coffee Ground Emesis,Coffee Ground Emesis,1.0,True
+dysphagia,Dysphagia/Odynophagia,Dysphagia/Odynophagia,0.87769073,True
+stricture,Esophageal Stricture,Colonic Stricture,0.56124127,False
+stent,Esophageal Stent,Nephroureteral Stent,0.6875481,False
+GERD,Gastroesophageal Reflux Disease,gastroesophageal reflux disease (GERD),0.6568768,False
+omeprazole,Omeprazole,Omeprazole,1.0000002,True
+pantoprazole,Pantoprazole,Pantoprazole,0.9999999,True
+ranitidine,Ranitidine,Ranitidine,1.0,True
+colon cancer,Colon Cancer,Colon Cancer,1.0,True
+metastatic colon CA,Metastatic Colon Cancer,Metastatic Colon Cancer,0.77451795,True
+colonic adenoCA,Colonic Adenocarcinoma,Colonic Adenocarcinoma,0.9199766,True
+liver mets,Right Lobe of the Liver,liver disease,0.7092244,False
+cholangio,cholangiocarcinoma,cholangitis,0.7758442,False
+pancreatic CA,pancreatic cancer,Pancreatic Ductal Dilation,0.68420684,False
+breast CA,Breast Cancer,Breast growth,0.6379134,False
+prostate CA,Prostate Cancer,Prostate gland,0.69832397,False
+SCLC,Non-Small Cell Lung Cancer,Cl,0.5479928,False
+NSCLC,Non-small cell lung cancer,Darc,0.52121514,False
+lung CA,Lung Cancer,Lung,0.7652562,False
+OPSCC,Oropharyngeal Squamous Cell Carcinoma,Darc,0.53799856,False
+HPV,HPV,HPV,1.0000002,True
+cervical CA,Cervical Cancer,cervical stenosis,0.6380957,False
+thyroid CA,Thyroid cancer,Hypothyroidism,0.5746135,False
+ATC,Anaplastic Thyroid Carcinoma,Darc,0.5696378,False
+BRAF,BRAF V600E,BRAF V600E,0.57013565,True
+RCC,Renal Cell Carcinoma,RBC,0.6093906,False
+Glioma,Glioma,Glioma,1.0,True
+mets,multiple hemorrhagic cerebral metastases,asthma,0.33058253,False
+vasogenic edema,vasogenic edema,vasogenic edema,1.0000002,True
+brain mets,Brain Metastases,brain,0.608941,False
+rad necrosis,Radiation Necrosis,Radiation Necrosis,0.7299403,True
+tonsillar CA,Tonsillar Carcinoma,Tonsillar Carcinoma,0.5317137,True
+EMT,EMT,EMT,1.0000001,True
+epithelial mesenchymal transition,epithelial-mesenchymal transition,epithelial-mesenchymal transition,0.98288053,True
+TGF,TGF,TGF,1.0000004,True
+TGFBR2,TGFBR2,TGFBR2,1.0,True
+USP11,USP11,USP11,1.0000008,True
+Dicer,Dicer,Dicer,1.0000002,True
+miRNA,MicroRNAs,miRNA Expression,0.6708719,False
+AGO2,AGO2,AGO2,1.0000001,True
+RISC,RISC,RISC,1.0000002,True
+Let-7,Let-7 Family of miRNAs,negative for changes,0.45070446,False
+Kras,Kras 3' UTR,Kras 3' UTR,0.77278364,True
+MEK inhibitors,MEK inhibitors,MEK inhibitors,1.0000002,True
+PI3K,PI3K pathway,PI3K pathway,0.64396185,True
+PIK3CA,PIK3CA mutation,PIK3CA mutation,0.5445649,True
+ERK,ERK signaling,erk signaling,0.6147851,True
+SHH,Hedgehog Pathway Activity,MCH,0.35714355,False
+BRCA2,BRCA2 Mutation,RBC,0.53344554,False
+apoptosis,Apoptosis,apoptosis,0.99999964,True
+oxidative stress,Oxidative Stress,oxidative stress,1.0,True
+ROS,reactive oxygen species,RISC,0.4845327,False
+mtDNA,mitochondrial DNA,mitochondrial DNA,0.7479424,True
+DMD,Duchenne Muscular Dystrophy,MDD,0.77578676,False
+HIV,HIV,HIV,0.99999976,True
+ART,Antiretroviral Therapy (ART),Automatism,0.4476069,False
+CD4,CD4 count,CD4,1.0000002,False
+HAND,HAND,HAND,1.0,True
+Ipi,Ipilimumab,Ipilimumab,0.53866065,True
+Nivo,Nivolumab,Nivolumab,0.7095609,True
+Paclitaxel,Paclitaxel,Paclitaxel,1.0,True
+Ang1005,Ang1005,Ang1005,0.9999999,True
+MDD,major depressive disorder,MDD,1.0000002,False
+depression,depression,depression,0.99999976,True
+SI,suicidal ideation,Denies SI/Hi,0.5308052,False
+suicidal thoughts,suicidal thoughts,suicidal thoughts,0.9999997,True
+anhedonia,anhedonia,anhedonia,1.0000001,True
+BPD,bipolar disorder,borderline personality disorder,0.7145603,False
+schizophrenia,schizophrenia,Schizophrenia,0.9999998,True
+paranoid schizophrenia,Paranoid Schizophrenia,Paranoid Schizophrenia,1.0000004,True
+BPD,borderline personality disorder,borderline personality disorder,0.7145603,True
+ADHD,ADHD,ADHD,1.0,True
+anxiety,Anxiety,Anxiety,0.9999995,True
+panic attack,Panic Attack,Panic Attack,1.0000001,True
+polysubstance abuse,polysubstance abuse,polysubstance abuse,1.0000001,True
+SUD,Substance Use Disorder,ALT,0.4292941,False
+cannabis,Cannabis,Cannabis,1.0000002,True
+avoiding eye contact,poor eye contact,poor eye contact,0.7504082,True
+anomia,word finding difficulty,anhedonia,0.49692652,False
+memory lapses,memory lapses,memory lapses,0.9999999,True
+cognitive changes,cognitive changes,cognitive changes,1.0000002,True
+tremulousness,tremulousness,Tremulousness,1.0000004,True
+facial droop,Facial Droop,Facial Droop,1.0000002,True
+R arm/leg weakness,Right Arm and Leg Weakness,Right Arm and Leg Weakness,0.80385095,True
+paresthesias,Paresthesias,Paresthesias,1.0,True
+disc herniation,Disc Herniation,Disc Herniation,1.0000001,True
+cervical stenosis,cervical stenosis,cervical stenosis,1.0000001,True
+spinal stenosis,Spinal Stenosis,Spinal Stenosis,1.0000002,True
+DDD,Degenerative Disk Disease,MDD,0.7901536,False
+myelopathy,Myelopathy,Myelopathy,0.9999997,True
+SCI,Spinal Cord Injury,scintillator,0.49903563,False
+L hip fx,left hip fracture,hip,0.48605978,False
+ORIF,open reduction internal fixation,Iopamidol,0.3451337,False
+distal femur fx,distal femur fracture,right distal femur,0.7306912,False
+gangrene,gangrene,gangrene,1.0,True
+PVD,peripheral vascular disease,MDD,0.5048813,False
+ERCP,ERCP,ERCP,1.0000002,True

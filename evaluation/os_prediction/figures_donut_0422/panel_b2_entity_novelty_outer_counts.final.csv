@@ -1,0 +1,22 @@
+﻿entity_type,entity_type_label,merged_node_total,novelty_group,node_count
+biological_process,Biological process,30851,Base-existing,28642
+biological_process,Biological process,30851,Text-added,2209
+gene/protein,Gene/protein,28513,Base-existing,27610
+gene/protein,Gene/protein,28513,Text-added,903
+disease,Disease,18064,Base-existing,17080
+disease,Disease,18064,Text-added,984
+effect/phenotype,Effect/phenotype,17841,Base-existing,15311
+effect/phenotype,Effect/phenotype,17841,Text-added,2530
+anatomy,Anatomy,15665,Base-existing,14033
+anatomy,Anatomy,15665,Text-added,1632
+molecular_function,Molecular function,11306,Base-existing,11169
+molecular_function,Molecular function,11306,Text-added,137
+drug,Drug,8701,Base-existing,7957
+drug,Drug,8701,Text-added,744
+cellular_component,Cellular component,4679,Base-existing,4176
+cellular_component,Cellular component,4679,Text-added,503
+exposure,Exposure,3696,Base-existing,818
+exposure,Exposure,3696,Text-added,2878
+pathway,Pathway,2573,Base-existing,2516
+pathway,Pathway,2573,Text-added,57
+procedure,Procedure,16,Text-added,16

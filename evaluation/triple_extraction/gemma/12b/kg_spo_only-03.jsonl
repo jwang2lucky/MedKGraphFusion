@@ -1,0 +1,1391 @@
+{"s": "marrow biopsy", "p": "Part-Of", "o": "bone marrow"}
+{"s": "bone marrow", "p": "Part-Of", "o": "lymphoma"}
+{"s": "bone marrow", "p": "Biomarker-Of", "o": "DLBCL-ABC"}
+{"s": "bone marrow biopsy", "p": "Diagnoses", "o": "lymphoma"}
+{"s": "cd4 cell", "p": "Associated-With", "o": "lymphoma"}
+{"s": "marrow biopsy", "p": "Diagnoses", "o": "lymphoma"}
+{"s": "cell", "p": "Part-Of", "o": "lymphoma"}
+{"s": "coronary artery", "p": "Part-Of", "o": "aorta"}
+{"s": "aortic valve", "p": "Expressed-In", "o": "aorta"}
+{"s": "aortic valve", "p": "Has-Symptom", "o": "tricuspid regurgitation"}
+{"s": "aortic valve", "p": "Has-Symptom", "o": "aortic regurgitation"}
+{"s": "aortic valve", "p": "Has-Symptom", "o": "mitral valve morphology"}
+{"s": "right arm", "p": "Located-In", "o": "lower extremity"}
+{"s": "lower extremity", "p": "Associated-With", "o": "weakness"}
+{"s": "femoral artery", "p": "Part-Of", "o": "lower extremity"}
+{"s": "operative extremity", "p": "Located-In", "o": "lower extremity"}
+{"s": "femoral artery", "p": "Located-In", "o": "lower extremity"}
+{"s": "right leg", "p": "Located-In", "o": "lower extremity"}
+{"s": "lower extremity", "p": "Part-Of", "o": "body"}
+{"s": "left knee", "p": "Located-In", "o": "left distal femur"}
+{"s": "left knee", "p": "Associated-With", "o": "left femur fracture"}
+{"s": "operative extremity", "p": "Part-Of", "o": "left knee"}
+{"s": "left femur fracture", "p": "Associated-With", "o": "left knee"}
+{"s": "operative extremity", "p": "Associated-With", "o": "strength"}
+{"s": "incision", "p": "Associated-With", "o": "operative extremity"}
+{"s": "operative extremity", "p": "Associated-With", "o": "wound"}
+{"s": "operative extremity", "p": "Associated-With", "o": "mobility"}
+{"s": "narcotic pain medication", "p": "Used-For", "o": "pain relief"}
+{"s": "narcotic pain medication", "p": "Side-Effect", "o": "diarrhea"}
+{"s": "narcotic pain medication", "p": "Side-Effect", "o": "constipation"}
+{"s": "narcotic pain medication", "p": "Side-Effect", "o": "loose stool"}
+{"s": "narcotic pain medication", "p": "Has-Symptom", "o": "stool incontinence"}
+{"s": "narcotic pain medication", "p": "Treats", "o": "pain relief"}
+{"s": "docusate sodium", "p": "Used-For", "o": "constipation"}
+{"s": "senna", "p": "Used-For", "o": "constipation"}
+{"s": "oxycodone", "p": "Side-Effect", "o": "constipation"}
+{"s": "docusate sodium capsule", "p": "Used-For", "o": "constipation"}
+{"s": "patient", "p": "Has-Symptom", "o": "constipation"}
+{"s": "patient", "p": "Has-Symptom", "o": "diarrhea"}
+{"s": "docusate sodium", "p": "Used-For", "o": "diarrhea"}
+{"s": "patient", "p": "Has-Symptom", "o": "facial droop"}
+{"s": "facial droop", "p": "Located-In", "o": "face"}
+{"s": "right facial droop", "p": "Associated-With", "o": "left subcortical"}
+{"s": "right facial droop", "p": "Associated-With", "o": "stroke consult"}
+{"s": "right facial droop", "p": "Has-Symptom", "o": "right sided weakness"}
+{"s": "patient", "p": "Has-Symptom", "o": "right facial droop"}
+{"s": "right facial droop", "p": "Associated-With", "o": "stroke"}
+{"s": "right facial droop", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "right facial droop", "p": "Associated-With", "o": "left cortical"}
+{"s": "bloody stools", "p": "Has-Symptom", "o": "patient"}
+{"s": "urine", "p": "Has-Symptom", "o": "hematuria"}
+{"s": "patient", "p": "Has-Symptom", "o": "hematuria"}
+{"s": "ascending colon", "p": "Associated-With", "o": "colitis"}
+{"s": "colitis", "p": "Has-Symptom", "o": "abdominal pain"}
+{"s": "ascending colon", "p": "Has-Symptom", "o": "abdominal pain"}
+{"s": "ascending colon", "p": "Located-In", "o": "small bowel"}
+{"s": "j tube site", "p": "Has-Symptom", "o": "redness"}
+{"s": "j tube site", "p": "Side-Effect", "o": "redness"}
+{"s": "j tube site", "p": "Associated-With", "o": "tenderness"}
+{"s": "j tube site", "p": "Associated-With", "o": "induration"}
+{"s": "left hand", "p": "Associated-With", "o": "redness"}
+{"s": "left hand", "p": "Has-Symptom", "o": "redness"}
+{"s": "right flank", "p": "Associated-With", "o": "tenderness"}
+{"s": "puncture site", "p": "Side-Effect", "o": "tenderness"}
+{"s": "narcotic pain", "p": "Side-Effect", "o": "hypoglycemic seizure"}
+{"s": "narcotic pain", "p": "Treats", "o": "pain"}
+{"s": "narcotic pain", "p": "Contraindicated-For", "o": "stool softener"}
+{"s": "narcotic pain", "p": "Side-Effect", "o": "constipation"}
+{"s": "patient", "p": "Has-Symptom", "o": "suicidal ideation"}
+{"s": "patient", "p": "Associated-With", "o": "anxiety"}
+{"s": "patient", "p": "Has-Symptom", "o": "anxiety"}
+{"s": "depression", "p": "Has-Symptom", "o": "poor sleep"}
+{"s": "sad mood", "p": "Has-Symptom", "o": "depression"}
+{"s": "psychiatric history", "p": "Associated-With", "o": "depression"}
+{"s": "patient", "p": "Has-Symptom", "o": "depression"}
+{"s": "levetiracetam", "p": "Treats", "o": "seizure"}
+{"s": "patient", "p": "Has-Symptom", "o": "seizure"}
+{"s": "eeg monitoring", "p": "Associated-With", "o": "seizure"}
+{"s": "video eeg", "p": "Diagnoses", "o": "seizure"}
+{"s": "breakthrough seizure", "p": "Has-Symptom", "o": "seizure"}
+{"s": "cell", "p": "Part-Of", "o": "sickle cell disease"}
+{"s": "genitourinary", "p": "Associated-With", "o": "foley catheter"}
+{"s": "foley catheter", "p": "Located-In", "o": "genitourinary"}
+{"s": "foley catheter", "p": "Part-Of", "o": "intraoperative procedure"}
+{"s": "foley catheter", "p": "Side-Effect", "o": "acute urinary retention"}
+{"s": "foley catheter", "p": "Side-Effect", "o": "discharge with foley catheter"}
+{"s": "uterine artery", "p": "Associated-With", "o": "uterine fibroids"}
+{"s": "uterine artery", "p": "Part-Of", "o": "uterus"}
+{"s": "uterine artery", "p": "Associated-With", "o": "embolization"}
+{"s": "uterine artery", "p": "Associated-With", "o": "menometromenorrhagia"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "embolization"}
+{"s": "multiple myeloma", "p": "Has-Symptom", "o": "fatigue"}
+{"s": "coronary artery bypass", "p": "Side-Effect", "o": "fatigue"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "fatigue"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "prostate cancer"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "prostate cancer"}
+{"s": "multiple myeloma", "p": "Mutation-Affects-Disease", "o": "prostate cancer"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "ischemic colitis"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "endocrinopathies"}
+{"s": "multiple myeloma", "p": "Associated-With", "o": "chordoma"}
+{"s": "spondylosis", "p": "Associated-With", "o": "spinal canal"}
+{"s": "spinal canal", "p": "Associated-With", "o": "foraminal narrowing"}
+{"s": "neural foraminal", "p": "Part-Of", "o": "spinal canal"}
+{"s": "spinal canal", "p": "Located-In", "o": "spine"}
+{"s": "spinal cord", "p": "Located-In", "o": "spinal canal"}
+{"s": "foraminal narrowing", "p": "Associated-With", "o": "spinal canal"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "lower back pain"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "right groin pain"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "right hip flexor weakness"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "epidural soft tissue mass"}
+{"s": "spinal cord", "p": "Contributes-To-Pathogenesis", "o": "spinal canal stenosis"}
+{"s": "ibuprofen", "p": "Treats", "o": "pain"}
+{"s": "ibuprofen", "p": "Used-For", "o": "pain"}
+{"s": "pain", "p": "Has-Symptom", "o": "osteoarthritis"}
+{"s": "shoulder pain", "p": "Associated-With", "o": "osteoarthritis"}
+{"s": "resume regular", "p": "Affects-Expression", "o": "gene"}
+{"s": "resume regular", "p": "Expressed-In", "o": "home"}
+{"s": "resume regular", "p": "Part-Of", "o": "home diet"}
+{"s": "inpatient blood", "p": "Gene-Regulates-Gene", "o": "gene"}
+{"s": "home diet", "p": "Part-Of", "o": "resume regular"}
+{"s": "daily continue", "p": "Associated-With", "o": "home"}
+{"s": "biliary obstruction", "p": "Associated-With", "o": "polycystic kidney disease"}
+{"s": "polycystic kidney disease", "p": "Associated-With", "o": "biliary obstruction"}
+{"s": "biliary obstruction", "p": "Causes", "o": "abdominal pain"}
+{"s": "ERCP", "p": "Treats", "o": "biliary obstruction"}
+{"s": "biliary obstruction", "p": "Contraindicated-For", "o": "coumadin"}
+{"s": "coumadin", "p": "Contraindicated-For", "o": "biliary obstruction"}
+{"s": "neural foraminal", "p": "Associated-With", "o": "spinal stenosis"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "degenerative disk disease"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "fibromyalgia"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "multiple sclerosis"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "thoracic outlet syndrome"}
+{"s": "spinal stenosis", "p": "Associated-With", "o": "myasthenia"}
+{"s": "patient", "p": "Has-Symptom", "o": "chest pain"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "shortness of breath"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "Disease"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "mitral regurgitation"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "atrial fibrillation"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "aortic stenosis"}
+{"s": "dysuria", "p": "Has-Symptom", "o": "patient"}
+{"s": "eeg monitoring", "p": "Associated-With", "o": "nausea"}
+{"s": "ms", "p": "Has-Symptom", "o": "nausea"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "nausea"}
+{"s": "chronic pancreatitis", "p": "Associated-With", "o": "nausea"}
+{"s": "zofran odt tablet", "p": "Used-For", "o": "nausea"}
+{"s": "prochlorperazine", "p": "Used-For", "o": "nausea"}
+{"s": "patient", "p": "Has-Symptom", "o": "nausea"}
+{"s": "patient", "p": "Has-Symptom", "o": "vomiting"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "vomiting"}
+{"s": "zofran odt tablet", "p": "Used-For", "o": "vomiting"}
+{"s": "rectal no obvious external lesions", "p": "Has-Symptom", "o": "patient"}
+{"s": "service urology", "p": "Associated-With", "o": "retroperitoneal sarcoma"}
+{"s": "service urology", "p": "Associated-With", "o": "b12 deficiency"}
+{"s": "service urology", "p": "Associated-With", "o": "bph"}
+{"s": "service urology", "p": "Associated-With", "o": "hyperlipidemia"}
+{"s": "service urology", "p": "Associated-With", "o": "ankylosing spondylitis"}
+{"s": "service urology", "p": "Associated-With", "o": "iron deficiency"}
+{"s": "ankylosing spondylitis", "p": "Associated-With", "o": "service urology"}
+{"s": "simvastatin", "p": "Treats", "o": "hyperlipidemia"}
+{"s": "subdural hematoma", "p": "Associated-With", "o": "hyperlipidemia"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "hyperlipidemia"}
+{"s": "b12 deficiency", "p": "Associated-With", "o": "service urology"}
+{"s": "retroperitoneal sarcoma", "p": "Associated-With", "o": "service urology"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "small-cell lung ca"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "type 2 diabetes"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "coronary artery disease"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "bladder ca"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "hypertension"}
+{"s": "coronary artery disease", "p": "Associated-With", "o": "diabetes"}
+{"s": "coronary artery disease", "p": "Associated-With", "o": "dyslipidemia"}
+{"s": "coronary artery disease", "p": "Associated-With", "o": "hypertension"}
+{"s": "coronary artery bypass", "p": "Treats", "o": "coronary artery disease"}
+{"s": "patient", "p": "Used-For", "o": "regular food"}
+{"s": "patient", "p": "Used-For", "o": "oral medications"}
+{"s": "bone marrow biopsy", "p": "Associated-With", "o": "plasma cells"}
+{"s": "bone marrow biopsy", "p": "Part-Of", "o": "lymphoma"}
+{"s": "bone marrow biopsy", "p": "Associated-With", "o": "multiple myeloma"}
+{"s": "marrow biopsy", "p": "Associated-With", "o": "plasma cells"}
+{"s": "coronary artery", "p": "Associated-With", "o": "diabetes mellitus type i"}
+{"s": "right frontal lobe", "p": "Located-In", "o": "brain"}
+{"s": "right frontal lobe", "p": "Associated-With", "o": "encephalomalacia"}
+{"s": "brain", "p": "Part-Of", "o": "nervous system"}
+{"s": "right temporal", "p": "Part-Of", "o": "brain"}
+{"s": "left parietal", "p": "Located-In", "o": "brain"}
+{"s": "video eeg", "p": "Expressed-In", "o": "brain"}
+{"s": "hippocampus", "p": "Located-In", "o": "brain"}
+{"s": "keppra", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "keppra", "p": "Affects-Expression", "o": "thrombocytopenia"}
+{"s": "lamictal", "p": "Affects-Expression", "o": "thrombocytopenia"}
+{"s": "lamictal", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "argatroban", "p": "Affects-Expression", "o": "thrombocytopenia"}
+{"s": "argatroban", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "thought content", "p": "Associated-With", "o": "thought process"}
+{"s": "patient", "p": "Associated-With", "o": "thought process"}
+{"s": "thought process", "p": "Associated-With", "o": "logical"}
+{"s": "thought process", "p": "Associated-With", "o": "thought content"}
+{"s": "thought process", "p": "Associated-With", "o": "linear"}
+{"s": "thought process", "p": "Associated-With", "o": "normal"}
+{"s": "patient", "p": "Has-Symptom", "o": "thought process"}
+{"s": "acyclovir", "p": "Treats", "o": "infection"}
+{"s": "blood culture", "p": "Diagnoses", "o": "infection"}
+{"s": "blood culture", "p": "Contributes-To-Pathogenesis", "o": "infection"}
+{"s": "blood culture", "p": "Biomarker-Of", "o": "infection"}
+{"s": "blood culture", "p": "Side-Effect", "o": "infection"}
+{"s": "acyclovir", "p": "Used-For", "o": "infection"}
+{"s": "blood culture", "p": "Associated-With", "o": "infection"}
+{"s": "left parietal", "p": "Associated-With", "o": "metastasis"}
+{"s": "transgenic mouse", "p": "Associated-With", "o": "metastasis"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "metastasis"}
+{"s": "word finding difficulty", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Associated-With", "o": "panic attacks"}
+{"s": "patient", "p": "Has-Symptom", "o": "finding difficulty"}
+{"s": "patient", "p": "Side-Effect", "o": "tremulousness"}
+{"s": "agitation", "p": "Side-Effect", "o": "patient"}
+{"s": "l5", "p": "Part-Of", "o": "spine"}
+{"s": "l5", "p": "Part-Of", "o": "thoracolumbar junction"}
+{"s": "l5", "p": "Located-In", "o": "thoracolumbar junction"}
+{"s": "l5", "p": "Located-In", "o": "spine"}
+{"s": "l5", "p": "Associated-With", "o": "hip pain"}
+{"s": "l5", "p": "Located-In", "o": "s1"}
+{"s": "s1", "p": "Part-Of", "o": "lumbar spine"}
+{"s": "s1", "p": "Located-In", "o": "spine"}
+{"s": "s1", "p": "Part-Of", "o": "thoracolumbar junction"}
+{"s": "lumbar spine", "p": "Part-Of", "o": "vertebral column"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Cognitive deficits"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Memory concerns"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Paranoia"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Anemia"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Guardedness"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Hallucinations"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Suspicion"}
+{"s": "Hallucinations", "p": "Has-Symptom", "o": "Patient"}
+{"s": "Paranoia", "p": "Has-Symptom", "o": "Patient"}
+{"s": "Guardedness", "p": "Has-Symptom", "o": "Patient"}
+{"s": "MCV", "p": "Has-Symptom", "o": "Anemia"}
+{"s": "MCV", "p": "Associated-With", "o": "Anemia"}
+{"s": "Anemia", "p": "Has-Symptom", "o": "MCV"}
+{"s": "MCV", "p": "Biomarker-Of", "o": "Anemia"}
+{"s": "MCV", "p": "Subtype-Of", "o": "Red blood cell indices"}
+{"s": "Anemia", "p": "Associated-With", "o": "Cirrhosis"}
+{"s": "mitral valve leaflets", "p": "Has-Symptom", "o": "mildly thickened mitral valve leaflets"}
+{"s": "mitral valve", "p": "Has-Symptom", "o": "mildly thickened mitral valve leaflets"}
+{"s": "aortic valve leaflets", "p": "Has-Symptom", "o": "mildly thickened aortic valve leaflets"}
+{"s": "aortic valve", "p": "Has-Symptom", "o": "mildly thickened aortic valve leaflets"}
+{"s": "aortic valve leaflets", "p": "Has-Symptom", "o": "focal calcifications"}
+{"s": "video eeg", "p": "Associated-With", "o": "cortical irritability"}
+{"s": "video eeg", "p": "Associated-With", "o": "left temporal region"}
+{"s": "video eeg", "p": "Associated-With", "o": "left mid-temporal sharp wave discharges"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal alt"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal alkphos"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal ldh"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal ast"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal hco3"}
+{"s": "abnormal totbili", "p": "Associated-With", "o": "abnormal ld"}
+{"s": "abnormal hco3", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "abnormal alt", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "abnormal ast", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "abnormal ld", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "abnormal ldh", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "abnormal alkphos", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "small bowel", "p": "Part-Of", "o": "abdomen"}
+{"s": "small bowel", "p": "Associated-With", "o": "atherosclerotic disease"}
+{"s": "small bowel", "p": "Located-In", "o": "abdomen"}
+{"s": "small bowel", "p": "Part-Of", "o": "gastrointestinal system"}
+{"s": "bcr abl1", "p": "Associated-With", "o": "panhypopituitarism"}
+{"s": "bcr abl1", "p": "Associated-With", "o": "atrial fibrillation"}
+{"s": "bcr abl1", "p": "Associated-With", "o": "recurrent dvts"}
+{"s": "metoprolol succinate", "p": "Treats", "o": "atrial fibrillation"}
+{"s": "subdural hematoma", "p": "Associated-With", "o": "atrial fibrillation"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "renal failure"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "anemia"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "hypovolemia"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "ketones"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "metabolic acidosis"}
+{"s": "renal failure", "p": "Side-Effect", "o": "anemia"}
+{"s": "abnormal rbc", "p": "Has-Symptom", "o": "anemia"}
+{"s": "05 blood", "p": "Has-Symptom", "o": "anemia"}
+{"s": "abnormal rbc", "p": "Associated-With", "o": "anemia"}
+{"s": "abnormal blood", "p": "Associated-With", "o": "metabolic acidosis"}
+{"s": "ketones", "p": "Associated-With", "o": "abnormal 12 blood"}
+{"s": "abnormal blood", "p": "Associated-With", "o": "hypovolemia"}
+{"s": "blood pressure", "p": "Associated-With", "o": "hypovolemia"}
+{"s": "atorvastatin", "p": "Used-For", "o": "high cholesterol"}
+{"s": "atorvastatin", "p": "Treats", "o": "high cholesterol"}
+{"s": "aspirin", "p": "Treats", "o": "high cholesterol"}
+{"s": "therapy", "p": "Treats", "o": "high cholesterol"}
+{"s": "aspirin", "p": "Used-For", "o": "high cholesterol"}
+{"s": "aspirin", "p": "Used-For", "o": "pain"}
+{"s": "blood pressure", "p": "Associated-With", "o": "aspirin"}
+{"s": "oxycodone tablet", "p": "Used-For", "o": "pain"}
+{"s": "hydrochlorothiazide", "p": "Treats", "o": "hypertension"}
+{"s": "lisinopril tablet", "p": "Used-For", "o": "hypertension"}
+{"s": "chest tube", "p": "Side-Effect", "o": "air leak"}
+{"s": "chest tube", "p": "Side-Effect", "o": "tongue swelling"}
+{"s": "chest tube", "p": "Located-In", "o": "right lower base"}
+{"s": "chest tube", "p": "Side-Effect", "o": "subcutaneous air"}
+{"s": "chest tube", "p": "Part-Of", "o": "right lower base"}
+{"s": "chest tube", "p": "Used-For", "o": "drainage"}
+{"s": "chest tube", "p": "Part-Of", "o": "right lung"}
+{"s": "denies si hi", "p": "Associated-With", "o": "denies si hi"}
+{"s": "denies si hi", "p": "Has-Symptom", "o": "denies si hi"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "mother"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "uncle"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "brother"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "family psychiatric history"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "father"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "siblings"}
+{"s": "past psychiatric", "p": "Associated-With", "o": "past medical history"}
+{"s": "family psychiatric history", "p": "Associated-With", "o": "past psychiatric"}
+{"s": "siblings", "p": "Associated-With", "o": "past psychiatric"}
+{"s": "uncle", "p": "Associated-With", "o": "past psychiatric"}
+{"s": "brother", "p": "Associated-With", "o": "past psychiatric"}
+{"s": "father", "p": "Subtype-Of", "o": "esophageal cancer"}
+{"s": "dmii", "p": "Associated-With", "o": "father"}
+{"s": "metastatic colon", "p": "Associated-With", "o": "father"}
+{"s": "mother", "p": "Associated-With", "o": "past psychiatric"}
+{"s": "mother", "p": "Associated-With", "o": "dmii"}
+{"s": "mother", "p": "Associated-With", "o": "borderline diabetes"}
+{"s": "mother", "p": "Subtype-Of", "o": "esophageal cancer"}
+{"s": "patient", "p": "Has-Symptom", "o": "limited eye contact"}
+{"s": "patient", "p": "Has-Symptom", "o": "restricted affect"}
+{"s": "neural foraminal", "p": "Associated-With", "o": "nerve root compression"}
+{"s": "l4", "p": "Part-Of", "o": "spine"}
+{"s": "05 blood", "p": "Associated-With", "o": "Disease"}
+{"s": "05 blood", "p": "Biomarker-Of", "o": "Disease"}
+{"s": "ck mb", "p": "Biomarker-Of", "o": "Disease"}
+{"s": "breath pain", "p": "Has-Symptom", "o": "Disease"}
+{"s": "ck mb", "p": "Enzyme-Activity", "o": "Disease"}
+{"s": "clonazepam", "p": "Used-For", "o": "insomnia"}
+{"s": "tablet sig tablet po", "p": "Used-For", "o": "insomnia"}
+{"s": "tablet sig tablet", "p": "Used-For", "o": "insomnia"}
+{"s": "oxycodone-acetaminophen", "p": "Used-For", "o": "pain"}
+{"s": "tablet sig tablet", "p": "Used-For", "o": "pain"}
+{"s": "right flank", "p": "Associated-With", "o": "pain"}
+{"s": "right flank", "p": "Associated-With", "o": "soft tissue swelling"}
+{"s": "right flank", "p": "Located-In", "o": "right side"}
+{"s": "right flank", "p": "Associated-With", "o": "rfa"}
+{"s": "right flank", "p": "Associated-With", "o": "edema"}
+{"s": "soft tissue swelling", "p": "Associated-With", "o": "right flank"}
+{"s": "left toe", "p": "Has-Symptom", "o": "edema"}
+{"s": "head ct", "p": "Diagnoses", "o": "edema"}
+{"s": "rfa", "p": "Associated-With", "o": "right flank"}
+{"s": "global ejection fraction", "p": "Biomarker-Of", "o": "left ventricle"}
+{"s": "systolic function", "p": "Associated-With", "o": "global ejection fraction"}
+{"s": "systolic function", "p": "Associated-With", "o": "right ventricle"}
+{"s": "systolic function", "p": "Associated-With", "o": "left ventricle"}
+{"s": "right ventricle", "p": "Expressed-In", "o": "right ventricle"}
+{"s": "urine", "p": "Biomarker-Of", "o": "disease"}
+{"s": "urine", "p": "Associated-With", "o": "disease"}
+{"s": "head ct", "p": "Diagnoses", "o": "mass"}
+{"s": "head ct", "p": "Diagnoses", "o": "hemorrhage"}
+{"s": "head ct", "p": "Diagnoses", "o": "infarction"}
+{"s": "mass", "p": "Diagnoses", "o": "mass"}
+{"s": "blood pressure", "p": "Associated-With", "o": "hypercholesterolemia"}
+{"s": "blood pressure", "p": "Associated-With", "o": "metoprolol"}
+{"s": "metoprolol", "p": "Used-For", "o": "hypotension"}
+{"s": "diltiazem", "p": "Treats", "o": "blood pressure"}
+{"s": "phenylephrine", "p": "Associated-With", "o": "blood pressure"}
+{"s": "demand ischemia", "p": "Associated-With", "o": "blood pressure"}
+{"s": "bowel loop", "p": "Part-Of", "o": "small intestine"}
+{"s": "tablet", "p": "Has-Symptom", "o": "tablet sig tablet po"}
+{"s": "tablet sig tablet po", "p": "Used-For", "o": "pain"}
+{"s": "tablet", "p": "Affects-Expression", "o": "tablet sig tablet po"}
+{"s": "tablet", "p": "Biomarker-Of", "o": "tablet sig tablet po"}
+{"s": "tablet", "p": "Side-Effect", "o": "tablet sig tablet po"}
+{"s": "tablet", "p": "Part-Of", "o": "tablet sig tablet po"}
+{"s": "cultureblood culture routine", "p": "Associated-With", "o": "pending"}
+{"s": "cultureblood culture routine", "p": "Part-Of", "o": "routine"}
+{"s": "cultureblood culture routine", "p": "Associated-With", "o": "routine"}
+{"s": "inpatient blood culture", "p": "Used-For", "o": "routine"}
+{"s": "inpatient blood culture", "p": "Used-For", "o": "pending"}
+{"s": "cultureblood culture", "p": "Contributes-To-Pathogenesis", "o": "disease"}
+{"s": "cultureblood culture", "p": "Metabolizes", "o": "enzyme"}
+{"s": "cultureblood culture", "p": "Mutation-Affects-Disease", "o": "disease"}
+{"s": "cultureblood culture", "p": "Enzyme-Activity", "o": "enzyme"}
+{"s": "cultureblood culture", "p": "Side-Effect", "o": "phenotype"}
+{"s": "cultureblood culture", "p": "Transports", "o": "solute"}
+{"s": "enzyme", "p": "Metabolizes", "o": "cultureblood culture"}
+{"s": "enzyme", "p": "Enzyme-Activity", "o": "cultureblood culture"}
+{"s": "inpatient blood", "p": "Side-Effect", "o": "phenotype"}
+{"s": "abnormal hgb", "p": "Associated-With", "o": "alcoholic cirrhosis"}
+{"s": "abnormal hgb", "p": "Has-Symptom", "o": "cirrhosis"}
+{"s": "abnormal hgb", "p": "Associated-With", "o": "renal u s study"}
+{"s": "abnormal hgb", "p": "Has-Symptom", "o": "chronic anemia"}
+{"s": "blood", "p": "Biomarker-Of", "o": "chronic anemia"}
+{"s": "renal u s study", "p": "Associated-With", "o": "abnormal hgb"}
+{"s": "abnormal hct", "p": "Has-Symptom", "o": "cirrhosis"}
+{"s": "abnormal hct", "p": "Associated-With", "o": "renal ultrasound"}
+{"s": "abnormal hct", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "abnormal hct", "p": "Associated-With", "o": "colonic angiectasias"}
+{"s": "abnormal hct", "p": "Associated-With", "o": "internal hemorrhoids"}
+{"s": "blood", "p": "Associated-With", "o": "renal ultrasound"}
+{"s": "colonic angiectasias", "p": "Associated-With", "o": "abnormal hct"}
+{"s": "chronic pancreatitis", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "non bleeding", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "esophageal varices", "p": "Located-In", "o": "esophagus"}
+{"s": "blood", "p": "Has-Symptom", "o": "wbc"}
+{"s": "blood", "p": "Biomarker-Of", "o": "renal failure"}
+{"s": "blood", "p": "Associated-With", "o": "glucose"}
+{"s": "blood", "p": "Associated-With", "o": "renal failure"}
+{"s": "blood", "p": "Associated-With", "o": "hcv"}
+{"s": "blood", "p": "Biomarker-Of", "o": "cirrhosis"}
+{"s": "operative extremity", "p": "Located-In", "o": "right knee"}
+{"s": "right leg", "p": "Has-Symptom", "o": "right sided weakness"}
+{"s": "operative extremity", "p": "Part-Of", "o": "right leg"}
+{"s": "right tkr", "p": "Associated-With", "o": "operative extremity"}
+{"s": "arthroscopic knee surgery", "p": "Treats", "o": "arthroscopic knee surgery"}
+{"s": "gum surgery", "p": "Associated-With", "o": "operative extremity"}
+{"s": "chest xray", "p": "Associated-With", "o": "abnormal finding"}
+{"s": "left main bronchus", "p": "Associated-With", "o": "abnormal finding"}
+{"s": "mediastinal vascular abnormality", "p": "Associated-With", "o": "abnormal finding"}
+{"s": "chest", "p": "Associated-With", "o": "abnormal finding"}
+{"s": "rib cage", "p": "Part-Of", "o": "chest"}
+{"s": "gallstones", "p": "Associated-With", "o": "gallstones"}
+{"s": "patient", "p": "Associated-With", "o": "gallstones"}
+{"s": "abdominal pain", "p": "Has-Symptom", "o": "gallstones"}
+{"s": "left ventricular", "p": "Associated-With", "o": "gallstones"}
+{"s": "gallstones", "p": "Associated-With", "o": "abdominal pain"}
+{"s": "common bile duct", "p": "Associated-With", "o": "gallstones"}
+{"s": "esophageal cancer", "p": "Located-In", "o": "ge junction"}
+{"s": "esophageal cancer", "p": "Has-Symptom", "o": "coffee ground emesis"}
+{"s": "coffee ground emesis", "p": "Has-Symptom", "o": "esophageal cancer"}
+{"s": "esophageal cancer", "p": "Causes", "o": "coffee ground emesis"}
+{"s": "esophageal stent", "p": "Part-Of", "o": "esophageal cancer"}
+{"s": "aortic valve leaflets 3", "p": "Binding", "o": "aortic valve"}
+{"s": "esophageal stricture", "p": "Expressed-In", "o": "esophagus"}
+{"s": "esophageal stent", "p": "Treats", "o": "esophageal stricture"}
+{"s": "esophageal stricture", "p": "Part-Of", "o": "esophagus"}
+{"s": "esophageal stricture", "p": "Causes", "o": "coffee ground emesis"}
+{"s": "esophageal stricture", "p": "Associated-With", "o": "gastroesophageal reflux disease"}
+{"s": "coffee ground emesis", "p": "Associated-With", "o": "esophageal stricture"}
+{"s": "esophageal stricture", "p": "Part-Of", "o": "esophageal"}
+{"s": "esophageal stricture", "p": "Located-In", "o": "esophagus"}
+{"s": "esophageal varix", "p": "Part-Of", "o": "esophagus"}
+{"s": "esophageal stent", "p": "Located-In", "o": "esophagus"}
+{"s": "linear", "p": "Associated-With", "o": "thought process"}
+{"s": "normal", "p": "Associated-With", "o": "thought process"}
+{"s": "mitral valve", "p": "Has-Symptom", "o": "moderate to severe 3 mitral regurgitation"}
+{"s": "glomerulonephritis", "p": "Causes", "o": "renal failure"}
+{"s": "renal insufficiency", "p": "Causes", "o": "renal failure"}
+{"s": "renal transplant", "p": "Treats", "o": "renal failure"}
+{"s": "dialysis", "p": "Treats", "o": "renal failure"}
+{"s": "resistant hypertension", "p": "Associated-With", "o": "stroke"}
+{"s": "left cortical", "p": "Associated-With", "o": "right facial droop"}
+{"s": "left subcortical", "p": "Associated-With", "o": "right facial droop"}
+{"s": "outpatient psychiatrist", "p": "Associated-With", "o": "major depressive disorder"}
+{"s": "outpatient psychiatrist", "p": "Associated-With", "o": "hypomania"}
+{"s": "patient", "p": "Used-For", "o": "physical therapy"}
+{"s": "physical therapy", "p": "Expressed-In", "o": "ambulate"}
+{"s": "physical therapy", "p": "Affects-Expression", "o": "gait balance training"}
+{"s": "physical therapy", "p": "Enzyme-Activity", "o": "adl s"}
+{"s": "physical therapy", "p": "Part-Of", "o": "rehabilitation"}
+{"s": "physical therapy", "p": "Used-For", "o": "mobilization"}
+{"s": "leg pain", "p": "Has-Symptom", "o": "patient"}
+{"s": "coughing fits", "p": "Has-Symptom", "o": "patient"}
+{"s": "hepatic encephalopathy", "p": "Associated-With", "o": "lactulose"}
+{"s": "lactulose", "p": "Treats", "o": "hepatic encephalopathy"}
+{"s": "hepatic encephalopathy", "p": "Has-Symptom", "o": "asterixis"}
+{"s": "rifaximin", "p": "Used-For", "o": "hepatic encephalopathy"}
+{"s": "altered mental", "p": "Associated-With", "o": "hepatic encephalopathy"}
+{"s": "altered mental status", "p": "Associated-With", "o": "hepatic encephalopathy"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "hepatic encephalopathy"}
+{"s": "cystic duct", "p": "Associated-With", "o": "stent"}
+{"s": "cystic duct", "p": "Part-Of", "o": "gallbladder"}
+{"s": "cystic duct", "p": "Associated-With", "o": "cholangiocarcinoma"}
+{"s": "cystic duct", "p": "Located-In", "o": "gallbladder"}
+{"s": "common bile duct", "p": "Located-In", "o": "gallbladder"}
+{"s": "femoral artery", "p": "Associated-With", "o": "stent"}
+{"s": "remnant cystic", "p": "Located-In", "o": "common bile duct"}
+{"s": "remnant cystic", "p": "Agonism-or-Antagonism", "o": "common bile duct"}
+{"s": "common bile duct", "p": "Associated-With", "o": "choledocolithiasis"}
+{"s": "remnant cystic", "p": "Part-Of", "o": "common bile duct"}
+{"s": "left ventricular", "p": "Associated-With", "o": "choledocolithiasis"}
+{"s": "poor eye contact", "p": "Has-Symptom", "o": "patient"}
+{"s": "spinal cord", "p": "Part-Of", "o": "c spine"}
+{"s": "spinal cord", "p": "Located-In", "o": "c spine"}
+{"s": "degenerative joint disease", "p": "Located-In", "o": "c spine"}
+{"s": "white matter", "p": "Associated-With", "o": "spinal cord injury"}
+{"s": "spinal cord injury", "p": "Associated-With", "o": "minor trauma"}
+{"s": "minor trauma", "p": "Associated-With", "o": "spinal cord injury"}
+{"s": "portal vein", "p": "Associated-With", "o": "ascites"}
+{"s": "portal vein", "p": "Associated-With", "o": "hypertriglyceridemia"}
+{"s": "portal vein", "p": "Associated-With", "o": "portal vein thrombus"}
+{"s": "portal vein", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "portal vein", "p": "Part-Of", "o": "abdomen"}
+{"s": "portal vein", "p": "Located-In", "o": "abdomen"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "ascites"}
+{"s": "ascites", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "ascites", "p": "Associated-With", "o": "portal hypertension"}
+{"s": "portal hypertension", "p": "Causes", "o": "ascites"}
+{"s": "right coronary artery", "p": "Located-In", "o": "coronary anatomy"}
+{"s": "circumflex", "p": "Located-In", "o": "coronary anatomy"}
+{"s": "ramus", "p": "Located-In", "o": "coronary anatomy"}
+{"s": "left main coronary artery", "p": "Located-In", "o": "coronary anatomy"}
+{"s": "left anterior descending", "p": "Located-In", "o": "coronary anatomy"}
+{"s": "imaging", "p": "Associated-With", "o": "bowel obstruction"}
+{"s": "bowel obstruction", "p": "Associated-With", "o": "imaging"}
+{"s": "bowel obstruction", "p": "Associated-With", "o": "abdominal pain"}
+{"s": "bowel obstruction", "p": "Associated-With", "o": "abdominal distention"}
+{"s": "hand surgery", "p": "Used-For", "o": "imaging"}
+{"s": "alcoholic hepatitis", "p": "Contributes-To-Pathogenesis", "o": "chronic alcohol abuse"}
+{"s": "chronic alcohol abuse", "p": "Associated-With", "o": "hepatic cirrhosis"}
+{"s": "chronic alcohol abuse", "p": "Associated-With", "o": "chronic pancytopenia"}
+{"s": "chronic alcohol abuse", "p": "Causes", "o": "chronic pancytopenia"}
+{"s": "chronic alcohol abuse", "p": "Causes", "o": "hepatic cirrhosis"}
+{"s": "metastatic colon", "p": "Contributes-To-Pathogenesis", "o": "colon cancer"}
+{"s": "metastatic colon", "p": "Associated-With", "o": "metastatic colon cancer"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "colon cancer"}
+{"s": "metastatic colon cancer", "p": "Associated-With", "o": "metastatic colon"}
+{"s": "urinary tract", "p": "Associated-With", "o": "UTI"}
+{"s": "urinary tract", "p": "Associated-With", "o": "nephrolithiasis"}
+{"s": "foley catheter", "p": "Located-In", "o": "urinary tract"}
+{"s": "urinary tract", "p": "Associated-With", "o": "kidney disease"}
+{"s": "urinary tract", "p": "Associated-With", "o": "cefpodoxime"}
+{"s": "urinary tract", "p": "Associated-With", "o": "ceftriaxone"}
+{"s": "nephrolithiasis", "p": "Associated-With", "o": "urinary tract"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "portal hypertension"}
+{"s": "variceal bleeding", "p": "Associated-With", "o": "portal hypertension"}
+{"s": "portal hypertension", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "variceal bleeding", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "SBP"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "varices"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "varices"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "renal tubular necrosis"}
+{"s": "alcoholic cirrhosis", "p": "Causes", "o": "protein calorie malnutrition"}
+{"s": "axillary lymph", "p": "Associated-With", "o": "metastatic melanoma"}
+{"s": "axillary lymph", "p": "Part-Of", "o": "left upper back"}
+{"s": "axillary lymph", "p": "Located-In", "o": "left upper back"}
+{"s": "esophageal stent", "p": "Causes", "o": "odynophagia"}
+{"s": "esophageal stent", "p": "Associated-With", "o": "odynophagia"}
+{"s": "coffee ground emesis", "p": "Associated-With", "o": "odynophagia"}
+{"s": "esophageal stent", "p": "Associated-With", "o": "dysphagia"}
+{"s": "coffee ground emesis", "p": "Associated-With", "o": "dysphagia"}
+{"s": "patient", "p": "Has-Symptom", "o": "dysphagia"}
+{"s": "esophageal stent", "p": "Associated-With", "o": "coffee-ground emesis"}
+{"s": "disulfiram-like side-effects", "p": "Side-Effect", "o": "patient"}
+{"s": "patient", "p": "Has-Symptom", "o": "seizures"}
+{"s": "eeg monitoring", "p": "Diagnoses", "o": "seizures"}
+{"s": "patient", "p": "Has-Symptom", "o": "withdrawal"}
+{"s": "patient", "p": "Has-Symptom", "o": "alcohol dependence/abuse"}
+{"s": "ambulatory eeg monitoring", "p": "Associated-With", "o": "partial-simple seizures"}
+{"s": "eeg monitoring", "p": "Associated-With", "o": "abdominal lapping sensation"}
+{"s": "eeg monitoring", "p": "Diagnoses", "o": "seizure disorder"}
+{"s": "eeg monitoring", "p": "Associated-With", "o": "delirium"}
+{"s": "breakthrough seizure", "p": "Associated-With", "o": "seizure disorder"}
+{"s": "abdominal lapping sensation", "p": "Associated-With", "o": "eeg monitoring"}
+{"s": "metoprolol succinate", "p": "Side-Effect", "o": "delirium"}
+{"s": "altered mental", "p": "Associated-With", "o": "delirium"}
+{"s": "altered mental status", "p": "Associated-With", "o": "delirium"}
+{"s": "intracranial hemorrhage", "p": "Associated-With", "o": "lacunar infarcts"}
+{"s": "intracranial hemorrhage", "p": "Associated-With", "o": "age-appropriate atrophy"}
+{"s": "lacunar infarcts", "p": "Located-In", "o": "white matter"}
+{"s": "white matter", "p": "Located-In", "o": "spinal cord"}
+{"s": "altered mental status", "p": "Has-Symptom", "o": "visual hallucinations"}
+{"s": "altered mental status", "p": "Associated-With", "o": "hepatic function"}
+{"s": "altered mental status", "p": "Associated-With", "o": "pharmacologically-induced delirium"}
+{"s": "altered mental status", "p": "Associated-With", "o": "ammonia"}
+{"s": "altered mental status", "p": "Associated-With", "o": "alcohol withdrawal"}
+{"s": "visual hallucinations", "p": "Has-Symptom", "o": "altered mental status"}
+{"s": "altered mental", "p": "Associated-With", "o": "ammonia"}
+{"s": "pharmacologically-induced delirium", "p": "Associated-With", "o": "altered mental status"}
+{"s": "alcohol withdrawal", "p": "Has-Symptom", "o": "altered mental status"}
+{"s": "gallstone", "p": "Associated-With", "o": "chronic pancreatitis"}
+{"s": "tablet po", "p": "Used-For", "o": "po"}
+{"s": "sig tablet", "p": "Used-For", "o": "po"}
+{"s": "tablet", "p": "Used-For", "o": "po"}
+{"s": "levofloxacin", "p": "Used-For", "o": "cap"}
+{"s": "levofloxacin", "p": "Treats", "o": "cap"}
+{"s": "amiodarone", "p": "Used-For", "o": "hypothyroidism"}
+{"s": "amiodarone", "p": "Treats", "o": "hypothyroidism"}
+{"s": "simvastatin", "p": "Used-For", "o": "hyperlipidemia"}
+{"s": "metoprolol", "p": "Treats", "o": "hypotension"}
+{"s": "blood pressure", "p": "Associated-With", "o": "hypotension"}
+{"s": "lesion", "p": "Located-In", "o": "left native kidney"}
+{"s": "lesion", "p": "Associated-With", "o": "cyst"}
+{"s": "lesion", "p": "Associated-With", "o": "kidney"}
+{"s": "lesion", "p": "Associated-With", "o": "proteinaceous content"}
+{"s": "lesion", "p": "Part-Of", "o": "kidney"}
+{"s": "jagged1", "p": "Expressed-In", "o": "kidney"}
+{"s": "endothelial cells", "p": "Associated-With", "o": "kidney"}
+{"s": "mir-34a", "p": "Expressed-In", "o": "kidney"}
+{"s": "kidney", "p": "Part-Of", "o": "adult organs"}
+{"s": "renal vascular endothelial cell", "p": "Located-In", "o": "kidney"}
+{"s": "coronary artery", "p": "Associated-With", "o": "atherosclerosis"}
+{"s": "coronary artery", "p": "Associated-With", "o": "calcification"}
+{"s": "12 blood", "p": "Associated-With", "o": "benzoyl"}
+{"s": "12 blood", "p": "Associated-With", "o": "acetmnp-neg"}
+{"s": "12 blood", "p": "Associated-With", "o": "asa-neg"}
+{"s": "12 blood", "p": "Associated-With", "o": "lipase"}
+{"s": "12 blood", "p": "Associated-With", "o": "barbitr-neg"}
+{"s": "12 blood", "p": "Associated-With", "o": "albumin"}
+{"s": "12 blood", "p": "Associated-With", "o": "tricycl-neg"}
+{"s": "blood", "p": "Associated-With", "o": "lipase"}
+{"s": "blood", "p": "Associated-With", "o": "albumin"}
+{"s": "blood", "p": "Associated-With", "o": "asa-neg"}
+{"s": "acetmnp-neg", "p": "Associated-With", "o": "blood"}
+{"s": "blood", "p": "Associated-With", "o": "benzoyl"}
+{"s": "barbitr-neg", "p": "Associated-With", "o": "blood"}
+{"s": "tricycl-neg", "p": "Associated-With", "o": "blood"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "left fronto-temporal epileptiform discharges"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "organized electrographic seizures"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "left right temporal lobe"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "periodic runs"}
+{"s": "left fronto-temporal epileptiform discharges", "p": "Has-Symptom", "o": "electrographic seizure"}
+{"s": "drain", "p": "Side-Effect", "o": "air leak"}
+{"s": "video eeg", "p": "Associated-With", "o": "epileptiform activity"}
+{"s": "video eeg", "p": "Associated-With", "o": "alpha rhythm"}
+{"s": "video eeg", "p": "Associated-With", "o": "theta slowing"}
+{"s": "video eeg", "p": "Associated-With", "o": "temporal slowing"}
+{"s": "creat", "p": "Associated-With", "o": "chronic renal failure"}
+{"s": "urean", "p": "Associated-With", "o": "chronic renal failure"}
+{"s": "abnormal creat", "p": "Associated-With", "o": "urean"}
+{"s": "insulin", "p": "Used-For", "o": "sliding scale"}
+{"s": "sliding scale", "p": "Associated-With", "o": "insulin"}
+{"s": "insulin", "p": "Side-Effect", "o": "hypoglycemia"}
+{"s": "sliding scale", "p": "Associated-With", "o": "hypoglycemia"}
+{"s": "diabetes mellitus", "p": "Associated-With", "o": "high fat"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "early satiety"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "dizziness"}
+{"s": "narcotic pain reliever", "p": "Side-Effect", "o": "dizziness"}
+{"s": "early satiety", "p": "Has-Symptom", "o": "diabetes mellitus"}
+{"s": "esophageal stent", "p": "Located-In", "o": "ge junction"}
+{"s": "esophageal thickening", "p": "Located-In", "o": "ge junction"}
+{"s": "enlarged prostate", "p": "Associated-With", "o": "difficulty emptying bladder"}
+{"s": "enlarged prostate", "p": "Associated-With", "o": "hydronephrosis"}
+{"s": "enlarged prostate", "p": "Associated-With", "o": "flomax"}
+{"s": "enlarged prostate", "p": "Associated-With", "o": "foley catheter"}
+{"s": "enlarged prostate", "p": "Associated-With", "o": "lower abdominal pain"}
+{"s": "flomax", "p": "Treats", "o": "enlarged prostate"}
+{"s": "coffee ground emesis", "p": "Associated-With", "o": "esophageal adenocarcinoma"}
+{"s": "coffee ground emesis", "p": "Associated-With", "o": "esophageal malignancy"}
+{"s": "esophageal stent", "p": "Causes", "o": "emesis"}
+{"s": "inpatient blood", "p": "Mutation-Affects-Disease", "o": "disease"}
+{"s": "inpatient blood", "p": "Contributes-To-Pathogenesis", "o": "disease"}
+{"s": "inpatient blood", "p": "Biomarker-Of", "o": "disease"}
+{"s": "inpatient blood", "p": "Biomarker-Of", "o": "condition"}
+{"s": "inpatient blood culture", "p": "Used-For", "o": "routine-pending"}
+{"s": "left ventricular", "p": "Associated-With", "o": "laparoscopic cholecystectomy"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "propranolol"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "hcv cirrhosis"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "transjugular intrahepatic portosystemic shunt"}
+{"s": "propranolol", "p": "Treats", "o": "esophageal varix"}
+{"s": "regular diet", "p": "Used-For", "o": "medical purpose"}
+{"s": "regular diet", "p": "Associated-With", "o": "voiding"}
+{"s": "regular diet", "p": "Associated-With", "o": "ambulating"}
+{"s": "regular diet", "p": "Associated-With", "o": "good tolerability"}
+{"s": "regular diet", "p": "Associated-With", "o": "pain control"}
+{"s": "drainage bag", "p": "Used-For", "o": "medical purpose"}
+{"s": "sudden cardiac death", "p": "Associated-With", "o": "father's side"}
+{"s": "early cad", "p": "Associated-With", "o": "father's side"}
+{"s": "h/o sudden cardiac death", "p": "Associated-With", "o": "cousin"}
+{"s": "cousin", "p": "Associated-With", "o": "sudden cardiac death"}
+{"s": "borderline diabetes", "p": "Associated-With", "o": "mother"}
+{"s": "dmii", "p": "Associated-With", "o": "mother"}
+{"s": "beta streptococcus group b", "p": "Associated-With", "o": "urine culture"}
+{"s": "alpha hemolytic colonies", "p": "Associated-With", "o": "urine culture"}
+{"s": "alpha streptococcus", "p": "Associated-With", "o": "urine culture"}
+{"s": "lactobacillus sp", "p": "Associated-With", "o": "urine culture"}
+{"s": "cbd stent", "p": "Diagnoses", "o": "pancreatic cancer"}
+{"s": "cbd stent", "p": "Used-For", "o": "cholangitis"}
+{"s": "cbd stent", "p": "Expressed-In", "o": "cbd"}
+{"s": "cbd stent", "p": "Part-Of", "o": "cbd"}
+{"s": "blood wbc", "p": "Associated-With", "o": "cholangitis"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "breast cancer"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "brain cancer"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "ovary cancer"}
+{"s": "drainage bag", "p": "Associated-With", "o": "fluid"}
+{"s": "drainage bag", "p": "Associated-With", "o": "fluid collection"}
+{"s": "foley catheter", "p": "Part-Of", "o": "urinary system"}
+{"s": "foley catheter", "p": "Used-For", "o": "urinary retention"}
+{"s": "foley catheter", "p": "Associated-With", "o": "oliguria"}
+{"s": "vicodin", "p": "Side-Effect", "o": "pain"}
+{"s": "oxycontin", "p": "Side-Effect", "o": "pain"}
+{"s": "oxycodone", "p": "Used-For", "o": "pain"}
+{"s": "oxycodone", "p": "Side-Effect", "o": "pain"}
+{"s": "jp drain", "p": "Part-Of", "o": "abdominal drain"}
+{"s": "rifaximin", "p": "Treats", "o": "C. difficile infection"}
+{"s": "biliary drainage", "p": "Associated-With", "o": "biliary and duodenal obstruction"}
+{"s": "biliary drainage", "p": "Diagnoses", "o": "biliary and duodenal obstruction"}
+{"s": "biliary drainage", "p": "Used-For", "o": "biliary and duodenal obstruction"}
+{"s": "biliary drainage", "p": "Expressed-In", "o": "common hepatic duct"}
+{"s": "biliary drainage", "p": "Part-Of", "o": "biliary and duodenal obstruction"}
+{"s": "common hepatic duct", "p": "Expressed-In", "o": "biliary drainage"}
+{"s": "albuterol inhaler", "p": "Side-Effect", "o": "chest tightness"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "prn sob"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "dyspnea"}
+{"s": "albuterol inhaler", "p": "Contraindicated-For", "o": "metastatic lung cancer"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "asthma"}
+{"s": "MRSA empyema/abscess", "p": "Has-Symptom", "o": "dyspnea"}
+{"s": "mrsa empyema", "p": "Has-Symptom", "o": "dyspnea"}
+{"s": "patient", "p": "Has-Symptom", "o": "dyspnea"}
+{"s": "patient", "p": "Associated-With", "o": "pancreatitis"}
+{"s": "shortness breath", "p": "Has-Symptom", "o": "patient"}
+{"s": "palpitations", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Has-Symptom", "o": "lightheadedness"}
+{"s": "altered mental", "p": "Has-Symptom", "o": "toxic metabolic encephalopathy"}
+{"s": "altered mental", "p": "Causes", "o": "acute pe"}
+{"s": "altered mental", "p": "Associated-With", "o": "d-lactic acidosis"}
+{"s": "toxic metabolic encephalopathy", "p": "Has-Symptom", "o": "altered mental"}
+{"s": "d-lactic acidosis", "p": "Associated-With", "o": "altered mental"}
+{"s": "asthma", "p": "Has-Symptom", "o": "prn sob"}
+{"s": "ms", "p": "Has-Symptom", "o": "pain"}
+{"s": "blood ck", "p": "Part-Of", "o": "cardiac"}
+{"s": "blood ck", "p": "Biomarker-Of", "o": "cardiac"}
+{"s": "blood ck", "p": "Enzyme-Activity", "o": "cardiac"}
+{"s": "blood alt", "p": "Side-Effect", "o": "alcoholic cirrhosis"}
+{"s": "blood alt", "p": "Biomarker-Of", "o": "alcoholic cirrhosis"}
+{"s": "blood alt", "p": "Enzyme-Activity", "o": "alcoholic cirrhosis"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "etoh abuse"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "epilepsy"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "topamax"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "madsam"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "dilantin"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "gtc sz"}
+{"s": "seizure frequency", "p": "Associated-With", "o": "phenytoin"}
+{"s": "epilepsy", "p": "Associated-With", "o": "seizure frequency"}
+{"s": "epilepsy", "p": "Associated-With", "o": "pt"}
+{"s": "etoh abuse", "p": "Associated-With", "o": "seizure frequency"}
+{"s": "dilantin", "p": "Treats", "o": "seizure"}
+{"s": "topamax", "p": "Treats", "o": "seizure"}
+{"s": "gtc sz", "p": "Associated-With", "o": "seizure frequency"}
+{"s": "phenytoin", "p": "Treats", "o": "seizure"}
+{"s": "madsam", "p": "Associated-With", "o": "seizure frequency"}
+{"s": "patient", "p": "Has-Symptom", "o": "vaginal bleeding"}
+{"s": "muscle pain", "p": "Has-Symptom", "o": "patient"}
+{"s": "hoarseness", "p": "Has-Symptom", "o": "patient"}
+{"s": "mitral valve", "p": "Has-Symptom", "o": "mitral regurgitation"}
+{"s": "mitral valve", "p": "Associated-With", "o": "mitral regurgitation"}
+{"s": "left ventricle", "p": "Has-Symptom", "o": "mitral regurgitation"}
+{"s": "left ventricular", "p": "Associated-With", "o": "mitral regurgitation"}
+{"s": "left ventricular", "p": "Associated-With", "o": "aortic stenosis"}
+{"s": "left ventricle", "p": "Has-Symptom", "o": "aortic stenosis"}
+{"s": "pericardial effusion", "p": "Associated-With", "o": "aortic stenosis"}
+{"s": "coronary artery bypass", "p": "Side-Effect", "o": "shortness of breath"}
+{"s": "pulmonary edema", "p": "Has-Symptom", "o": "shortness of breath"}
+{"s": "breakthrough seizure", "p": "Associated-With", "o": "medication non-adherence"}
+{"s": "breakthrough seizure", "p": "Associated-With", "o": "alcohol use disorder"}
+{"s": "mitral valve", "p": "Subtype-Of", "o": "valve"}
+{"s": "mitral valve", "p": "Associated-With", "o": "mitral annular calcification"}
+{"s": "mitral valve", "p": "Associated-With", "o": "papillary muscles"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "c diff infection"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "diabetes mellitus type ii"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "hypertension"}
+{"s": "c diff infection", "p": "Associated-With", "o": "pancolitis"}
+{"s": "c diff infection", "p": "Associated-With", "o": "septic shock"}
+{"s": "left ventricle", "p": "Has-Symptom", "o": "pulmonary hypertension"}
+{"s": "left ventricle", "p": "Has-Symptom", "o": "heart failure"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "heart failure"}
+{"s": "pericardial effusion", "p": "Associated-With", "o": "heart failure"}
+{"s": "subarachnoid hemorrhage", "p": "Associated-With", "o": "small area"}
+{"s": "small area", "p": "Located-In", "o": "left posterior frontal sulcus"}
+{"s": "psychiatric history", "p": "Associated-With", "o": "suicide attempts"}
+{"s": "psychiatric history", "p": "Associated-With", "o": "hospitalizations"}
+{"s": "psychiatric history", "p": "Associated-With", "o": "bipolar disorder"}
+{"s": "bipolar disorder", "p": "Associated-With", "o": "poor sleep"}
+{"s": "suicide attempts", "p": "Associated-With", "o": "psychiatric history"}
+{"s": "lung nodule", "p": "Expressed-In", "o": "upper lobe"}
+{"s": "lung nodule", "p": "Located-In", "o": "upper lobe"}
+{"s": "lung nodule", "p": "Part-Of", "o": "upper lobe"}
+{"s": "subdural hematoma", "p": "Associated-With", "o": "vascular dementia"}
+{"s": "subdural hematoma", "p": "Associated-With", "o": "hypertension"}
+{"s": "substance abuse", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Associated-With", "o": "social support"}
+{"s": "rib cage", "p": "Located-In", "o": "pelvic"}
+{"s": "rib cage", "p": "Associated-With", "o": "pneumothorax"}
+{"s": "rib cage", "p": "Associated-With", "o": "flail chest"}
+{"s": "rib cage", "p": "Associated-With", "o": "abdominal pain"}
+{"s": "insulin resistance", "p": "Associated-With", "o": "diabetes"}
+{"s": "women", "p": "Associated-With", "o": "diabetes"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "diabetes"}
+{"s": "right arm", "p": "Has-Symptom", "o": "right sided weakness"}
+{"s": "c7 nerve root", "p": "Associated-With", "o": "weakness"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "crackles"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "respiratory distress"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "atelectasis"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "bilateral pleural effusions"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "pleural effusion"}
+{"s": "pericardial effusion", "p": "Located-In", "o": "heart"}
+{"s": "left hand", "p": "Associated-With", "o": "swelling"}
+{"s": "left hand", "p": "Located-In", "o": "hand"}
+{"s": "left hand", "p": "Associated-With", "o": "pain"}
+{"s": "left hand", "p": "Has-Symptom", "o": "swelling"}
+{"s": "left hand", "p": "Has-Symptom", "o": "pain"}
+{"s": "swelling", "p": "Has-Symptom", "o": "hsr"}
+{"s": "swelling", "p": "Has-Symptom", "o": "left hand"}
+{"s": "metoprolol succinate", "p": "Treats", "o": "hypertension"}
+{"s": "ck mb", "p": "Part-Of", "o": "labs"}
+{"s": "ck mb", "p": "Side-Effect", "o": "digoxin toxicity"}
+{"s": "ck mb", "p": "Biomarker-Of", "o": "digoxin toxicity"}
+{"s": "labs", "p": "Part-Of", "o": "ck mb"}
+{"s": "flash pulmonary edema", "p": "Side-Effect", "o": "iv fluids"}
+{"s": "flash pulmonary edema", "p": "Associated-With", "o": "iv fluids"}
+{"s": "flash pulmonary edema", "p": "Side-Effect", "o": "medications"}
+{"s": "flash pulmonary edema", "p": "Associated-With", "o": "medications"}
+{"s": "flash pulmonary", "p": "Side-Effect", "o": "iv fluids"}
+{"s": "flash pulmonary", "p": "Associated-With", "o": "iv fluids"}
+{"s": "daily continue", "p": "Associated-With", "o": "medications"}
+{"s": "flash pulmonary", "p": "Associated-With", "o": "medications"}
+{"s": "c7 nerve root", "p": "Associated-With", "o": "right c7 radiculopathy"}
+{"s": "c7 nerve root", "p": "Located-In", "o": "c7"}
+{"s": "c7", "p": "Part-Of", "o": "cervical spine"}
+{"s": "c7", "p": "Associated-With", "o": "compression"}
+{"s": "c7", "p": "Associated-With", "o": "stenosis"}
+{"s": "c7", "p": "Associated-With", "o": "disk osteophyte complex"}
+{"s": "c7", "p": "Subtype-Of", "o": "cervical spine"}
+{"s": "compression", "p": "Associated-With", "o": "c7"}
+{"s": "stenosis", "p": "Associated-With", "o": "c7"}
+{"s": "disk osteophyte complex", "p": "Associated-With", "o": "c7"}
+{"s": "femoral artery", "p": "Associated-With", "o": "peripheral vascular disease"}
+{"s": "femoral artery", "p": "Associated-With", "o": "inflow disease"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "peripheral vascular disease"}
+{"s": "puncture site", "p": "Located-In", "o": "groin"}
+{"s": "puncture site", "p": "Side-Effect", "o": "bruising"}
+{"s": "puncture site", "p": "Side-Effect", "o": "groin soreness"}
+{"s": "pt", "p": "Has-Symptom", "o": "non-verbal"}
+{"s": "pt", "p": "Associated-With", "o": "cerebral palsy"}
+{"s": "pt", "p": "Associated-With", "o": "epilepsy"}
+{"s": "pt", "p": "Associated-With", "o": "vp shunt"}
+{"s": "pt", "p": "Associated-With", "o": "intellectual disability"}
+{"s": "pt", "p": "Associated-With", "o": "spastic quadriplegia"}
+{"s": "non-verbal", "p": "Has-Symptom", "o": "pt"}
+{"s": "intellectual disability", "p": "Associated-With", "o": "pt"}
+{"s": "cerebral palsy", "p": "Associated-With", "o": "pt"}
+{"s": "spastic quadriplegia", "p": "Associated-With", "o": "pt"}
+{"s": "vp shunt", "p": "Associated-With", "o": "pt"}
+{"s": "left toe", "p": "Has-Symptom", "o": "ulcer"}
+{"s": "left toe", "p": "Has-Symptom", "o": "pain"}
+{"s": "left toe", "p": "Has-Symptom", "o": "erythema"}
+{"s": "erythema", "p": "Has-Symptom", "o": "left toe"}
+{"s": "coronary artery", "p": "Enzyme-Activity", "o": "significant coronary artery disease"}
+{"s": "left ventricular", "p": "Subtype-Of", "o": "ventricle"}
+{"s": "narcotic pain reliever", "p": "Side-Effect", "o": "word-finding difficulty"}
+{"s": "narcotic pain reliever", "p": "Side-Effect", "o": "blurry vision"}
+{"s": "mitral valve", "p": "Subtype-Of", "o": "valve leaflet"}
+{"s": "mitral valve leaflet", "p": "Part-Of", "o": "mitral valve"}
+{"s": "creon", "p": "Used-For", "o": "chronic diarrhea"}
+{"s": "creon", "p": "Treats", "o": "chronic diarrhea"}
+{"s": "left occipital lobe", "p": "Located-In", "o": "head"}
+{"s": "left occipital lobe", "p": "Associated-With", "o": "headache"}
+{"s": "left occipital lobe", "p": "Associated-With", "o": "arm"}
+{"s": "left occipital lobe", "p": "Associated-With", "o": "left face"}
+{"s": "right frontal", "p": "Part-Of", "o": "head"}
+{"s": "right frontal meningioma", "p": "Associated-With", "o": "head"}
+{"s": "left face", "p": "Associated-With", "o": "left occipital lobe"}
+{"s": "Red blood cell indices", "p": "Subtype-Of", "o": "Red blood cell indices"}
+{"s": "abnormal mcv", "p": "Has-Symptom", "o": "Iron deficiency anemia"}
+{"s": "Iron deficiency anemia", "p": "Has-Symptom", "o": "abnormal mcv"}
+{"s": "Stroke", "p": "Has-Symptom", "o": "difficulty holding things"}
+{"s": "Stroke", "p": "Associated-With", "o": "hearing intact"}
+{"s": "Stroke", "p": "Has-Symptom", "o": "right leg weakness"}
+{"s": "Stroke", "p": "Has-Symptom", "o": "right facial droop"}
+{"s": "Stroke", "p": "Has-Symptom", "o": "right arm weakness"}
+{"s": "Stroke", "p": "Has-Symptom", "o": "slurred speech"}
+{"s": "right arm weakness", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "right leg weakness", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "slurred speech", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "difficulty holding things", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "hearing intact", "p": "Associated-With", "o": "Stroke"}
+{"s": "hearing intact", "p": "Has-Symptom", "o": "Stroke"}
+{"s": "dilaudid", "p": "Side-Effect", "o": "pain"}
+{"s": "dilaudid", "p": "Used-For", "o": "pain"}
+{"s": "ertapenem", "p": "Side-Effect", "o": "pain"}
+{"s": "vanco", "p": "Side-Effect", "o": "pain"}
+{"s": "zosyn", "p": "Side-Effect", "o": "pain"}
+{"s": "thoracolumbar junction", "p": "Part-Of", "o": "thoracolumbar junction"}
+{"s": "l2", "p": "Located-In", "o": "thoracolumbar junction"}
+{"s": "l4", "p": "Located-In", "o": "thoracolumbar junction"}
+{"s": "activity", "p": "Associated-With", "o": "weight"}
+{"s": "weight", "p": "Affects-Expression", "o": "activity"}
+{"s": "weight", "p": "Associated-With", "o": "activity"}
+{"s": "activity", "p": "Affects-Expression", "o": "weight"}
+{"s": "tablet sig", "p": "Associated-With", "o": "tablet po"}
+{"s": "tablet", "p": "Part-Of", "o": "tablet sig"}
+{"s": "tablet sig", "p": "Associated-With", "o": "tablet"}
+{"s": "levetiracetam", "p": "Used-For", "o": "seizure"}
+{"s": "levetiracetam", "p": "Used-For", "o": "seizure prophylaxis"}
+{"s": "lisinopril", "p": "Treats", "o": "hypertension"}
+{"s": "hind limb", "p": "Associated-With", "o": "lisinopril"}
+{"s": "dexamethasone", "p": "Treats", "o": "inflammation"}
+{"s": "physical activity", "p": "Associated-With", "o": "inflammation"}
+{"s": "dexamethasone", "p": "Used-For", "o": "inflammation"}
+{"s": "inflammation", "p": "Associated-With", "o": "high fat"}
+{"s": "liver", "p": "Has-Symptom", "o": "inflammation"}
+{"s": "decadron", "p": "Used-For", "o": "inflammation"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "inflammation"}
+{"s": "hippocampus", "p": "Associated-With", "o": "inflammation"}
+{"s": "omeprazole", "p": "Used-For", "o": "gerd"}
+{"s": "omeprazole", "p": "Used-For", "o": "acid reflux"}
+{"s": "omeprazole", "p": "Treats", "o": "gerd"}
+{"s": "omeprazole", "p": "Treats", "o": "acid reflux"}
+{"s": "pain medication", "p": "Treats", "o": "pain"}
+{"s": "excedrin extra strength", "p": "Used-For", "o": "migraine"}
+{"s": "excedrin extra strength", "p": "Treats", "o": "migraine"}
+{"s": "severe headache", "p": "Has-Symptom", "o": "complex migraine"}
+{"s": "complex migraine", "p": "Has-Symptom", "o": "severe headache"}
+{"s": "left distal femur", "p": "Part-Of", "o": "left femur"}
+{"s": "left femur fracture", "p": "Located-In", "o": "left femur"}
+{"s": "lung bases", "p": "Expressed-In", "o": "lung bases"}
+{"s": "effexor xr", "p": "Treats", "o": "panic attack"}
+{"s": "celexa", "p": "Treats", "o": "panic attack"}
+{"s": "patient", "p": "Has-Symptom", "o": "cognitive changes"}
+{"s": "memory lapses", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Has-Symptom", "o": "confusion"}
+{"s": "patient", "p": "Has-Symptom", "o": "slow mentation"}
+{"s": "patient", "p": "Has-Symptom", "o": "difficulty"}
+{"s": "productive cough", "p": "Has-Symptom", "o": "patient"}
+{"s": "swallowing difficulty", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Has-Symptom", "o": "jugular distention"}
+{"s": "coronary artery bypass", "p": "Part-Of", "o": "cardiac surgery"}
+{"s": "coronary artery bypass", "p": "Side-Effect", "o": "bradycardia"}
+{"s": "coronary artery bypass", "p": "Part-Of", "o": "operative note"}
+{"s": "hallucinations", "p": "Has-Symptom", "o": "patient"}
+{"s": "disorganized thinking", "p": "Has-Symptom", "o": "patient"}
+{"s": "cyclical thoughts", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Has-Symptom", "o": "passive suicidal ideation"}
+{"s": "paranoia", "p": "Has-Symptom", "o": "patient"}
+{"s": "aggressive behavior", "p": "Has-Symptom", "o": "patient"}
+{"s": "sig tablet", "p": "Used-For", "o": "oral administration"}
+{"s": "sickle cell disease", "p": "Associated-With", "o": "pulmonary infarction"}
+{"s": "sickle cell disease", "p": "Has-Symptom", "o": "painful crisis"}
+{"s": "sickle cell disease", "p": "Associated-With", "o": "acute chest syndrome"}
+{"s": "sickle cell disease", "p": "Associated-With", "o": "chronic hemolysis"}
+{"s": "sickle cell disease", "p": "Associated-With", "o": "spleen autoinfarction"}
+{"s": "sickle cell disease", "p": "Associated-With", "o": "hydroxyurea"}
+{"s": "hydroxyurea", "p": "Treats", "o": "sickle cell disease"}
+{"s": "chronic hemolysis", "p": "Associated-With", "o": "sickle cell disease"}
+{"s": "sickle cell disease", "p": "Causes", "o": "pulmonary infarction"}
+{"s": "spleen autoinfarction", "p": "Causes", "o": "sickle cell disease"}
+{"s": "right frontal meningioma", "p": "Located-In", "o": "right frontal"}
+{"s": "sided rib", "p": "Part-Of", "o": "thoracic spine"}
+{"s": "decreased sensation", "p": "Has-Symptom", "o": "patient"}
+{"s": "decreased sensation to light touch", "p": "Has-Symptom", "o": "patient"}
+{"s": "small airway", "p": "Associated-With", "o": "paraseptal emphysema"}
+{"s": "small airway", "p": "Associated-With", "o": "chronic small airways inflammation"}
+{"s": "small airway", "p": "Part-Of", "o": "lungs"}
+{"s": "lungs", "p": "Has-Symptom", "o": "expiratory wheeze"}
+{"s": "daily continue", "p": "Associated-With", "o": "discharge"}
+{"s": "daily continue", "p": "Associated-With", "o": "management"}
+{"s": "daily continue", "p": "Associated-With", "o": "instructions"}
+{"s": "daily continue", "p": "Associated-With", "o": "follow-up"}
+{"s": "management", "p": "Associated-With", "o": "daily continue"}
+{"s": "instructions", "p": "Associated-With", "o": "daily continue"}
+{"s": "right temporal", "p": "Located-In", "o": "right frontal/temporal/occipital"}
+{"s": "right temporal", "p": "Associated-With", "o": "embolic infarcts"}
+{"s": "l2", "p": "Subtype-Of", "o": "vertebra"}
+{"s": "l4", "p": "Associated-With", "o": "hip pain"}
+{"s": "patient", "p": "Has-Symptom", "o": "expiratory wheeze"}
+{"s": "asthma/copd exacerbation", "p": "Has-Symptom", "o": "expiratory wheeze"}
+{"s": "port", "p": "Part-Of", "o": "fem vein"}
+{"s": "port", "p": "Binding", "o": "right femoral"}
+{"s": "port", "p": "Used-For", "o": "portacaval mass"}
+{"s": "port", "p": "Binding", "o": "inferior vena cava"}
+{"s": "port", "p": "Binding", "o": "right femoral dual-lumen port"}
+{"s": "right femoral", "p": "Binding", "o": "port"}
+{"s": "right femoral dual-lumen port", "p": "Binding", "o": "port"}
+{"s": "mrsa", "p": "Side-Effect", "o": "mrsa empyema"}
+{"s": "mrsa", "p": "Causes", "o": "mrsa empyema"}
+{"s": "mrsa empyema", "p": "Has-Symptom", "o": "r-sided chest pain"}
+{"s": "mrsa empyema", "p": "Has-Symptom", "o": "hypoxic respiratory failure"}
+{"s": "MRSA empyema", "p": "Has-Symptom", "o": "r-sided chest pain"}
+{"s": "MRSA empyema/abscess", "p": "Has-Symptom", "o": "r-sided chest pain"}
+{"s": "iv vancomycin", "p": "Side-Effect", "o": "tongue swelling"}
+{"s": "yeast", "p": "Associated-With", "o": "urine culture"}
+{"s": "bacteria", "p": "Associated-With", "o": "urine culture"}
+{"s": "urine culture", "p": "Associated-With", "o": "growth"}
+{"s": "urine culture", "p": "Associated-With", "o": "final"}
+{"s": "non bleeding", "p": "Associated-With", "o": "chronic pancreatitis"}
+{"s": "chronic pancreatitis", "p": "Associated-With", "o": "decompensated liver cirrhosis"}
+{"s": "decompensated liver cirrhosis", "p": "Associated-With", "o": "chronic pancreatitis"}
+{"s": "physical therapy", "p": "Treats", "o": "gait balance training"}
+{"s": "adl s", "p": "Enzyme-Activity", "o": "physical therapy"}
+{"s": "gi bleed", "p": "Contraindicated-For", "o": "warfarin"}
+{"s": "gi bleed", "p": "Has-Symptom", "o": "iron deficiency anemia"}
+{"s": "warfarin", "p": "Side-Effect", "o": "gi bleed"}
+{"s": "iron deficiency anemia", "p": "Has-Symptom", "o": "gi bleed"}
+{"s": "warfarin", "p": "Contraindicated-For", "o": "gi bleed"}
+{"s": "abnormal creat", "p": "Associated-With", "o": "discharge labs"}
+{"s": "abnormal creat", "p": "Associated-With", "o": "ckd stage iii"}
+{"s": "ureteral stent", "p": "Used-For", "o": "left hydronephrosis"}
+{"s": "ureteral stent", "p": "Used-For", "o": "left flank pain"}
+{"s": "ureteral stent", "p": "Diagnoses", "o": "left hydronephrosis"}
+{"s": "levetiracetam", "p": "Treats", "o": "seizure prophylaxis"}
+{"s": "po bid", "p": "Used-For", "o": "medication administration"}
+{"s": "medication administration", "p": "Used-For", "o": "po bid"}
+{"s": "ip quad", "p": "Part-Of", "o": "quad"}
+{"s": "ip quad", "p": "Part-Of", "o": "leg"}
+{"s": "ip quad", "p": "Part-Of", "o": "ham"}
+{"s": "ham", "p": "Part-Of", "o": "ip quad"}
+{"s": "iv vancomycin", "p": "Used-For", "o": "4 week course"}
+{"s": "iv vancomycin", "p": "Treats", "o": "MRSA empyema/abscess"}
+{"s": "MRSA empyema/abscess", "p": "Has-Symptom", "o": "r-sided hydropneumothorax"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "left foot"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "left foot ulcer"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "left moderate outflow obstruction"}
+{"s": "miconazole cream", "p": "Side-Effect", "o": "rash"}
+{"s": "miconazole cream", "p": "Used-For", "o": "fungal rash"}
+{"s": "rash", "p": "Has-Symptom", "o": "hsr"}
+{"s": "miconazole cream", "p": "Treats", "o": "fungal rash"}
+{"s": "amputation site", "p": "Located-In", "o": "right foot"}
+{"s": "amputation site", "p": "Associated-With", "o": "healing"}
+{"s": "amputation site", "p": "Associated-With", "o": "ischemia"}
+{"s": "amputation site", "p": "Part-Of", "o": "right foot"}
+{"s": "amputation site", "p": "Has-Symptom", "o": "ulceration"}
+{"s": "hand surgery", "p": "Diagnoses", "o": "left hand pain"}
+{"s": "hand surgery", "p": "Diagnoses", "o": "skin lesion"}
+{"s": "hand surgery", "p": "Associated-With", "o": "left hand swelling"}
+{"s": "hand surgery", "p": "Diagnoses", "o": "left hand swelling"}
+{"s": "hand surgery", "p": "Associated-With", "o": "left hand pain"}
+{"s": "left hand pain", "p": "Diagnoses", "o": "hand surgery"}
+{"s": "skin lesion", "p": "Diagnoses", "o": "hand surgery"}
+{"s": "blood wbc", "p": "Associated-With", "o": "renal failure"}
+{"s": "blood wbc", "p": "Associated-With", "o": "melanoma"}
+{"s": "body weight", "p": "Associated-With", "o": "eb"}
+{"s": "eb", "p": "Side-Effect", "o": "body weight"}
+{"s": "alcohol", "p": "Metabolizes", "o": "liver"}
+{"s": "alcohol", "p": "Causes", "o": "fatty liver disease"}
+{"s": "ethanol", "p": "Causes", "o": "fatty liver disease"}
+{"s": "cigarette smoke", "p": "Causes", "o": "fatty liver disease"}
+{"s": "liver", "p": "Has-Symptom", "o": "steatosis"}
+{"s": "cigarette smoke", "p": "Contributes-To-Pathogenesis", "o": "liver diseases"}
+{"s": "iopamidol", "p": "Used-For", "o": "celiac arteriogram"}
+{"s": "contrast agent", "p": "Used-For", "o": "celiac arteriogram"}
+{"s": "isovue 370", "p": "Used-For", "o": "celiac arteriogram"}
+{"s": "isovue 370", "p": "Used-For", "o": "transarterial embolization"}
+{"s": "body weight", "p": "Associated-With", "o": "estradiol-3-benzoate"}
+{"s": "estradiol-3-benzoate", "p": "Side-Effect", "o": "body weight"}
+{"s": "rats", "p": "Part-Of", "o": "body weight"}
+{"s": "kava", "p": "Side-Effect", "o": "hepatotoxicity"}
+{"s": "kava", "p": "Side-Effect", "o": "liver injury"}
+{"s": "kava product use", "p": "Side-Effect", "o": "liver-related risks"}
+{"s": "kava extract", "p": "Side-Effect", "o": "hepatotoxicity"}
+{"s": "hiv", "p": "Has-Symptom", "o": "cd4 cell"}
+{"s": "subject", "p": "Expressed-In", "o": "cd4 cell"}
+{"s": "cd4 cell", "p": "Associated-With", "o": "acquired immune deficiency syndrome-associated primary central nervous system lymphoma"}
+{"s": "cd4 cell", "p": "Associated-With", "o": "acquired immune deficiency syndrome"}
+{"s": "subject", "p": "Associated-With", "o": "cd4 cell"}
+{"s": "transgenic mouse", "p": "Associated-With", "o": "tumor microenvironment"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "immune"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "cancer"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "tumor"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "TGF"}
+{"s": "tumor microenvironment", "p": "Associated-With", "o": "EMT"}
+{"s": "tumor", "p": "Associated-With", "o": "immune"}
+{"s": "neurodegenerative disease", "p": "Associated-With", "o": "cancer"}
+{"s": "hs27", "p": "Part-Of", "o": "cell line"}
+{"s": "cell line", "p": "Associated-With", "o": "lymphoid tissues"}
+{"s": "cytochrome p450", "p": "Metabolizes", "o": "pi3k"}
+{"s": "cytochrome p450", "p": "Metabolizes", "o": "u0126"}
+{"s": "cytochrome p450", "p": "Metabolizes", "o": "mek"}
+{"s": "cytochrome p450", "p": "Metabolizes", "o": "ci1040"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "osteoporosis"}
+{"s": "insulin resistance", "p": "Associated-With", "o": "oxidative stress"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "chronic obstructive pulmonary disease"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "skeletal muscle dysfunction"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "copd"}
+{"s": "oxidative stress", "p": "Associated-With", "o": "cardiovascular disease"}
+{"s": "cd4 count", "p": "Associated-With", "o": "cardiovascular disease"}
+{"s": "insulin resistance", "p": "Associated-With", "o": "cardiovascular disease"}
+{"s": "african american", "p": "Associated-With", "o": "cardiovascular disease"}
+{"s": "art", "p": "Side-Effect", "o": "cardiovascular disease"}
+{"s": "osteoporosis", "p": "Associated-With", "o": "oxidative stress"}
+{"s": "nicotine", "p": "Interacts-With", "o": "nachrs"}
+{"s": "nicotine", "p": "Activates", "o": "mesolimbic da neurons"}
+{"s": "nicotine", "p": "Affects-Expression", "o": "mesolimbic da neurons"}
+{"s": "nachrs", "p": "Located-In", "o": "mesolimbic da neurons"}
+{"s": "behavior", "p": "Associated-With", "o": "physical activity"}
+{"s": "physical activity", "p": "Associated-With", "o": "health"}
+{"s": "participants", "p": "Used-For", "o": "physical activity"}
+{"s": "c-life", "p": "Used-For", "o": "physical activity"}
+{"s": "focal adhesion", "p": "Associated-With", "o": "rock"}
+{"s": "focal adhesion", "p": "Part-Of", "o": "actin cytoskeleton"}
+{"s": "focal adhesion", "p": "Associated-With", "o": "rhoa"}
+{"s": "actin cytoskeleton", "p": "Associated-With", "o": "rhoa"}
+{"s": "actin cytoskeleton", "p": "Associated-With", "o": "nmda receptor"}
+{"s": "actin cytoskeleton", "p": "Associated-With", "o": "rock"}
+{"s": "nmda receptor", "p": "Associated-With", "o": "actin cytoskeleton"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "age"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "gender"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "chronic kidney disease"}
+{"s": "serum creatinine", "p": "Diagnoses", "o": "acute decrease in glomerular filtration rate"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "glomerular filtration rate"}
+{"s": "serum creatinine", "p": "Associated-With", "o": "muscle mass"}
+{"s": "serum creatinine", "p": "Biomarker-Of", "o": "acute kidney injury"}
+{"s": "mek inhibition", "p": "Side-Effect", "o": "cell cycle arrest"}
+{"s": "mek inhibition", "p": "Has-Symptom", "o": "apoptosis"}
+{"s": "mek inhibition", "p": "Has-Symptom", "o": "cell cycle arrest"}
+{"s": "mek inhibition", "p": "Side-Effect", "o": "apoptosis"}
+{"s": "mek inhibition", "p": "Activates", "o": "cell cycle arrest"}
+{"s": "mek inhibition", "p": "Activates", "o": "apoptosis"}
+{"s": "obesity", "p": "Associated-With", "o": "high fat"}
+{"s": "asthma phenotypes", "p": "Associated-With", "o": "obesity"}
+{"s": "high fat", "p": "Associated-With", "o": "obesity"}
+{"s": "fat diet", "p": "Used-For", "o": "obesity"}
+{"s": "glomerular sclerosis", "p": "Associated-With", "o": "high fat"}
+{"s": "chronic degenerative diseases", "p": "Associated-With", "o": "high fat"}
+{"s": "bariatric surgery", "p": "Part-Of", "o": "strategy to greatly reduce obesity-associated cancers worldwide"}
+{"s": "bariatric surgery", "p": "Side-Effect", "o": "significant and long term weight loss"}
+{"s": "bariatric surgery", "p": "Enzyme-Activity", "o": "reduced obesity-associated cancer incidence"}
+{"s": "bariatric surgery", "p": "Biomarker-Of", "o": "risks of certain cancers"}
+{"s": "bariatric surgery", "p": "Contributes-To-Pathogenesis", "o": "certain cancers"}
+{"s": "bariatric surgery", "p": "Used-For", "o": "reducing the risks of certain cancers"}
+{"s": "bariatric surgery", "p": "Treats", "o": "reducing the risks of certain cancers"}
+{"s": "bariatric surgery", "p": "Treats", "o": "reduced obesity-associated cancer incidence"}
+{"s": "participant", "p": "Associated-With", "o": "body weight"}
+{"s": "BMI", "p": "Associated-With", "o": "body weight"}
+{"s": "subject", "p": "Associated-With", "o": "body weight"}
+{"s": "cd4", "p": "Expressed-In", "o": "human lymphoid tissue"}
+{"s": "cd8", "p": "Expressed-In", "o": "human lymphoid tissue"}
+{"s": "signal", "p": "Associated-With", "o": "1h nmr"}
+{"s": "1h nmr", "p": "Associated-With", "o": "signal"}
+{"s": "1h nmr", "p": "Enzyme-Activity", "o": "cd3cl"}
+{"s": "1h nmr", "p": "Affects-Expression", "o": "spectrum"}
+{"s": "spectrum", "p": "Associated-With", "o": "1h nmr"}
+{"s": "1h nmr", "p": "Expressed-In", "o": "spectrum"}
+{"s": "mir-17", "p": "Affects-Expression", "o": "tgfbr2"}
+{"s": "mir-17", "p": "Affects-Expression", "o": "creb1"}
+{"s": "mir-17", "p": "Activates", "o": "survival"}
+{"s": "mir-17", "p": "Activates", "o": "proliferation"}
+{"s": "mir-17", "p": "Inhibits", "o": "treg cell differentiation"}
+{"s": "mir-17", "p": "Inhibits", "o": "treg cell accumulation"}
+{"s": "mir-19b", "p": "Affects-Expression", "o": "pten"}
+{"s": "alzheimer s disease", "p": "Associated-With", "o": "aging"}
+{"s": "neurodegenerative disease", "p": "Associated-With", "o": "aging"}
+{"s": "neurodegenerative disease", "p": "Subtype-Of", "o": "disease"}
+{"s": "neurodegenerative disease", "p": "Associated-With", "o": "neurodegenerative disorders"}
+{"s": "viral load", "p": "Associated-With", "o": "hiv-associated neurocognitive disorders"}
+{"s": "viral load", "p": "Associated-With", "o": "combination anti-retroviral therapy"}
+{"s": "combination anti-retroviral therapy", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "combination anti-retroviral therapy", "p": "Treats", "o": "hiv"}
+{"s": "hiv", "p": "Associated-With", "o": "inflammatory bowel disease"}
+{"s": "fgfr1", "p": "Associated-With", "o": "copy number"}
+{"s": "braf", "p": "Associated-With", "o": "copy number"}
+{"s": "her2", "p": "Associated-With", "o": "copy number"}
+{"s": "nkg2d", "p": "Interacts-With", "o": "mica"}
+{"s": "mica", "p": "Binding", "o": "nkg2d"}
+{"s": "nk cells", "p": "Activates", "o": "nkg2d"}
+{"s": "mica", "p": "Agonism-or-Antagonism", "o": "nkg2d"}
+{"s": "cytokine-directed biologics", "p": "Side-Effect", "o": "chronic lung disease"}
+{"s": "cytokine-directed biologics", "p": "Affects-Expression", "o": "lung tissue"}
+{"s": "biologic therapy", "p": "Side-Effect", "o": "chronic lung disease"}
+{"s": "dmards", "p": "Side-Effect", "o": "chronic lung disease"}
+{"s": "biologic therapy", "p": "Affects-Expression", "o": "lung tissue"}
+{"s": "dmards", "p": "Affects-Expression", "o": "lung tissue"}
+{"s": "psychiatric medication", "p": "Contraindicated-For", "o": "anorexia nervosa"}
+{"s": "psychiatric medication", "p": "Associated-With", "o": "anorexia nervosa"}
+{"s": "selective estrogen receptor modulators", "p": "Treats", "o": "cognitive impairment"}
+{"s": "estrogen", "p": "Treats", "o": "cognitive impairment"}
+{"s": "tamoxifen", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "raloxifene", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "cerebral ischemia", "p": "Has-Symptom", "o": "cognitive impairment"}
+{"s": "synaptic plasticity", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved cognition"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved learning"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved endothelial function"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved executive function"}
+{"s": "weight loss", "p": "Contributes-To-Pathogenesis", "o": "cognitive decline"}
+{"s": "weight loss", "p": "Associated-With", "o": "reduced ambulatory sbp levels"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved microvascular function"}
+{"s": "resistant hypertension", "p": "Associated-With", "o": "cognitive decline"}
+{"s": "cognitive decline", "p": "Associated-With", "o": "alzheimer's disease"}
+{"s": "cognitive decline", "p": "Associated-With", "o": "dementia"}
+{"s": "hypertension", "p": "Associated-With", "o": "cognitive decline"}
+{"s": "lifestyle modification", "p": "Treats", "o": "cognitive decline"}
+{"s": "late life", "p": "Associated-With", "o": "cognitive decline"}
+{"s": "lipodystrophy", "p": "Associated-With", "o": "weight gain"}
+{"s": "art", "p": "Side-Effect", "o": "weight gain"}
+{"s": "lipodystrophy", "p": "Affects-Expression", "o": "weight gain"}
+{"s": "art", "p": "Affects-Expression", "o": "weight gain"}
+{"s": "weight gain", "p": "Associated-With", "o": "hypertension"}
+{"s": "art", "p": "Affects-Expression", "o": "renin-angiotensin-aldosterone systems"}
+{"s": "art", "p": "Affects-Expression", "o": "sympathetic nervous system"}
+{"s": "art", "p": "Side-Effect", "o": "hypertension"}
+{"s": "art", "p": "Treats", "o": "HIV"}
+{"s": "resistant hypertension", "p": "Associated-With", "o": "dementia"}
+{"s": "hypertensive patients", "p": "Associated-With", "o": "cognitive impairment"}
+{"s": "skeletal muscle", "p": "Located-In", "o": "sarcoplasmic reticulum"}
+{"s": "dystrophin", "p": "Located-In", "o": "sarcoplasmic reticulum"}
+{"s": "sarcolemma", "p": "Part-Of", "o": "sarcoplasmic reticulum"}
+{"s": "late life", "p": "Associated-With", "o": "health/medication mismanagement"}
+{"s": "late life", "p": "Associated-With", "o": "cognitive rehabilitation"}
+{"s": "late life", "p": "Associated-With", "o": "behavioral therapy"}
+{"s": "late life", "p": "Associated-With", "o": "geriatric patients"}
+{"s": "late life", "p": "Associated-With", "o": "geriatric hoarding"}
+{"s": "late life", "p": "Associated-With", "o": "physical impairments"}
+{"s": "geriatric hoarding", "p": "Associated-With", "o": "late life"}
+{"s": "health/medication mismanagement", "p": "Associated-With", "o": "late life"}
+{"s": "cognitive rehabilitation", "p": "Associated-With", "o": "late life"}
+{"s": "behavioral therapy", "p": "Associated-With", "o": "late life"}
+{"s": "nucleoporins", "p": "Binding", "o": "nuclear pore"}
+{"s": "nuclear pore", "p": "Located-In", "o": "nuclear envelope"}
+{"s": "nuclear pore", "p": "Interacts-With", "o": "ran-gtpase"}
+{"s": "nuclear pore", "p": "Agonism-or-Antagonism", "o": "nuclear pore"}
+{"s": "nuclear pore", "p": "Part-Of", "o": "nuclear envelope"}
+{"s": "asthma phenotypes", "p": "Associated-With", "o": "overweight"}
+{"s": "asthma phenotypes", "p": "Associated-With", "o": "overweight obesity"}
+{"s": "african american", "p": "Part-Of", "o": "population"}
+{"s": "african american", "p": "Associated-With", "o": "hypertension"}
+{"s": "thermal blanket", "p": "Used-For", "o": "body temperature"}
+{"s": "body temperature", "p": "Associated-With", "o": "xylazine"}
+{"s": "body temperature", "p": "Associated-With", "o": "ketamine"}
+{"s": "ketamine", "p": "Associated-With", "o": "body temperature"}
+{"s": "xylazine", "p": "Associated-With", "o": "body temperature"}
+{"s": "smooth muscle", "p": "Located-In", "o": "pulmonary arteries"}
+{"s": "smooth muscle", "p": "Located-In", "o": "pulmonary vasculature"}
+{"s": "smooth muscle", "p": "Part-Of", "o": "finger clubbing"}
+{"s": "participants", "p": "Used-For", "o": "exercise"}
+{"s": "exercise", "p": "Used-For", "o": "c-life"}
+{"s": "exercise", "p": "Used-For", "o": "participants"}
+{"s": "c-life", "p": "Used-For", "o": "exercise"}
+{"s": "women", "p": "Associated-With", "o": "caregiver role"}
+{"s": "women", "p": "Associated-With", "o": "health management"}
+{"s": "women", "p": "Associated-With", "o": "minority status"}
+{"s": "women", "p": "Associated-With", "o": "low income"}
+{"s": "women", "p": "Associated-With", "o": "diabetes self-management"}
+{"s": "women", "p": "Associated-With", "o": "multigenerational households"}
+{"s": "cd4 count", "p": "Expressed-In", "o": "galt"}
+{"s": "cd4 count", "p": "Associated-With", "o": "hypertension"}
+{"s": "cd4 count", "p": "Associated-With", "o": "chronic inflammation"}
+{"s": "cd4 count", "p": "Associated-With", "o": "immune reconstitution"}
+{"s": "cd4 t-cells", "p": "Part-Of", "o": "galt"}
+{"s": "immune reconstitution", "p": "Associated-With", "o": "cd4 count"}
+{"s": "chronic inflammation", "p": "Associated-With", "o": "cd4 count"}
+{"s": "genome wide association studies", "p": "Associated-With", "o": "meta-analysis"}
+{"s": "genome wide", "p": "Associated-With", "o": "predictor"}
+{"s": "genome wide", "p": "Associated-With", "o": "association studies"}
+{"s": "genome wide", "p": "Associated-With", "o": "snp"}
+{"s": "association studies", "p": "Associated-With", "o": "genome wide"}
+{"s": "snp", "p": "Associated-With", "o": "genome wide"}
+{"s": "predictor", "p": "Associated-With", "o": "genome wide"}
+{"s": "bone lead", "p": "Associated-With", "o": "puberty"}
+{"s": "bone lead", "p": "Associated-With", "o": "body size"}
+{"s": "lead", "p": "Associated-With", "o": "body size"}
+{"s": "blood lead", "p": "Associated-With", "o": "body size"}
+{"s": "blood lead", "p": "Associated-With", "o": "puberty"}
+{"s": "lead", "p": "Associated-With", "o": "sexual maturation"}
+{"s": "lead", "p": "Associated-With", "o": "puberty"}
+{"s": "puberty", "p": "Associated-With", "o": "lead"}
+{"s": "puberty", "p": "Associated-With", "o": "bone lead"}
+{"s": "puberty", "p": "Associated-With", "o": "blood lead"}
+{"s": "euthymia", "p": "Has-Symptom", "o": "poor sleep"}
+{"s": "patients", "p": "Has-Symptom", "o": "poor sleep"}
+{"s": "bipolar disorder", "p": "Has-Symptom", "o": "poor sleep"}
+{"s": "mania", "p": "Has-Symptom", "o": "poor sleep"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "ptb"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "preterm birth rates"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "higher rates of preterm birth"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "risk for ptb"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "risk"}
+{"s": "Stroop color-word section", "p": "Associated-With", "o": "inhibitory control"}
+{"s": "Animal naming", "p": "Associated-With", "o": "inhibitory control"}
+{"s": "Trail Making Test Part B", "p": "Associated-With", "o": "inhibitory control"}
+{"s": "HIV", "p": "Causes", "o": "viral replication"}
+{"s": "HIV", "p": "Associated-With", "o": "viral replication"}
+{"s": "sympathetic nervous system", "p": "Affects-Expression", "o": "art"}
+{"s": "renin-angiotensin-aldosterone systems", "p": "Affects-Expression", "o": "art"}
+{"s": "depressive symptom", "p": "Associated-With", "o": "negative affect"}
+{"s": "hostility", "p": "Side-Effect", "o": "depressive symptom"}
+{"s": "depressive symptom", "p": "Associated-With", "o": "hostility"}
+{"s": "hostility", "p": "Associated-With", "o": "negative affect"}
+{"s": "microglial activation", "p": "Contributes-To-Pathogenesis", "o": "gliomas"}
+{"s": "microglial activation", "p": "Associated-With", "o": "radiation injury"}
+{"s": "microglial activation", "p": "Part-Of", "o": "immune response"}
+{"s": "immune system", "p": "Associated-With", "o": "immune response"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune response"}
+{"s": "apoptotic cells", "p": "Side-Effect", "o": "ca2 uptake"}
+{"s": "apoptotic cells", "p": "Activates", "o": "ca2 uptake"}
+{"s": "panx1 channels", "p": "Activates", "o": "ca2 uptake"}
+{"s": "panx1 channels", "p": "Affects-Expression", "o": "ca2 uptake"}
+{"s": "macrophages", "p": "Interacts-With", "o": "ca2 uptake"}
+{"s": "caspase-3", "p": "Activates", "o": "ca2 uptake"}
+{"s": "micrornas", "p": "Associated-With", "o": "aggressive tumor recurrence"}
+{"s": "micrornas", "p": "Associated-With", "o": "cell death"}
+{"s": "micrornas", "p": "Associated-With", "o": "tumor formation"}
+{"s": "micrornas", "p": "Associated-With", "o": "metastatic phenotype"}
+{"s": "micrornas", "p": "Associated-With", "o": "drug resistance"}
+{"s": "hippocampus", "p": "Associated-With", "o": "cell death"}
+{"s": "dicer", "p": "Associated-With", "o": "tumor formation"}
+{"s": "transgenic mouse model", "p": "Associated-With", "o": "breast cancer"}
+{"s": "geriatric marmosets", "p": "Has-Symptom", "o": "decreased fat mass"}
+{"s": "geriatric marmosets", "p": "Side-Effect", "o": "decreased fat mass"}
+{"s": "aged marmosets", "p": "Located-In", "o": "adipose tissue"}
+{"s": "direct mast cell reactions", "p": "Part-Of", "o": "hsr"}
+{"s": "hsr", "p": "Has-Symptom", "o": "itching"}
+{"s": "hsr", "p": "Has-Symptom", "o": "flushing"}
+{"s": "hsr", "p": "Has-Symptom", "o": "swelling"}
+{"s": "hsr", "p": "Has-Symptom", "o": "wheezing"}
+{"s": "hsr", "p": "Has-Symptom", "o": "hives"}
+{"s": "hsr", "p": "Has-Symptom", "o": "rash"}
+{"s": "itching", "p": "Has-Symptom", "o": "hsr"}
+{"s": "hives", "p": "Has-Symptom", "o": "hsr"}
+{"s": "wheezing", "p": "Has-Symptom", "o": "hsr"}
+{"s": "flushing", "p": "Has-Symptom", "o": "hsr"}
+{"s": "allergy clin immunol", "p": "Associated-With", "o": "immune system"}
+{"s": "immune system", "p": "Associated-With", "o": "immune competence"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune system"}
+{"s": "immune system", "p": "Associated-With", "o": "immune function"}
+{"s": "immune system", "p": "Associated-With", "o": "antiviral response"}
+{"s": "immune system", "p": "Associated-With", "o": "regulatory t cells"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune competence"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "antiviral response"}
+{"s": "regulatory t cells", "p": "Associated-With", "o": "immune system"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune function"}
+{"s": "endothelial cells", "p": "Located-In", "o": "kidneys"}
+{"s": "endothelial cells", "p": "Associated-With", "o": "vascular regression"}
+{"s": "endothelial cells", "p": "Associated-With", "o": "vascular development"}
+{"s": "Stroke mortality", "p": "Associated-With", "o": "TIA/Stroke"}
+{"s": "TIA/Stroke", "p": "Associated-With", "o": "Stroke mortality"}
+{"s": "Coronary artery disease", "p": "Associated-With", "o": "Stroke mortality"}
+{"s": "Stroke mortality", "p": "Associated-With", "o": "Coronary artery disease"}
+{"s": "compound 1", "p": "Part-Of", "o": "chemical reagents"}
+{"s": "compound 1", "p": "Has-Symptom", "o": "white solid"}
+{"s": "nlrc4", "p": "Binding", "o": "naip"}
+{"s": "nlrc4", "p": "Interacts-With", "o": "pro-caspase-1"}
+{"s": "nlrc4", "p": "Agonism-or-Antagonism", "o": "pro-caspase-1"}
+{"s": "naip", "p": "Binding", "o": "nlrc4"}
+{"s": "nod", "p": "Binding", "o": "adp"}
+{"s": "nod", "p": "Binding", "o": "atp"}
+{"s": "adp", "p": "Binding", "o": "nod"}
+{"s": "patient", "p": "Associated-With", "o": "staphylococcus aureus bacteremia"}
+{"s": "endocarditis", "p": "Has-Symptom", "o": "patient"}
+{"s": "osteomyelitis", "p": "Has-Symptom", "o": "patient"}
+{"s": "central nervous system involvement", "p": "Has-Symptom", "o": "patient"}
+{"s": "patient", "p": "Associated-With", "o": "health care-associated infection"}
+{"s": "insulin resistance", "p": "Associated-With", "o": "bioenergetics"}
+{"s": "inflammatory bowel disease", "p": "Associated-With", "o": "hbv"}
+{"s": "inflammatory bowel disease", "p": "Associated-With", "o": "hiv"}
+{"s": "hbv", "p": "Associated-With", "o": "inflammatory bowel disease"}
+{"s": "pulmonary fibrosis", "p": "Contributes-To-Pathogenesis", "o": "disease"}
+{"s": "ipf", "p": "Subtype-Of", "o": "pulmonary fibrosis"}
+{"s": "pulmonary fibrosis", "p": "Associated-With", "o": "increased mortality"}
+{"s": "ipaf-uip", "p": "Subtype-Of", "o": "pulmonary fibrosis"}
+{"s": "ipf", "p": "Side-Effect", "o": "increased mortality"}
+{"s": "infant", "p": "Enzyme-Activity", "o": "birth weight"}
+{"s": "growth charts", "p": "Used-For", "o": "birth weight"}
+{"s": "birth weight", "p": "Biomarker-Of", "o": "gestational age"}
+{"s": "hind limb", "p": "Associated-With", "o": "radiation"}
+{"s": "hind limb", "p": "Part-Of", "o": "rat"}
+{"s": "hind limb", "p": "Located-In", "o": "rat"}
+{"s": "hemorrhagic shock", "p": "Associated-With", "o": "blood pressure"}
+{"s": "blood pressure", "p": "Associated-With", "o": "resuscitation"}
+{"s": "transfusion", "p": "Associated-With", "o": "blood pressure"}
+{"s": "fat diet", "p": "Affects-Expression", "o": "leptin"}
+{"s": "high fat", "p": "Affects-Expression", "o": "leptin"}
+{"s": "fat diet", "p": "Affects-Expression", "o": "glucose intolerance"}
+{"s": "high fat", "p": "Affects-Expression", "o": "glucose intolerance"}
+{"s": "fat diet", "p": "Affects-Expression", "o": "hyperglycemia"}
+{"s": "high fat", "p": "Affects-Expression", "o": "hyperglycemia"}
+{"s": "high fat", "p": "Part-Of", "o": "special diet"}
+{"s": "fat diet", "p": "Associated-With", "o": "adipocytes"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "efavirenz"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone turnover"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone formation"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone mass"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "bone resorption"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "lpv/r"}
+{"s": "lpv/r", "p": "Associated-With", "o": "osteoblast differentiation"}
+{"s": "efavirenz", "p": "Associated-With", "o": "osteoblast differentiation"}
+{"s": "rfs-c-mycwt", "p": "Subtype-Of", "o": "mouse"}
+{"s": "mouse", "p": "Part-Of", "o": "oHSU"}
+{"s": "mouse", "p": "Associated-With", "o": "thymic lymphoma"}
+{"s": "lck-cre", "p": "Subtype-Of", "o": "mouse"}
+{"s": "rfs-c-myct58a", "p": "Subtype-Of", "o": "mouse"}
+{"s": "rfs-c-mycs62a", "p": "Subtype-Of", "o": "mouse"}
+{"s": "cd3cl", "p": "Enzyme-Activity", "o": "1h nmr"}
+{"s": "precursor cell", "p": "Associated-With", "o": "radiological damage"}
+{"s": "precursor cell", "p": "Expressed-In", "o": "lung"}
+{"s": "precursor cell", "p": "Associated-With", "o": "tissue repair"}
+{"s": "precursor cell", "p": "Part-Of", "o": "organ systems"}
+{"s": "E3", "p": "Interacts-With", "o": "E2"}
+{"s": "E2", "p": "Interacts-With", "o": "E3"}
+{"s": "E2", "p": "Binding", "o": "ub"}
+{"s": "E2", "p": "Interacts-With", "o": "E1"}
+{"s": "E1", "p": "Interacts-With", "o": "E2"}
+{"s": "ub", "p": "Binding", "o": "active site"}
+{"s": "hippocampus", "p": "Associated-With", "o": "memory deficits"}
+{"s": "granule cell", "p": "Part-Of", "o": "hippocampus"}
+{"s": "transgene", "p": "Expressed-In", "o": "tg mouse"}
+{"s": "lm652707", "p": "Part-Of", "o": "tg mouse"}
+{"s": "lm652705", "p": "Part-Of", "o": "tg mouse"}
+{"s": "transgenic mouse", "p": "Associated-With", "o": "rage neutralizing antibody"}
+{"s": "transgenic mouse", "p": "Part-Of", "o": "s100a7 transgenic mouse model"}
+{"s": "transgenic mouse", "p": "Associated-With", "o": "soluble rage"}
+{"s": "transgenic mouse", "p": "Associated-With", "o": "tumor progression"}
+{"s": "s100a7 transgenic mouse model", "p": "Associated-With", "o": "breast cancer"}
+{"s": "rage neutralizing antibody", "p": "Associated-With", "o": "transgenic mouse"}
+{"s": "nmr", "p": "Interacts-With", "o": "dmso"}
+{"s": "dmso", "p": "Used-For", "o": "solvent"}
+{"s": "25-hydroxyvitamin d3", "p": "Expressed-In", "o": "plasma"}
+{"s": "25-hydroxyvitamin d3", "p": "Associated-With", "o": "vitamin d insufficiency status"}
+{"s": "25 oh d3", "p": "Affects-Expression", "o": "fgf-23"}
+{"s": "25 oh d3", "p": "Side-Effect", "o": "vitamin d insufficiency status"}

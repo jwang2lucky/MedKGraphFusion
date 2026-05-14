@@ -1,0 +1,100 @@
+{"s": "left ventricular wall thickness", "p": "Expressed-In", "o": "heart"}
+{"s": "portal gastropathy", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "aleve", "p": "Treats", "o": "pain"}
+{"s": "laparoscopic cholecystectomy", "p": "Treats", "o": "choledocolithiasis"}
+{"s": "phenytoin", "p": "Affects-Expression", "o": "warfarin"}
+{"s": "prostate cancer", "p": "Contributes-To-Pathogenesis", "o": "smoking"}
+{"s": "anxiety/panic attacks", "p": "Causes", "o": "tremulousness"}
+{"s": "IL-32", "p": "Causes", "o": "atopic dermatitis"}
+{"s": "Rosuvastatin calcium", "p": "Treats", "o": "High cholesterol"}
+{"s": "abnormal creat", "p": "Associated-With", "o": "acute kidney injury"}
+{"s": "pyelonephritis", "p": "Has-Symptom", "o": "flank pain"}
+{"s": "jejunostomy tube site abscess", "p": "Has-Symptom", "o": "redness"}
+{"s": "hypertension", "p": "Contributes-To-Pathogenesis", "o": "ischemia"}
+{"s": "moderate to severe mitral regurgitation", "p": "Diagnoses", "o": "mitral valve"}
+{"s": "community acquired pneumonia", "p": "Treats", "o": "guaifenesin"}
+{"s": "vsg surgery", "p": "Treats", "o": "type 2 diabetes mellitus t2dm"}
+{"s": "portal gastropathy", "p": "Associated-With", "o": "hepatitis c"}
+{"s": "HIV sexual risk behaviors", "p": "Has-Symptom", "o": "unprotected sex"}
+{"s": "depressive disorder not otherwise specified", "p": "Has-Symptom", "o": "thought content"}
+{"s": "Iron deficiency anemia", "p": "Causes", "o": "GI bleeding"}
+{"s": "urinary retention", "p": "Contributes-To-Pathogenesis", "o": "acute on chronic kidney injury"}
+{"s": "smoking", "p": "Contributes-To-Pathogenesis", "o": "non-small cell lung cancer"}
+{"s": "viral vector", "p": "Used-For", "o": "imaging"}
+{"s": "chest ct", "p": "Used-For", "o": "multifocal pneumonia"}
+{"s": "radiation necrosis", "p": "Biomarker-Of", "o": "tonsillar carcinoma"}
+{"s": "bilateral adrenal masses", "p": "Located-In", "o": "adrenal gland"}
+{"s": "left ureteral stone", "p": "Treats", "o": "cystoscopy and left ureteral stent placement"}
+{"s": "atrial fibrillation", "p": "Has-Symptom", "o": "palpitations"}
+{"s": "omeprazole", "p": "Treats", "o": "gastroesophageal reflux disease"}
+{"s": "thought content", "p": "Associated-With", "o": "depression"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "acute on chronic kidney disease"}
+{"s": "diabetes", "p": "Contributes-To-Pathogenesis", "o": "wet gangrene"}
+{"s": "nausea", "p": "Has-Symptom", "o": "dizziness"}
+{"s": "left temporal", "p": "Part-Of", "o": "brain"}
+{"s": "rib fractures", "p": "Causes", "o": "trauma fall"}
+{"s": "hypokalemia", "p": "Treats", "o": "oral potassium"}
+{"s": "shortness of breath", "p": "Has-Symptom", "o": "non-ischemic cardiomyopathy"}
+{"s": "suicidal ideation", "p": "Contributes-To-Pathogenesis", "o": "self-injury"}
+{"s": "apoptosis", "p": "Contributes-To-Pathogenesis", "o": "lung development"}
+{"s": "perceived control over anxiety", "p": "Activates", "o": "alcohol use days"}
+{"s": "aortic valve leaflets", "p": "Subtype-Of", "o": "valve leaflet"}
+{"s": "patient", "p": "Diagnoses", "o": "cirrhosis secondary to hcv genotype 1a chronic hepatitis c and alcoholism"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "septic shock"}
+{"s": "aged animals", "p": "Has-Symptom", "o": "decreased serum albumin values"}
+{"s": "peptic ulcer disease", "p": "Has-Symptom", "o": "coffee ground emesis"}
+{"s": "aortic valve replacement", "p": "Contraindicated-For", "o": "poor nutritional status"}
+{"s": "Parkinson's disease", "p": "Treats", "o": "Subthalamic nucleus deep brain stimulation"}
+{"s": "nausea vomiting", "p": "Associated-With", "o": "anastomotic leak"}
+{"s": "hematuria", "p": "Treats", "o": "casodex"}
+{"s": "acetaminophen", "p": "Treats", "o": "post-operative pain"}
+{"s": "hypothyroidism", "p": "Treats", "o": "levothyroxine sodium"}
+{"s": "hypertension", "p": "Treats", "o": "heart failure"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "septic shock"}
+{"s": "hypoxia", "p": "Contributes-To-Pathogenesis", "o": "hyponatremia"}
+{"s": "peptidoglycan", "p": "Associated-With", "o": "organic dust extract"}
+{"s": "chest tube placement", "p": "Treats", "o": "worsening pneumothorax"}
+{"s": "hematuria", "p": "Has-Symptom", "o": "tract infection"}
+{"s": "CK-MB", "p": "Treats", "o": "Myocardial ischemia"}
+{"s": "weight bearing", "p": "Part-Of", "o": "discharge instructions"}
+{"s": "colon ca", "p": "Subtype-Of", "o": "colon cancer"}
+{"s": "axillary lymph", "p": "Part-Of", "o": "Lymph Node"}
+{"s": "12 blood", "p": "Has-Symptom", "o": "anemia"}
+{"s": "chronic diarrhea", "p": "Associated-With", "o": "chronic pancreatitis"}
+{"s": "anxiety sensitivity", "p": "Associated-With", "o": "problematic alcohol use"}
+{"s": "bladder tumor", "p": "Diagnoses", "o": "hematuria"}
+{"s": "health literacy", "p": "Associated-With", "o": "osteoarthritis patients"}
+{"s": "narcotic pain reliever", "p": "Has-Symptom", "o": "lightheadedness"}
+{"s": "alcohol withdrawal", "p": "Associated-With", "o": "vitamin repletion"}
+{"s": "c57/bl6 mtdna", "p": "Expressed-In", "o": "heart tissue"}
+{"s": "severe global left ventricular hypokinesis", "p": "Causes", "o": "mitral valve"}
+{"s": "hyponatremia", "p": "Treats", "o": "furosemide"}
+{"s": "right paraspinal mass", "p": "Part-Of", "o": "spinal cord"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "community acquired pneumonia"}
+{"s": "ct", "p": "Diagnoses", "o": "prominent ventricular and sulcal size consistent with involutional change"}
+{"s": "difficulty breathing", "p": "Has-Symptom", "o": "cardiac history"}
+{"s": "alcohol withdrawal", "p": "Contributes-To-Pathogenesis", "o": "pancytopenia"}
+{"s": "CT scan", "p": "Diagnoses", "o": "Nasal fracture"}
+{"s": "tricuspid valve", "p": "Part-Of", "o": "cardiac anatomy"}
+{"s": "diabetes mellitus during pregnancy", "p": "Affects-Expression", "o": "hippocampal formation development"}
+{"s": "ct", "p": "Used-For", "o": "diagnoses"}
+{"s": "mitral regurgitation", "p": "Contributes-To-Pathogenesis", "o": "aortic stenosis"}
+{"s": "dietary factors", "p": "Affects-Expression", "o": "mirna"}
+{"s": "left knee pain", "p": "Has-Symptom", "o": "pain"}
+{"s": "hmga1", "p": "Inhibits", "o": "apoptosis"}
+{"s": "LDL cholesterol", "p": "Biomarker-Of", "o": "cardiovascular disease"}
+{"s": "furosemide", "p": "Treats", "o": "shortness of breath"}
+{"s": "patient", "p": "Treats", "o": "methylphenidate"}
+{"s": "MRI calcium indicators", "p": "Used-For", "o": "measuring calcium dynamics in the brain"}
+{"s": "shortness of breath", "p": "Has-Symptom", "o": "permanent atrial fibrillation"}
+{"s": "pancreatic adenocarcinoma", "p": "Biomarker-Of", "o": "hmga1"}
+{"s": "patient", "p": "Has-Symptom", "o": "incontinence"}
+{"s": "hmga1", "p": "Activates", "o": "pi3-k/akt signaling"}
+{"s": "difficulty breathing", "p": "Treats", "o": "albuterol"}
+{"s": "phenytoin", "p": "Has-Symptom", "o": "altered mental status"}
+{"s": "inpatient blood culture", "p": "Used-For", "o": "diagnosis"}
+{"s": "LDL-C", "p": "Causes", "o": "atherosclerosis"}
+{"s": "mirnas", "p": "Affects-Expression", "o": "gene expression"}
+{"s": "antiretroviral therapy", "p": "Affects-Expression", "o": "IL-6"}
+{"s": "bupivicaine pump", "p": "Treats", "o": "pain"}
+{"s": "volume resuscitation", "p": "Affects-Expression", "o": "cardiorenal syndrome"}

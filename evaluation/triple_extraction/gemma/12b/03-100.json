@@ -1,0 +1,100 @@
+{"s": "compound 1", "p": "Part-Of", "o": "chemical reagents"}
+{"s": "Patient", "p": "Has-Symptom", "o": "Guardedness"}
+{"s": "patient", "p": "Has-Symptom", "o": "hematuria"}
+{"s": "tablet po", "p": "Used-For", "o": "po"}
+{"s": "chronic alcohol abuse", "p": "Associated-With", "o": "hepatic cirrhosis"}
+{"s": "hepatic encephalopathy", "p": "Has-Symptom", "o": "asterixis"}
+{"s": "therapy", "p": "Treats", "o": "high cholesterol"}
+{"s": "word finding difficulty", "p": "Has-Symptom", "o": "patient"}
+{"s": "nmr", "p": "Interacts-With", "o": "dmso"}
+{"s": "mir-17", "p": "Activates", "o": "survival"}
+{"s": "coronary artery", "p": "Associated-With", "o": "diabetes mellitus type i"}
+{"s": "women", "p": "Associated-With", "o": "caregiver role"}
+{"s": "thoracolumbar junction", "p": "Part-Of", "o": "thoracolumbar junction"}
+{"s": "narcotic pain", "p": "Treats", "o": "pain"}
+{"s": "left hand", "p": "Has-Symptom", "o": "redness"}
+{"s": "argatroban", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "patient", "p": "Used-For", "o": "physical therapy"}
+{"s": "degenerative joint disease", "p": "Located-In", "o": "c spine"}
+{"s": "cd4 cell", "p": "Associated-With", "o": "acquired immune deficiency syndrome"}
+{"s": "blood lead", "p": "Associated-With", "o": "body size"}
+{"s": "ascending colon", "p": "Has-Symptom", "o": "abdominal pain"}
+{"s": "cerebral ischemia", "p": "Has-Symptom", "o": "cognitive impairment"}
+{"s": "gum surgery", "p": "Associated-With", "o": "operative extremity"}
+{"s": "ipaf-uip", "p": "Subtype-Of", "o": "pulmonary fibrosis"}
+{"s": "dilaudid", "p": "Side-Effect", "o": "pain"}
+{"s": "physical therapy", "p": "Part-Of", "o": "rehabilitation"}
+{"s": "sickle cell disease", "p": "Has-Symptom", "o": "painful crisis"}
+{"s": "exercise", "p": "Used-For", "o": "c-life"}
+{"s": "amiodarone", "p": "Treats", "o": "hypothyroidism"}
+{"s": "lower extremity", "p": "Associated-With", "o": "weakness"}
+{"s": "breath pain", "p": "Has-Symptom", "o": "Disease"}
+{"s": "l2", "p": "Located-In", "o": "thoracolumbar junction"}
+{"s": "altered mental", "p": "Causes", "o": "acute pe"}
+{"s": "mother", "p": "Subtype-Of", "o": "esophageal cancer"}
+{"s": "renal transplant", "p": "Treats", "o": "renal failure"}
+{"s": "mrsa empyema", "p": "Has-Symptom", "o": "dyspnea"}
+{"s": "lamictal", "p": "Side-Effect", "o": "thrombocytopenia"}
+{"s": "left hand", "p": "Associated-With", "o": "swelling"}
+{"s": "patient", "p": "Has-Symptom", "o": "thought process"}
+{"s": "breakthrough seizure", "p": "Associated-With", "o": "medication non-adherence"}
+{"s": "blood ck", "p": "Enzyme-Activity", "o": "cardiac"}
+{"s": "puberty", "p": "Associated-With", "o": "lead"}
+{"s": "eeg monitoring", "p": "Associated-With", "o": "abdominal lapping sensation"}
+{"s": "uterine artery", "p": "Associated-With", "o": "embolization"}
+{"s": "management", "p": "Associated-With", "o": "daily continue"}
+{"s": "bariatric surgery", "p": "Biomarker-Of", "o": "risks of certain cancers"}
+{"s": "abnormal alt", "p": "Associated-With", "o": "abnormal totbili"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "bilateral pleural effusions"}
+{"s": "b12 deficiency", "p": "Associated-With", "o": "service urology"}
+{"s": "fgfr1", "p": "Associated-With", "o": "copy number"}
+{"s": "electrographic seizure", "p": "Has-Symptom", "o": "organized electrographic seizures"}
+{"s": "hsr", "p": "Has-Symptom", "o": "rash"}
+{"s": "panx1 channels", "p": "Activates", "o": "ca2 uptake"}
+{"s": "paranoid schizophrenia", "p": "Associated-With", "o": "c diff infection"}
+{"s": "late life", "p": "Associated-With", "o": "geriatric hoarding"}
+{"s": "chronic pancreatitis", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "nausea"}
+{"s": "diabetes mellitus", "p": "Has-Symptom", "o": "fatigue"}
+{"s": "osteoblast differentiation", "p": "Associated-With", "o": "lpv/r"}
+{"s": "common bile duct", "p": "Located-In", "o": "gallbladder"}
+{"s": "blood", "p": "Associated-With", "o": "lipase"}
+{"s": "blood crp", "p": "Biomarker-Of", "o": "small-cell lung ca"}
+{"s": "left parietal", "p": "Associated-With", "o": "metastasis"}
+{"s": "right frontal meningioma", "p": "Located-In", "o": "right frontal"}
+{"s": "clinical immunology", "p": "Associated-With", "o": "immune function"}
+{"s": "pulmonary edema", "p": "Associated-With", "o": "heart failure"}
+{"s": "right flank", "p": "Associated-With", "o": "pain"}
+{"s": "lung nodule", "p": "Part-Of", "o": "upper lobe"}
+{"s": "mitral valve", "p": "Associated-With", "o": "mitral regurgitation"}
+{"s": "esophageal stricture", "p": "Associated-With", "o": "gastroesophageal reflux disease"}
+{"s": "E1", "p": "Interacts-With", "o": "E2"}
+{"s": "metoprolol succinate", "p": "Side-Effect", "o": "delirium"}
+{"s": "pulmonary fibrosis", "p": "Contributes-To-Pathogenesis", "o": "disease"}
+{"s": "patient", "p": "Has-Symptom", "o": "nausea"}
+{"s": "non-hispanic black women", "p": "Associated-With", "o": "risk"}
+{"s": "regulatory t cells", "p": "Associated-With", "o": "immune system"}
+{"s": "head ct", "p": "Diagnoses", "o": "hemorrhage"}
+{"s": "glomerular sclerosis", "p": "Associated-With", "o": "high fat"}
+{"s": "right flank", "p": "Associated-With", "o": "soft tissue swelling"}
+{"s": "patient", "p": "Has-Symptom", "o": "expiratory wheeze"}
+{"s": "pericardial effusion", "p": "Located-In", "o": "heart"}
+{"s": "white matter", "p": "Located-In", "o": "spinal cord"}
+{"s": "compound 1", "p": "Has-Symptom", "o": "white solid"}
+{"s": "dmards", "p": "Side-Effect", "o": "chronic lung disease"}
+{"s": "physical therapy", "p": "Affects-Expression", "o": "gait balance training"}
+{"s": "pancreatic cancer", "p": "Associated-With", "o": "brain cancer"}
+{"s": "shoulder pain", "p": "Associated-With", "o": "osteoarthritis"}
+{"s": "remnant cystic", "p": "Agonism-or-Antagonism", "o": "common bile duct"}
+{"s": "regular diet", "p": "Associated-With", "o": "pain control"}
+{"s": "intellectual disability", "p": "Associated-With", "o": "pt"}
+{"s": "altered mental status", "p": "Associated-With", "o": "delirium"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "Disease"}
+{"s": "esophageal stricture", "p": "Located-In", "o": "esophagus"}
+{"s": "hypertension", "p": "Associated-With", "o": "cognitive decline"}
+{"s": "regular diet", "p": "Associated-With", "o": "ambulating"}
+{"s": "linear", "p": "Associated-With", "o": "thought process"}
+{"s": "high fat", "p": "Affects-Expression", "o": "leptin"}
+{"s": "isovue 370", "p": "Used-For", "o": "celiac arteriogram"}
+{"s": "vascular surgery", "p": "Diagnoses", "o": "peripheral vascular disease"}
+{"s": "nod", "p": "Binding", "o": "atp"}

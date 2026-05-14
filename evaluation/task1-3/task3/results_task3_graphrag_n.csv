@@ -1,0 +1,736 @@
+case_id,case_text,expected,prediction_baseline,prediction_rag,prediction_ours,graph_evidence
+custom_case_01,A patient with a history of resected colon cancer presents with new abdominal fullness and jaundice. Imaging reveals lesions in the right lobe of the liver. The patient also reports significant shortness of breath.,Metastatic Colon Cancer with Hepatic Involvement,"Based on the presentation, I would diagnose the patient with:
+
+**Metastatic colon cancer to the liver with possible pulmonary metastases**
+
+The new abdominal fullness and jaundice suggest liver involvement, which is confirmed by imaging showing lesions in the right lobe of the liver. The significant shortness of breath may indicate additional metastases to the lungs.
+
+This diagnosis would require further evaluation, including a thorough physical exam, laboratory tests (e.g., tumor markers, liver function tests), and possibly additional imaging studies (e.g., CT scan or PET scan) to confirm the extent of disease and guide treatment.","Based on the provided context, I would diagnose the patient with Metastatic Colon Cancer.
+
+Here's my reasoning:
+
+1. **History of resected colon cancer**: This suggests that the patient had a primary tumor in the colon, which is now associated with metastasis (spread) to other parts of the body.
+2. **New abdominal fullness and jaundice**: Jaundice is a symptom commonly associated with liver disease or obstruction of bile ducts. Given the history of colon cancer, it's likely that the cancer has spread to the liver, causing these symptoms.
+3. **Lesions in the right lobe of the liver on imaging**: This confirms the suspicion of metastasis to the liver, which is a common site for colon cancer metastases (as indicated by ""Metastatic Colon Cancer Located-In Liver"" in the context).
+4. **Shortness of breath**: This symptom is also associated with Metastatic Colon Cancer (as per the context), suggesting that the cancer may have spread further or caused other complications.
+
+Considering these factors, I believe the patient has developed metastatic colon cancer, which has spread to the liver and possibly caused additional symptoms such as shortness of breath.","**Diagnosis:** Metastatic Colon Cancer with Liver Involvement and Respiratory Compromise.
+
+**Reasoning:**
+
+The patient's presentation of new abdominal fullness, jaundice, and shortness of breath, along with imaging revealing lesions in the right lobe of the liver, strongly suggests a diagnosis of metastatic colon cancer. The graph evidence supports this conclusion:
+
+1. **Direct Semantic Matches:** ""Metastatic Colon Cancer Located-In Liver"" and ""Hepatocellular Carcinoma Has-Symptom Jaundice"" indicate that liver involvement can cause jaundice.
+2. **Structural Context:** ""metastatic colon cancer --Located-In--> Liver"" confirms the association between metastatic colon cancer and liver involvement.
+3. **Patient Symptoms:** The patient's shortness of breath is consistent with the graph evidence, which states ""Shortness of Breath Has-Symptom Metastatic Colon Cancer"".
+4. **History of Resected Colon Cancer:** The patient's history of resected colon cancer increases the likelihood of metastasis, as indicated by the graph: ""Colon Cancer --Associated-With--> Metastatic Colon Cancer"".
+
+**Differential Diagnoses:**
+
+While the evidence strongly supports a diagnosis of metastatic colon cancer, other possibilities should be considered:
+
+1. **Cholangiocarcinoma:** The patient's jaundice could also be caused by cholangiocarcinoma, as indicated by ""Cholangiocarcinoma Has-Symptom Jaundice"". However, the presence of liver lesions and shortness of breath makes metastatic colon cancer a more likely diagnosis.
+2. **Colonic Adenocarcinoma:** The patient's symptoms could also be consistent with colonic adenocarcinoma, which is associated with vomiting (as indicated by ""vomiting --Associated-With--> Gastrointestinal Tract Dysfunction""). However, the liver involvement and shortness of breath are more suggestive of metastatic colon cancer.
+
+In conclusion, based on the graph evidence and patient symptoms, a definitive diagnosis of Metastatic Colon Cancer with Liver Involvement and Respiratory Compromise is made.","--- Direct Semantic Matches ---
+Tumor Located-In Colon
+Hepatocellular Carcinoma Has-Symptom Jaundice
+Shortness of Breath Has-Symptom Metastatic Colon Cancer
+Metastatic Colon Cancer Located-In Liver
+metastatic colon cancer Has-Symptom Shortness of Breath
+metastatic colon cancer Associated-With Colon Cancer
+colonic adenocarcinoma Has-Symptom vomiting
+metastatic colon cancer Located-In Liver
+Cholangiocarcinoma Has-Symptom Jaundice
+Colon Cancer Associated-With Metastatic Colon Cancer
+
+--- Structural Context (Reasoning) ---
+Colon <--Located-In-- Tumor
+metastatic colon cancer --Causes--> BRCA1 mutation
+metastatic colon cancer --Associated-With--> Colon Cancer
+metastatic colon cancer --Located-In--> Liver
+colonic adenocarcinoma <--Used-For-- open right colectomy
+colonic adenocarcinoma --Has-Symptom--> fatigue
+colonic adenocarcinoma --Has-Symptom--> nausea
+vomiting --Associated-With--> Gastrointestinal Tract Dysfunction
+Colon Cancer --Associated-With--> Metastatic Colon Cancer
+Colon Cancer <--Treats-- Aspirin
+vomiting <--Has-Symptom-- colonic adenocarcinoma
+Colon Cancer <--Associated-With-- metastatic colon cancer"
+custom_case_02,A 72-year-old with long-standing hypertension develops palpitations and then acute onset right-sided facial droop and weakness. CT head rules out hemorrhage. He is started on antithrombotic therapy and aspirin.,Cardioembolic Acute Ischemic Stroke secondary to Atrial Fibrillation,"The patient likely has an ischemic stroke, specifically a lacunar infarct or possibly a cardioembolic stroke given his history of palpitations (suggestive of atrial fibrillation) and hypertension. The facial droop and weakness are consistent with a left hemisphere lesion affecting the motor cortex.
+
+Diagnosis: Ischemic Stroke","Based on the symptoms and test results, I would diagnose this patient as having had a **Stroke**, specifically an ischemic stroke.
+
+The key points that lead me to this diagnosis are:
+
+1. Long-standing hypertension: This is a major risk factor for stroke (High Blood Pressure Associated-With Cardiovascular Disease).
+2. Palpitations: While palpitations can be associated with various conditions, in the context of hypertension and subsequent neurological symptoms, they may indicate atrial fibrillation, which increases the risk of stroke.
+3. Acute onset right-sided facial droop and weakness: These are classic symptoms of a stroke, indicating damage to the brain's motor control areas (Hypertension Causes Cerebral Vascular Disease).
+4. CT head rules out hemorrhage: This suggests that the stroke is ischemic in nature, rather than due to bleeding.
+
+The treatment with antithrombotic therapy and aspirin also supports this diagnosis, as these medications are commonly used to prevent further clotting and reduce the risk of another stroke.
+
+Overall, while there may be other contributing factors or underlying conditions (e.g., atrial fibrillation), the primary diagnosis in this case appears to be an ischemic stroke.","Based on the patient's symptoms and medical history, I provide a definitive diagnosis and discuss potential differential diagnoses.
+
+**Definitive Diagnosis:** Cerebral Vascular Disease (CVD) with Atrial Fibrillation
+
+**Reasoning:**
+
+1. The patient has long-standing hypertension, which is linked to CVD through the graph evidence (""Hypertension Causes Cerebral Vascular Disease"").
+2. The acute onset of right-sided facial droop and weakness suggests a cerebrovascular event, such as a stroke or transient ischemic attack (TIA). This is supported by the graph evidence linking ""Stroke"" to ""Portal Hypertension"" and ""Cerebral Vascular Disease"".
+3. The patient's palpitations are associated with atrial fibrillation (""palpitations Has-Symptom Atrial Fibrillation""), which increases the risk of stroke.
+4. The CT head ruling out hemorrhage suggests an ischemic event, consistent with CVD.
+
+**Differential Diagnoses:**
+
+1. **Subdural Hematoma**: Although the CT head ruled out hemorrhage, a subdural hematoma could still be considered if there were symptoms of headache (""Headache <--Has-Symptom-- Subdural Hematoma"").
+2. **Migraine**: The patient's headache could also be attributed to migraine (""Headache --Associated-With--> Migraine""), but the acute onset of facial droop and weakness makes this less likely.
+3. **Orthostatic Hypotension**: Although not directly related to the patient's symptoms, orthostatic hypotension is linked to cardiovascular disease through the graph evidence (""Cardiovascular Disease <--Contributes-To-Pathogenesis-- Orthostatic Hypotension"").
+
+**Evidence Citations:**
+
+* ""Hypertension Causes Cerebral Vascular Disease""
+* ""Stroke Causes Portal Hypertension""
+* ""palpitations Has-Symptom Atrial Fibrillation""
+* ""Headache <--Has-Symptom-- Subdural Hematoma""
+* ""Cardiovascular Disease <--Contributes-To-Pathogenesis-- Orthostatic Hypotension""
+
+By considering both direct semantic matches and structural context, we can confidently diagnose Cerebral Vascular Disease with Atrial Fibrillation while acknowledging potential differential diagnoses.","--- Direct Semantic Matches ---
+Hypertension Has-Symptom Dizziness
+shortness of breath Associated-With Palpitations
+High Blood Pressure Associated-With Cardiovascular Disease
+palpitations Has-Symptom Atrial Fibrillation
+Stroke Causes Portal Hypertension
+Hypertension Has-Symptom Headache
+Hypertension Causes Cerebral Edema
+Hypertension Causes Cerebral Vascular Disease
+head Associated-With cerebrovascular disease
+Shortness of Breath Associated-With Palpitations
+
+--- Structural Context (Reasoning) ---
+Portal Hypertension <--Treats-- Pioglitazone
+Cardiovascular Disease <--Contributes-To-Pathogenesis-- Anxiety Disorder
+cerebrovascular disease <--Associated-With-- head
+Headache <--Has-Symptom-- Subdural Hematoma
+Cerebral Vascular Disease <--Causes-- Hypertension
+Portal Hypertension <--Causes-- Stroke
+Headache --Associated-With--> Migraine
+Headache <--Has-Symptom-- Hypertension
+Portal Hypertension <--Associated-With-- Steatosis
+Cerebral Vascular Disease --Contributes-To-Pathogenesis--> Mental Status Changes
+Cardiovascular Disease <--Treats-- Hospital
+Cardiovascular Disease <--Contributes-To-Pathogenesis-- Orthostatic Hypotension"
+custom_case_03,An elderly patient with severe aortic stenosis develops progressive dyspnea and bilateral pleural effusions. Echo shows left ventricular hypertrophy. NT-proBNP is markedly elevated.,Heart Failure with Pulmonary Edema due to Severe Aortic Stenosis,"The patient has developed congestive heart failure (CHF) secondary to severe aortic stenosis, with evidence of fluid overload (bilateral pleural effusions), increased wall stress (left ventricular hypertrophy), and elevated NT-proBNP levels indicative of cardiac strain.","Based on the provided context and case information, I would diagnose:
+
+**Heart Failure**
+
+Reasoning:
+
+1. **Severe aortic stenosis**: This condition can lead to increased pressure in the left ventricle, causing hypertrophy (thickening of the heart muscle).
+2. **Left ventricular hypertrophy**: As shown on echo, this is a common consequence of severe aortic stenosis and can increase the risk of heart failure.
+3. **Progressive dyspnea** (shortness of breath) and **bilateral pleural effusions**: These symptoms are consistent with fluid overload and congestion in the lungs, which are hallmarks of heart failure.
+4. **Markedly elevated NT-proBNP**: This biomarker is a sensitive indicator of heart failure, particularly when levels are significantly elevated.
+
+Additionally, the context information suggests that:
+
+* Aortic stenosis can cause left ventricular hypertrophy (LVH), which in turn can lead to heart failure.
+* Moderate aortic stenosis can cause shortness of breath, and severe aortic stenosis may exacerbate this symptom.
+* Heart failure is associated with symptoms like chest pain and shortness of breath.
+
+Therefore, based on the clinical presentation and diagnostic findings, I would diagnose heart failure in this elderly patient with severe aortic stenosis.","**Diagnosis:** Heart Failure with preserved ejection fraction (HFpEF) secondary to severe aortic stenosis.
+
+**Reasoning:**
+
+The patient's presentation of progressive dyspnea and bilateral pleural effusions, along with the echocardiogram showing left ventricular hypertrophy and markedly elevated NT-proBNP, strongly suggests heart failure. The graph evidence supports this diagnosis:
+
+* ""Left Ventricular Hypertrophy Causes Heart Failure"" (Direct Semantic Match) indicates a direct causal link between the patient's left ventricular hypertrophy and heart failure.
+* ""Aortic Stenosis Has-Symptom Chest Pain"" (Direct Semantic Match) is not directly relevant to the patient's symptoms, but it does suggest that aortic stenosis can cause cardiac-related symptoms.
+
+The graph also provides structural context that supports this diagnosis:
+
+* ""aortic valve --Associated-With--> tricuspid regurgitation"" and ""aortic valve --Associated-With--> mitral regurgitation"" (Structural Context) imply that aortic valve disease can be associated with other valvular diseases, which may contribute to heart failure.
+* ""Chest Pain --Causes--> Coronary Artery Disease"" (Structural Context) is not directly relevant, but it does suggest that chest pain can have multiple causes, including coronary artery disease.
+
+Differential diagnoses to consider:
+
+* **Coronary Artery Disease:** Although the patient's symptoms and echocardiogram do not strongly suggest coronary artery disease, it is still a possible cause of heart failure. The graph evidence ""Chest Pain --Causes--> Coronary Artery Disease"" (Structural Context) supports this possibility.
+* **Mitral Regurgitation:** The graph evidence ""aortic valve --Associated-With--> mitral regurgitation"" (Structural Context) suggests that aortic valve disease can be associated with mitral regurgitation, which may contribute to heart failure.
+
+However, based on the patient's symptoms and echocardiogram results, HFpEF secondary to severe aortic stenosis is the most likely diagnosis.","--- Direct Semantic Matches ---
+Severe Pulmonary Artery Systolic Hypertension Causes Aortic Valve Stenosis
+left ventricular hypertrophy Causes Heart Failure
+aortic valve Associated-With aortic regurgitation
+Aortic Stenosis Has-Symptom Chest Pain
+Left Ventricular Hypertrophy Causes Heart Failure
+Calcified Pleural Plaques Associated-With Aortic Valve
+Aortic Regurgitation Associated-With Aortic Valve
+Aortic Regurgitation Has-Symptom Heart Failure
+chest pain Has-Symptom aortic stenosis
+Moderate Aortic Stenosis Has-Symptom Shortness of Breath
+
+--- Structural Context (Reasoning) ---
+aortic valve --Associated-With--> tricuspid regurgitation
+Chest Pain --Causes--> Coronary Artery Disease
+chest pain --Has-Symptom--> mitral regurgitation
+aortic stenosis <--Has-Symptom-- chest pain
+Chest Pain <--Has-Symptom-- Atrial Fibrillation
+chest pain --Has-Symptom--> aortic stenosis
+Chest Pain <--Has-Symptom-- Mitral Regurgitation
+chest pain --Has-Symptom--> shortness of breath
+aortic valve --Associated-With--> mitral regurgitation
+aortic stenosis --Treats--> albuterol sulfate
+aortic regurgitation <--Associated-With-- aortic valve
+aortic valve --Associated-With--> aortic regurgitation"
+custom_case_04,A heavy smoker with hyperlipidemia presents with acute neurological deficit. Imaging confirms acute ischemic stroke. He is started on intensive statin therapy and aspirin for secondary prevention.,Acute Ischemic Stroke with Atherosclerotic Risk Factors,"The patient has an **Acute Ischemic Stroke** due to atherosclerosis, likely exacerbated by his history of heavy smoking and hyperlipidemia.
+
+More specifically:
+
+* Primary diagnosis: Acute Ischemic Stroke
+* Underlying conditions:
+	+ Atherosclerotic disease (likely contributing to the stroke)
+	+ Hyperlipidemia (elevated cholesterol levels)
+	+ Tobacco use disorder (heavy smoker)
+
+The intensive statin therapy and aspirin are appropriate for secondary prevention of another ischemic event.","Based on the provided context, I would diagnose:
+
+**Acute Ischemic Stroke**
+
+Reasoning:
+
+* The patient presents with an acute neurological deficit, which is a common symptom of acute ischemic stroke (as indicated by ""Acute Ischemic Stroke Has-Symptom Inability to speak"" and other similar matches).
+* Imaging confirms the diagnosis of acute ischemic stroke.
+* The patient's history of hyperlipidemia is a contributing factor to the pathogenesis of acute ischemic stroke, as indicated by ""Hyperlipidemia Contributes-To-Pathogenesis Acute Ischemic Stroke"".
+* Smoking is also a risk factor for cardiovascular disease and stroke, although it is not explicitly mentioned in the provided context.
+
+The treatment with intensive statin therapy and aspirin is consistent with secondary prevention strategies for acute ischemic stroke.","**Diagnosis:** Acute Ischemic Stroke
+
+**Reasoning:**
+
+1. **Direct Semantic Match**: The patient's acute neurological deficit and imaging confirmation of acute ischemic stroke directly match the graph evidence ""Acute Ischemic Stroke Causes Right Sided Weakness"" and ""Acute Ischemic Stroke Has-Symptom Inability to speak"".
+2. **Structural Context**: Hyperlipidemia, a known risk factor for Acute Ischemic Stroke (graph evidence: ""Hyperlipidemia Contributes-To-Pathogenesis Acute Ischemic Stroke""), is present in the patient.
+3. **Treatment Consistency**: The treatment plan of intensive statin therapy and aspirin aligns with the graph evidence ""Aspirin Treats Acute Ischemic Stroke"" and the patient's hyperlipidemia, which suggests atherosclerosis (graph evidence: ""Transient Ischemic Attack Contributes-To-Pathogenesis Atherosclerosis"").
+
+**Differential Diagnoses:**
+
+1. **Transient Ischemic Attack (TIA)**: Although TIA is a possible differential diagnosis, the graph evidence ""Transient Ischemic Attack Has-Symptom Stroke-like symptoms"" and the patient's acute neurological deficit suggest that Acute Ischemic Stroke is more likely.
+2. **Cerebral Vascular Disease**: While Cerebral Vascular Disease (graph evidence: ""Hypertension Causes Cerebral Vascular Disease"") could be a contributing factor, the patient's presentation and imaging confirmation of Acute Ischemic Stroke make it less likely as a primary diagnosis.
+
+**Conclusion:** Based on the direct semantic matches, structural context, and treatment consistency, the definitive diagnosis is Acute Ischemic Stroke.","--- Direct Semantic Matches ---
+Acute Ischemic Stroke Causes Right Sided Weakness
+Acute Ischemic Stroke Has-Symptom Inability to speak
+Stroke Causes Portal Hypertension
+Transient Ischemic Attack Has-Symptom Stroke-like symptoms
+Aspirin Treats Acute Ischemic Stroke
+Transient Ischemic Attack Contributes-To-Pathogenesis Atherosclerosis
+Hyperlipidemia Contributes-To-Pathogenesis Acute Ischemic Stroke
+Hypertension Causes Cerebral Vascular Disease
+High Cholesterol Contributes-To-Pathogenesis Acute Ischemic Stroke
+Acute Ischemic Stroke Has-Symptom Inability to Speak
+
+--- Structural Context (Reasoning) ---
+Atherosclerosis <--Causes-- Cardiac Hypertrophy
+Transient Ischemic Attack --Causes--> Polycythemia
+Portal Hypertension <--Treats-- Pioglitazone
+Atherosclerosis <--Contributes-To-Pathogenesis-- Hypertension
+Cerebral Vascular Disease <--Causes-- Hypertension
+Portal Hypertension <--Causes-- Stroke
+Portal Hypertension <--Associated-With-- Steatosis
+Inability to speak <--Has-Symptom-- Acute Ischemic Stroke
+Transient Ischemic Attack --Has-Symptom--> Stroke-like symptoms
+Atherosclerosis <--Contributes-To-Pathogenesis-- Transient Ischemic Attack
+Cerebral Vascular Disease --Contributes-To-Pathogenesis--> Mental Status Changes
+Transient Ischemic Attack --Contributes-To-Pathogenesis--> Atherosclerosis"
+custom_case_05,"A patient with chronic alcohol use presents with jaundice, abdominal pain, and altered mental status. Labs show elevated bilirubin; imaging shows cirrhotic liver and ascites. Lactulose and rifaximin are initiated.",Hepatic Encephalopathy secondary to Alcoholic Cirrhosis,"The patient is diagnosed with Hepatic Encephalopathy (HE) secondary to Alcoholic Cirrhosis.
+
+Key features supporting this diagnosis:
+
+* Jaundice, abdominal pain, and altered mental status suggest liver dysfunction and potential complications of cirrhosis.
+* Elevated bilirubin levels indicate impaired liver function.
+* Imaging findings of a cirrhotic liver and ascites confirm chronic liver disease.
+* The initiation of lactulose and rifaximin is consistent with treatment for HE, which aims to reduce ammonia production in the gut.
+
+Hepatic Encephalopathy is a complication of cirrhosis characterized by cognitive impairment, ranging from mild confusion to coma.","Based on the provided context and case information, I would diagnose the patient with:
+
+**Alcoholic Cirrhosis**
+
+The symptoms of jaundice, abdominal pain, and altered mental status, combined with laboratory results showing elevated bilirubin and imaging findings of a cirrhotic liver and ascites, are consistent with advanced liver disease. The patient's history of chronic alcohol use further supports this diagnosis.
+
+Additionally, the initiation of lactulose and rifaximin suggests that the healthcare provider is treating the patient for hepatic encephalopathy (HE), a complication of cirrhosis characterized by altered mental status. Rifaximin is specifically used to treat HE in patients with cirrhosis, as indicated in the context.
+
+Therefore, the diagnosis of Alcoholic Cirrhosis is supported by both the clinical presentation and the treatment approach.","**Definitive Diagnosis:** Alcoholic Cirrhosis with Hepatic Encephalopathy
+
+**Reasoning:**
+
+The patient's presentation of jaundice, abdominal pain, and altered mental status, along with lab results showing elevated bilirubin and imaging indicating a cirrhotic liver and ascites, strongly suggests Alcoholic Cirrhosis. The graph evidence supports this diagnosis:
+
+* ""Liver Cirrhosis Has-Symptom Jaundice"" (Direct Semantic Match) matches the patient's jaundice symptom.
+* ""Alcoholic Cirrhosis Has-Symptom Jaundice"" (Direct Semantic Match) further confirms the connection between Alcoholic Cirrhosis and jaundice.
+* The graph also links Liver Damage to Jaundice (""Liver Damage Has-Symptom Jaundice""), which is consistent with the patient's liver damage indicated by elevated bilirubin and cirrhotic liver on imaging.
+
+The initiation of lactulose and rifaximin in the treatment plan suggests a suspicion of Hepatic Encephalopathy, a complication of Alcoholic Cirrhosis. The graph supports this connection:
+
+* ""EtoH Cirrhosis Contraindicated-For Rifaximin PO"" (Direct Semantic Match) indicates that rifaximin is used to treat EtoH cirrhosis, which is consistent with the patient's treatment plan.
+* ""Rifaximin PO Used-For EtoH Cirrhosis"" (Direct Semantic Match) further confirms the use of rifaximin in treating Alcoholic Cirrhosis.
+
+**Differential Diagnoses:**
+
+While Alcoholic Cirrhosis is the most likely diagnosis, other possibilities should be considered:
+
+* Liver Damage: The graph links Liver Damage to Jaundice (""Liver Damage Has-Symptom Jaundice""), but the patient's chronic alcohol use and cirrhotic liver on imaging make Alcoholic Cirrhosis a more specific diagnosis.
+* Hepatocellular Carcinoma: The graph associates Hepatocellular carcinoma with Alcoholism (""Hepatocellular carcinoma Associated-With Alcoholism""), but there is no direct evidence of cancer in the patient's presentation.
+
+Overall, the combination of the patient's symptoms, lab results, and treatment plan, along with the graph evidence, supports a definitive diagnosis of Alcoholic Cirrhosis with Hepatic Encephalopathy.","--- Direct Semantic Matches ---
+Problematic Alcohol Use Has-Symptom Alcohol-Related Problems
+Liver Cirrhosis Has-Symptom Jaundice
+Liver Damage Has-Symptom Jaundice
+EtoH Cirrhosis Contraindicated-For Rifaximin PO
+Hepatocellular carcinoma Associated-With Alcoholism
+Binge Drinking Causes Alcohol-Related Disorders
+Alcoholic Cirrhosis Has-Symptom Jaundice
+Liver Cirrhosis Causes Alcohol Consumption
+etoh cirrhosis Contraindicated-For rifaximin po
+Rifaximin PO Used-For EtoH Cirrhosis
+
+--- Structural Context (Reasoning) ---
+EtoH Cirrhosis --Contributes-To-Pathogenesis--> Anemia
+Alcoholic Cirrhosis --Has-Symptom--> Jaundice
+Liver Damage --Contributes-To-Pathogenesis--> Cirrhosis
+Binge Drinking <--Treats-- Anxiety Sensitivity
+Alcoholic Cirrhosis --Contributes-To-Pathogenesis--> Liver Fibrosis
+EtoH Cirrhosis <--Used-For-- Rifaximin PO
+Liver Damage <--Side-Effect-- Acetaminophen
+Binge Drinking <--Causes-- Anxiety Sensitivity
+Alcoholic Cirrhosis --Causes--> Hepatocellular Carcinoma
+EtoH Cirrhosis --Contraindicated-For--> Rifaximin PO
+rifaximin po <--Contraindicated-For-- etoh cirrhosis
+Binge Drinking <--Treats-- Perceived Control over Anxiety
+rifaximin po --Used-For--> etoh cirrhosis
+Liver Damage --Has-Symptom--> Jaundice"
+custom_case_06,"A diabetic patient on metformin presents with severe abdominal pain, acidosis, and lactic acidosis on labs. Renal function is impaired.",Metformin-Associated Lactic Acidosis,"The patient likely has Metformin-Associated Lactic Acidosis (MALA), a rare but potentially life-threatening complication of metformin therapy.
+
+Key features:
+
+* Severe abdominal pain
+* Lactic acidosis (elevated lactate levels)
+* Acidosis (low pH)
+* Impaired renal function
+
+This condition is often precipitated by factors such as dehydration, sepsis, or impaired kidney function, which can lead to metformin accumulation and subsequent lactic acid production.","Based on the provided context and case information, I would diagnose:
+
+**Metformin-Associated Lactic Acidosis (MALA)**
+
+Reasoning:
+
+1. **Patient's medication**: The patient is taking metformin, which is a known risk factor for lactic acidosis.
+2. **Symptoms**: Severe abdominal pain, acidosis, and impaired renal function are all consistent with MALA.
+3. **Lab results**: Lactic acidosis on labs further supports this diagnosis.
+4. **Renal impairment**: Metformin is contraindicated in patients with severe renal impairment, as it can increase the risk of lactic acidosis.
+
+MALA is a rare but potentially life-threatening complication of metformin therapy, particularly in patients with impaired renal function. It occurs when metformin accumulates to toxic levels, leading to an overproduction of lactate and subsequent metabolic acidosis.
+
+**Additional considerations:**
+
+* The patient's diabetes diagnosis (likely Type 2) is relevant, but not directly related to the primary diagnosis.
+* Chronic abdominal pain may be a contributing factor or a symptom of the underlying condition, but it is not the primary diagnosis in this case.","**Diagnosis:** Metformin-Associated Lactic Acidosis (MALA) with underlying Type 2 Diabetes Mellitus and impaired renal function.
+
+**Reasoning:**
+
+The patient's presentation of severe abdominal pain, acidosis, and lactic acidosis on labs, along with impaired renal function, points towards a diagnosis of MALA. The graph evidence supports this diagnosis:
+
+* ""Metformin Treats Type 2 Diabetes Mellitus"" (Direct Semantic Match) indicates that the patient is likely taking metformin for their diabetes.
+* ""Anion Gap Metabolic Acidosis Associated-With Kidney Disease"" (Direct Semantic Match) suggests a link between kidney disease and metabolic acidosis, which is consistent with the patient's impaired renal function and acidosis.
+* ""Hyperkalemia Associated-With Chronic Abdominal Pain"" (Direct Semantic Match) could be related to the patient's abdominal pain, although it is not a direct match for lactic acidosis.
+
+The structural context provides additional support:
+
+* ""Diabetes Mellitus Type 2 <--Associated-With--> Kidney Function"" implies that diabetes can affect kidney function, which may contribute to the development of MALA.
+* ""Glycemic Control <--Used-For-- Metformin"" indicates that metformin is used for glycemic control in diabetic patients, but it does not rule out the possibility of lactic acidosis as a side effect.
+
+Differential diagnoses to consider:
+
+* Diabetic ketoacidosis (DKA): Although DKA typically presents with hyperglycemia and ketosis, the patient's impaired renal function and metformin use make MALA more likely.
+* Type 1 Diabetes with Complications: The graph evidence suggests that Type 1 diabetes can contribute to chronic abdominal pain, but it is less likely given the patient's presentation and treatment with metformin.
+
+Overall, the combination of direct semantic matches and structural context provides strong support for a diagnosis of MALA in this patient.","--- Direct Semantic Matches ---
+Diabetes Mellitus Type 2 Treats Metformin
+Metformin Used-For Glycemic Control
+Metformin Treats Type 2 Diabetes Mellitus
+Anion Gap Metabolic Acidosis Associated-With Kidney Disease
+Hyperkalemia Associated-With Chronic Abdominal Pain
+Metformin Treats Diabetes Mellitus Type 2
+12 blood Has-Symptom anion gap metabolic acidosis
+Hyperglycemia Has-Symptom Polyuria
+Type 1 Diabetes with Complications Contributes-To-Pathogenesis Chronic Abdominal Pain
+Type 2 Diabetes Mellitus Treats Metformin
+
+--- Structural Context (Reasoning) ---
+Diabetes Mellitus Type 2 <--Treats-- Metformin
+Diabetes Mellitus Type 2 --Associated-With--> Kidney Function
+Polyuria <--Has-Symptom-- Hyperglycemia
+Polyuria <--Has-Symptom-- Type 2 Diabetes Mellitus
+Diabetes Mellitus Type 2 <--Associated-With-- L5-S1
+Glycemic Control <--Used-For-- Metformin
+Hyperkalemia --Associated-With--> Chronic Abdominal Pain
+anion gap metabolic acidosis <--Has-Symptom-- 12 blood
+Hyperkalemia <--Treats-- Diuretics
+Hyperkalemia <--Contributes-To-Pathogenesis-- Potassium Channel"
+custom_case_07,"A patient with a history of alcohol withdrawal develops generalized seizures in the ED, followed by a post-ictal period with decreased interactiveness. EEG monitoring is initiated.",Alcohol Withdrawal Seizures with Post-ictal State,"**Status Epilepticus (SE) secondary to Alcohol Withdrawal**
+
+The patient's presentation of generalized seizures and subsequent post-ictal state, in the context of a history of alcohol withdrawal, suggests SE as the primary diagnosis. EEG monitoring is crucial for confirming the diagnosis and guiding treatment.
+
+Note: Status epilepticus is defined as either:
+
+1. A single seizure lasting > 30 minutes
+2. Two or more seizures between which there is incomplete recovery of consciousness
+
+In this case, the patient's decreased interactiveness post-seizure suggests ongoing cerebral dysfunction, consistent with SE.","Based on the provided context and case information, I would diagnose:
+
+**Seizures**, likely related to **Alcohol Withdrawal**
+
+The patient's history of alcohol withdrawal and development of generalized seizures in the ED suggest a connection between the two conditions. The post-ictal period with decreased interactiveness is consistent with the expected symptoms following a seizure.
+
+Additionally, considering the context information, it's possible that the patient may have an underlying condition such as **Epilepsy**, but this cannot be confirmed without further evaluation and diagnosis.
+
+**Differential Diagnosis:**
+
+* Alcohol Withdrawal Seizures
+* Epilepsy (possible underlying condition)
+* Other causes of seizures (e.g., head trauma, infection, metabolic disorders)
+
+**Next Steps:**
+
+* Continue EEG monitoring to evaluate for any ongoing seizure activity or other abnormalities.
+* Perform a thorough medical evaluation to identify potential underlying causes of the seizures.
+* Consider consulting with a neurologist for further guidance on diagnosis and management.","Based on the patient's symptoms and the provided Knowledge Graph, I would provide the following diagnosis and discussion:
+
+**Diagnosis:** Epilepsy with generalized seizures, complicated by a post-ictal period.
+
+**Reasoning:**
+
+The graph links ""Epilepsy"" to ""Seizures"" (Epilepsy Has-Symptom Seizures), which matches the patient's presentation of generalized seizures in the ED. Additionally, the graph associates ""Post-ictal period"" with ""Seizures"" (Post-ictal period Associated-With Seizures) and describes a decreased level of interaction during this period (Post-ictal period --Causes--> Decreased level of interaction), consistent with the patient's post-ictal state.
+
+The use of EEG monitoring is also supported by the graph, which states that ""EEG Monitoring Diagnoses Seizures"" (Seizures <--Diagnoses-- EEG Monitoring).
+
+**Differential Diagnoses:**
+
+While the evidence strongly supports a diagnosis of epilepsy, other possibilities should be considered:
+
+1. **Alcohol Withdrawal Seizures:** The patient's history of alcohol withdrawal could contribute to seizure activity. However, the graph does not directly link ""Alcohol Withdrawal"" to ""Seizures,"" and the presence of a post-ictal period suggests a more complex underlying condition.
+2. **Binge Drinking-related Anxiety:** The graph links ""Binge Drinking"" to ""Anxiety Sensitivity"" (Binge Drinking Causes Alcohol-Related Disorders), which could contribute to anxiety symptoms. However, this does not fully explain the patient's seizure activity and post-ictal period.
+
+**Conclusion:**
+
+Based on the provided evidence, epilepsy with generalized seizures is the most likely diagnosis. The graph's direct links between epilepsy, seizures, and post-ictal periods provide strong support for this conclusion. While other possibilities should be considered, they are less likely given the available information.","--- Direct Semantic Matches ---
+Problematic Alcohol Use Has-Symptom Alcohol-Related Problems
+Binge Drinking Has-Symptom Anxiety
+Epilepsy Has-Symptom Seizures
+Anxiety Sensitivity Treats Binge Drinking
+Post-ictal period Associated-With Seizures
+Binge Drinking Causes Alcohol-Related Disorders
+Epilepsy treatment Associated-With Neurological disorders
+Prolonged post-ictal period Has-Symptom Seizure
+EEG Monitoring Diagnoses Seizures
+Seizure Causes Prolonged post-ictal period
+
+--- Structural Context (Reasoning) ---
+Epilepsy <--Treats-- Zonisamide
+Seizures --Contributes-To-Pathogenesis--> Brain Injury
+Binge Drinking <--Treats-- Anxiety Sensitivity
+Anxiety <--Has-Symptom-- Mental Health Conditions
+Post-ictal period --Causes--> Decreased level of interaction
+Anxiety <--Has-Symptom-- Chronic Stress Disorder
+Binge Drinking <--Causes-- Anxiety Sensitivity
+Epilepsy --Has-Symptom--> Seizures
+Seizures --Has-Symptom--> Convulsions
+Epilepsy --Contributes-To-Pathogenesis--> Neurological disorders
+Binge Drinking <--Treats-- Perceived Control over Anxiety
+Seizures <--Diagnoses-- EEG Monitoring
+Post-ictal period --Associated-With--> Seizures
+Anxiety --Treats--> Selective Serotonin Reuptake Inhibitors (SSRIs)"
+custom_case_08,"A patient presents with right flank pain, fever, and dysuria. Urinalysis shows hematuria and urine culture grows Klebsiella. She is started on ciprofloxacin.",Pyelonephritis due to Klebsiella UTI,"The patient has a urinary tract infection (UTI), specifically pyelonephritis, caused by Klebsiella pneumoniae, which is being treated with ciprofloxacin.","Based on the provided context and case information, I would diagnose the patient with a **Urinary Tract Infection (UTI)** caused by **Klebsiella**.
+
+The symptoms of right flank pain, fever, and dysuria are consistent with a UTI. The urinalysis showing hematuria (blood in the urine) further supports this diagnosis. The growth of Klebsiella on urine culture confirms the presence of a bacterial infection, specifically caused by Klebsiella.
+
+Given that Ciprofloxacin is an antibiotic that treats Urinary Tract Infections and Klebsiella infections, starting the patient on ciprofloxacin is an appropriate treatment approach.","Based on the patient's symptoms and lab results, I provide a definitive diagnosis and discuss potential differential diagnoses.
+
+**Definitive Diagnosis:** Urinary Tract Infection (UTI) caused by Klebsiella oxytoca
+
+**Reasoning:**
+
+1. The graph links ""Klebsiella Oxytoca"" to ""Urinary Tract Infection"" through an associative relationship (""Associated-With"") [Direct Semantic Match].
+2. The patient's symptoms, such as right flank pain, fever, and dysuria, are consistent with a UTI diagnosis.
+3. Urinalysis showing hematuria (blood in the urine) further supports this diagnosis.
+4. The graph also links ""Urinary Tract Infection"" to ""Dysuria"" through a causal relationship (""Causes"") [Structural Context], which matches one of the patient's symptoms.
+
+**Potential Differential Diagnoses:**
+
+1. **Bacteremia:** Although Klebsiella oxytoca can cause bacteremia (as shown in the graph), the patient's symptoms and lab results do not strongly suggest this diagnosis.
+2. **Sepsis:** Infection can lead to sepsis, but there is no evidence of severe systemic inflammation or organ dysfunction in the case description.
+3. **Alpha Hemolytic Streptococcus or Lactobacillus sp. infection:** The graph links these organisms to UTI through a causal relationship (""Causes""), but Klebsiella oxytoca is specifically identified as the causative agent in this case.
+
+**Treatment:**
+
+The patient has been started on ciprofloxacin, which is an appropriate treatment for UTIs caused by Klebsiella oxytoca, as shown in the graph [Direct Semantic Match].","--- Direct Semantic Matches ---
+final inpatient blood culture Associated-With infection
+Klebsiella Oxytoca Associated-With Urinary Tract Infection
+Ciprofloxacin Treats Urinary Tract Infections
+Klebsiella Oxytoca Causes Bacteremia
+Final Inpatient Blood Culture Associated-With Infection
+Urinary Tract Infection Diagnoses Urine Culture
+Final Inpatient Blood Culture Diagnoses Infection
+final inpatient blood culture Diagnoses infection
+Klebsiella pneumoniae Causes Urinary Tract Infection
+Ciprofloxacin Treats Urinary Tract Infection
+
+--- Structural Context (Reasoning) ---
+infection <--Has-Symptom-- denies si
+Klebsiella Oxytoca --Causes--> Bacteremia
+Infection --Causes--> Sepsis
+infection <--Causes-- pseudomonas aeruginosa
+Infection <--Has-Symptom-- Denies SI
+Urinary Tract Infection <--Causes-- Alpha Hemolytic Streptococcus or Lactobacillus sp.
+Urinary Tract Infections <--Treats-- Ciprofloxacin
+Urinary Tract Infection --Causes--> Dysuria
+Urinary Tract Infection <--Associated-With-- Klebsiella Oxytoca
+infection <--Associated-With-- final inpatient blood culture
+Klebsiella Oxytoca --Associated-With--> Urinary Tract Infection
+Infection <--Causes-- Jejunostomy tube site abscess"
+custom_case_09,"An elderly man with BPH and enlarged prostate develops urinary retention and hydronephrosis of the left kidney, complicated by sepsis from a urinary source. Foley catheter and tamsulosin are initiated.",Obstructive Uropathy with Urosepsis due to BPH,"Here is a concise diagnosis:
+
+**Urinary Retention with Obstructive Uropathy and Sepsis**
+
+* **Primary Diagnosis:** Urinary retention due to Benign Prostatic Hyperplasia (BPH) with obstructive uropathy
+* **Complications:**
+	+ Hydronephrosis of the left kidney
+	+ Sepsis from a urinary source (urosepsis)
+
+This diagnosis captures the patient's primary issue (urinary retention due to BPH), as well as the complications that have arisen, including obstructive uropathy and sepsis.","Based on the provided context and case information, I would diagnose:
+
+1. **Benign Prostatic Hyperplasia (BPH)**: The patient has an enlarged prostate, which is a characteristic of BPH.
+2. **Urinary Retention**: The patient develops urinary retention, which is a common complication of BPH due to bladder outlet obstruction.
+3. **Hydronephrosis of the left kidney**: This is likely caused by the urinary retention and subsequent backflow of urine into the kidneys, leading to swelling of the renal pelvis and calyces.
+4. **Urinary Tract Infection (UTI)**: The patient develops sepsis from a urinary source, indicating a UTI that has progressed to a systemic infection.
+5. **Bladder Outlet Obstruction**: This is likely caused by the enlarged prostate, which obstructs the flow of urine from the bladder.
+
+The initiation of Foley catheter and tamsulosin (an alpha-blocker) suggests an attempt to manage the urinary retention and alleviate the bladder outlet obstruction.","**Definitive Diagnosis:** Benign Prostatic Hyperplasia (BPH) with Urinary Retention and Secondary Complications.
+
+**Reasoning:**
+
+The patient's symptoms of urinary retention, hydronephrosis of the left kidney, and sepsis from a urinary source are consistent with complications arising from BPH. The graph evidence supports this diagnosis:
+
+* ""Benign Prostatic Hyperplasia Causes Urinary Retention"" (Direct Semantic Match) indicates that BPH is a known cause of urinary retention.
+* ""Urinary Retention --Contributes-To-Pathogenesis--> Kidney Damage"" (Structural Context) suggests that urinary retention can lead to kidney damage, which is consistent with the patient's hydronephrosis.
+* ""Transurethral Resection of the Prostate (TURP) --Used-For--> Benign Prostatic Hyperplasia"" (Direct Semantic Match) implies that TURP is a treatment for BPH, although it has not been performed in this case.
+
+The patient's symptoms and treatment also suggest other potential differential diagnoses:
+
+* **Urinary Tract Infection (UTI):** The graph links ""Foley Catheter Associated-With Urinary Tract Infection"" (Direct Semantic Match), which suggests that the Foley catheter may have introduced a UTI. However, the primary diagnosis of BPH with urinary retention is more likely given the patient's symptoms and treatment.
+* **Bladder Mass:** The graph states ""Obstruction of urine flow <--Causes-- Bladder Mass"" (Structural Context), but there is no direct evidence to support this diagnosis in the patient case.
+
+**Additional Considerations:**
+
+* Hematuria, which is a symptom associated with BPH (""Hematuria <--Has-Symptom-- Benign Prostatic Hypertrophy""), may also be present in this patient.
+* The graph links ""Urinary Tract Infection <--Causes-- Alpha Hemolytic Streptococcus or Lactobacillus sp."" (Structural Context), which suggests that the patient's sepsis may be caused by a UTI. However, this is not the primary diagnosis.
+
+Overall, the evidence from the graph supports a definitive diagnosis of BPH with urinary retention and secondary complications, while also considering potential differential diagnoses such as UTI and bladder mass.","--- Direct Semantic Matches ---
+Transurethral Resection Used-For Benign Prostatic Hypertrophy
+Transurethral Resection of the Prostate Treats Bladder Outlet Obstruction
+Painful Urination Diagnoses Foley catheter insertion
+Benign Prostatic Hyperplasia Causes Urinary Retention
+Bladder Mass Causes Obstruction of urine flow
+Cystoscopy Associated-With Transurethral Resection of the Prostate (TURP)
+Foley Catheter Associated-With Urinary Tract Infection
+Urinary Retention Management Treats Benign Prostatic Hyperplasia
+Benign Prostatic Hypertrophy Has-Symptom Hematuria
+Transurethral Resection of the Prostate (TURP) Treats Bladder Outlet Obstruction
+
+--- Structural Context (Reasoning) ---
+Urinary Retention <--Used-For-- Foley Catheter
+Urinary Retention --Contributes-To-Pathogenesis--> Kidney Damage
+Transurethral Resection of the Prostate (TURP) --Used-For--> Benign Prostatic Hyperplasia
+Transurethral Resection of the Prostate (TURP) <--Associated-With-- Cystoscopy
+Hematuria <--Has-Symptom-- Polycystic Kidney Disease
+Urinary Tract Infection <--Causes-- Alpha Hemolytic Streptococcus or Lactobacillus sp.
+Urinary Tract Infection --Causes--> Dysuria
+Obstruction of urine flow <--Causes-- Bladder Mass
+Hematuria <--Has-Symptom-- Benign Prostatic Hypertrophy
+Urinary Tract Infection <--Associated-With-- Klebsiella Oxytoca
+Urinary Retention --Has-Symptom--> Painful Urination
+Transurethral Resection of the Prostate (TURP) --Treats--> Bladder Outlet Obstruction
+Hematuria --Associated-With--> Kidney Disease"
+custom_case_10,A patient on warfarin for atrial fibrillation presents with fatigue and melena. Labs show iron deficiency anemia with abnormal MCV. A GI bleed workup is initiated.,GI Bleed causing Iron Deficiency Anemia in Anticoagulated Patient,"The patient has a gastrointestinal (GI) bleed, likely due to warfarin-induced anticoagulation, presenting as iron deficiency anemia with melena and fatigue.
+
+Specifically:
+
+* Diagnosis: Warfarin-associated GI bleeding
+* Type of anemia: Iron deficiency anemia (microcytic)
+* Cause of anemia: Chronic blood loss from GI bleed","Based on the information provided, I would diagnose:
+
+**Iron Deficiency Anemia secondary to Gastrointestinal Bleeding**
+
+The patient's symptoms of fatigue and melena (black tarry stools) suggest a gastrointestinal bleed, which can lead to iron deficiency anemia. The lab results showing abnormal MCV (Mean Corpuscular Volume) also support this diagnosis.
+
+Additionally, the fact that the patient is on warfarin for atrial fibrillation increases their risk of bleeding complications, including GI bleeds.
+
+It's worth noting that Aortic Stenosis can cause Iron Deficiency Anemia, but there is no mention of aortic stenosis in the case presentation.","**Diagnosis:** Iron Deficiency Anemia secondary to gastrointestinal bleeding, likely exacerbated by warfarin therapy.
+
+**Reasoning:**
+
+The patient's presentation of fatigue and melena (black, tarry stools), along with laboratory findings of iron deficiency anemia and abnormal MCV (mean corpuscular volume), strongly suggests a diagnosis of iron deficiency anemia. The graph evidence supports this conclusion:
+
+* ""Anemia Has-Symptom Abnormal MCV"" (Direct Semantic Match) indicates that the patient's abnormal MCV is consistent with anemia.
+* ""Iron Deficiency Anemia --Contributes-To-Pathogenesis--> Anemia"" (Structural Context) shows that iron deficiency anemia can contribute to the development of anemia.
+
+The graph also suggests a potential underlying cause for the iron deficiency anemia:
+
+* ""Aortic Stenosis Causes Iron Deficiency Anemia"" (Direct Semantic Match) is not directly relevant in this case, as there is no mention of aortic stenosis. However, it highlights the possibility that other conditions can contribute to iron deficiency anemia.
+* The patient's warfarin therapy may also be playing a role:
+	+ ""Warfarin Interacts-With Vitamin K"" (Direct Semantic Match) indicates that warfarin interacts with vitamin K, which is essential for blood clotting.
+	+ ""Kava Extract Interacts-With Warfarin"" (Direct Semantic Match) suggests that certain substances can interact with warfarin and potentially increase the risk of bleeding.
+
+Given the patient's symptoms and laboratory findings, a gastrointestinal bleed workup is warranted to investigate the source of the bleeding. The graph evidence supports this approach:
+
+* ""Anemia <--Causes-- Neutropenic fever"" (Structural Context) indicates that anemia can contribute to neutropenic fever, which may be a complication of a GI bleed.
+* ""Iron Deficiency Anemia <--Contributes-To-Pathogenesis--> Iron Deficiency"" (Structural Context) highlights the importance of addressing the underlying iron deficiency.
+
+Differential diagnoses to consider:
+
+* Other causes of anemia, such as vitamin deficiency or chronic disease
+* Other sources of bleeding, such as a bleeding ulcer or malignancy
+* Warfarin toxicity or overdose
+
+However, based on the patient's presentation and laboratory findings, iron deficiency anemia secondary to gastrointestinal bleeding is the most likely diagnosis.","--- Direct Semantic Matches ---
+Warfarin Interacts-With Vitamin K
+Warfarin Treats Atrial Fibrillation
+Warfarin Used-For Anticoagulation
+Kava Extract Interacts-With Warfarin
+Hematocrit Has-Symptom Anemia
+Anemia Has-Symptom Abnormal RBC Count
+anemia of chronic disease Associated-With inpatient blood
+Anemia Has-Symptom Abnormal MCV
+Atorvastatin Used-For Antithrombotic Therapy
+Aortic Stenosis Causes Iron Deficiency Anemia
+
+--- Structural Context (Reasoning) ---
+anemia of chronic disease --Associated-With--> inpatient blood
+Iron Deficiency Anemia --Contributes-To-Pathogenesis--> Anemia
+Anemia <--Causes-- Neutropenic fever
+Iron Deficiency Anemia <--Causes-- Aortic Stenosis
+Vitamin K <--Interacts-With-- Warfarin
+Anemia <--Causes-- Fatigue
+Vitamin K <--Interacts-With-- Atorvastatin
+Iron Deficiency Anemia <--Contributes-To-Pathogenesis-- Iron Deficiency
+Abnormal RBC Count <--Has-Symptom-- Anemia
+Anemia <--Has-Symptom-- Hematocrit"
+custom_case_11,"A patient presents with worsening headache, photophobia, and nausea. MRI shows multiple hemorrhagic cerebral metastases with surrounding vasogenic edema. A small lung nodule is noted on chest imaging.",Brain Metastases from Primary Lung Malignancy,"The patient likely has a primary lung cancer (e.g., non-small cell lung carcinoma) that has metastasized to the brain, resulting in multiple hemorrhagic cerebral metastases with surrounding vasogenic edema.
+
+Concise diagnosis: Metastatic lung cancer with hemorrhagic brain metastases.","Based on the provided information, I would diagnose:
+
+**Metastatic Melanoma with Brain Metastases**
+
+Reasoning:
+
+* The patient's symptoms of worsening headache, photophobia, and nausea are consistent with increased intracranial pressure, which can be caused by brain metastases.
+* The MRI findings of multiple hemorrhagic cerebral metastases with surrounding vasogenic edema support this diagnosis. Vasogenic edema is often associated with brain metastases.
+* The presence of a small lung nodule on chest imaging suggests that the primary cancer may be located in the lungs, which is consistent with melanoma being a common source of brain metastases.
+
+Therefore, based on the combination of clinical symptoms and radiographic findings, I would diagnose metastatic melanoma with brain metastases.","Diagnosis: Brain Metastasis with Vasogenic Edema and possible underlying primary cancer in the lung.
+
+Reasoning:
+
+The patient's worsening headache, photophobia, and nausea are classic symptoms of increased intracranial pressure, which can be caused by brain metastases. The graph links ""Brain Metastasis"" to ""Has-Symptom Seizure"", but also mentions that it is associated with vasogenic edema (Graph Evidence: ""vasogenic edema Associated-With brain metastases""). This matches the patient's MRI findings of multiple hemorrhagic cerebral metastases with surrounding vasogenic edema.
+
+Furthermore, the graph links ""metastatic melanoma"" to ""Causes brain metastases"", suggesting that a primary cancer could be the underlying cause. The presence of a small lung nodule on chest imaging raises the possibility of a primary lung cancer (although melanoma is also a possibility).
+
+Differential diagnoses to consider:
+
+* Subdural Hematoma: Although the graph links ""Subdural Hematoma"" to ""Has-Symptom Headache"", the patient's MRI findings do not support this diagnosis.
+* Meningioma or Glioma: These are types of brain tumors that could cause similar symptoms, but the presence of multiple hemorrhagic metastases and vasogenic edema makes brain metastasis a more likely diagnosis (Graph Evidence: ""Brain Tumor Subtype-Of Meningioma"" and ""Glioma Diagnoses MRI"").
+* Hypertension or Migraine: These conditions could cause headache, but do not explain the patient's other symptoms or imaging findings.
+
+Overall, based on the graph evidence and the patient's clinical presentation, brain metastasis with vasogenic edema is the most likely diagnosis.","--- Direct Semantic Matches ---
+brain Diagnoses MRI
+metastatic melanoma Causes brain metastases
+Subdural Hematoma Has-Symptom Headache
+NMR Diagnoses Brain Tumor
+Meningioma Subtype-Of Brain Tumor
+Brain Metastasis Has-Symptom Seizure
+brain tumor Treats chemotherapy
+Glioma Diagnoses MRI
+vasogenic edema Associated-With brain metastases
+MRI Diagnoses Brain Tumor
+
+--- Structural Context (Reasoning) ---
+NMR --Treats--> Multiple Sclerosis
+Brain Tumor <--Subtype-Of-- Glioma
+Headache <--Has-Symptom-- Subdural Hematoma
+brain --Subtype-Of--> central nervous system
+brain <--Located-In-- head
+brain --Located-In--> skull
+Headache <--Has-Symptom-- Hypertension
+brain metastases <--Causes-- metastatic melanoma
+brain metastases <--Associated-With-- vasogenic edema
+Headache --Associated-With--> Migraine
+Brain Tumor <--Diagnoses-- MRI
+Brain Tumor <--Subtype-Of-- Meningioma
+NMR --Diagnoses--> Brain Tumor
+NMR <--Associated-With-- DMSO"
+custom_case_12,A patient with a resected prostate cancer shows elevated telomerase activity in renal tumors noted on follow-up imaging. Germline testing reveals genetic variants associated with leukocyte telomere length.,Renal Cell Carcinoma with Telomere Biology Alterations,"Based on the information provided, I would diagnose the patient as having:
+
+**Li-Fraumeni syndrome or a related telomere biology disorder**
+
+The presence of elevated telomerase activity in renal tumors and genetic variants associated with leukocyte telomere length suggest an underlying germline mutation affecting telomere maintenance. Li-Fraumeni syndrome is a rare inherited cancer predisposition syndrome characterized by mutations in the TP53 gene, which can lead to multiple primary cancers, including prostate cancer, renal cell carcinoma, and others. The patient's history of resected prostate cancer and subsequent development of renal tumors on follow-up imaging supports this diagnosis.
+
+Alternatively, other telomere biology disorders such as dyskeratosis congenita or aplastic anemia could also be considered, but Li-Fraumeni syndrome is a more likely diagnosis given the patient's cancer history.","Based on the provided context and case information, I would diagnose the patient with:
+
+**Renal Cell Carcinoma (RCC) with possible Li-Fraumeni syndrome or Telomere Biology Disorder**
+
+Reasoning:
+
+1. **Elevated telomerase activity in renal tumors**: This suggests that the renal tumors may be utilizing telomerase to maintain their telomeres, which is a common feature of many cancers.
+2. **Germline testing reveals genetic variants associated with leukocyte telomere length**: This indicates that the patient has inherited genetic mutations that affect telomere length, which can increase the risk of developing certain types of cancer, including RCC.
+3. **Resected prostate cancer**: The fact that the patient had a previous history of prostate cancer and now has renal tumors suggests a possible underlying genetic predisposition to cancer.
+
+Li-Fraumeni syndrome is a rare genetic disorder characterized by inherited mutations in the TP53 gene, which can lead to an increased risk of developing multiple types of cancer, including RCC. Telomere Biology Disorder is another condition that affects telomere length and can increase the risk of cancer.
+
+**Additional considerations:**
+
+* The patient's elevated telomerase activity and genetic variants associated with leukocyte telomere length may also suggest a possible diagnosis of **Telomere Length-Related Cancer Syndrome**, which is a rare condition characterized by inherited mutations that affect telomere length and increase the risk of developing certain types of cancer.
+
+**Recommendations:**
+
+* Further genetic testing to confirm the presence of Li-Fraumeni syndrome or Telomere Biology Disorder
+* Regular follow-up imaging to monitor for any new tumors or changes in existing tumors
+* Consideration of targeted therapies that take into account the patient's underlying genetic mutations and telomere biology.","Diagnosis: Renal Cell Carcinoma with potential implications of Telomere Length and Genetic Instability.
+
+Reasoning:
+
+The patient's elevated telomerase activity in renal tumors, as noted on follow-up imaging after resected prostate cancer, directly matches the graph evidence that ""Telomerase Expressed-In Immune cells"" (Direct Semantic Match). Furthermore, the presence of genetic variants associated with leukocyte telomere length in germline testing aligns with the graph's indication that ""Telomere Length Expressed-In Genetic Material"" (Direct Semantic Match).
+
+The connection between renal cell carcinoma and longer genetically inferred telomere length is explicitly stated in the graph (""Renal Cell Carcinoma Associated-With Longer Genetically Inferred Telomere Length"") (Direct Semantic Match). This association suggests a potential link between the patient's condition and telomere length dynamics.
+
+Considering the structural context, ""Telomere Shortening Contributes-To-Pathogenesis Aging"" and ""Aging Associated-With Telomere Shortening"" imply that alterations in telomere length could have broader implications for aging and potentially for cancer development or progression. However, the direct link to renal cell carcinoma points more specifically towards this diagnosis.
+
+Differential diagnoses might include other cancers or conditions associated with abnormal telomerase activity or telomere length variations. For instance, ""Prostate cancer Causes BRCA1 mutation"" (Direct Semantic Match) could suggest a genetic predisposition, but the primary evidence points towards renal cell carcinoma due to the specific mention of renal tumors and elevated telomerase activity.
+
+In summary, based on both direct semantic matches and structural context reasoning, the definitive diagnosis is Renal Cell Carcinoma with implications for Telomere Length and Genetic Instability.","--- Direct Semantic Matches ---
+Telomerase Expressed-In Immune cells
+Telomere Length Expressed-In Genetic Material
+Renal Cell Carcinoma Associated-With Longer Genetically Inferred Telomere Length
+Telomere shortening Contributes-To-Pathogenesis Aging
+Telomere length Causes Genomic instability
+Telomere length Associated-With HIV infection
+Longevity Causes Telomere Shortening
+Prostate cancer Causes BRCA1 mutation
+aging Associated-With Telomere Shortening
+Renal Cell Carcinoma Associated-With longer genetically inferred telomere length
+
+--- Structural Context (Reasoning) ---
+Aging <--Associated-With-- Cognitive function
+Genetic Material <--Expressed-In-- Telomere Length
+Aging --Treats--> Longevity
+Aging <--Contributes-To-Pathogenesis-- Longevity
+Telomere Shortening <--Associated-With-- aging
+Telomere Length --Expressed-In--> Genetic Material
+Genomic instability <--Causes-- Telomere length
+Telomere Shortening <--Causes-- Longevity"

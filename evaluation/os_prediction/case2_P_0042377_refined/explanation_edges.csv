@@ -1,0 +1,17 @@
+source_id,target_id,source_name,target_name,source_type,target_type,relation,in_primekg,in_new_triples,novel_vs_primekg
+anatomy|pancreas,gene/protein|cdkn2a,Pancreas,CDKN2A,anatomy,gene/protein,expression present,1,0,0
+gene/protein|cdkn2a,effect/phenotype|pancreatic abscess,CDKN2A,Pancreatic Abscess,gene/protein,effect/phenotype,associated with,0,1,1
+effect/phenotype|pancreatic abscess,drug|gemcitabine,Pancreatic Abscess,Gemcitabine,effect/phenotype,drug,indication,0,1,1
+effect/phenotype|pancreatic abscess,drug|paclitaxel,Pancreatic Abscess,Paclitaxel,effect/phenotype,drug,used for,0,1,1
+anatomy|pancreas,gene/protein|slc4a1,Pancreas,SLC4A1,anatomy,gene/protein,expression present,1,0,0
+gene/protein|slc4a1,gene/protein|cdkn2a,SLC4A1,CDKN2A,gene/protein,gene/protein,ppi,1,0,0
+anatomy|pancreas,gene/protein|brca1,Pancreas,BRCA1,anatomy,gene/protein,expression present,1,0,0
+gene/protein|brca1,gene/protein|cdkn2a,BRCA1,CDKN2A,gene/protein,gene/protein,ppi,1,0,0
+anatomy|pancreas,gene/protein|hgf,Pancreas,HGF,anatomy,gene/protein,expression present,1,0,0
+gene/protein|hgf,gene/protein|cdkn2a,HGF,CDKN2A,gene/protein,gene/protein,ppi,1,0,0
+anatomy|pancreas,gene/protein|cd44,Pancreas,CD44,anatomy,gene/protein,expression present,1,0,0
+gene/protein|cd44,gene/protein|cdkn2a,CD44,CDKN2A,gene/protein,gene/protein,ppi,1,0,0
+anatomy|pancreas,gene/protein|isoc2,Pancreas,ISOC2,anatomy,gene/protein,expression present,1,0,0
+gene/protein|isoc2,gene/protein|cdkn2a,ISOC2,CDKN2A,gene/protein,gene/protein,ppi,1,0,0
+anatomy|pancreas,gene/protein|rassf1,Pancreas,RASSF1,anatomy,gene/protein,expression present,1,0,0
+gene/protein|rassf1,gene/protein|cdkn2a,RASSF1,CDKN2A,gene/protein,gene/protein,ppi,1,0,0

@@ -1,0 +1,16 @@
+{
+  "dataset": "Pancreatic Cancer - Stage I-III",
+  "rows": 1751,
+  "event_rate": 0.5962307252998287,
+  "median_os_time": 17.55614514,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Pancreatic Cancer": 1751
+  },
+  "stage_group_counts": {
+    "Stage I-III": 1751
+  }
+}

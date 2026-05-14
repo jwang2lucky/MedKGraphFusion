@@ -1,0 +1,100 @@
+{"s": "conus medullaris", "p": "Part-Of", "o": "spinal cord"}
+{"s": "abnormal ast", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "abnormal rbc", "p": "Associated-With", "o": "protein calorie malnutrition"}
+{"s": "inpatient blood", "p": "Used-For", "o": "diagnosis"}
+{"s": "cefaclor", "p": "Treats", "o": "infection"}
+{"s": "nausea vomiting", "p": "Associated-With", "o": "anastomotic leak"}
+{"s": "acute pancreatitis", "p": "Causes", "o": "nausea and vomiting"}
+{"s": "type 2 diabetes", "p": "Treats", "o": "monitoring one's condition"}
+{"s": "LDL", "p": "Has-Symptom", "o": "hyperlipidemia"}
+{"s": "mast cell activation", "p": "Associated-With", "o": "urticaria"}
+{"s": "aspirin", "p": "Treats", "o": "right vertebral artery dissection"}
+{"s": "l1-l2 intradural tumor", "p": "Located-In", "o": "spinal canal"}
+{"s": "pyelonephritis", "p": "Has-Symptom", "o": "flank pain"}
+{"s": "smoking", "p": "Contributes-To-Pathogenesis", "o": "lung cancer"}
+{"s": "large cystic lesion", "p": "Part-Of", "o": "transplanted kidney"}
+{"s": "reglan", "p": "Treats", "o": "nausea"}
+{"s": "insufficient nutrition knowledge", "p": "Contributes-To-Pathogenesis", "o": "barrier to providing nutrition education"}
+{"s": "corticospinal neurons", "p": "Located-In", "o": "caudal forelimb area"}
+{"s": "common bile duct", "p": "Located-In", "o": "pancreas"}
+{"s": "depressive symptom", "p": "Associated-With", "o": "hostility"}
+{"s": "anxiety", "p": "Has-Symptom", "o": "metastatic colon"}
+{"s": "macrobid", "p": "Used-For", "o": "urinary tract infection treatment"}
+{"s": "final inpatient blood culture", "p": "Biomarker-Of", "o": "Infection"}
+{"s": "omeprazole", "p": "Treats", "o": "gastric ulcer"}
+{"s": "aged animals", "p": "Has-Symptom", "o": "decreased fat mass"}
+{"s": "diet pills", "p": "Causes", "o": "gastric bleeding"}
+{"s": "aspirin", "p": "Contraindicated-For", "o": "bleeding"}
+{"s": "vitamin d deficiency", "p": "Causes", "o": "fatigue"}
+{"s": "atorvastatin", "p": "Treats", "o": "right vertebral artery disassociation"}
+{"s": "furosemide", "p": "Used-For", "o": "diuresis"}
+{"s": "mitral valve", "p": "Part-Of", "o": "heart"}
+{"s": "intracranial hemorrhage", "p": "Diagnoses", "o": "ct head w/o contrast"}
+{"s": "rib fractures", "p": "Located-In", "o": "rib cage"}
+{"s": "abnormal 12 blood", "p": "Associated-With", "o": "septic shock"}
+{"s": "aspirin", "p": "Treats", "o": "acute left paramedian pontine infarct"}
+{"s": "CT scan", "p": "Diagnoses", "o": "Brain tumor"}
+{"s": "flash pulmonary edema", "p": "Associated-With", "o": "hypoxemic respiratory failure"}
+{"s": "portal gastropathy", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "HPV16 e6 seropositivity", "p": "Contributes-To-Pathogenesis", "o": "higher recurrence risk in hpv-opc patients"}
+{"s": "hypothyroidism", "p": "Causes", "o": "abnormal hgb"}
+{"s": "ceftriaxone", "p": "Treats", "o": "klebsiella oxytoca bacteremia"}
+{"s": "blood wbc", "p": "Associated-With", "o": "inflammation"}
+{"s": "oxidative stress", "p": "Contributes-To-Pathogenesis", "o": "hypertension"}
+{"s": "bowel obstruction", "p": "Part-Of", "o": "gastrointestinal system"}
+{"s": "abnormal mcv", "p": "Associated-With", "o": "iron deficiency anemia"}
+{"s": "aortic valve", "p": "Part-Of", "o": "heart"}
+{"s": "forced hypothermia", "p": "Affects-Expression", "o": "c-fos"}
+{"s": "albuterol inhaler puff ih q4h prn sob/wheezing", "p": "Treats", "o": "asthma"}
+{"s": "intimate partner forced sex", "p": "Contributes-To-Pathogenesis", "o": "HIV"}
+{"s": "refusal of sex over condom use", "p": "Causes", "o": "Violent responses from partner"}
+{"s": "nerve root", "p": "Located-In", "o": "cervical spine"}
+{"s": "smoking", "p": "Contributes-To-Pathogenesis", "o": "non-small cell lung cancer"}
+{"s": "abnormal mcv", "p": "Associated-With", "o": "chronic kidney disease"}
+{"s": "hyperglycemia", "p": "Contributes-To-Pathogenesis", "o": "polyuria"}
+{"s": "vertebral body", "p": "Has-Symptom", "o": "compression deformities"}
+{"s": "air leak", "p": "Side-Effect", "o": "right vats pleural biopsies"}
+{"s": "shortness of breath", "p": "Treats", "o": "metoprolol tartrate"}
+{"s": "aortic valve leaflets", "p": "Subtype-Of", "o": "valve leaflet"}
+{"s": "morphine", "p": "Treats", "o": "pain"}
+{"s": "patient", "p": "Has-Symptom", "o": "urinary frequency"}
+{"s": "viral vector", "p": "Used-For", "o": "detecting multiple endogenous mirnas"}
+{"s": "focal subcortical dysfunction in the left hemisphere", "p": "Causes", "o": "infrequent theta slowing in the left temporal region"}
+{"s": "chest pain", "p": "Has-Symptom", "o": "community acquired pneumonia"}
+{"s": "anterior mediastinal lesion", "p": "Located-In", "o": "mediastinum"}
+{"s": "CK-MB", "p": "Associated-With", "o": "Acute myocardial infarction"}
+{"s": "hypertension", "p": "Associated-With", "o": "diltiazem"}
+{"s": "community acquired pneumonia", "p": "Treats", "o": "levofloxacin"}
+{"s": "volume resuscitation", "p": "Affects-Expression", "o": "cardiorenal syndrome"}
+{"s": "c57/bl6 mtdna", "p": "Causes", "o": "bioenergetic dysfunction in response to volume overload"}
+{"s": "viral vector", "p": "Expressed-In", "o": "non-hematopoietic cells"}
+{"s": "comminuted intratrochanteric fracture of the left proximal femur", "p": "Part-Of", "o": "proximal femur"}
+{"s": "lipid lowering", "p": "Treats", "o": "dyslipidemia"}
+{"s": "hypertension", "p": "Treats", "o": "diltiazem extended-release"}
+{"s": "alcohol consumption", "p": "Causes", "o": "fatty liver"}
+{"s": "right facial droop", "p": "Has-Symptom", "o": "dysarthria"}
+{"s": "sinus tachycardia", "p": "Causes", "o": "dehydration"}
+{"s": "antiretroviral therapy", "p": "Treats", "o": "hiv infection"}
+{"s": "final inpatient blood culture", "p": "Associated-With", "o": "Pseudomonas aeruginosa"}
+{"s": "lung scc", "p": "Located-In", "o": "right cheek"}
+{"s": "cisplatin", "p": "Contraindicated-For", "o": "renal failure"}
+{"s": "chronic kidney disease", "p": "Biomarker-Of", "o": "creatinine level"}
+{"s": "eating disorder", "p": "Treats", "o": "hypokalemia"}
+{"s": "left knee pain", "p": "Has-Symptom", "o": "pain"}
+{"s": "clear and coherent", "p": "Treats", "o": "community acquired pneumonia"}
+{"s": "prochlorperazine", "p": "Used-For", "o": "nausea"}
+{"s": "aleve", "p": "Treats", "o": "pain"}
+{"s": "pubertal stages", "p": "Used-For", "o": "tanner staging scales"}
+{"s": "subarachnoid hemorrhage", "p": "Causes", "o": "neuroendocrine tumor"}
+{"s": "small bowel", "p": "Part-Of", "o": "abdomen"}
+{"s": "tumor microenvironment", "p": "Expressed-In", "o": "immunosuppressive tumor microenvironment"}
+{"s": "tablet sig", "p": "Part-Of", "o": "medication prescription"}
+{"s": "blood wbc", "p": "Biomarker-Of", "o": "metastatic melanoma"}
+{"s": "blood glucose", "p": "Used-For", "o": "diagnosis of diabetes mellitus"}
+{"s": "community acquired pneumonia", "p": "Has-Symptom", "o": "fever"}
+{"s": "phlebotomy", "p": "Used-For", "o": "treatment of polycythemia"}
+{"s": "monocyte recruitment", "p": "Contributes-To-Pathogenesis", "o": "atherosclerosis"}
+{"s": "blood glucose", "p": "Biomarker-Of", "o": "diabetes mellitus type 2"}
+{"s": "mast cell", "p": "Expressed-In", "o": "lung tissue"}
+{"s": "L4-L5", "p": "Located-In", "o": "Thoracolumbar Junction"}
+{"s": "mast cell", "p": "Interacts-With", "o": "histamine"}

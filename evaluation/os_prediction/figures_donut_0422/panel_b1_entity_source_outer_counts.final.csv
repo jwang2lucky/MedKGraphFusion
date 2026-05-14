@@ -1,0 +1,23 @@
+﻿entity_type,entity_type_label,entity_occurrence_total,resource_type,resource_count
+biological_process,Biological process,515890,GO,509142
+biological_process,Biological process,515890,TEXT-based,6748
+gene/protein,Gene/protein,5268983,NCBI,5265578
+gene/protein,Gene/protein,5268983,TEXT-based,3405
+disease,Disease,692915,MONDO,542223
+disease,Disease,692915,MONDO_grouped,147153
+disease,Disease,692915,TEXT-based,3539
+effect/phenotype,Effect/phenotype,529335,HPO,521130
+effect/phenotype,Effect/phenotype,529335,TEXT-based,8205
+anatomy,Anatomy,3141299,UBERON,3136303
+anatomy,Anatomy,3141299,TEXT-based,4996
+molecular_function,Molecular function,194509,GO,194178
+molecular_function,Molecular function,194509,TEXT-based,331
+drug,Drug,5615835,DrugBank,5613900
+drug,Drug,5615835,TEXT-based,1935
+cellular_component,Cellular component,189695,GO,187544
+cellular_component,Cellular component,189695,TEXT-based,2151
+exposure,Exposure,29500,CTD,19670
+exposure,Exposure,29500,TEXT-based,9830
+pathway,Pathway,96456,REACTOME,96297
+pathway,Pathway,96456,TEXT-based,159
+procedure,Procedure,71,TEXT-based,71

@@ -1,0 +1,13 @@
+﻿item,value
+original_merged_triples,8137564
+filtered_merged_triples,8137244
+removed_triples,320
+original_merged_nodes,142092
+filtered_merged_nodes,141905
+removed_nodes,187
+low_frequency_entity_type_count,20
+low_frequency_entity_types,algorithm; amino_acid; complex; database; domain; guidance; guideline; material; metabolic_byproduct; metabolic_intermediate; metabolite; population; program; protocol; reagent; registry; study; study_protocol; technique; virus
+forced_excluded_entity_type_count,1
+forced_excluded_entity_types,none
+final_removed_entity_type_count,21
+final_removed_entity_types,algorithm; amino_acid; complex; database; domain; guidance; guideline; material; metabolic_byproduct; metabolic_intermediate; metabolite; none; population; program; protocol; reagent; registry; study; study_protocol; technique; virus

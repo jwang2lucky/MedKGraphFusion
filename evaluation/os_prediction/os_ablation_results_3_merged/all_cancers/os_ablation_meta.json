@@ -1,0 +1,21 @@
+{
+  "dataset": "all_cancers",
+  "rows": 24857,
+  "event_rate": 0.4523876574003299,
+  "median_os_time": 24.52600052,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Non-Small Cell Lung Cancer": 7741,
+    "Colorectal Cancer": 5502,
+    "Breast Cancer": 5342,
+    "Prostate Cancer": 3188,
+    "Pancreatic Cancer": 3084
+  },
+  "stage_group_counts": {
+    "Stage I-III": 15123,
+    "Stage IV": 9734
+  }
+}

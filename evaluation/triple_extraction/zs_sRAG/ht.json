@@ -1,0 +1,100 @@
+{"s": "left ventricular", "o": "heart"}
+{"s": "abnormal hgb", "o": "cirrhosis"}
+{"s": "right lower lobe pneumonia", "o": "cough"}
+{"s": "nondisplaced intertrochanteric fracture of the right femur", "o": "right femur"}
+{"s": "chronic kidney injury", "o": "diabetes type 2"}
+{"s": "blood culture", "o": "fever"}
+{"s": "hypoxia", "o": "hyponatremia"}
+{"s": "mast cell", "o": "skin tissue"}
+{"s": "LDL", "o": "High cholesterol"}
+{"s": "ureteral stent", "o": "treatment of left ureteral stone"}
+{"s": "pyelonephritis", "o": "ct scan"}
+{"s": "hmga1", "o": "pancreatic adenocarcinoma"}
+{"s": "dry gangrene", "o": "wet gangrene"}
+{"s": "thought process", "o": "delusions"}
+{"s": "multifocal pneumonia", "o": "levofloxacin"}
+{"s": "lipid lowering", "o": "LDL-C"}
+{"s": "abnormal mcv", "o": "hepatitis c"}
+{"s": "HPV16 e6 antibody levels", "o": "recurrence of HPV-driven oropharyngeal cancer (hpv-opc)"}
+{"s": "nausea vomiting", "o": "flash pulmonary edema"}
+{"s": "prn pain", "o": "pain"}
+{"s": "moderate to severe mitral regurgitation", "o": "mitral valve"}
+{"s": "lipopolysaccharide", "o": "antiretroviral therapy"}
+{"s": "vancomycin", "o": "c diff colitis"}
+{"s": "radiation necrosis", "o": "tonsillar carcinoma"}
+{"s": "omeprazole", "o": "gastroesophageal reflux disease"}
+{"s": "left ureteral stent", "o": "mild left hydronephrosis"}
+{"s": "metoprolol succinate", "o": "atrial fibrillation"}
+{"s": "osteomyelitis", "o": "bone marrow edema"}
+{"s": "tricuspid valve", "o": "regurgitation"}
+{"s": "paranoid schizophrenia", "o": "hypertension"}
+{"s": "antiretroviral therapy", "o": "IL-6"}
+{"s": "severe headache", "o": "headache"}
+{"s": "left occipital lobe", "o": "brain"}
+{"s": "flail chest", "o": "rib fractures"}
+{"s": "hypokalemia", "o": "iv potassium"}
+{"s": "intraoperative ultrasound", "o": "metastatic colon"}
+{"s": "panic attack", "o": "anxiety"}
+{"s": "health literacy", "o": "black race compared to white race"}
+{"s": "MRI calcium indicators", "o": "measuring calcium dynamics in the brain"}
+{"s": "gastritis", "o": "gastric antrum"}
+{"s": "atrial fibrillation", "o": "echocardiogram"}
+{"s": "radiation nephropathy", "o": "renal failure"}
+{"s": "cyclin d1", "o": "rhabdomyosarcoma"}
+{"s": "aortic stenosis", "o": "heart failure"}
+{"s": "portal gastropathy", "o": "endoscopy"}
+{"s": "human papillomavirus", "o": "oropharyngeal cells"}
+{"s": "keflex", "o": "morbilliform drug eruption"}
+{"s": "hematuria", "o": "prostate_cancer"}
+{"s": "pain medication", "o": "diverticulitis"}
+{"s": "factor v leiden", "o": "supratherapeutic inr"}
+{"s": "inhalers", "o": "obstructive defect"}
+{"s": "patient", "o": "septic shock"}
+{"s": "word finding difficulty", "o": "lethargy"}
+{"s": "depressive symptom", "o": "behavioral activation"}
+{"s": "lacosamide", "o": "side effects"}
+{"s": "bilateral adrenal masses", "o": "adrenal gland"}
+{"s": "CK-MB", "o": "Myocardial infarction"}
+{"s": "type 2 diabetes", "o": "retinopathy"}
+{"s": "coffee ground emesis", "o": "esophageal cancer"}
+{"s": "shortness of breath", "o": "metoprolol tartrate"}
+{"s": "CRP", "o": "Inflammation"}
+{"s": "bowel loop", "o": "small bowel"}
+{"s": "perceived control over anxiety", "o": "binge drinking days"}
+{"s": "partial visualization of a large left upper lobe/ lingular mass", "o": "lung"}
+{"s": "Toxoplasma gondii", "o": "HIV"}
+{"s": "chronic diarrhea", "o": "etoh use"}
+{"s": "alcohol withdrawal", "o": "chronic alcohol abuse"}
+{"s": "intimate partner violence", "o": "hiv risk"}
+{"s": "thought process", "o": "psychosis"}
+{"s": "chest ct", "o": "pleural effusions"}
+{"s": "spinal cord", "o": "neurons"}
+{"s": "abnormal mcv", "o": "hypothyroidism"}
+{"s": "head ct", "o": "extensive calcification of the cavernous internal carotid arteries"}
+{"s": "po", "o": "oral medication intake"}
+{"s": "ascites", "o": "hepatocellular carcinoma (HCC)"}
+{"s": "CT scan", "o": "Brain tumor"}
+{"s": "metastatic colon cancer", "o": "death"}
+{"s": "volume overload", "o": "cardiac stress"}
+{"s": "head ct", "o": "diagnoses"}
+{"s": "metastatic colon", "o": "colon cancer"}
+{"s": "cysteine residues", "o": "protein"}
+{"s": "panic attack", "o": "effexor xr"}
+{"s": "health literacy", "o": "osteoarthritis patients"}
+{"s": "inpatient blood culture", "o": "diagnosis"}
+{"s": "shortness of breath", "o": "non-ischemic cardiomyopathy"}
+{"s": "tylenol", "o": "pain"}
+{"s": "establishment size", "o": "working condition"}
+{"s": "blood sugar", "o": "diabetes mellitus type ii"}
+{"s": "viral vector", "o": "myoblasts"}
+{"s": "nausea", "o": "vomiting"}
+{"s": "viral vector", "o": "imaging"}
+{"s": "difficulty breathing", "o": "small cell lung cancer"}
+{"s": "chest tube", "o": "right-sided spontaneous pneumothorax"}
+{"s": "bcr abl1", "o": "chronic myeloid leukemia"}
+{"s": "CXCR4 expression on endothelium", "o": "monocyte recruitment"}
+{"s": "diet quality", "o": "cardiovascular disease"}
+{"s": "right groin", "o": "patient"}
+{"s": "acetaminophen", "o": "prn pain"}
+{"s": "hyponatremia", "o": "chronic renal failure"}
+{"s": "hypertension", "o": "lisinopril"}

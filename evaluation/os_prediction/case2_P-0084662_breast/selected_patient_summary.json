@@ -1,0 +1,80 @@
+{
+  "patient_id": "P-0084662",
+  "model": "clinical_treatment_molecular_kg",
+  "risk_score": 472.0889859201321,
+  "fold": 5,
+  "cancer_type": "Breast Cancer",
+  "cancer_type_detailed": "Invasive Breast Carcinoma",
+  "stage": "Stage 4",
+  "stage_group": "Stage IV",
+  "os_time": 10.91505653,
+  "os_event": 0,
+  "treatments_list": [
+    "ABEMACICLIB",
+    "PALBOCICLIB"
+  ],
+  "altered_genes_list": [
+    "ALB",
+    "HIST1H1C",
+    "MGA",
+    "RAD50",
+    "RARA",
+    "RET",
+    "TP53"
+  ],
+  "resolved_anchor_nodes": [
+    "disease|breast cancer",
+    "disease|invasive breast carcinoma",
+    "anatomy|breast"
+  ],
+  "resolved_disease_nodes": [
+    "disease|breast cancer",
+    "disease|invasive breast carcinoma"
+  ],
+  "resolved_anatomy_nodes": [
+    "anatomy|breast"
+  ],
+  "resolved_gene_nodes": [
+    "gene/protein|alb",
+    "gene/protein|ist1",
+    "gene/protein|mga",
+    "gene/protein|rad50",
+    "gene/protein|rara",
+    "gene/protein|ret",
+    "gene/protein|tp53"
+  ],
+  "resolved_drug_nodes": [
+    "drug|abemaciclib",
+    "drug|palbociclib"
+  ],
+  "n_paths_found": 68,
+  "n_top_paths_exported": 8,
+  "n_top_paths_novel_vs_primekg": 7,
+  "n_top_paths_using_new_edges": 7,
+  "top_mechanism_tiers": {
+    "novel_association": 7,
+    "association_like": 1
+  },
+  "search_diagnostics": {
+    "requested_min_pathway_nodes": 1,
+    "mode_stats": [
+      {
+        "mode": "strict_pathway",
+        "unique_paths_after_mode": 0,
+        "mode_new_unique_paths": 0,
+        "raw_mode_candidates": 0
+      },
+      {
+        "mode": "strict_no_disease",
+        "unique_paths_after_mode": 68,
+        "mode_new_unique_paths": 68,
+        "raw_mode_candidates": 278
+      }
+    ],
+    "resolved_anchor_count": 3,
+    "resolved_gene_count": 7,
+    "resolved_drug_count": 2,
+    "resolved_disease_count": 2,
+    "resolved_anatomy_count": 1
+  }
+}

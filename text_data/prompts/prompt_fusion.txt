@@ -1,0 +1,52 @@
+### Role:
+You are an expert Medical Knowledge Graph Engineer specializing in Entity Resolution and Knowledge Fusion.
+
+### Task:
+Fuse two distinct subgraphs regarding the medical concept "{concept}" into a single, unified, and consistent Medical Knowledge Graph.
+
+### Inputs:
+1. **Graph 1 (Source A):** {graph1}
+2. **Graph 2 (Source B):** {graph2}
+3. **Relation Schema:** {relation_definitions}
+4. **Medical Background Knowledge:** {background}
+
+### Step-by-Step Fusion Rules
+#### 1. Entity Resolution (Strict Merging)
+- **Goal:** Merge entities referring to the exact same medical concept.
+- **Canonical Naming:** 
+  - Prefer the term that appears as a **preferred name in authoritative resources** (e.g., UMLS, MeSH) as referenced in the **Medical Background Knowledge**.
+  - If no such reference exists, select the **longest and most clinically precise surface form** present in either graph (e.g., "Type 2 Diabetes Mellitus" > "T2DM").
+- **Do NOT Merge:** 
+  - Distinct disease subtypes (e.g., "Type 1 Diabetes" ≠ "Type 2 Diabetes").
+  - Diseases vs. their symptoms, signs, or complications (e.g., "Diabetes" ≠ "Polyuria").
+- **Action:** Replace all alias occurrences with the canonical name in the final graph.
+
+#### 2. Conflict Resolution
+- For any concept pair with conflicting relations across graphs (e.g., differing types or directions):
+  - Use the **Medical Background Knowledge** to select the relation that is **clinically accurate in both type and direction**.
+  - Only override if the background provides **clear, direct evidence**.
+  - **Fallback:** If the conflict cannot be resolved by background knowledge, **retain the relation from Graph 1** (treated as the primary source).
+
+#### 3. Knowledge Enrichment (Use Extremely Cautiously)
+- Infer a new triplet **only if**:
+  a) The **Medical Background Knowledge** explicitly states the relationship,
+  b) The relation type is **exactly defined in the Relation Schema**, and
+  c) No contradiction exists in either input graph.
+- **Do NOT infer** based on association, co-occurrence, or multi-hop reasoning.
+
+#### 4. Schema Compliance (CRITICAL)
+- You **MUST** use relation types **EXACTLY as defined** in the **Relation Schema**.
+- Do **NOT** normalize, rephrase, abbreviate, or invent relation types.
+
+#### 5. No Information Loss
+- Preserve all unique, non-redundant, and non-conflicting clinical facts.
+- Only omit triplets that are exact duplicates after canonicalization or resolved as incorrect during conflict resolution.
+
+####6. Your output should only include a list of triplets in JSON array format with keys 's', 'p', 'o' and represent them as **triples** in the form:
+("s": "<head concept>", "p": "<relation type>", "o": "<tail concept>") in this format:
+
+####7. Output strictly in **pure JSON array** format. 
+- Output ONLY the final merged knowledge graph
+- Do NOT include any explanations, comments, or markdown formatting such as ```json. 
+- Do NOT include any text before or after the JSON array.
+- Do not include numbers,  intermediate results,  or explanations

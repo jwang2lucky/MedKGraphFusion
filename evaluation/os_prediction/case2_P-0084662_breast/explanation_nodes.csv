@@ -1,0 +1,18 @@
+node_id,node_type,node_name,pretty_name,is_patient_gene,is_patient_drug,is_patient_anchor,is_pathway_like,is_pancreas_related
+disease|breast cancer,disease,breast cancer,Breast Cancer,0,0,1,0,0
+drug|letrozole,drug,letrozole,Letrozole,0,0,0,0,0
+gene/protein|alb,gene/protein,alb,ALB,1,0,0,0,0
+drug|abemaciclib,drug,abemaciclib,Abemaciclib,0,1,0,0,0
+drug|raloxifene,drug,raloxifene,Raloxifene,0,0,0,0,0
+drug|palbociclib,drug,palbociclib,Palbociclib,0,1,0,0,0
+gene/protein|ddr2,gene/protein,ddr2,DDR2,0,0,0,0,0
+gene/protein|ret,gene/protein,ret,RET,1,0,0,0,0
+drug|selpercatinib,drug,selpercatinib,Selpercatinib,0,0,0,0,0
+gene/protein|znf423,gene/protein,znf423,ZNF423,0,0,0,0,0
+gene/protein|rara,gene/protein,rara,RARA,1,0,0,0,0
+drug|tretinoin,drug,tretinoin,Tretinoin,0,0,0,0,0
+gene/protein|kras,gene/protein,kras,KRAS,0,0,0,0,0
+gene/protein|tp53,gene/protein,tp53,TP53,1,0,0,0,0
+gene/protein|cdk6,gene/protein,cdk6,CDK6,0,0,0,0,0
+drug|vandetanib,drug,vandetanib,Vandetanib,0,0,0,0,0
+gene/protein|cdk4,gene/protein,cdk4,CDK4,0,0,0,0,0

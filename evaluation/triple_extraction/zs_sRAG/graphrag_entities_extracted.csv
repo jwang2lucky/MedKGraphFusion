@@ -1,0 +1,271 @@
+entity,type,description
+Open right colectomy,event,"The Open right colectomy is a major surgical procedure performed to remove a colonic mass, which is concerning for colonic adenocarcinoma."
+Excision of tumor in sidewall,event,Excision of the tumor in the sidewall is part of the open right colectomy and involves removing the tumor from the colon wall.
+Repair of umbilical hernia,event,The repair of an umbilical hernia is a minor surgical procedure that was performed during the same admission as the open right colectomy.
+Right colonic mass,organization,"Right colonic mass refers to the medical condition or lesion found in the patient's colon, which required surgical intervention."
+Colonic adenocarcinoma,concept,Colonic adenocarcinoma is a specific type of cancer that was identified during the surgery and pathology report.
+Patient,person,"The patient is a person who has experienced a fall, probable concussion, and normal pressure hydrocephalus, with ongoing health issues."
+RIB ABNORMALITY,event,"RIB ABNORMALITY refers to the absence of rib pain on history or palpation, making a rib fracture unlikely."
+CHRONIC ISSUES,concept,CHRONIC ISSUES refer to ongoing health conditions that may affect the patient's overall status.
+TRANSITIONAL ISSUES,event,"TRANSITIONAL ISSUES indicate issues that need follow-up care, such as scheduling appointments with different specialists."
+Neurocognitive decline,concept,Neurocognitive decline is a concept describing the patient's observed cognitive deterioration over the past month.
+Code: Full - F/u with Plastics in weeks - F/u with Neurosurgery post-discharge,event,"This event involves follow-up appointments with different departments, including plastics and neurosurgery after discharge."
+Family's notice of neurocognitive decline,event,"The family has noticed a specific issue, neurocognitive decline, which is a significant concern for the patient."
+Depression in an elderly patient with chronic illness,concept,"This concept describes a potential contributing factor to the patient's cognitive issues, possibly related to their overall health status and age."
+Preadmission Medication list,event,"The preadmission medication list is accurate and complete, indicating the medications the patient was on before admission."
+Discharge Medications: 1. Docusate Sodium 100 mg PO BID 2. Multivitamins 1 TAB PO DAILY,event,"The discharge medications are listed, showing what the patient will continue to take after leaving the hospital."
+Discharge Disposition: Extended Care Facility,location,Extended Care Facility is a location where the patient is being discharged to for further care and rehabilitation.
+Discharge Diagnosis: Primary: Fall with probable concussion Secondary: Normal pressure hydrocephalus Mobitz Type II status-post pacemaker placement,event,"The discharge diagnosis includes primary and secondary conditions, as well as a specific cardiac condition related to the patient's history."
+Mobitz Type II status-post pacemaker placement,event,This event describes the patient's cardiac condition following pacemaker placement surgery.
+Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid or cane),event,"The discharge condition details the patient's mental, cognitive, and physical status upon leaving the hospital."
+"Discharge Instructions: Dear Ms. , You were admitted to because you had a fall. It is unclear why you fell. We believe that you suffered a mild concussion since you have no memory before or after the fall. You had head imaging which showed that your ventricles were enlarged. Therefore, you were evaluated by Neurosurgery to check your VP shunt. They found that your VP shunt was working properly. You also had imaging of your shunt which showed that it is working well and that the shunt settings are appropriate; the imaging was unchanged from the last time you had your shunt evaluated. Your pacemaker was also interrogated by Cardiology, and they found that pacemaker was working well. You were also evaluated by physical therapy who felt that you would benefit from discharge to a rehabilitation facility to help you with your walking and build your strength. Please follow-up with your outpatient providers as instructed below. Thank you for allowing us to participate in your care. All best wishes for your recovery.",event,"Discharge Instructions provide detailed information about the patient's condition, treatment, and recommended follow-ups."
+BID 3. Aspirin 81 mg PO DAILY,organization,"This is a medical instruction for aspirin dosage, not an organization."
+Atorvastatin 80 mg PO QPM,organization,"This is a medical instruction for atorvastatin dosage, not an organization."
+BuPROPion XL (Once Daily) 150 mg PO DAILY,organization,"This is a medical instruction for BuPROPion dosage, not an organization."
+Escitalopram Oxalate 20 mg PO DAILY,organization,"This is a medical instruction for Escitalopram Oxalate dosage, not an organization."
+"Glucerna Shake (nut.tx.gluc.intol,lac-free,soy) 1 shake oral TID Duration: 1 Week RX *nut.tx.gluc.intol,lac-free,soy [Glucerna] 237 ml by mouth three times a day Refills:*2",organization,"This is a medical instruction for Glucerna Shake dosage, not an organization."
+Insulin Pump SC (Self Administering Medication) Insulin Aspart (Novolog) (non-formulary),organization,"This describes the use of an insulin pump and insulin aspart, not an organization."
+Isosorbide Dinitrate 5 mg PO TID,organization,"This is a medical instruction for Isosorbide Dinitrate dosage, not an organization."
+Levothyroxine Sodium 200 mcg PO 1X/WEEK (MO),organization,"This is a medical instruction for Levothyroxine Sodium dosage, not an organization."
+Levothyroxine Sodium 100 mcg PO 6X/WEEK (),organization,"This is a medical instruction for Levothyroxine Sodium dosage, not an organization."
+Metoprolol Succinate XL 50 mg PO DAILY,organization,"This is a medical instruction for Metoprolol Succinate dosage, not an organization."
+Multivitamins 1 TAB PO DAILY,organization,"This is a medical instruction for multivitamin dosage, not an organization."
+Ranitidine 150 mg PO DAILY,organization,"This is a medical instruction for Ranitidine dosage, not an organization."
+Tamsulosin 0.4 mg PO QHS,organization,"This is a medical instruction for Tamsulosin dosage, not an organization."
+Ms.,person,"Ms. is a female patient with recent onset cardiac symptoms, who underwent multiple surgical procedures and has a history of various medical conditions."
+Dr.,person,"Dr. refers to the attending physician who performed the CABG surgeries on Ms., indicating his role in her care."
+"CABG x 3, L radial-PDA), PFO closure, and repair anterior leaflet tricuspid valve",procedure,"This describes a series of surgical procedures performed on Ms. including three coronary artery bypass grafts, left radial to pulmonary artery connection, patent foramen ovale closure, and tricuspid valve repair."
+Atrial fibrillation,condition,"Atrial fibrillation is a condition experienced by the patient post-operatively, requiring management with medications like amiodarone and eliquis."
+Hyponatremia,condition,"Hyponatremia is a medical condition characterized by low sodium levels in the blood, which was managed through fluid restriction and medication adjustments."
+Amiodarone,technology,"Amiodarone is a medication used to manage atrial fibrillation, indicating its role in the patient's treatment plan."
+Eliquis,technology,"Eliquis is another medication prescribed for the patient, likely related to anticoagulation or prevention of blood clots."
+Lasix (20mg PO daily),technology,Lasix is a diuretic used in managing the patient's hyponatremia by promoting fluid loss through increased urination.
+iltiazem,organization,"iltiazem is a medication prescribed to the patient, used in managing her condition."
+Metoprolol,organization,Metoprolol is a medication prescribed to the patient for management of her heart condition.
+Diltiazem,organization,"Diltiazem is a medication prescribed to the patient, used in managing her condition and heart rate."
+CHADS score 2,event,"The CHADS score of 2 indicates the patient's risk factors for stroke, influencing decisions regarding anticoagulation."
+Respiratory issues,event,"The patient experienced respiratory issues, including extubation and re-intubation, during her post-operative period."
+Gastrointestinal issues,event,"The patient had gastrointestinal issues, starting from NPO status to gradual advancement of diet as bowel function returned."
+Foley catheter,technology,"A Foley catheter was placed during the operation and removed on POD#4, indicating its use for monitoring urine output."
+Anemia associated with colon cancer,concept,"The patient's baseline anemia is linked to her colon cancer, affecting her overall health status."
+Perforated colon cancer,event,"Intraoperatively, the patient was found to have a perforated colon cancer, necessitating immediate surgical intervention."
+Cefazolin and Flagyl,technology,These antibiotics were initially used for the patient's post-operative care but later changed due to culture results.
+Group B beta-hemolytic streptococcus,concept,"This bacterial strain was identified from cultures, leading to a change in antibiotic therapy."
+Unasyn and Augmentin,technology,"These antibiotics were used for the patient's post-operative care, with Augmentin being the final choice."
+Atrial fibrillation with RVR,event,"The patient experienced atrial fibrillation with rapid ventricular response (RVR), a significant cardiac event requiring management."
+Flash pulmonary edema,event,"The patient had a flash pulmonary edema, leading to intubation and ICU stay, indicating a severe respiratory complication."
+Mild wall thickening of the ascending colon,event,"This condition suggests chronic colopathy related to cirrhosis, which is a significant finding in the patient's medical history."
+Nodular liver contour,event,"The nodular liver contour is consistent with known cirrhosis, indicating an ongoing and significant health issue for the patient."
+Right kidney measures 10.3 cm,organization,"This measurement of the right kidney size is a specific finding from the renal ultrasound, which helps in assessing the overall renal function and structure."
+Left kidney measures 9.9 cm,organization,"The left kidney's size is another specific finding from the renal ultrasound, contributing to the assessment of the patient's renal health."
+6 mm cyst is noted at mid left kidney,event,The presence of a small cyst in the left kidney is an event that needs monitoring and could be significant for the patient's long-term health.
+CXR neg.,event,"CXR negative is an event indicating no evidence of a specific medical condition, likely myocardial infarction (MI)."
+EKG unremarkable,event,"EKG unremarkable indicates that the electrocardiogram results are normal, ruling out certain cardiac issues."
+Medications on Admission,organization,"Medications on Admission refers to a list of medications given at the start of hospitalization, indicating ongoing treatment and management."
+Docusate Sodium 100 mg PO TID:PRN constipation,technology,Docusate Sodium is a medication used for treating constipation as needed (PRN).
+Levothyroxine Sodium 75 mcg PO DAILY,technology,Levothyroxine Sodium is a thyroid hormone replacement therapy taken daily.
+Labetalol 150 mg PO BID,technology,Labetalol is an antihypertensive medication taken twice a day.
+Atorvastatin 10 mg PO QPM,technology,"Atorvastatin is a statin used for lowering cholesterol, taken as needed (QPM)."
+Ramipril 10 mg PO DAILY,technology,"Ramipril is an ACE inhibitor used to treat hypertension and heart failure, taken daily."
+ALPRAZolam 0.5 mg PO BID,technology,"Alprazolam is a benzodiazepine used for anxiety and panic disorders, taken twice a day."
+Warfarin 2.5 mg PO 4X/WEEK (),technology,Warfarin is an anticoagulant medication taken four times a week.
+Warfarin 5 mg PO 3X/WEEK (),technology,"Warfarin at this dosage and frequency is used for anticoagulation, possibly for conditions like atrial fibrillation or deep vein thrombosis."
+"Clobetasol Propionate 0.05% Ointment 1 Appl TP BID RX *clobetasol 0.05 % Apply to body - NOT face, neck, or groin twice a day Disp #*60 Gram Gram Refills:*3",technology,Clobetasol Propionate is a topical corticosteroid used for skin conditions like eczema and psoriasis.
+Dexamethasone Oral Soln (0.1mg/1mL) 5 mL ORAL TID:PRN mouth pain Swish and Spit RX *dexamethasone 0.5 mg/5 mL 5 ml by mouth three times a day Refills:*1,technology,"Dexamethasone is a corticosteroid used for reducing inflammation, taken as needed (PRN) for mouth pain."
+"Hydrocortisone Oint 2.5% 1 Appl TP BID Duration: 10 Days RX *hydrocortisone 2.5 % Apply to face, neck, groin twice a day Refills:*3",technology,Hydrocortisone is a topical corticosteroid used for skin conditions like eczema and dermatitis.
+Neomycin-Polymyxin-Bacitracin 1 Appl TP BID,technology,"This is an antibiotic ointment, likely used topically for skin infections or wounds."
+PredniSONE 40 mg PO DAILY Duration: 4 Days RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*8 Tablet Refills:*0,technology,"Prednisone is a corticosteroid used for inflammation and immune system disorders, taken daily."
+Sulfameth/Trimethoprim DS 1 TAB PO BID RX *sulfamethoxazole-trimethoprim 800 mg 160 mg 1 tablet(s) by mouth twice a day Disp #*12 Tablet Refills:*0,technology,"Sulfameth/Trimethoprim is an antibiotic used for treating bacterial infections, taken twice a day."
+Discharge Disposition: Home,event,Home discharge indicates the patient was discharged to their home after treatment.
+Acute generalised exanthematous pustulosis (AGEP) v. morbilliform drug eruption,event,"This is a specific type of drug reaction, indicating the patient's condition and diagnosis."
+Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.,person,"These are descriptions of the patient's mental and physical status upon discharge, indicating they were in good condition."
+C. diff.,organization,C. diff. is the name of a bacteria that can cause infections after antibiotic treatment.
+Antibiotics for recent urinary tract infection and ureteral stent placement,organization,"These antibiotics were used to treat a recent urinary tract infection and ureteral stent placement, but they may have led to the C. diff. infection."
+"Different antibiotic, by mouth",organization,A different antibiotic is being taken orally to resolve the C. diff. infection.
+Diarrhea resolved with treatment,event,The diarrhea caused by the C. diff. infection was resolved after taking the prescribed medication.
+Full and speedy recovery,event,"This is a wish for a full and speedy recovery, indicating the patient's current condition or prognosis."
+QACHS,organization,QACHS is an organization where the patient was admitted for treatment.
+HS Insulin SC Sliding Scale using HUM Insulin RX *blood sugar diagnostic [Acura Test Strips] glucose test strips four times a day Disp #*120 Box Refills:*0,event,This is an event of administering insulin and monitoring blood sugar levels.
+insulin lispro [Humalog] 100 unit/mL Up to 10 Units per sliding scale four times a day Disp #*10 Each Refills:*0,technology,This describes the use of Humalog insulin for managing blood sugar levels.
+lancets [Keep Fit Twist Lancets] 33 gauge lancets four times a day Disp #*120 Box Refills:*0,technology,These are lancets used for drawing blood samples to check glucose levels.
+Lorazepam 0.5 1 mg PO Q8H:PRN 30 min prior to Cyberknife Discharge,event,This is an event of administering Lorazepam as a pre-discharge medication.
+Cyberknife Discharge,event,"This refers to the discharge from the hospital using Cyberknife technology, which is not explicitly detailed in the text but implied for context."
+Extended Care Facility,organization,The patient was discharged to an Extended Care Facility for follow-up care.
+Primary diagnosis: Worsening brain metastases Secondary diagnosis: Metastatic melanoma Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.,event,"These details describe the patient's primary diagnoses, discharge condition, and activity status."
+Fibromyalgia,condition,"Fibromyalgia is a chronic condition characterized by widespread musculoskeletal pain, fatigue, and tenderness in localized areas."
+Thoracic Outlet Syndrome,condition,"Thoracic Outlet Syndrome (TOS) is a condition where the blood vessels or nerves between the collarbone and first rib are compressed, causing symptoms such as arm pain and tingling."
+Spinal Stenosis,condition,"Spinal Stenosis refers to narrowing of the spinal canal, leading to compression of the spinal cord and nerve roots, often causing back and leg pain."
+Multiple Sclerosis,diagnosis,"Multiple Sclerosis (MS) is a disease in which the immune system attacks the protective covering of nerves, leading to symptoms such as fatigue, numbness, and muscle weakness."
+Myasthenia Gravis,diagnosis,Myasthenia Gravis is an autoimmune disorder that causes weakness and rapid fatigue of any muscle group controlled by the voluntary nervous system.
+Dr. [Orthopedic Surgeon] ,person,"Dr. [Orthopedic Surgeon] is a medical professional who has treated the patient for Thoracic Outlet Syndrome, recommending she see a neurologist."
+Dr. [Neurologist] ,person,Dr. [Neurologist] is a medical professional who has examined the patient and disagreed with the diagnosis of Thoracic Outlet Syndrome by the orthopedic surgeon.
+Dr. [PCP] ,person,"Dr. [PCP] is a primary care physician who recommended admission for a cardiology work-up, but the patient was dissatisfied with this recommendation."
+ED Physicians,organization,ED Physicians are medical professionals working in the Emergency Department who have provided care to the patient and suggested diagnoses such as MS and myasthenia gravis.
+Neurology Follow-Up,event,"Neurology Follow-Up is a scheduled appointment for further evaluation by a neurologist, which the patient needs after her recent symptoms."
+Mr.,person,"Mr. is a patient who has undergone Radiofrequency Ablation (RFA) for hepatocellular carcinoma (HCC), presenting with an abdominal wall hematoma after the procedure."
+Radiofrequency Ablation of liver cancer,procedure,"Radiofrequency Ablation of liver cancer, or RFA, is a surgical procedure used to treat hepatocellular carcinoma (HCC) by heating and destroying tumor tissue."
+abdominal wall hematoma,event,"Abdominal wall hematoma is an event that occurred after the Radiofrequency Ablation procedure, causing concern for bleeding at the RFA site."
+Hepatitis C cirrhosis w/ varices,condition,"Hepatitis C cirrhosis with varices describes a medical condition where the patient has chronic hepatitis C leading to liver cirrhosis and portal hypertension, resulting in varices."
+varices,condition,"Varices are dilated veins that can occur due to portal hypertension, often seen in patients with cirrhosis of the liver."
+Hepatocellular carcinoma (HCC) s/p RFA ablation,disease,"Hepatocellular carcinoma is a type of cancer that arises from the liver cells. The patient has had an RFA ablation procedure for this condition, which was previously 2.6 cm in size."
+back pain osteopenia,condition,"Back pain and osteopenia are conditions noted in the patient's history, indicating potential issues with bone density and back health."
+epistaxis,symptom,Epistaxis is a symptom of nosebleeds that has been noted in the patient’s past medical history.
+family history of CAD,condition,"Family history of coronary artery disease (CAD) is mentioned, indicating a genetic predisposition to heart-related issues."
+AlkPhos 378 (abnormal),event,"AlkPhos level of 378 is an abnormal result, indicating potential liver or bile duct issues."
+TotBili 1.3 (abnormal),event,Total Bilirubin level of 1.3 is within normal range but mentioned as a reference to other abnormalities.
+RUQ U/S 1.20 cm pancreatic head mass compatible with given clinical history of known pancreatic cancer,event,"Ultrasound of the right upper quadrant shows a 1.20 cm mass in the pancreatic head, consistent with a diagnosis of pancreatic cancer based on patient's history."
+Biliary stent in the common bile duct with intrahepatic pneumobilia reflecting stent patency,event,"A biliary stent is present in the common bile duct and shows patency, as indicated by intrahepatic pneumobilia."
+Splenomegaly,event,"Splenomegaly is noted, indicating an enlarged spleen which could be related to various conditions including cancer metastasis or other systemic issues."
+"Dehydration - low UOP most likely due to hypovolemia from recent severe diarrhea that has now resolved, PO intake poor during this time. Cr stable, now making urine after IVF hydration in ED. Stopped further IVF.",event,"Patient experienced dehydration due to severe diarrhea and was hydrated with IV fluids, which improved their condition."
+urinary retention - Has hx of urinary frequency and leakage followed by urology. PVR on arrival to floor >300cc. prev on alfuvozin stopped last . Continued vesicare.,event,"Patient has a history of urinary issues, including urinary retention, which was managed with medication."
+Pancreatic cancer: Stage 2 disease with a 4cm adenocarcinoma in the head of the pancreas and a possible 1.3cm focus in the liver (not biopsy-proven). Post radiation and 5 cycles gemcitabine.,event,"Patient has stage 2 pancreatic cancer, treated with radiation therapy and chemotherapy."
+Diarrhea - ? malabsorption from panc mass/bile stent occlusion. Improved back on creon.,event,"Patient's diarrhea is suspected to be due to malabsorption related to the pancreatic mass or bile stent, which improved with Creon."
+"Anemia - malignancy and chemotherapy, stable",event,"Patient has anemia secondary to cancer and chemotherapy, but it is currently stable."
+"Goals of Care: Per Dr . Given irreversibility of pancreatic cancer, he would like to be DNR/DNI. FEN: - Regular diet DVT PROPHYLAXIS: Heparin 5000 units SC BID ACCESS: PIV CONTACT INFORMATION: Relationship: Son Phone number: Cell phone: Medications on Admission: The Preadmission Medication list is accurate and complete.",event,"The patient's goals of care reflect the advanced stage of pancreatic cancer, with a focus on comfort rather than curative treatment."
+L tKA,event,"L tKA is a major surgical procedure involving the replacement of the left knee joint, performed due to refractory pain despite conservative measures."
+Orthopedic Surgery Service,organization,The Orthopedic Surgery Service is where Ms. was admitted and underwent L tKA surgery.
+TKR (Right total knee arthroplasty) ,event,"TKR refers to a previous right total knee replacement, indicating a history of similar procedures."
+Myomectomy,event,"Myomectomy is a surgical procedure involving the removal of fibroid uterus, part of Ms.'s past medical history."
+AST 68 (abnormal),event,"AST 68 (abnormal) is an abnormal liver function test indicating elevated levels of aspartate transaminase, which can be a sign of liver damage or disease."
+LD(LDH)-154,event,"LD(LDH)-154 is another abnormal liver function test result, showing high lactate dehydrogenase levels, which may indicate tissue injury or inflammation."
+AlkPhos 36 (abnormal),event,"AlkPhos 36 (abnormal) refers to an elevated alkaline phosphatase level, often associated with liver and bone diseases."
+TotBili 1.2,event,"TotBili 1.2 is a slightly elevated total bilirubin level, which can indicate liver dysfunction or hemolysis."
+bibasilar atelectasis,geo,"bibasilar atelectasis refers to the collapse of lung tissue in the lower lobes of both lungs, often seen after surgery or due to poor ventilation."
+radiofrequency electrode,technology,The radiofrequency electrode is a device used for performing Radiofrequency Ablation (RFA) on tumors within the liver.
+treatment zone,concept,"Treatment zone refers to the area targeted by RFA, where tissue damage occurs to destroy tumor cells."
+hematoma 3.1 cm x 2.4 cm,event,"A hematoma of size 3.1 cm x 2.4 cm is a localized collection of blood outside the blood vessels, often due to injury or procedural complications."
+percutaneous needle access site,location,The percutaneous needle access site refers to the entry point for the RFA procedure into the patient's body.
+spleen enlargement with multiple upper abdominal varices,event,"Spleen enlargement and multiple upper abdominal varices indicate liver cirrhosis complications, where blood flow is redirected through the spleen due to portal hypertension."
+perihepatic ascites,event,"Perihepatic ascites refers to fluid accumulation around the liver, often a sign of advanced liver disease or other conditions."
+Hepatocellular carcinoma (HCC),organization,Hepatocellular carcinoma is a type of cancer that originates in the liver cells and can be treated with RFA.
+"chronic hepatitis C, genotype 3",person,"The patient has chronic hepatitis C infection, specifically genotype 3, which is associated with higher rates of fibrosis and cirrhosis."
+cirrhosis,concept,"Cirrhosis refers to the scarring of liver tissue due to long-term damage, often from viral infections like hepatitis C."
+portal hypertension,event,"Portal hypertension is increased pressure in the portal vein system, leading to complications such as varices and ascites."
+HCC recurrence,event,"HCC recurrence refers to the reappearance of hepatocellular carcinoma after initial treatment, requiring further intervention like RFA."
+transfusion 1U PRBC,event,"A single unit (1U) of packed red blood cells was transfused due to a hematoma, indicating significant blood loss."
+anxiety/insomnia,concept,Anxiety and insomnia are mental health conditions that the patient is managing with medications like Xanax and Trazodone.
+Small Cell Lung Cancer,disease,"Small Cell Lung Cancer is a type of lung cancer that the patient has previously been treated for with chemotherapy and radiation, currently in remission."
+CAD (Coronary Artery Disease),disease,"CAD refers to a medical condition where the coronary arteries are narrowed or blocked due to plaque buildup, which the patient has had stents placed in."
+Atrial Flutter/Fibrillation,condition,The patient has experienced paroxysmal atrial flutter/fibrillation and was previously on coumadin therapy for this condition.
+Amiodarone-Induced Hyperthyroidism,condition,"The patient developed hyperthyroidism as a side effect of amiodarone, which they are no longer taking."
+Sick Sinus Syndrome with Syncope,condition,"The patient has sick sinus syndrome and syncope, for which a dual-chamber pacemaker was placed."
+Bladder Cancer,disease,The patient had bladder cancer that was surgically resected in the past.
+Type 2 Diabetes,condition,"The patient has type 2 diabetes with an HbA1c level between 7 to 8, indicating poor glycemic control."
+Hypertension,condition,"The patient has a history of hypertension, which is a common co-morbidity in the medical record."
+Subdural Hematoma,injury,The patient had a subdural hematoma after a fall while on Coumadin therapy.
+GI Bleed,event,The patient experienced a gastrointestinal bleed due to Coumadin and aspirin therapy.
+Thalassemia Minor,condition,"The patient has thalassemia minor, which is a genetic disorder affecting hemoglobin production."
+GERD (Gastroesophageal Reflux Disease),condition,"The patient has GERD, a condition that causes acid reflux and heartburn."
+Diverticulosis,condition,"The patient has diverticulosis, which involves the presence of small pouches in the digestive tract that can become inflamed or infected."
+Left Total Knee Replacement (TKR),procedure,The patient had a left total knee replacement surgery in the past.
+Tonsillectomy,procedure,The patient underwent tonsillectomy as part of their surgical history.
+Left Upper Lobe (LUL) Opacity on Chest X-ray,finding,"A chest X-ray showed diffuse opacity in the left upper lobe with visible vascular markings, indicating possible pathology."
+Diffuse Left Upper Lobe (LUL) Pleural Effusion,finding,"The patient has a history of recurrent pericardial and pleural effusions, which may be related to their small cell lung cancer treatment."
+Cranial Radiation Therapy,treatment,The patient received cranial radiation therapy as part of the treatment for small cell lung cancer.
+Chemotherapy,treatment,The patient underwent chemotherapy as part of their treatment regimen for small cell lung cancer and bladder cancer.
+Urology Service,organization,The Urology Service is the department where the patient was admitted for post-ureteroscopy care and management of her medical conditions.
+Fever post-ureteroscopy,event,Fever post-ureteroscopy is a chief complaint indicating an adverse event following a urological procedure.
+"Cystoscopy, right ureteral stent removal, right retrograde pyelogram with interpretation; left ureteroscopy, laser lithotripsy of left renal and ureteral calculi, left retrograde pyelogram with interpretation, left ureteral stent exchange.",event,These are major surgical or invasive procedures performed on the patient.
+Myositis Ossificans,condition,"Myositis Ossificans is a condition mentioned in the past medical history of the patient, indicating the presence of bone formation within muscle tissue."
+Kidney Stones,condition,"Kidney Stones are part of the past medical history, describing recurrent issues with urinary calculi."
+Right Hip Replacement,event,Right Hip Replacement is a surgical procedure mentioned in the patient's past medical history.
+Fluconazole 200 mg PO Q24H RX,medication,Fluconazole is a medication prescribed for the patient's discharge regimen.
+Levothyroxine Sodium 50 mcg PO DAILY,medication,Levothyroxine Sodium is a daily medication prescribed for the patient's hypothyroidism.
+TraMADOL (Ultram) 50 mg PO Q4H:PRN pain,medication,Tramadol is a medication prescribed for pain management.
+Brimonidine-timolol 0.2 0.5 % ophthalmic BID,medication,Brimonidine-timolol is an ophthalmic medication prescribed for the patient.
+Amlodipine 5 mg PO DAILY,medication,Amlodipine is a daily medication prescribed for hypertension.
+Ropinirole 0.5 mg PO BID,medication,Ropinirole is a medication prescribed for restless leg syndrome.
+Gabapentin 100 mg PO TID,medication,Gabapentin is a medication prescribed for neuropathic pain and restless leg syndrome.
+Aspirin 81 mg PO DAILY,medication,Aspirin is a daily medication prescribed for cardiovascular protection.
+Mirtazapine 15 mg PO QHS,medication,Mirtazapine is a medication prescribed for depression.
+Zolpidem Tartrate 6.25 mg PO QHS,medication,Zolpidem Tartrate is a medication prescribed for insomnia.
+Ciprofloxacin HCl 500 mg PO ONCE Duration: 1 Dose,medication,Ciprofloxacin is a medication prescribed for an acute infection.
+Glaucoma,condition,Glaucoma is a condition mentioned in the patient's family history.
+Peripheral Neuropathy,condition,Peripheral Neuropathy is a condition mentioned in the patient's past medical history.
+Trigeminal Neuralgia,condition,Trigeminal Neuralgia is a condition mentioned in the patient's past medical history.
+Dr. ,person,Dr. is the attending physician who discussed the patient's care regarding lung cancer and spine lesions.
+MRI of the Spine,technology,"The MRI of the spine showed an intradural lesion at L1-L2, compressing and encasing the conus medullaris and cauda equina nerve roots."
+L1-L2 Intradural Tumor,event,"The patient was diagnosed with a large intradural tumor at L1-L2 level, which is concerning for metastatic disease."
+Cauda Equine Syndrome,concept,Cauda equine syndrome is a condition that the patient's rectal examination in ED suggested as a concern due to the intradural lesion.
+Lung Lesion,event,"The patient was found to have a 9.6 cm left mid lung field mass concerning for malignancy, likely related to metastatic disease from spine lesions."
+DVTs,event,DVTs (Deep Vein Thrombosis) are medical conditions that need ongoing management and follow-up.
+Venous Stasis,condition,"Venous Stasis is a medical condition affecting the left leg, causing darkened skin pigmentation."
+Triamcinolone Cream,technology,Triamcinolone Cream is a topical medication used to treat venous stasis in the lower extremity.
+Warfarin 8.5 mg daily,treatment,Warfarin 8.5 mg daily is an ongoing treatment for DVTs (Deep Vein Thrombosis).
+Aortic valve replacement,event,Aortic valve replacement was performed using a size 25 mm tissue valve.
+Coronary artery bypass graft x3,event,"Three coronary artery bypass grafts were conducted, including left internal mammary artery to left anterior descending artery and saphenous vein grafts to diagonal and distal right coronary arteries."
+Dyspnea on exertion,symptom,"Dyspnea on exertion is a symptom experienced by the patient for two months, associated with chest pain."
+Angina,symptom,"Angina is another symptom reported by the patient, possibly related to his coronary artery disease."
+Mechanical Fall with vertebral and rib fractures,event,The patient experienced a mechanical fall resulting in vertebral and rib fractures several years ago.
+Spontaneous Subarachnoid Hemorrhage,event,"A spontaneous subarachnoid hemorrhage occurred in the past, possibly related to an aneurysm mentioned later."
+Hernia repair x 2,event,The patient has undergone two hernia repairs in the past.
+Cataract surgery,event,Cataract surgery was performed on the patient in the past.
+"Multiple basal cell resections to face, scalp and legs",event,The patient has had multiple basal cell carcinomas resected from various parts of his body.
+Cardiac catheterization,procedure,A cardiac catheterization was performed which demonstrated left main disease.
+Stress test,procedure,The patient underwent a stress test that was abnormal and led to the referral for surgical evaluation.
+Carotid Ultrasound,procedure,A carotid ultrasound showed mild heterogeneous atherosclerotic plaque bilaterally with less than 40% stenosis of both ICAs.
+CTA Head,procedure,A CTA head scan did not show any acute intracranial abnormalities but found a four mm aneurysm at the junction of the left anterior cerebral artery and the anterior communicating artery.
+Transesophageal Echocardiogram,procedure,"A pre-bypass transesophageal echocardiogram showed mild symmetric left ventricular hypertrophy with normal cavity size, regional wall motion, and overall systolic function. Post-bypass findings included a tissue prosthesis in the aortic position and preserved bventricular function."
+Tissue prosthesis #25,device,A tissue prosthesis was placed during the aortic valve replacement surgery with a size of 25 mm.
+Stage IIIb Esophageal Cancer,event,"Stage IIIb Esophageal Cancer refers to the patient's medical condition, characterized by advanced-stage cancer in the esophagus."
+J-tube Site Abscess,event,J-tube Site Abscess is a complication experienced by the patient that required treatment and has led to his current hospital admission.
+Complicated Leak,event,"Complicated Leak refers to an issue with the J-tube placement, which contributed to the patient's need for further medical intervention."
+Degenerative Disc Disease,condition,"Degenerative Disc Disease is another chronic condition noted, also stable in the patient's past medical history."
+Herpes Simplex Virus 2,condition,Herpes Simplex Virus 2 is a viral infection that has been managed and remains stable.
+Fusion of Lumbar Vertebrae,event,"Fusion of Lumbar Vertebrae refers to a surgical procedure the patient underwent in the past, which is now stable."
+MIE Complicated by Leak,event,MIE (Minimally Invasive Esophagectomy) complicated by leak is an event from the patient's past medical history that led to further complications.
+J-tube Replacement for Weight Loss,event,"J-tube replacement due to weight loss is a procedure performed in response to the patient’s condition, aimed at addressing his nutritional needs."
+Abdominal Pain and Bleeding from Incision,symptom,Abdominal pain and bleeding from incision are symptoms reported by the patient that necessitated hospital admission for observation and treatment.
+"Reddened, Warm, Tender J-tube Site",condition,"The J-tube site is described as reddened, warm, and tender to touch, indicating an infection or inflammation."
+Cyclic TF (Total Parenteral Nutrition),treatment,Cyclic Total Parenteral Nutrition is a treatment the patient has been receiving for his nutritional needs.
+Soft Diet and Ensure,treatment,The patient has been consuming soft food and cans of Ensure daily as part of his dietary management plan.
+Thoracic Clinic,location,Thoracic Clinic is the location where the patient was evaluated for his symptoms before admission to the hospital.
+Office,location,"The office is a location from which the patient called about his symptoms, leading to his evaluation and eventual admission."
+Food and Drug Administration,organization,"The Food and Drug Administration is a regulatory agency that has not cleared or approved the test developed for islet cell antibodies, indicating its role in medical regulation."
+Juvenile Diabetes Foundation,organization,"The Juvenile Diabetes Foundation provides reference units for reporting values of islet cell antibodies, highlighting its involvement in diabetes research and diagnostics."
+Norvir,technology,"Norvir is a medication that can cause hyperglycemia, contributing to the patient's condition, indicating its role as a drug with side effects."
+Rayataz/Epzicom,technology,"Rayataz/Epzicom is another medication that can cause lactic acidosis and was initially held due to potential hyperglycemic effects, showing its impact on the patient's condition."
+Glutamic Acid Decarboxylase (GAD) Test,technology,"The GAD 65 Antibody test is used to diagnose type I diabetes and was performed with a result of <1.0 U/mL, indicating its role in diagnosing the patient's condition."
+Islet Cell Antibody Test,technology,"The Islet Cell Antibody Test was negative, helping rule out certain types of diabetes, showing its diagnostic function."
+Diabetic Ketoacidosis (DKA) Event,event,"Diabetic ketoacidosis is a medical event that the patient experienced, requiring intensive treatment in the ICU, highlighting its severity and impact on the patient's health."
+Clonidine 0.2 mg Tablet,organization,"Clonidine is a medication used for treating high blood pressure and symptoms of menopause, among other conditions."
+Fluconazole 100 mg Tablet,organization,Fluconazole is an antifungal medication commonly prescribed to treat fungal infections.
+Risperidone 0.5 mg Tablet,organization,Risperidone is an atypical antipsychotic used for treating schizophrenia and bipolar disorder.
+Trazodone 100 mg Tablet,organization,"Trazodone is an antidepressant and sedative-hypnotic medication, often prescribed for depression and insomnia."
+Citalopram 20 mg Tablet,organization,"Citalopram is a selective serotonin reuptake inhibitor (SSRI) used to treat depression, anxiety disorders, and obsessive-compulsive disorder."
+Quetiapine 200 mg Tablet,organization,"Quetiapine is an atypical antipsychotic medication used for treating schizophrenia, bipolar disorder, and major depressive disorder with psychotic features."
+Valacyclovir 500 mg Tablet,organization,"Valacyclovir is a prodrug of acyclovir, used to treat herpes simplex virus (HSV) and varicella-zoster virus (VZV) infections."
+Ritonavir 100 mg Capsule,organization,Ritonavir is an HIV protease inhibitor used in combination with other antiretroviral drugs to treat HIV infection.
+Atazanavir 150 mg Capsule,organization,"Atazanavir is a protease inhibitor used for the treatment of HIV-1 infection, often in combination with other antiretrovirals."
+Emtricitabine-Tenofovir 200 300 mg Tablet,organization,Emtricitabine and Tenofovir are components of a fixed-dose combination used to treat HIV-1 infection.
+Fenofibrate Micronized 200 mg Capsule,organization,Fenofibrate is a fibrate medication used for lowering triglyceride levels in the blood and managing hypertriglyceridemia.
+Omega 3 Fatty Acids Capsule,organization,"Omega-3 fatty acids are essential fats that can be obtained from supplements or certain foods, known to have various health benefits including reducing inflammation and supporting heart health."
+Insulin Pen Needle 29 x Needle,organization,"Insulin pen needles are used for administering insulin via an insulin pen, a device that delivers precise doses of insulin subcutaneously."
+Humalog Insulin Pen,organization,"Humalog is a brand name for insulin lispro, a rapid-acting insulin analog used to manage blood glucose levels in people with diabetes."
+Test Strips for Glucometer,organization,"Glucometer test strips are used to measure the level of glucose in the blood, essential for managing diabetes."
+Lancets for Testing Blood Sugar,organization,Blood lancets are small devices with a sharp tip used to make a small puncture in the skin to obtain a blood sample for testing.
+hospital,organization,The hospital is an entity where patients are advised to return if they experience large volumes or any other bothersome symptoms.
+RX *fluconazole 200 mg 1 tablet(s) by mouth Daily Disp #*6 Tablet Refills:*0,event,"This refers to a prescription event for fluconazole, indicating the patient's medication regimen post-discharge."
+8. brimonidine-timolol 0.2 0.5 % ophthalmic BID,technology,"This is a specific type of eye drop prescribed twice daily (BID), used for treating glaucoma or ocular hypertension."
+9. Mirtazapine 15 mg PO QHS,technology,Mirtazapine is an antidepressant prescribed at bedtime (QHS) to manage mental health conditions.
+10. Zolpidem Tartrate 6.25 mg PO QHS,technology,"Zolpidem Tartrate is a sedative-hypnotic prescribed for insomnia, taken at bedtime (QHS)."
+11. Ciprofloxacin HCl 500 mg PO ONCE Duration: 1 Dose Discharge,technology,"Ciprofloxacin HCl is an antibiotic prescribed to be taken once for a single dose, likely related to post-surgical infection prevention."
+Discharge Diagnosis: Fevers s/p ureteroscopy,event,"The patient was discharged with a diagnosis of fevers following a ureteroscopy procedure, indicating an ongoing condition or complication."
+"Ambulatory Status: Ambulating with cane, at baseline",concept,"This describes the patient's mobility status post-discharge, using a cane but otherwise ambulating normally."
+Discharge Instructions: -You can expect to see occasional blood in your urine and to possibly experience some urgency and frequency over the next month; this may be related to the passage of stone fragments or the indwelling ureteral stent (if there is one). -The kidney stone may or may not have been removed AND/or there may fragments/others still in the process of passing. -You may experience some pain associated with spasm of your ureter.,event,"These instructions detail expected post-discharge symptoms and conditions, including potential blood in urine and pain from ureteral spasms."
+Discharge Instructions: -Ureteral stents MUST be removed or exchanged and therefore it is IMPERATIVE that you follow-up as directed.,event,"This instruction highlights the necessity of following up to remove an indwelling ureteral stent, emphasizing its importance."
+Discharge Instructions: -Do not lift anything heavier than a phone book (10 pounds),concept,"These instructions provide specific lifting restrictions post-discharge, indicating caution regarding physical activity."
+"Discharge Instructions: -IBUPROFEN (the ingredient of Advil, Motrin, etc.) may be taken even though you may also be taking Tylenol/Acetaminophen. You may alternate these medications for pain control.",event,"This instruction allows the use of ibuprofen and acetaminophen for pain management, suggesting a strategy to manage post-operative discomfort."
+"Discharge Instructions: -Ibuprofen should always be taken with food. Please discontinue taking and notify your doctor should you develop blood in your stool (dark, tarry stools)",event,These instructions provide guidance on the use of ibuprofen and the need to report any gastrointestinal bleeding.
+"Discharge Instructions: -You MAY be discharged home with a medication called PYRIDIUM that will help with the ""burning"" pain you may experience when voiding. This medication may turn your urine bright orange.",technology,"Pyridium is an antispasmodic prescribed to manage urinary tract symptoms, potentially related to ureteral stent passage."
+"Discharge Instructions: -Colace has been prescribed to avoid post surgical constipation and constipation related to narcotic pain medication. Discontinue if loose stool or diarrhea develops. Colace is a stool softener, NOT a laxative, and available over the counter.",technology,Colace (docusate sodium) is prescribed as a stool softener to prevent post-surgical constipation.
+"Discharge Instructions: -Do not eat constipating foods for weeks, drink plenty of fluids to keep hydrated. -No vigorous physical activity or sports for 4 weeks and while Foley catheter is in place.",concept,"These instructions provide dietary and activity restrictions post-discharge, emphasizing the need for hydration and avoiding strenuous activities."
+"Discharge Instructions: -If YOU ARE DISCHARGED HOME WITH A FOLEY CATHETER: -Please refer to the provided nursing instructions and handout on Foley catheter care, waste elimination and leg bag usage.",event,"This instruction provides guidance for patients with a Foley catheter, detailing its care and use."
+Discharge Instructions: -Your Foley should be secured to the catheter secure on your thigh at ALL times until your follow up with the surgeon. -Follow up in 1 week for wound check and Foley removal.,event,These instructions outline specific care and follow-up requirements for a patient with an indwelling Foley catheter.
+"Discharge Instructions: -DO NOT have anyone else other than your Surgeon remove your Foley for any reason. -Wear Large Foley bag for majority of time, leg bag is only for short-term when leaving house.",concept,These instructions emphasize the importance of proper catheter care and removal by a surgeon.
+Discharge Instructions: -Followup Instructions:,event,"This refers to the overall set of post-discharge instructions, indicating comprehensive guidance for patient recovery and follow-up care."
+Mitral Regurgitation Chronic Kidney Disease,diagnosis,This is the primary diagnosis indicating chronic issues with the mitral valve and kidney function.
+CAD,condition,"CAD stands for Coronary Artery Disease, a secondary condition noted in the discharge summary."
+Hypercholesterolemia,condition,"Hypercholesterolemia is noted as a secondary condition, suggesting elevated cholesterol levels."
+IDDM,condition,"IDDM stands for Insulin-Dependent Diabetes Mellitus, another secondary diagnosis."
+Gastroesophageal Reflux Disease,condition,"GERD is listed as a secondary condition, indicating issues with the esophagus and stomach."

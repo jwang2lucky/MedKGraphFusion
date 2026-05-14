@@ -1,0 +1,100 @@
+{"s": "metabolic flexibility", "p": "Contributes-To-Pathogenesis", "o": "cancer"}
+{"s": "LDL 74", "p": "Biomarker-Of", "o": "High Cholesterol"}
+{"s": "abdominal pain", "p": "Associated-With", "o": "bloody stool"}
+{"s": "NT-proBNP", "p": "Biomarker-Of", "o": "Cardiac Dysfunction"}
+{"s": "tablet", "p": "Part-Of", "o": "medication regimen"}
+{"s": "metastatic colon cancer", "p": "Located-In", "o": "right lobe of the liver"}
+{"s": "spinal cord injury", "p": "Causes", "o": "confusion"}
+{"s": "tablet sig", "p": "Part-Of", "o": "prescription instructions"}
+{"s": "Oxidative Stress", "p": "Contributes-To-Pathogenesis", "o": "Hypertension"}
+{"s": "abnormal totbili", "p": "Biomarker-Of", "o": "Recurrent Syncope"}
+{"s": "nk cell", "p": "Expressed-In", "o": "fibroblast"}
+{"s": "NT-proBNP", "p": "Biomarker-Of", "o": "Myocardial Wall Stress"}
+{"s": "ureteral stent", "p": "Used-For", "o": "left ureteral stone"}
+{"s": "mitral valve leaflets", "p": "Subtype-Of", "o": "valve leaflet"}
+{"s": "iopamidol", "p": "Subtype-Of", "o": "contrast agent"}
+{"s": "metoprolol succinate", "p": "Used-For", "o": "rate control"}
+{"s": "weight bearing", "p": "Used-For", "o": "activity"}
+{"s": "weight bearing", "p": "Used-For", "o": "physical therapy"}
+{"s": "video eeg", "p": "Diagnoses", "o": "structural abnormality"}
+{"s": "L5", "p": "Located-In", "o": "Lumbar Spine"}
+{"s": "post operatively patient", "p": "Used-For", "o": "c-collar"}
+{"s": "tablet po", "p": "Used-For", "o": "levetiracetam"}
+{"s": "protein complex", "p": "Contributes-To-Pathogenesis", "o": "non-hodgkin s lymphoma"}
+{"s": "abdominal pain", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "service neurology", "p": "Used-For", "o": "burning sensation traveling up arm"}
+{"s": "metformin", "p": "Contraindicated-For", "o": "renal failure"}
+{"s": "plasma membrane", "p": "Expressed-In", "o": "macrophages"}
+{"s": "high fat", "p": "Contributes-To-Pathogenesis", "o": "end-stage renal disease (esrd)"}
+{"s": "DNA Methylation", "p": "Interacts-With", "o": "Histone Marks"}
+{"s": "mek/erk signaling", "p": "Affects-Expression", "o": "anchorage-independent proliferation"}
+{"s": "pain", "p": "Associated-With", "o": "redness"}
+{"s": "degenerative joint disease", "p": "Located-In", "o": "cervical spine"}
+{"s": "left ventricle", "p": "Part-Of", "o": "heart"}
+{"s": "contrast agent", "p": "Used-For", "o": "transarterial embolization"}
+{"s": "atrial fibrillation", "p": "Contributes-To-Pathogenesis", "o": "atrial fibrillation with rapid ventricular rate"}
+{"s": "mast cell activation", "p": "Causes", "o": "itching"}
+{"s": "operative extremity", "p": "Used-For", "o": "weight bearing as tolerated"}
+{"s": "CD4 Count", "p": "Associated-With", "o": "Hypertension"}
+{"s": "mast cell", "p": "Interacts-With", "o": "Immunoglobulin E"}
+{"s": "abnormal hgb", "p": "Associated-With", "o": "hematuria"}
+{"s": "cerebral ischemia", "p": "Causes", "o": "cognitive impairment"}
+{"s": "shrna-mediated hmga1 silencing", "p": "Affects-Expression", "o": "hmga1"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "bronchodilation"}
+{"s": "condom use", "p": "Used-For", "o": "preventing hiv transmission"}
+{"s": "cultureblood culture routine", "p": "Contraindicated-For", "o": "Infectious Disease"}
+{"s": "eye contact", "p": "Has-Symptom", "o": "poor eye contact"}
+{"s": "causal variant", "p": "Contributes-To-Pathogenesis", "o": "male mating morphs"}
+{"s": "foley catheter", "p": "Used-For", "o": "urethral obstruction"}
+{"s": "precursor cell", "p": "Part-Of", "o": "Hematopoietic system"}
+{"s": "video eeg", "p": "Diagnoses", "o": "focal irritability"}
+{"s": "left ventricle", "p": "Affects-Expression", "o": "ejection fraction"}
+{"s": "statin therapy", "p": "Used-For", "o": "risk factor modification"}
+{"s": "altered mental", "p": "Associated-With", "o": "tachycardic"}
+{"s": "bowel movement", "p": "Contraindicated-For", "o": "narcotic pain medications"}
+{"s": "particle size", "p": "Contributes-To-Pathogenesis", "o": "drug release"}
+{"s": "hip fracture", "p": "Has-Symptom", "o": "hip pain"}
+{"s": "mast cell activation", "p": "Contributes-To-Pathogenesis", "o": "hypersensitivity reactions"}
+{"s": "pain medication", "p": "Treats", "o": "post-operative pain"}
+{"s": "prior therapy", "p": "Causes", "o": "eligibility restriction"}
+{"s": "abnormal mcv", "p": "Has-Symptom", "o": "fatigue"}
+{"s": "GI Bleed", "p": "Contraindicated-For", "o": "Warfarin"}
+{"s": "Atorvastatin", "p": "Used-For", "o": "Therapy Administered"}
+{"s": "left ventricle", "p": "Part-Of", "o": "heart"}
+{"s": "Rosuvastatin", "p": "Treats", "o": "Hyperlipidemia"}
+{"s": "ip quad", "p": "Located-In", "o": "Left Arm"}
+{"s": "final inpatient blood", "p": "Biomarker-Of", "o": "Atrial Fibrillation with Rapid Ventricular Rate"}
+{"s": "cystatin c rise", "p": "Biomarker-Of", "o": "acute kidney injury"}
+{"s": "braf v600e", "p": "Contributes-To-Pathogenesis", "o": "Non-Small Cell Lung Cancer"}
+{"s": "albuterol inhaler", "p": "Treats", "o": "shortness of breath"}
+{"s": "Aminoglycoside Treatment", "p": "Contributes-To-Pathogenesis", "o": "Acute Kidney Injury"}
+{"s": "orif of right hip", "p": "Part-Of", "o": "left hip"}
+{"s": "weight loss", "p": "Associated-With", "o": "improved endothelial function"}
+{"s": "12 blood", "p": "Biomarker-Of", "o": "metabolic acidosis"}
+{"s": "po pain medication", "p": "Subtype-Of", "o": "pain medication"}
+{"s": "erk signaling activation", "p": "Contributes-To-Pathogenesis", "o": "tumor immune suppression"}
+{"s": "Ramus Intermedius", "p": "Part-Of", "o": "Left Coronary Artery"}
+{"s": "unsaturated fatty acids", "p": "Affects-Expression", "o": "Type 2 Diabetes Mellitus"}
+{"s": "atrial fibrillation", "p": "Has-Symptom", "o": "irregularly irregular heart rhythm"}
+{"s": "LDL", "p": "Biomarker-Of", "o": "Hyperlipidemia"}
+{"s": "CD4 Cell", "p": "Biomarker-Of", "o": "HIV Infection"}
+{"s": "statin therapy", "p": "Treats", "o": "acute ischemic stroke"}
+{"s": "insulin resistance", "p": "Contributes-To-Pathogenesis", "o": "bioenergetic dysfunction"}
+{"s": "viral rna", "p": "Expressed-In", "o": "living cells"}
+{"s": "narcotic pain reliever", "p": "Used-For", "o": "pain"}
+{"s": "EGFR", "p": "Interacts-With", "o": "PI3K"}
+{"s": "service obstetrics", "p": "Used-For", "o": "pelvic mass"}
+{"s": "abnormal hgb", "p": "Associated-With", "o": "esophageal varices"}
+{"s": "mitral valve", "p": "Located-In", "o": "heart"}
+{"s": "altered mental", "p": "Associated-With", "o": "toxic metabolic encephalopathy"}
+{"s": "left hip pain", "p": "Associated-With", "o": "comminuted intratrochanteric fracture of the left proximal femur"}
+{"s": "life event", "p": "Associated-With", "o": "depressive symptoms"}
+{"s": "hip fracture", "p": "Treats", "o": "orif of her right hip"}
+{"s": "high fat", "p": "Affects-Expression", "o": "Hyperleptinemia"}
+{"s": "medication exposure", "p": "Contributes-To-Pathogenesis", "o": "sjia-associated lung disease"}
+{"s": "high fat", "p": "Causes", "o": "inflammation"}
+{"s": "12 blood", "p": "Biomarker-Of", "o": "acute renal failure"}
+{"s": "magn reson", "p": "Diagnoses", "o": "white adipose tissue"}
+{"s": "help hydrogel", "p": "Has-Symptom", "o": "stiffness"}
+{"s": "blood ck", "p": "Biomarker-Of", "o": "altered mental status"}
+{"s": "physical therapy", "p": "Contraindicated-For", "o": "lifting 10 lbs"}

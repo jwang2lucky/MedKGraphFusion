@@ -1,0 +1,150 @@
+[
+  {
+    "id": "custom_case_01",
+    "description": "A patient with a history of resected colon cancer presents with new abdominal fullness and jaundice. Imaging reveals lesions in the right lobe of the liver. The patient also reports significant shortness of breath.",
+    "expected_diagnosis": "Metastatic Colon Cancer with Hepatic Involvement",
+    "graph_evidence_hint": [
+      "Metastatic Colon Cancer --Located-In--> Right Lobe of the Liver",
+      "Right Lobe of the Liver --Located-In--> Liver",
+      "Metastatic Colon Cancer --Causes--> Shortness of Breath",
+      "Liver Biopsy --Used-For--> Diagnosis of Metastatic Colon Cancer"
+    ]
+  },
+  {
+    "id": "custom_case_02",
+    "description": "A 72-year-old with long-standing hypertension develops palpitations and then acute onset right-sided facial droop and weakness. CT head rules out hemorrhage. He is started on antithrombotic therapy and aspirin.",
+    "expected_diagnosis": "Cardioembolic Acute Ischemic Stroke secondary to Atrial Fibrillation",
+    "graph_evidence_hint": [
+      "atrial fibrillation --Causes--> acute ischemic stroke",
+      "Facial Droop --Associated-With--> Stroke",
+      "Facial Droop --Has-Symptom--> Right Facial Weakness",
+      "Aspirin --Treats--> Acute Ischemic Stroke",
+      "Antithrombotic Therapy --Treats--> Ischemic Stroke"
+    ]
+  },
+  {
+    "id": "custom_case_03",
+    "description": "An elderly patient with severe aortic stenosis develops progressive dyspnea and bilateral pleural effusions. Echo shows left ventricular hypertrophy. NT-proBNP is markedly elevated.",
+    "expected_diagnosis": "Heart Failure with Pulmonary Edema due to Severe Aortic Stenosis",
+    "graph_evidence_hint": [
+      "Severe Aortic Stenosis --Associated-With--> Left Ventricle Hypertrophy",
+      "Aortic Stenosis --Causes--> Heart Failure",
+      "Aortic stenosis --Contributes-To-Pathogenesis--> Pulmonary edema",
+      "Heart failure --Causes--> Pulmonary edema",
+      "NT-proBNP --Biomarker-Of--> Heart failure",
+      "Aortic Valve Replacement --Treats--> Aortic Stenosis"
+    ]
+  },
+  {
+    "id": "custom_case_04",
+    "description": "A heavy smoker with hyperlipidemia presents with acute neurological deficit. Imaging confirms acute ischemic stroke. He is started on intensive statin therapy and aspirin for secondary prevention.",
+    "expected_diagnosis": "Acute Ischemic Stroke with Atherosclerotic Risk Factors",
+    "graph_evidence_hint": [
+      "Smoking --Causes--> Stroke",
+      "high cholesterol --Associated-With--> acute ischemic stroke",
+      "Hyperlipidemia --Associated-With--> Cardiovascular disease",
+      "Intensive Statin Therapy --Treats--> High Cholesterol",
+      "Aspirin --Treats--> Acute Ischemic Stroke",
+      "Statin Therapy --Associated-With--> Reduced Risk of Future Strokes"
+    ]
+  },
+  {
+    "id": "custom_case_05",
+    "description": "A patient with chronic alcohol use presents with jaundice, abdominal pain, and altered mental status. Labs show elevated bilirubin; imaging shows cirrhotic liver and ascites. Lactulose and rifaximin are initiated.",
+    "expected_diagnosis": "Hepatic Encephalopathy secondary to Alcoholic Cirrhosis",
+    "graph_evidence_hint": [
+      "Alcohol Abuse --Contributes-To-Pathogenesis--> Liver Cirrhosis",
+      "Alcoholic Hepatitis --Associated-With--> Cirrhosis",
+      "Ascites --Associated-With--> Hepatic Encephalopathy",
+      "Altered Mental Status --Associated-With--> Hepatic Encephalopathy",
+      "Hepatic Encephalopathy --Associated-With--> Alcoholic Cirrhosis",
+      "Lactulose --Treats--> Hepatic Encephalopathy",
+      "Rifaximin --Treats--> Bacterial Infection"
+    ]
+  },
+  {
+    "id": "custom_case_06",
+    "description": "A diabetic patient on metformin presents with severe abdominal pain, acidosis, and lactic acidosis on labs. Renal function is impaired.",
+    "expected_diagnosis": "Metformin-Associated Lactic Acidosis",
+    "graph_evidence_hint": [
+      "metformin toxicity --Associated-With--> lactic acidosis",
+      "lactic acidosis --Associated-With--> metformin toxicity",
+      "Metformin --Treats--> High Blood Sugar"
+    ]
+  },
+  {
+    "id": "custom_case_07",
+    "description": "A patient with a history of alcohol withdrawal develops generalized seizures in the ED, followed by a post-ictal period with decreased interactiveness. EEG monitoring is initiated.",
+    "expected_diagnosis": "Alcohol Withdrawal Seizures with Post-ictal State",
+    "graph_evidence_hint": [
+      "Alcohol Withdrawal --Causes--> Seizures",
+      "Seizures --Has-Symptom--> Post-ictal period",
+      "Post-ictal period --Has-Symptom--> Decreased interactiveness",
+      "eeg monitoring --Used-For--> seizure diagnosis",
+      "Lorazepam --Treats--> Complex Partial Seizure"
+    ]
+  },
+  {
+    "id": "custom_case_08",
+    "description": "A patient presents with right flank pain, fever, and dysuria. Urinalysis shows hematuria and urine culture grows Klebsiella. She is started on ciprofloxacin.",
+    "expected_diagnosis": "Pyelonephritis due to Klebsiella UTI",
+    "graph_evidence_hint": [
+      "Klebsiella --Causes--> Urinary Tract Infection",
+      "Urinary Tract Infection --Associated-With--> Hematuria",
+      "Pyelonephritis --Causes--> Flank Pain",
+      "Urine Culture --Diagnoses--> Urinary Tract Infection",
+      "Ciprofloxacin --Treats--> Pyelonephritis"
+    ]
+  },
+  {
+    "id": "custom_case_09",
+    "description": "An elderly man with BPH and enlarged prostate develops urinary retention and hydronephrosis of the left kidney, complicated by sepsis from a urinary source. Foley catheter and tamsulosin are initiated.",
+    "expected_diagnosis": "Obstructive Uropathy with Urosepsis due to BPH",
+    "graph_evidence_hint": [
+      "enlarged prostate --Causes--> hydronephrosis",
+      "enlarged prostate --Associated-With--> sepsis from a urinary source",
+      "enlarged prostate --Associated-With--> poor bladder emptying",
+      "Urethral Obstruction --Causes--> Urinary Retention",
+      "Foley Catheter --Treats--> Urinary Retention",
+      "Tamsulosin --Treats--> Urinary Retention",
+      "Transurethral Resection --Treats--> Benign Prostatic Hypertrophy"
+    ]
+  },
+  {
+    "id": "custom_case_10",
+    "description": "A patient on warfarin for atrial fibrillation presents with fatigue and melena. Labs show iron deficiency anemia with abnormal MCV. A GI bleed workup is initiated.",
+    "expected_diagnosis": "GI Bleed causing Iron Deficiency Anemia in Anticoagulated Patient",
+    "graph_evidence_hint": [
+      "Warfarin --Causes--> GI Bleed",
+      "GI Bleed --Causes--> Anemia",
+      "Iron Deficiency Anemia --Associated-With--> GI Bleed",
+      "Iron Deficiency Anemia --Causes--> Abnormal MCV"
+    ]
+  },
+  {
+    "id": "custom_case_11",
+    "description": "A patient presents with worsening headache, photophobia, and nausea. MRI shows multiple hemorrhagic cerebral metastases with surrounding vasogenic edema. A small lung nodule is noted on chest imaging.",
+    "expected_diagnosis": "Brain Metastases from Primary Lung Malignancy",
+    "graph_evidence_hint": [
+      "multiple hemorrhagic cerebral metastases --Associated-With--> vasogenic edema",
+      "vasogenic edema --Associated-With--> left frontal lesion",
+      "5-mm mildly avid left upper lobe lung nodule --Associated-With--> metastasis",
+      "EMT --Causes--> metastasis",
+      "Worsening Headache --Associated-With--> Nausea",
+      "Worsening Headache --Associated-With--> Photophobia",
+      "Ang1005 --Treats--> Brain Metastases"
+    ]
+  },
+  {
+    "id": "custom_case_12",
+    "description": "A patient with a resected prostate cancer shows elevated telomerase activity in renal tumors noted on follow-up imaging. Germline testing reveals genetic variants associated with leukocyte telomere length.",
+    "expected_diagnosis": "Renal Cell Carcinoma with Telomere Biology Alterations",
+    "graph_evidence_hint": [
+      "Telomerase Activity --Contributes-To-Pathogenesis--> Renal Cell Carcinoma",
+      "Relative Telomere Length --Biomarker-Of--> Renal Cell Carcinoma",
+      "Leukocyte Telomere Length --Associated-With--> Renal Cell Carcinoma Risk",
+      "Genetic Variants --Associated-With--> Leukocyte Telomere Length",
+      "Telomerase Activity --Affects-Expression--> Renal Tumors"
+    ]
+  } 
+]

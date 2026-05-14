@@ -1,0 +1,55 @@
+{
+  "patient_id": "P-0042377",
+  "model": "clinical_treatment_molecular_kg",
+  "risk_score": 1514.6504654257396,
+  "fold": 4,
+  "cancer_type": "Pancreatic Cancer",
+  "cancer_type_detailed": "Pancreatic Adenocarcinoma",
+  "stage": "Stage 4",
+  "stage_group": "Stage IV",
+  "os_time": 0.821916907,
+  "os_event": 1,
+  "treatments_list": [
+    "GEMCITABINE",
+    "PACLITAXEL PROTEIN-BOUND"
+  ],
+  "altered_genes_list": [
+    "CDKN2A",
+    "KRAS",
+    "SMAD4",
+    "TP53"
+  ],
+  "resolved_anchor_nodes": [
+    "disease|better long-term outcomes for esophageal and pancreatic cancer patients",
+    "disease|distal biliary obstruction consistent with pancreatic cancer",
+    "disease|hereditary pancreatic cancer predisposition",
+    "disease|locally advanced pancreatic cancer",
+    "disease|pancreatic adenocarcinoma",
+    "anatomy|pancreas"
+  ],
+  "resolved_disease_nodes": [
+    "disease|better long-term outcomes for esophageal and pancreatic cancer patients",
+    "disease|cancer",
+    "disease|distal biliary obstruction consistent with pancreatic cancer",
+    "disease|hereditary pancreatic cancer predisposition",
+    "disease|locally advanced pancreatic cancer",
+    "disease|pancreatic adenocarcinoma"
+  ],
+  "resolved_anatomy_nodes": [
+    "anatomy|pancreas"
+  ],
+  "resolved_gene_nodes": [
+    "gene/protein|cdkn2a",
+    "gene/protein|kras",
+    "gene/protein|smad4",
+    "gene/protein|tp53"
+  ],
+  "resolved_drug_nodes": [
+    "drug|gemcitabine",
+    "drug|paclitaxel"
+  ],
+  "n_paths_found": 69240,
+  "n_top_paths_exported": 8,
+  "n_top_paths_novel_vs_primekg": 8,
+  "n_top_paths_using_new_edges": 8
+}

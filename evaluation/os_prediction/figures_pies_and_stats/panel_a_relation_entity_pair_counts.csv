@@ -1,0 +1,1385 @@
+﻿relation,relation_total,entity_pair_type,pair_count
+associated with,11131,Effect/phenotype -> Effect/phenotype,1607
+associated with,11131,Exposure -> Effect/phenotype,792
+associated with,11131,Exposure -> Exposure,769
+associated with,11131,Disease -> Disease,672
+associated with,11131,Biological process -> Biological process,601
+associated with,11131,Biological process -> Effect/phenotype,384
+associated with,11131,Gene/protein -> Disease,356
+associated with,11131,Anatomy -> Effect/phenotype,342
+associated with,11131,Gene/protein -> Effect/phenotype,321
+associated with,11131,Effect/phenotype -> Biological process,317
+associated with,11131,Exposure -> Biological process,317
+associated with,11131,Effect/phenotype -> Exposure,290
+associated with,11131,Gene/protein -> Biological process,272
+associated with,11131,Anatomy -> Anatomy,224
+associated with,11131,Drug -> Effect/phenotype,215
+associated with,11131,Effect/phenotype -> Anatomy,202
+associated with,11131,Biological process -> Disease,197
+associated with,11131,Anatomy -> Disease,188
+associated with,11131,Disease -> Anatomy,182
+associated with,11131,Biological process -> Exposure,168
+associated with,11131,Biological process -> Gene/protein,128
+associated with,11131,Anatomy -> Biological process,127
+associated with,11131,Disease -> Biological process,124
+associated with,11131,Disease -> Gene/protein,113
+associated with,11131,Cellular component -> Biological process,111
+associated with,11131,Biological process -> Anatomy,110
+associated with,11131,Anatomy -> Exposure,109
+associated with,11131,Exposure -> Anatomy,106
+associated with,11131,Effect/phenotype -> Gene/protein,101
+associated with,11131,Drug -> Biological process,92
+associated with,11131,Drug -> Disease,90
+associated with,11131,Cellular component -> Cellular component,68
+associated with,11131,Drug -> Exposure,65
+associated with,11131,Gene/protein -> Cellular component,64
+associated with,11131,Effect/phenotype -> Drug,58
+associated with,11131,Biological process -> Cellular component,55
+associated with,11131,Cellular component -> Effect/phenotype,52
+associated with,11131,Pathway -> Biological process,49
+associated with,11131,Exposure -> Drug,47
+associated with,11131,Molecular function -> Biological process,47
+associated with,11131,Disease -> Drug,46
+associated with,11131,Gene/protein -> Exposure,46
+associated with,11131,Biological process -> Drug,44
+associated with,11131,Molecular function -> Gene/protein,44
+associated with,11131,Biological process -> Pathway,43
+associated with,11131,Cellular component -> Disease,42
+associated with,11131,Cellular component -> Gene/protein,42
+associated with,11131,Exposure -> Gene/protein,39
+associated with,11131,Gene/protein -> Anatomy,39
+associated with,11131,Gene/protein -> Pathway,39
+associated with,11131,Pathway -> Disease,37
+associated with,11131,Gene/protein -> Molecular function,35
+associated with,11131,Disease -> Pathway,27
+associated with,11131,Effect/phenotype -> Cellular component,25
+associated with,11131,Cellular component -> Anatomy,23
+associated with,11131,Disease -> Cellular component,22
+associated with,11131,Molecular function -> Effect/phenotype,22
+associated with,11131,Pathway -> Effect/phenotype,21
+associated with,11131,Molecular function -> Disease,20
+associated with,11131,Pathway -> Gene/protein,20
+associated with,11131,Drug -> Anatomy,17
+associated with,11131,Molecular function -> Molecular function,17
+associated with,11131,Biological process -> Molecular function,15
+associated with,11131,Drug -> Cellular component,15
+associated with,11131,Exposure -> Cellular component,15
+associated with,11131,Anatomy -> Cellular component,14
+associated with,11131,Anatomy -> Gene/protein,14
+associated with,11131,Anatomy -> Pathway,14
+associated with,11131,Cellular component -> Exposure,13
+associated with,11131,Effect/phenotype -> Pathway,12
+associated with,11131,Drug -> Molecular function,11
+associated with,11131,Exposure -> Pathway,11
+associated with,11131,Cellular component -> Pathway,10
+associated with,11131,Disease -> Molecular function,10
+associated with,11131,Molecular function -> Cellular component,10
+associated with,11131,Anatomy -> Drug,9
+associated with,11131,Cellular component -> Molecular function,9
+associated with,11131,Exposure -> Molecular function,9
+associated with,11131,Pathway -> Anatomy,8
+associated with,11131,Pathway -> Cellular component,8
+associated with,11131,Pathway -> Exposure,8
+associated with,11131,Effect/phenotype -> Molecular function,7
+associated with,11131,Molecular function -> Exposure,7
+associated with,11131,Cellular component -> Drug,6
+associated with,11131,Drug -> Pathway,6
+associated with,11131,Pathway -> Pathway,6
+associated with,11131,Molecular function -> Drug,5
+associated with,11131,Procedure -> Disease,5
+associated with,11131,Molecular function -> Pathway,4
+associated with,11131,Disease -> Procedure,3
+associated with,11131,Molecular function -> Anatomy,3
+associated with,11131,Anatomy -> Procedure,2
+associated with,11131,Disease -> virus,2
+associated with,11131,Pathway -> Drug,2
+associated with,11131,Pathway -> Molecular function,2
+associated with,11131,Anatomy -> Molecular function,1
+associated with,11131,Cellular component -> metabolite,1
+associated with,11131,Effect/phenotype -> study,1
+associated with,11131,Exposure -> material,1
+associated with,11131,Exposure -> metabolite,1
+associated with,11131,Exposure -> technique,1
+associated with,11131,Gene/protein -> population,1
+associated with,11131,Procedure -> Anatomy,1
+associated with,11131,Procedure -> Effect/phenotype,1
+associated with,11131,metabolic intermediate -> Pathway,1
+associated with,11131,metabolite -> Cellular component,1
+associated with,11131,metabolite -> Disease,1
+associated with,11131,study -> Effect/phenotype,1
+associated with,11131,virus -> Disease,1
+used for,4435,Exposure -> Exposure,464
+used for,4435,Biological process -> Biological process,448
+used for,4435,Exposure -> Biological process,446
+used for,4435,Exposure -> Effect/phenotype,279
+used for,4435,Drug -> Effect/phenotype,200
+used for,4435,Drug -> Biological process,196
+used for,4435,Anatomy -> Biological process,184
+used for,4435,Exposure -> Disease,154
+used for,4435,Gene/protein -> Biological process,152
+used for,4435,Effect/phenotype -> Effect/phenotype,148
+used for,4435,Biological process -> Exposure,114
+used for,4435,Anatomy -> Anatomy,109
+used for,4435,Biological process -> Effect/phenotype,91
+used for,4435,Anatomy -> Disease,85
+used for,4435,Drug -> Exposure,85
+used for,4435,Effect/phenotype -> Biological process,81
+used for,4435,Drug -> Drug,78
+used for,4435,Anatomy -> Effect/phenotype,76
+used for,4435,Cellular component -> Biological process,75
+used for,4435,Exposure -> Anatomy,67
+used for,4435,Anatomy -> Exposure,66
+used for,4435,Biological process -> Disease,59
+used for,4435,Gene/protein -> Effect/phenotype,49
+used for,4435,Biological process -> Anatomy,48
+used for,4435,Exposure -> Drug,42
+used for,4435,Effect/phenotype -> Exposure,32
+used for,4435,Biological process -> Drug,31
+used for,4435,Disease -> Exposure,30
+used for,4435,Effect/phenotype -> Disease,30
+used for,4435,Drug -> Anatomy,29
+used for,4435,Gene/protein -> Disease,28
+used for,4435,Molecular function -> Biological process,27
+used for,4435,Gene/protein -> Exposure,26
+used for,4435,Biological process -> Gene/protein,25
+used for,4435,Anatomy -> Drug,24
+used for,4435,Disease -> Biological process,23
+used for,4435,Pathway -> Biological process,16
+used for,4435,Disease -> Effect/phenotype,15
+used for,4435,Disease -> Anatomy,14
+used for,4435,Effect/phenotype -> Anatomy,14
+used for,4435,Gene/protein -> Drug,14
+used for,4435,Biological process -> Cellular component,12
+used for,4435,Biological process -> Pathway,12
+used for,4435,Disease -> Disease,12
+used for,4435,Disease -> Drug,12
+used for,4435,Effect/phenotype -> Drug,12
+used for,4435,Exposure -> Pathway,11
+used for,4435,Gene/protein -> Anatomy,9
+used for,4435,Cellular component -> Disease,8
+used for,4435,Drug -> Molecular function,7
+used for,4435,Exposure -> Gene/protein,7
+used for,4435,Gene/protein -> Pathway,7
+used for,4435,Cellular component -> Effect/phenotype,6
+used for,4435,Drug -> Procedure,6
+used for,4435,Effect/phenotype -> Gene/protein,6
+used for,4435,Exposure -> Cellular component,6
+used for,4435,Gene/protein -> Molecular function,6
+used for,4435,Procedure -> Effect/phenotype,6
+used for,4435,Anatomy -> Procedure,5
+used for,4435,Biological process -> Molecular function,5
+used for,4435,Cellular component -> Exposure,5
+used for,4435,Pathway -> Effect/phenotype,5
+used for,4435,Procedure -> Anatomy,5
+used for,4435,Cellular component -> Anatomy,4
+used for,4435,Disease -> Gene/protein,4
+used for,4435,Drug -> Gene/protein,4
+used for,4435,Exposure -> technique,4
+used for,4435,Gene/protein -> Cellular component,4
+used for,4435,Molecular function -> Effect/phenotype,4
+used for,4435,Procedure -> Biological process,4
+used for,4435,Procedure -> Disease,4
+used for,4435,Anatomy -> Cellular component,3
+used for,4435,Drug -> Pathway,3
+used for,4435,Molecular function -> Disease,3
+used for,4435,Pathway -> Exposure,3
+used for,4435,technique -> Biological process,3
+used for,4435,Cellular component -> Pathway,2
+used for,4435,Disease -> Molecular function,2
+used for,4435,Drug -> Cellular component,2
+used for,4435,Effect/phenotype -> Pathway,2
+used for,4435,Exposure -> Molecular function,2
+used for,4435,Exposure -> material,2
+used for,4435,Exposure -> study,2
+used for,4435,Molecular function -> Drug,2
+used for,4435,algorithm -> Biological process,2
+used for,4435,material -> Exposure,2
+used for,4435,reagent -> Biological process,2
+used for,4435,Anatomy -> Pathway,1
+used for,4435,Anatomy -> guideline,1
+used for,4435,Biological process -> technique,1
+used for,4435,Cellular component -> Gene/protein,1
+used for,4435,Disease -> Pathway,1
+used for,4435,Drug -> technique,1
+used for,4435,Effect/phenotype -> Cellular component,1
+used for,4435,Effect/phenotype -> Molecular function,1
+used for,4435,Gene/protein -> Gene/protein,1
+used for,4435,Gene/protein -> study,1
+used for,4435,Molecular function -> Anatomy,1
+used for,4435,Molecular function -> Molecular function,1
+used for,4435,Pathway -> Disease,1
+used for,4435,Pathway -> Drug,1
+used for,4435,Procedure -> Exposure,1
+used for,4435,material -> Biological process,1
+used for,4435,program -> Biological process,1
+used for,4435,program -> Effect/phenotype,1
+used for,4435,protocol -> Effect/phenotype,1
+used for,4435,protocol -> Exposure,1
+used for,4435,study -> Gene/protein,1
+used for,4435,technique -> Exposure,1
+part of,3126,Exposure -> Exposure,355
+part of,3126,Gene/protein -> Biological process,144
+part of,3126,Gene/protein -> Cellular component,135
+part of,3126,Cellular component -> Anatomy,121
+part of,3126,Anatomy -> Exposure,118
+part of,3126,Exposure -> Anatomy,113
+part of,3126,Biological process -> Exposure,91
+part of,3126,Exposure -> Biological process,91
+part of,3126,Anatomy -> Biological process,86
+part of,3126,Biological process -> Anatomy,85
+part of,3126,Gene/protein -> Gene/protein,82
+part of,3126,Effect/phenotype -> Anatomy,73
+part of,3126,Cellular component -> Biological process,71
+part of,3126,Effect/phenotype -> Biological process,71
+part of,3126,Biological process -> Effect/phenotype,69
+part of,3126,Biological process -> Gene/protein,68
+part of,3126,Anatomy -> Effect/phenotype,66
+part of,3126,Anatomy -> Cellular component,64
+part of,3126,Gene/protein -> Anatomy,60
+part of,3126,Effect/phenotype -> Disease,58
+part of,3126,Cellular component -> Gene/protein,56
+part of,3126,Gene/protein -> Pathway,54
+part of,3126,Anatomy -> Disease,52
+part of,3126,Biological process -> Cellular component,49
+part of,3126,Disease -> Anatomy,49
+part of,3126,Drug -> Drug,48
+part of,3126,Disease -> Effect/phenotype,46
+part of,3126,Gene/protein -> Molecular function,34
+part of,3126,Effect/phenotype -> Exposure,29
+part of,3126,Exposure -> Effect/phenotype,29
+part of,3126,Drug -> Exposure,28
+part of,3126,Biological process -> Disease,27
+part of,3126,Molecular function -> Biological process,26
+part of,3126,Pathway -> Gene/protein,25
+part of,3126,Disease -> Biological process,23
+part of,3126,Biological process -> Pathway,22
+part of,3126,Anatomy -> Gene/protein,21
+part of,3126,Biological process -> Drug,21
+part of,3126,Cellular component -> Exposure,20
+part of,3126,Drug -> Anatomy,20
+part of,3126,Pathway -> Biological process,20
+part of,3126,Biological process -> Molecular function,19
+part of,3126,Gene/protein -> Effect/phenotype,19
+part of,3126,Drug -> Biological process,16
+part of,3126,Exposure -> Cellular component,16
+part of,3126,Exposure -> Drug,15
+part of,3126,Molecular function -> Gene/protein,15
+part of,3126,Disease -> Exposure,14
+part of,3126,Exposure -> Disease,14
+part of,3126,Gene/protein -> Disease,14
+part of,3126,Cellular component -> Pathway,13
+part of,3126,Drug -> Cellular component,13
+part of,3126,Cellular component -> Effect/phenotype,12
+part of,3126,Cellular component -> Disease,11
+part of,3126,Drug -> Gene/protein,11
+part of,3126,Effect/phenotype -> Gene/protein,11
+part of,3126,Molecular function -> Cellular component,11
+part of,3126,Anatomy -> Drug,10
+part of,3126,Disease -> Cellular component,10
+part of,3126,Pathway -> Cellular component,10
+part of,3126,Cellular component -> Molecular function,9
+part of,3126,Gene/protein -> Drug,9
+part of,3126,Gene/protein -> Exposure,9
+part of,3126,Cellular component -> Drug,7
+part of,3126,Drug -> Pathway,7
+part of,3126,Effect/phenotype -> Cellular component,7
+part of,3126,Anatomy -> Pathway,6
+part of,3126,Effect/phenotype -> Pathway,6
+part of,3126,Pathway -> Anatomy,6
+part of,3126,Anatomy -> study,5
+part of,3126,Disease -> Gene/protein,5
+part of,3126,Exposure -> Gene/protein,5
+part of,3126,Molecular function -> Exposure,4
+part of,3126,Molecular function -> Pathway,4
+part of,3126,Disease -> Pathway,3
+part of,3126,Drug -> Disease,3
+part of,3126,Drug -> Effect/phenotype,3
+part of,3126,Drug -> Molecular function,3
+part of,3126,Molecular function -> Anatomy,3
+part of,3126,Molecular function -> Drug,3
+part of,3126,Molecular function -> Effect/phenotype,3
+part of,3126,Pathway -> Disease,3
+part of,3126,Pathway -> Drug,3
+part of,3126,Anatomy -> Molecular function,2
+part of,3126,Anatomy -> Procedure,2
+part of,3126,Biological process -> Procedure,2
+part of,3126,Disease -> Drug,2
+part of,3126,Drug -> amino acid,2
+part of,3126,Drug -> study protocol,2
+part of,3126,Exposure -> Molecular function,2
+part of,3126,Exposure -> study,2
+part of,3126,Molecular function -> Disease,2
+part of,3126,Pathway -> Effect/phenotype,2
+part of,3126,Procedure -> Biological process,2
+part of,3126,study -> Exposure,2
+part of,3126,Biological process -> complex,1
+part of,3126,Biological process -> database,1
+part of,3126,Effect/phenotype -> Drug,1
+part of,3126,Effect/phenotype -> Molecular function,1
+part of,3126,Exposure -> Pathway,1
+part of,3126,Gene/protein -> registry,1
+part of,3126,Pathway -> Molecular function,1
+part of,3126,Procedure -> Anatomy,1
+part of,3126,complex -> Biological process,1
+part of,3126,complex -> Pathway,1
+part of,3126,domain -> Gene/protein,1
+part of,3126,program -> program,1
+phenotype present,2705,Disease -> Effect/phenotype,1225
+phenotype present,2705,Effect/phenotype -> Disease,770
+phenotype present,2705,Effect/phenotype -> Effect/phenotype,156
+phenotype present,2705,Disease -> Disease,88
+phenotype present,2705,Exposure -> Effect/phenotype,70
+phenotype present,2705,Anatomy -> Effect/phenotype,63
+phenotype present,2705,Biological process -> Effect/phenotype,23
+phenotype present,2705,Effect/phenotype -> Anatomy,22
+phenotype present,2705,Gene/protein -> Effect/phenotype,21
+phenotype present,2705,Effect/phenotype -> Exposure,20
+phenotype present,2705,Exposure -> Disease,19
+phenotype present,2705,Anatomy -> Disease,18
+phenotype present,2705,Disease -> Anatomy,17
+phenotype present,2705,Exposure -> Exposure,15
+phenotype present,2705,Disease -> Biological process,14
+phenotype present,2705,Effect/phenotype -> Biological process,11
+phenotype present,2705,Anatomy -> Anatomy,10
+phenotype present,2705,Anatomy -> Biological process,10
+phenotype present,2705,Cellular component -> Effect/phenotype,10
+phenotype present,2705,Cellular component -> Biological process,8
+phenotype present,2705,Gene/protein -> Biological process,7
+phenotype present,2705,Gene/protein -> Disease,7
+phenotype present,2705,Biological process -> Anatomy,6
+phenotype present,2705,Biological process -> Biological process,6
+phenotype present,2705,Biological process -> Disease,6
+phenotype present,2705,Disease -> Exposure,6
+phenotype present,2705,Effect/phenotype -> Gene/protein,6
+phenotype present,2705,Disease -> Pathway,5
+phenotype present,2705,Drug -> Effect/phenotype,5
+phenotype present,2705,Effect/phenotype -> Cellular component,5
+phenotype present,2705,Disease -> Drug,4
+phenotype present,2705,Disease -> Gene/protein,4
+phenotype present,2705,Effect/phenotype -> Drug,4
+phenotype present,2705,Disease -> Cellular component,3
+phenotype present,2705,Exposure -> Biological process,3
+phenotype present,2705,Exposure -> Drug,3
+phenotype present,2705,Anatomy -> Exposure,2
+phenotype present,2705,Biological process -> Cellular component,2
+phenotype present,2705,Biological process -> Exposure,2
+phenotype present,2705,Biological process -> Gene/protein,2
+phenotype present,2705,Biological process -> Molecular function,2
+phenotype present,2705,Exposure -> Anatomy,2
+phenotype present,2705,Molecular function -> Biological process,2
+phenotype present,2705,Molecular function -> Molecular function,2
+phenotype present,2705,Pathway -> Biological process,2
+phenotype present,2705,Pathway -> Disease,2
+phenotype present,2705,Pathway -> Effect/phenotype,2
+phenotype present,2705,Anatomy -> Drug,1
+phenotype present,2705,Cellular component -> Disease,1
+phenotype present,2705,Drug -> Biological process,1
+phenotype present,2705,Drug -> Disease,1
+phenotype present,2705,Drug -> Exposure,1
+phenotype present,2705,Exposure -> Cellular component,1
+phenotype present,2705,Exposure -> Gene/protein,1
+phenotype present,2705,Gene/protein -> Exposure,1
+phenotype present,2705,Gene/protein -> Gene/protein,1
+phenotype present,2705,Gene/protein -> Pathway,1
+phenotype present,2705,Pathway -> Cellular component,1
+phenotype present,2705,Pathway -> Drug,1
+phenotype present,2705,Pathway -> Exposure,1
+parent-child,2455,Anatomy -> Anatomy,1421
+parent-child,2455,Biological process -> Biological process,444
+parent-child,2455,Disease -> Disease,212
+parent-child,2455,Cellular component -> Cellular component,174
+parent-child,2455,Effect/phenotype -> Effect/phenotype,171
+parent-child,2455,Molecular function -> Molecular function,26
+parent-child,2455,Pathway -> Pathway,7
+indication,2073,Drug -> Disease,677
+indication,2073,Exposure -> Disease,270
+indication,2073,Drug -> Effect/phenotype,246
+indication,2073,Exposure -> Effect/phenotype,139
+indication,2073,Biological process -> Disease,102
+indication,2073,Anatomy -> Disease,71
+indication,2073,Exposure -> Exposure,52
+indication,2073,Biological process -> Effect/phenotype,37
+indication,2073,Disease -> Exposure,30
+indication,2073,Effect/phenotype -> Effect/phenotype,29
+indication,2073,Disease -> Drug,25
+indication,2073,Drug -> Biological process,25
+indication,2073,Effect/phenotype -> Disease,25
+indication,2073,Anatomy -> Effect/phenotype,21
+indication,2073,Drug -> Anatomy,20
+indication,2073,Exposure -> Biological process,19
+indication,2073,Gene/protein -> Disease,17
+indication,2073,Drug -> Drug,16
+indication,2073,Drug -> Pathway,15
+indication,2073,Biological process -> Biological process,14
+indication,2073,Effect/phenotype -> Drug,13
+indication,2073,Exposure -> Anatomy,13
+indication,2073,Disease -> Biological process,12
+indication,2073,Effect/phenotype -> Exposure,12
+indication,2073,Cellular component -> Disease,11
+indication,2073,Disease -> Effect/phenotype,11
+indication,2073,Biological process -> Exposure,10
+indication,2073,Disease -> Anatomy,10
+indication,2073,Anatomy -> Anatomy,8
+indication,2073,Biological process -> Anatomy,8
+indication,2073,Disease -> Disease,8
+indication,2073,Anatomy -> Biological process,7
+indication,2073,Drug -> Gene/protein,7
+indication,2073,Exposure -> Drug,7
+indication,2073,Exposure -> Pathway,7
+indication,2073,Anatomy -> Exposure,6
+indication,2073,Effect/phenotype -> Biological process,6
+indication,2073,Biological process -> Drug,5
+indication,2073,Gene/protein -> Effect/phenotype,5
+indication,2073,Procedure -> Disease,5
+indication,2073,Molecular function -> Disease,4
+indication,2073,Anatomy -> Drug,3
+indication,2073,Cellular component -> Effect/phenotype,3
+indication,2073,Disease -> Gene/protein,3
+indication,2073,Drug -> Cellular component,3
+indication,2073,Drug -> Exposure,3
+indication,2073,Effect/phenotype -> Anatomy,3
+indication,2073,Exposure -> Gene/protein,3
+indication,2073,Disease -> Procedure,2
+indication,2073,Effect/phenotype -> Gene/protein,2
+indication,2073,Effect/phenotype -> Pathway,2
+indication,2073,Gene/protein -> Anatomy,2
+indication,2073,Gene/protein -> Drug,2
+indication,2073,Molecular function -> Effect/phenotype,2
+indication,2073,Procedure -> Effect/phenotype,2
+indication,2073,Anatomy -> Gene/protein,1
+indication,2073,Biological process -> Gene/protein,1
+indication,2073,Cellular component -> Biological process,1
+indication,2073,Disease -> Pathway,1
+indication,2073,Gene/protein -> Biological process,1
+indication,2073,Gene/protein -> Gene/protein,1
+indication,2073,Gene/protein -> Pathway,1
+indication,2073,Molecular function -> Biological process,1
+indication,2073,Molecular function -> Gene/protein,1
+indication,2073,Pathway -> Disease,1
+indication,2073,Pathway -> Drug,1
+indication,2073,Procedure -> Anatomy,1
+indication,2073,protocol -> Disease,1
+causes,1669,Exposure -> Effect/phenotype,267
+causes,1669,Effect/phenotype -> Effect/phenotype,233
+causes,1669,Disease -> Disease,209
+causes,1669,Effect/phenotype -> Disease,109
+causes,1669,Biological process -> Effect/phenotype,89
+causes,1669,Biological process -> Biological process,69
+causes,1669,Effect/phenotype -> Exposure,65
+causes,1669,Exposure -> Exposure,65
+causes,1669,Gene/protein -> Disease,45
+causes,1669,Biological process -> Disease,44
+causes,1669,Disease -> Biological process,41
+causes,1669,Effect/phenotype -> Biological process,38
+causes,1669,Gene/protein -> Effect/phenotype,36
+causes,1669,Disease -> Exposure,35
+causes,1669,Gene/protein -> Biological process,28
+causes,1669,Anatomy -> Disease,27
+causes,1669,Anatomy -> Effect/phenotype,25
+causes,1669,Disease -> Anatomy,24
+causes,1669,Drug -> Biological process,24
+causes,1669,Effect/phenotype -> Anatomy,16
+causes,1669,Biological process -> Exposure,15
+causes,1669,Disease -> Gene/protein,11
+causes,1669,Pathway -> Disease,11
+causes,1669,Pathway -> Biological process,9
+causes,1669,Cellular component -> Biological process,8
+causes,1669,Effect/phenotype -> Drug,8
+causes,1669,Exposure -> Anatomy,8
+causes,1669,Pathway -> Effect/phenotype,8
+causes,1669,Anatomy -> Biological process,7
+causes,1669,Disease -> Pathway,7
+causes,1669,Exposure -> Pathway,7
+causes,1669,Biological process -> Pathway,6
+causes,1669,Effect/phenotype -> Gene/protein,6
+causes,1669,Gene/protein -> Pathway,6
+causes,1669,Molecular function -> Disease,6
+causes,1669,Anatomy -> Anatomy,5
+causes,1669,Biological process -> Anatomy,3
+causes,1669,Disease -> Cellular component,3
+causes,1669,Disease -> Drug,3
+causes,1669,Exposure -> Drug,3
+causes,1669,Molecular function -> Effect/phenotype,3
+causes,1669,Anatomy -> Cellular component,2
+causes,1669,Anatomy -> Exposure,2
+causes,1669,Biological process -> Cellular component,2
+causes,1669,Biological process -> Drug,2
+causes,1669,Cellular component -> Effect/phenotype,2
+causes,1669,Drug -> Drug,2
+causes,1669,Effect/phenotype -> Pathway,2
+causes,1669,Gene/protein -> Anatomy,2
+causes,1669,Gene/protein -> Drug,2
+causes,1669,Molecular function -> Biological process,2
+causes,1669,Pathway -> Pathway,2
+causes,1669,virus -> Effect/phenotype,2
+causes,1669,Anatomy -> Pathway,1
+causes,1669,Biological process -> Gene/protein,1
+causes,1669,Biological process -> Molecular function,1
+causes,1669,Cellular component -> Anatomy,1
+causes,1669,Cellular component -> Disease,1
+causes,1669,Disease -> Molecular function,1
+causes,1669,Drug -> Anatomy,1
+causes,1669,Effect/phenotype -> Cellular component,1
+causes,1669,Effect/phenotype -> protocol,1
+causes,1669,Gene/protein -> Gene/protein,1
+causes,1669,Molecular function -> Exposure,1
+causes,1669,Molecular function -> Molecular function,1
+causes,1669,Procedure -> Disease,1
+affects expression,1193,Effect/phenotype -> Effect/phenotype,127
+affects expression,1193,Biological process -> Biological process,122
+affects expression,1193,Exposure -> Effect/phenotype,98
+affects expression,1193,Gene/protein -> Biological process,73
+affects expression,1193,Exposure -> Biological process,52
+affects expression,1193,Biological process -> Effect/phenotype,50
+affects expression,1193,Effect/phenotype -> Biological process,44
+affects expression,1193,Drug -> Biological process,42
+affects expression,1193,Exposure -> Exposure,41
+affects expression,1193,Drug -> Effect/phenotype,34
+affects expression,1193,Effect/phenotype -> Exposure,30
+affects expression,1193,Biological process -> Exposure,25
+affects expression,1193,Anatomy -> Effect/phenotype,22
+affects expression,1193,Gene/protein -> Cellular component,21
+affects expression,1193,Exposure -> Anatomy,17
+affects expression,1193,Gene/protein -> Effect/phenotype,17
+affects expression,1193,Molecular function -> Biological process,16
+affects expression,1193,Anatomy -> Anatomy,13
+affects expression,1193,Biological process -> Anatomy,13
+affects expression,1193,Exposure -> Gene/protein,13
+affects expression,1193,Anatomy -> Biological process,12
+affects expression,1193,Drug -> Molecular function,12
+affects expression,1193,Disease -> Effect/phenotype,11
+affects expression,1193,Effect/phenotype -> Gene/protein,11
+affects expression,1193,Biological process -> Cellular component,10
+affects expression,1193,Cellular component -> Biological process,10
+affects expression,1193,Gene/protein -> Drug,10
+affects expression,1193,Pathway -> Biological process,10
+affects expression,1193,Biological process -> Drug,9
+affects expression,1193,Biological process -> Molecular function,9
+affects expression,1193,Effect/phenotype -> Disease,9
+affects expression,1193,Effect/phenotype -> Drug,9
+affects expression,1193,Exposure -> Disease,9
+affects expression,1193,Disease -> Biological process,8
+affects expression,1193,Drug -> Anatomy,8
+affects expression,1193,Effect/phenotype -> Anatomy,8
+affects expression,1193,Gene/protein -> Disease,8
+affects expression,1193,Gene/protein -> Molecular function,8
+affects expression,1193,Biological process -> Disease,7
+affects expression,1193,Drug -> Cellular component,7
+affects expression,1193,Drug -> Drug,7
+affects expression,1193,Effect/phenotype -> Pathway,7
+affects expression,1193,Gene/protein -> Pathway,7
+affects expression,1193,Anatomy -> Exposure,6
+affects expression,1193,Drug -> Pathway,6
+affects expression,1193,Gene/protein -> Exposure,6
+affects expression,1193,Molecular function -> Molecular function,6
+affects expression,1193,Pathway -> Effect/phenotype,6
+affects expression,1193,Drug -> Disease,5
+affects expression,1193,Effect/phenotype -> Cellular component,5
+affects expression,1193,Molecular function -> Effect/phenotype,5
+affects expression,1193,Anatomy -> Gene/protein,4
+affects expression,1193,Biological process -> Pathway,4
+affects expression,1193,Drug -> Exposure,4
+affects expression,1193,Exposure -> Cellular component,4
+affects expression,1193,Molecular function -> Cellular component,4
+affects expression,1193,Molecular function -> Drug,4
+affects expression,1193,Anatomy -> Pathway,3
+affects expression,1193,Cellular component -> Effect/phenotype,3
+affects expression,1193,Cellular component -> Molecular function,3
+affects expression,1193,Disease -> Exposure,3
+affects expression,1193,Effect/phenotype -> Molecular function,3
+affects expression,1193,Exposure -> Molecular function,3
+affects expression,1193,Anatomy -> Cellular component,2
+affects expression,1193,Anatomy -> Disease,2
+affects expression,1193,Cellular component -> Cellular component,2
+affects expression,1193,Disease -> Anatomy,2
+affects expression,1193,Exposure -> Pathway,2
+affects expression,1193,Gene/protein -> Anatomy,2
+affects expression,1193,Molecular function -> Disease,2
+affects expression,1193,Pathway -> Drug,2
+affects expression,1193,technique -> technique,2
+affects expression,1193,Anatomy -> Drug,1
+affects expression,1193,Cellular component -> Anatomy,1
+affects expression,1193,Cellular component -> Drug,1
+affects expression,1193,Cellular component -> Gene/protein,1
+affects expression,1193,Disease -> Molecular function,1
+affects expression,1193,Exposure -> Drug,1
+affects expression,1193,Gene/protein -> virus,1
+affects expression,1193,Molecular function -> Pathway,1
+affects expression,1193,Pathway -> Anatomy,1
+affects expression,1193,Pathway -> Cellular component,1
+affects expression,1193,Pathway -> Exposure,1
+affects expression,1193,technique -> Effect/phenotype,1
+located in,1083,Disease -> Anatomy,130
+located in,1083,Effect/phenotype -> Anatomy,118
+located in,1083,Cellular component -> Cellular component,108
+located in,1083,Gene/protein -> Cellular component,95
+located in,1083,Cellular component -> Anatomy,87
+located in,1083,Exposure -> Anatomy,59
+located in,1083,Biological process -> Anatomy,51
+located in,1083,Anatomy -> Cellular component,49
+located in,1083,Anatomy -> Effect/phenotype,43
+located in,1083,Anatomy -> Exposure,35
+located in,1083,Exposure -> Exposure,35
+located in,1083,Anatomy -> Disease,20
+located in,1083,Anatomy -> Biological process,17
+located in,1083,Biological process -> Cellular component,17
+located in,1083,Cellular component -> Gene/protein,14
+located in,1083,Biological process -> Biological process,12
+located in,1083,Drug -> Anatomy,11
+located in,1083,Effect/phenotype -> Effect/phenotype,11
+located in,1083,Gene/protein -> Gene/protein,11
+located in,1083,Molecular function -> Cellular component,10
+located in,1083,Anatomy -> Gene/protein,9
+located in,1083,Cellular component -> Biological process,8
+located in,1083,Disease -> Effect/phenotype,8
+located in,1083,Cellular component -> Exposure,7
+located in,1083,Effect/phenotype -> Exposure,7
+located in,1083,Effect/phenotype -> Biological process,6
+located in,1083,Effect/phenotype -> Disease,6
+located in,1083,Exposure -> Cellular component,6
+located in,1083,Exposure -> Effect/phenotype,6
+located in,1083,Anatomy -> Drug,5
+located in,1083,Disease -> Cellular component,5
+located in,1083,Disease -> Exposure,5
+located in,1083,Gene/protein -> Effect/phenotype,5
+located in,1083,Biological process -> Effect/phenotype,4
+located in,1083,Biological process -> Exposure,4
+located in,1083,Effect/phenotype -> Cellular component,4
+located in,1083,Exposure -> Biological process,4
+located in,1083,Pathway -> Anatomy,4
+located in,1083,Pathway -> Cellular component,4
+located in,1083,Cellular component -> Disease,3
+located in,1083,Cellular component -> Effect/phenotype,3
+located in,1083,Drug -> Cellular component,3
+located in,1083,Drug -> Exposure,3
+located in,1083,Effect/phenotype -> Gene/protein,3
+located in,1083,Molecular function -> Anatomy,3
+located in,1083,Cellular component -> Drug,2
+located in,1083,Disease -> Disease,2
+located in,1083,Exposure -> Gene/protein,2
+located in,1083,Gene/protein -> Biological process,2
+located in,1083,Gene/protein -> Molecular function,2
+located in,1083,Molecular function -> Gene/protein,2
+located in,1083,Biological process -> Disease,1
+located in,1083,Biological process -> Gene/protein,1
+located in,1083,Cellular component -> Molecular function,1
+located in,1083,Disease -> Biological process,1
+located in,1083,Drug -> Gene/protein,1
+located in,1083,Effect/phenotype -> Molecular function,1
+located in,1083,Gene/protein -> Disease,1
+located in,1083,Gene/protein -> Drug,1
+located in,1083,Gene/protein -> Exposure,1
+located in,1083,Molecular function -> Effect/phenotype,1
+located in,1083,Pathway -> Effect/phenotype,1
+located in,1083,Pathway -> Exposure,1
+located in,1083,study -> Exposure,1
+expressed in,1017,Gene/protein -> Cellular component,261
+expressed in,1017,Cellular component -> Anatomy,118
+expressed in,1017,Anatomy -> Anatomy,84
+expressed in,1017,Cellular component -> Cellular component,51
+expressed in,1017,Cellular component -> Gene/protein,41
+expressed in,1017,Anatomy -> Gene/protein,28
+expressed in,1017,Biological process -> Anatomy,24
+expressed in,1017,Gene/protein -> Effect/phenotype,23
+expressed in,1017,Molecular function -> Anatomy,23
+expressed in,1017,Effect/phenotype -> Anatomy,22
+expressed in,1017,Gene/protein -> Biological process,22
+expressed in,1017,Anatomy -> Cellular component,21
+expressed in,1017,Gene/protein -> Disease,18
+expressed in,1017,Drug -> Anatomy,14
+expressed in,1017,Gene/protein -> Gene/protein,14
+expressed in,1017,Molecular function -> Cellular component,14
+expressed in,1017,Exposure -> Anatomy,13
+expressed in,1017,Anatomy -> Effect/phenotype,12
+expressed in,1017,Anatomy -> Exposure,11
+expressed in,1017,Cellular component -> Biological process,10
+expressed in,1017,Disease -> Cellular component,10
+expressed in,1017,Exposure -> Exposure,10
+expressed in,1017,Anatomy -> Biological process,9
+expressed in,1017,Biological process -> Cellular component,9
+expressed in,1017,Disease -> Anatomy,9
+expressed in,1017,Effect/phenotype -> Effect/phenotype,9
+expressed in,1017,Drug -> Cellular component,8
+expressed in,1017,Pathway -> Cellular component,8
+expressed in,1017,Biological process -> Gene/protein,7
+expressed in,1017,Gene/protein -> Exposure,7
+expressed in,1017,Biological process -> Biological process,6
+expressed in,1017,Disease -> Gene/protein,6
+expressed in,1017,Molecular function -> Biological process,6
+expressed in,1017,Exposure -> Biological process,5
+expressed in,1017,Anatomy -> Molecular function,4
+expressed in,1017,Cellular component -> Disease,4
+expressed in,1017,Cellular component -> Drug,4
+expressed in,1017,Exposure -> Cellular component,4
+expressed in,1017,Pathway -> Anatomy,4
+expressed in,1017,Biological process -> Effect/phenotype,3
+expressed in,1017,Biological process -> Molecular function,3
+expressed in,1017,Cellular component -> Effect/phenotype,3
+expressed in,1017,Cellular component -> Molecular function,3
+expressed in,1017,Disease -> Effect/phenotype,3
+expressed in,1017,Drug -> Drug,3
+expressed in,1017,Effect/phenotype -> Cellular component,3
+expressed in,1017,Effect/phenotype -> Gene/protein,3
+expressed in,1017,Biological process -> Disease,2
+expressed in,1017,Biological process -> Exposure,2
+expressed in,1017,Cellular component -> Pathway,2
+expressed in,1017,Effect/phenotype -> Biological process,2
+expressed in,1017,Effect/phenotype -> Disease,2
+expressed in,1017,Exposure -> Effect/phenotype,2
+expressed in,1017,Exposure -> Gene/protein,2
+expressed in,1017,Molecular function -> Drug,2
+expressed in,1017,Molecular function -> Effect/phenotype,2
+expressed in,1017,Molecular function -> Gene/protein,2
+expressed in,1017,Anatomy -> Disease,1
+expressed in,1017,Anatomy -> Drug,1
+expressed in,1017,Biological process -> Pathway,1
+expressed in,1017,Cellular component -> Exposure,1
+expressed in,1017,Disease -> Molecular function,1
+expressed in,1017,Drug -> Disease,1
+expressed in,1017,Drug -> Effect/phenotype,1
+expressed in,1017,Drug -> Gene/protein,1
+expressed in,1017,Drug -> Molecular function,1
+expressed in,1017,Effect/phenotype -> Drug,1
+expressed in,1017,Effect/phenotype -> Exposure,1
+expressed in,1017,Effect/phenotype -> Molecular function,1
+expressed in,1017,Gene/protein -> Drug,1
+expressed in,1017,Gene/protein -> Molecular function,1
+expressed in,1017,Gene/protein -> Pathway,1
+expressed in,1017,Molecular function -> Disease,1
+expressed in,1017,Pathway -> Exposure,1
+expressed in,1017,metabolite -> Anatomy,1
+expressed in,1017,metabolite -> Biological process,1
+expressed in,1017,virus -> Effect/phenotype,1
+contributes to pathogenesis,958,Biological process -> Biological process,94
+contributes to pathogenesis,958,Effect/phenotype -> Effect/phenotype,76
+contributes to pathogenesis,958,Effect/phenotype -> Disease,70
+contributes to pathogenesis,958,Disease -> Disease,68
+contributes to pathogenesis,958,Disease -> Effect/phenotype,65
+contributes to pathogenesis,958,Biological process -> Effect/phenotype,61
+contributes to pathogenesis,958,Exposure -> Disease,53
+contributes to pathogenesis,958,Exposure -> Effect/phenotype,53
+contributes to pathogenesis,958,Exposure -> Exposure,43
+contributes to pathogenesis,958,Exposure -> Biological process,27
+contributes to pathogenesis,958,Gene/protein -> Effect/phenotype,26
+contributes to pathogenesis,958,Effect/phenotype -> Biological process,23
+contributes to pathogenesis,958,Disease -> Biological process,21
+contributes to pathogenesis,958,Gene/protein -> Biological process,21
+contributes to pathogenesis,958,Effect/phenotype -> Exposure,20
+contributes to pathogenesis,958,Biological process -> Exposure,16
+contributes to pathogenesis,958,Anatomy -> Disease,15
+contributes to pathogenesis,958,Anatomy -> Effect/phenotype,13
+contributes to pathogenesis,958,Cellular component -> Disease,13
+contributes to pathogenesis,958,Disease -> Exposure,13
+contributes to pathogenesis,958,Pathway -> Biological process,12
+contributes to pathogenesis,958,Disease -> Gene/protein,10
+contributes to pathogenesis,958,Biological process -> Pathway,9
+contributes to pathogenesis,958,Biological process -> Anatomy,8
+contributes to pathogenesis,958,Anatomy -> Biological process,7
+contributes to pathogenesis,958,Drug -> Disease,7
+contributes to pathogenesis,958,Molecular function -> Disease,7
+contributes to pathogenesis,958,Molecular function -> Effect/phenotype,7
+contributes to pathogenesis,958,Effect/phenotype -> Drug,6
+contributes to pathogenesis,958,Biological process -> Gene/protein,5
+contributes to pathogenesis,958,Cellular component -> Biological process,5
+contributes to pathogenesis,958,Cellular component -> Effect/phenotype,5
+contributes to pathogenesis,958,Disease -> Anatomy,5
+contributes to pathogenesis,958,Disease -> Cellular component,5
+contributes to pathogenesis,958,Drug -> Effect/phenotype,5
+contributes to pathogenesis,958,Pathway -> Effect/phenotype,5
+contributes to pathogenesis,958,Anatomy -> Exposure,4
+contributes to pathogenesis,958,Drug -> Biological process,4
+contributes to pathogenesis,958,Exposure -> Anatomy,4
+contributes to pathogenesis,958,Molecular function -> Biological process,4
+contributes to pathogenesis,958,Anatomy -> Anatomy,3
+contributes to pathogenesis,958,Biological process -> Drug,3
+contributes to pathogenesis,958,Exposure -> Pathway,3
+contributes to pathogenesis,958,Biological process -> Cellular component,2
+contributes to pathogenesis,958,Cellular component -> Pathway,2
+contributes to pathogenesis,958,Effect/phenotype -> Anatomy,2
+contributes to pathogenesis,958,Effect/phenotype -> Gene/protein,2
+contributes to pathogenesis,958,Effect/phenotype -> Molecular function,2
+contributes to pathogenesis,958,Effect/phenotype -> Pathway,2
+contributes to pathogenesis,958,Gene/protein -> Pathway,2
+contributes to pathogenesis,958,Pathway -> Pathway,2
+contributes to pathogenesis,958,Anatomy -> Drug,1
+contributes to pathogenesis,958,Biological process -> Molecular function,1
+contributes to pathogenesis,958,Cellular component -> Anatomy,1
+contributes to pathogenesis,958,Cellular component -> Drug,1
+contributes to pathogenesis,958,Disease -> Drug,1
+contributes to pathogenesis,958,Disease -> Molecular function,1
+contributes to pathogenesis,958,Disease -> Pathway,1
+contributes to pathogenesis,958,Drug -> Anatomy,1
+contributes to pathogenesis,958,Effect/phenotype -> Cellular component,1
+contributes to pathogenesis,958,Exposure -> Drug,1
+contributes to pathogenesis,958,Exposure -> Gene/protein,1
+contributes to pathogenesis,958,Gene/protein -> Exposure,1
+contributes to pathogenesis,958,Gene/protein -> Gene/protein,1
+contributes to pathogenesis,958,Molecular function -> Molecular function,1
+contributes to pathogenesis,958,Molecular function -> Pathway,1
+contributes to pathogenesis,958,Pathway -> Cellular component,1
+contributes to pathogenesis,958,Pathway -> Drug,1
+contributes to pathogenesis,958,Pathway -> Molecular function,1
+inhibits,768,Gene/protein -> Biological process,127
+inhibits,768,Drug -> Biological process,84
+inhibits,768,Biological process -> Biological process,46
+inhibits,768,Effect/phenotype -> Effect/phenotype,32
+inhibits,768,Drug -> Effect/phenotype,29
+inhibits,768,Drug -> Pathway,28
+inhibits,768,Exposure -> Biological process,27
+inhibits,768,Drug -> Molecular function,26
+inhibits,768,Gene/protein -> Pathway,23
+inhibits,768,Biological process -> Effect/phenotype,20
+inhibits,768,Exposure -> Effect/phenotype,20
+inhibits,768,Gene/protein -> Effect/phenotype,20
+inhibits,768,Drug -> Cellular component,18
+inhibits,768,Gene/protein -> Drug,16
+inhibits,768,Effect/phenotype -> Biological process,15
+inhibits,768,Molecular function -> Biological process,14
+inhibits,768,Cellular component -> Biological process,12
+inhibits,768,Drug -> Disease,11
+inhibits,768,Gene/protein -> Molecular function,11
+inhibits,768,Drug -> Drug,10
+inhibits,768,Pathway -> Biological process,9
+inhibits,768,Biological process -> Exposure,8
+inhibits,768,Exposure -> Exposure,8
+inhibits,768,Gene/protein -> Cellular component,8
+inhibits,768,Biological process -> Drug,7
+inhibits,768,Drug -> Anatomy,7
+inhibits,768,Gene/protein -> Disease,7
+inhibits,768,Molecular function -> Molecular function,7
+inhibits,768,Biological process -> Molecular function,6
+inhibits,768,Effect/phenotype -> Exposure,6
+inhibits,768,Exposure -> Anatomy,6
+inhibits,768,Biological process -> Cellular component,5
+inhibits,768,Cellular component -> Cellular component,5
+inhibits,768,Effect/phenotype -> Disease,5
+inhibits,768,Anatomy -> Exposure,4
+inhibits,768,Biological process -> Disease,4
+inhibits,768,Biological process -> Pathway,4
+inhibits,768,Disease -> Gene/protein,3
+inhibits,768,Drug -> Exposure,3
+inhibits,768,Effect/phenotype -> Gene/protein,3
+inhibits,768,Exposure -> Disease,3
+inhibits,768,Exposure -> Molecular function,3
+inhibits,768,Gene/protein -> Exposure,3
+inhibits,768,Molecular function -> Drug,3
+inhibits,768,Anatomy -> Biological process,2
+inhibits,768,Anatomy -> Disease,2
+inhibits,768,Anatomy -> Effect/phenotype,2
+inhibits,768,Cellular component -> Gene/protein,2
+inhibits,768,Exposure -> Gene/protein,2
+inhibits,768,Gene/protein -> Anatomy,2
+inhibits,768,Molecular function -> Disease,2
+inhibits,768,Molecular function -> Effect/phenotype,2
+inhibits,768,Molecular function -> Exposure,2
+inhibits,768,Molecular function -> Pathway,2
+inhibits,768,Pathway -> Anatomy,2
+inhibits,768,Pathway -> Drug,2
+inhibits,768,Pathway -> Effect/phenotype,2
+inhibits,768,Pathway -> Pathway,2
+inhibits,768,Anatomy -> Anatomy,1
+inhibits,768,Anatomy -> Drug,1
+inhibits,768,Anatomy -> Molecular function,1
+inhibits,768,Anatomy -> Pathway,1
+inhibits,768,Biological process -> Anatomy,1
+inhibits,768,Cellular component -> Anatomy,1
+inhibits,768,Cellular component -> Disease,1
+inhibits,768,Cellular component -> Effect/phenotype,1
+inhibits,768,Cellular component -> Pathway,1
+inhibits,768,Disease -> Biological process,1
+inhibits,768,Disease -> Effect/phenotype,1
+inhibits,768,Disease -> Molecular function,1
+inhibits,768,Drug -> virus,1
+inhibits,768,Effect/phenotype -> Anatomy,1
+inhibits,768,Effect/phenotype -> Molecular function,1
+inhibits,768,Effect/phenotype -> Pathway,1
+inhibits,768,Exposure -> Cellular component,1
+inhibits,768,Exposure -> Drug,1
+inhibits,768,Exposure -> Pathway,1
+inhibits,768,Gene/protein -> complex,1
+inhibits,768,Molecular function -> Anatomy,1
+inhibits,768,Molecular function -> Cellular component,1
+inhibits,768,complex -> Gene/protein,1
+inhibits,768,virus -> Drug,1
+linked to,632,Exposure -> Disease,458
+linked to,632,Disease -> Exposure,174
+ppi,609,Gene/protein -> Gene/protein,609
+activates,447,Gene/protein -> Biological process,78
+activates,447,Biological process -> Biological process,35
+activates,447,Drug -> Biological process,24
+activates,447,Gene/protein -> Cellular component,24
+activates,447,Gene/protein -> Pathway,19
+activates,447,Exposure -> Biological process,18
+activates,447,Molecular function -> Biological process,16
+activates,447,Drug -> Effect/phenotype,14
+activates,447,Effect/phenotype -> Effect/phenotype,14
+activates,447,Pathway -> Biological process,11
+activates,447,Biological process -> Effect/phenotype,10
+activates,447,Cellular component -> Gene/protein,10
+activates,447,Drug -> Molecular function,10
+activates,447,Gene/protein -> Effect/phenotype,10
+activates,447,Gene/protein -> Molecular function,10
+activates,447,Drug -> Pathway,9
+activates,447,Exposure -> Effect/phenotype,9
+activates,447,Cellular component -> Cellular component,8
+activates,447,Drug -> Cellular component,8
+activates,447,Drug -> Anatomy,7
+activates,447,Molecular function -> Molecular function,7
+activates,447,Biological process -> Anatomy,6
+activates,447,Biological process -> Exposure,5
+activates,447,Exposure -> Exposure,5
+activates,447,Exposure -> Gene/protein,5
+activates,447,Exposure -> Pathway,5
+activates,447,Gene/protein -> Drug,5
+activates,447,Biological process -> Pathway,4
+activates,447,Cellular component -> Biological process,4
+activates,447,Effect/phenotype -> Biological process,4
+activates,447,Exposure -> Cellular component,4
+activates,447,Gene/protein -> Disease,4
+activates,447,Anatomy -> Anatomy,3
+activates,447,Exposure -> Molecular function,3
+activates,447,Molecular function -> Effect/phenotype,3
+activates,447,Biological process -> Cellular component,2
+activates,447,Biological process -> Molecular function,2
+activates,447,Cellular component -> Anatomy,2
+activates,447,Cellular component -> Drug,2
+activates,447,Disease -> Biological process,2
+activates,447,Drug -> Disease,2
+activates,447,Effect/phenotype -> Disease,2
+activates,447,Effect/phenotype -> Exposure,2
+activates,447,Effect/phenotype -> Gene/protein,2
+activates,447,Anatomy -> Biological process,1
+activates,447,Anatomy -> Cellular component,1
+activates,447,Anatomy -> Gene/protein,1
+activates,447,Biological process -> Disease,1
+activates,447,Biological process -> Drug,1
+activates,447,Cellular component -> Effect/phenotype,1
+activates,447,Disease -> Effect/phenotype,1
+activates,447,Drug -> Drug,1
+activates,447,Effect/phenotype -> Cellular component,1
+activates,447,Exposure -> Anatomy,1
+activates,447,Exposure -> Disease,1
+activates,447,Gene/protein -> Anatomy,1
+activates,447,Molecular function -> Drug,1
+activates,447,Molecular function -> Exposure,1
+activates,447,Molecular function -> Pathway,1
+activates,447,Pathway -> Cellular component,1
+activates,447,guidance -> Biological process,1
+activates,447,technique -> Effect/phenotype,1
+subtype of,440,Exposure -> Exposure,44
+subtype of,440,Drug -> Drug,43
+subtype of,440,Gene/protein -> Gene/protein,40
+subtype of,440,Disease -> Effect/phenotype,30
+subtype of,440,Effect/phenotype -> Disease,25
+subtype of,440,Gene/protein -> Biological process,16
+subtype of,440,Gene/protein -> Molecular function,15
+subtype of,440,Effect/phenotype -> Biological process,13
+subtype of,440,Gene/protein -> Cellular component,10
+subtype of,440,Biological process -> Effect/phenotype,9
+subtype of,440,Biological process -> Gene/protein,9
+subtype of,440,Drug -> Exposure,9
+subtype of,440,Exposure -> Anatomy,7
+subtype of,440,Exposure -> Biological process,7
+subtype of,440,Gene/protein -> Disease,7
+subtype of,440,Biological process -> Anatomy,6
+subtype of,440,Biological process -> Cellular component,6
+subtype of,440,Biological process -> Exposure,6
+subtype of,440,Disease -> Biological process,6
+subtype of,440,Gene/protein -> Pathway,6
+subtype of,440,Anatomy -> Biological process,5
+subtype of,440,Anatomy -> Disease,5
+subtype of,440,Anatomy -> Effect/phenotype,5
+subtype of,440,Cellular component -> Biological process,5
+subtype of,440,Drug -> Biological process,5
+subtype of,440,Effect/phenotype -> Cellular component,5
+subtype of,440,Effect/phenotype -> Exposure,5
+subtype of,440,Exposure -> Drug,5
+subtype of,440,Biological process -> Disease,4
+subtype of,440,Cellular component -> Anatomy,4
+subtype of,440,Effect/phenotype -> Anatomy,4
+subtype of,440,Exposure -> Gene/protein,4
+subtype of,440,Molecular function -> Gene/protein,4
+subtype of,440,Anatomy -> Cellular component,3
+subtype of,440,Cellular component -> Gene/protein,3
+subtype of,440,Disease -> Anatomy,3
+subtype of,440,Disease -> Exposure,3
+subtype of,440,Drug -> Molecular function,3
+subtype of,440,Effect/phenotype -> Gene/protein,3
+subtype of,440,Exposure -> Effect/phenotype,3
+subtype of,440,Gene/protein -> Anatomy,3
+subtype of,440,Molecular function -> Biological process,3
+subtype of,440,Molecular function -> Cellular component,3
+subtype of,440,Pathway -> Gene/protein,3
+subtype of,440,Anatomy -> Exposure,2
+subtype of,440,Anatomy -> Gene/protein,2
+subtype of,440,Cellular component -> Effect/phenotype,2
+subtype of,440,Exposure -> Pathway,2
+subtype of,440,Gene/protein -> Drug,2
+subtype of,440,Biological process -> Drug,1
+subtype of,440,Biological process -> Molecular function,1
+subtype of,440,Biological process -> Pathway,1
+subtype of,440,Cellular component -> Disease,1
+subtype of,440,Cellular component -> Molecular function,1
+subtype of,440,Disease -> Cellular component,1
+subtype of,440,Disease -> Pathway,1
+subtype of,440,Drug -> Anatomy,1
+subtype of,440,Drug -> Cellular component,1
+subtype of,440,Drug -> Effect/phenotype,1
+subtype of,440,Drug -> Gene/protein,1
+subtype of,440,Drug -> Pathway,1
+subtype of,440,Exposure -> Disease,1
+subtype of,440,Gene/protein -> Effect/phenotype,1
+subtype of,440,Gene/protein -> Exposure,1
+subtype of,440,Molecular function -> Drug,1
+subtype of,440,Molecular function -> Exposure,1
+subtype of,440,Pathway -> Biological process,1
+subtype of,440,Pathway -> Disease,1
+subtype of,440,Pathway -> Exposure,1
+subtype of,440,Pathway -> Molecular function,1
+subtype of,440,Procedure -> Anatomy,1
+subtype of,440,metabolite -> Drug,1
+diagnoses,357,Anatomy -> Disease,44
+diagnoses,357,Biological process -> Disease,28
+diagnoses,357,Exposure -> Disease,26
+diagnoses,357,Disease -> Anatomy,23
+diagnoses,357,Effect/phenotype -> Disease,22
+diagnoses,357,Anatomy -> Effect/phenotype,19
+diagnoses,357,Effect/phenotype -> Effect/phenotype,16
+diagnoses,357,Anatomy -> Anatomy,14
+diagnoses,357,Disease -> Biological process,11
+diagnoses,357,Biological process -> Biological process,10
+diagnoses,357,Disease -> Effect/phenotype,10
+diagnoses,357,Disease -> Exposure,10
+diagnoses,357,Exposure -> Effect/phenotype,10
+diagnoses,357,Disease -> Disease,8
+diagnoses,357,Biological process -> Effect/phenotype,7
+diagnoses,357,Effect/phenotype -> Anatomy,7
+diagnoses,357,Biological process -> Exposure,6
+diagnoses,357,Effect/phenotype -> Biological process,6
+diagnoses,357,Exposure -> Anatomy,6
+diagnoses,357,Exposure -> Biological process,6
+diagnoses,357,Gene/protein -> Disease,5
+diagnoses,357,Anatomy -> Exposure,4
+diagnoses,357,Biological process -> Anatomy,4
+diagnoses,357,Cellular component -> Disease,4
+diagnoses,357,Exposure -> Exposure,4
+diagnoses,357,Anatomy -> Biological process,3
+diagnoses,357,Anatomy -> Gene/protein,3
+diagnoses,357,Drug -> Effect/phenotype,3
+diagnoses,357,Effect/phenotype -> Exposure,3
+diagnoses,357,Pathway -> Disease,3
+diagnoses,357,Disease -> Gene/protein,2
+diagnoses,357,Drug -> Disease,2
+diagnoses,357,Exposure -> Pathway,2
+diagnoses,357,Gene/protein -> Anatomy,2
+diagnoses,357,Gene/protein -> Effect/phenotype,2
+diagnoses,357,Procedure -> Disease,2
+diagnoses,357,Anatomy -> Cellular component,1
+diagnoses,357,Anatomy -> Drug,1
+diagnoses,357,Anatomy -> Pathway,1
+diagnoses,357,Biological process -> Drug,1
+diagnoses,357,Biological process -> Gene/protein,1
+diagnoses,357,Biological process -> Pathway,1
+diagnoses,357,Cellular component -> Anatomy,1
+diagnoses,357,Cellular component -> Effect/phenotype,1
+diagnoses,357,Disease -> Cellular component,1
+diagnoses,357,Drug -> Biological process,1
+diagnoses,357,Drug -> Cellular component,1
+diagnoses,357,Effect/phenotype -> Cellular component,1
+diagnoses,357,Effect/phenotype -> Drug,1
+diagnoses,357,Effect/phenotype -> Gene/protein,1
+diagnoses,357,Effect/phenotype -> Procedure,1
+diagnoses,357,Exposure -> Gene/protein,1
+diagnoses,357,Gene/protein -> Biological process,1
+diagnoses,357,Pathway -> Biological process,1
+diagnoses,357,Procedure -> Anatomy,1
+diagnoses,357,study -> Effect/phenotype,1
+contraindication,353,Exposure -> Exposure,39
+contraindication,353,Drug -> Disease,34
+contraindication,353,Exposure -> Effect/phenotype,30
+contraindication,353,Exposure -> Disease,21
+contraindication,353,Drug -> Exposure,17
+contraindication,353,Drug -> Effect/phenotype,16
+contraindication,353,Effect/phenotype -> Exposure,14
+contraindication,353,Disease -> Exposure,12
+contraindication,353,Anatomy -> Disease,10
+contraindication,353,Biological process -> Effect/phenotype,10
+contraindication,353,Exposure -> Anatomy,10
+contraindication,353,Anatomy -> Exposure,9
+contraindication,353,Biological process -> Exposure,9
+contraindication,353,Anatomy -> Effect/phenotype,8
+contraindication,353,Disease -> Drug,8
+contraindication,353,Drug -> Biological process,8
+contraindication,353,Disease -> Disease,7
+contraindication,353,Exposure -> Biological process,7
+contraindication,353,Drug -> Anatomy,6
+contraindication,353,Effect/phenotype -> Effect/phenotype,6
+contraindication,353,Biological process -> Disease,5
+contraindication,353,Exposure -> Drug,5
+contraindication,353,Anatomy -> Biological process,4
+contraindication,353,Biological process -> Biological process,4
+contraindication,353,Biological process -> Drug,4
+contraindication,353,Effect/phenotype -> Disease,4
+contraindication,353,Effect/phenotype -> Drug,4
+contraindication,353,Biological process -> Anatomy,3
+contraindication,353,Disease -> Biological process,3
+contraindication,353,Anatomy -> Anatomy,2
+contraindication,353,Anatomy -> Drug,2
+contraindication,353,Disease -> Effect/phenotype,2
+contraindication,353,Drug -> Drug,2
+contraindication,353,Effect/phenotype -> Anatomy,2
+contraindication,353,Effect/phenotype -> Biological process,2
+contraindication,353,Gene/protein -> Anatomy,2
+contraindication,353,Gene/protein -> Biological process,2
+contraindication,353,Gene/protein -> Effect/phenotype,2
+contraindication,353,Procedure -> Exposure,2
+contraindication,353,Anatomy -> Procedure,1
+contraindication,353,Biological process -> Cellular component,1
+contraindication,353,Biological process -> Gene/protein,1
+contraindication,353,Cellular component -> Biological process,1
+contraindication,353,Disease -> Anatomy,1
+contraindication,353,Drug -> Gene/protein,1
+contraindication,353,Drug -> Pathway,1
+contraindication,353,Exposure -> Gene/protein,1
+contraindication,353,Exposure -> Pathway,1
+contraindication,353,Gene/protein -> Drug,1
+contraindication,353,Gene/protein -> Exposure,1
+contraindication,353,Gene/protein -> Pathway,1
+contraindication,353,Pathway -> Drug,1
+contraindication,353,Pathway -> Exposure,1
+contraindication,353,Procedure -> Anatomy,1
+contraindication,353,Procedure -> Biological process,1
+interacts with,325,Gene/protein -> Cellular component,41
+interacts with,325,Gene/protein -> Biological process,23
+interacts with,325,Cellular component -> Cellular component,21
+interacts with,325,Cellular component -> Gene/protein,19
+interacts with,325,Gene/protein -> Molecular function,17
+interacts with,325,Biological process -> Gene/protein,12
+interacts with,325,Exposure -> Exposure,12
+interacts with,325,Molecular function -> Gene/protein,11
+interacts with,325,Biological process -> Biological process,10
+interacts with,325,Effect/phenotype -> Effect/phenotype,10
+interacts with,325,Exposure -> Drug,8
+interacts with,325,Biological process -> Cellular component,7
+interacts with,325,Molecular function -> Cellular component,7
+interacts with,325,Anatomy -> Gene/protein,5
+interacts with,325,Gene/protein -> Anatomy,5
+interacts with,325,Gene/protein -> Exposure,5
+interacts with,325,Molecular function -> Molecular function,5
+interacts with,325,Anatomy -> Anatomy,4
+interacts with,325,Drug -> Cellular component,4
+interacts with,325,Drug -> Exposure,4
+interacts with,325,Effect/phenotype -> Gene/protein,4
+interacts with,325,Exposure -> Biological process,4
+interacts with,325,Gene/protein -> Pathway,4
+interacts with,325,Molecular function -> Biological process,4
+interacts with,325,Biological process -> Exposure,3
+interacts with,325,Cellular component -> Anatomy,3
+interacts with,325,Cellular component -> Biological process,3
+interacts with,325,Cellular component -> Exposure,3
+interacts with,325,Cellular component -> Molecular function,3
+interacts with,325,Effect/phenotype -> Drug,3
+interacts with,325,Effect/phenotype -> Exposure,3
+interacts with,325,Exposure -> Gene/protein,3
+interacts with,325,Exposure -> Molecular function,3
+interacts with,325,Gene/protein -> Effect/phenotype,3
+interacts with,325,Molecular function -> Exposure,3
+interacts with,325,Pathway -> Gene/protein,3
+interacts with,325,Pathway -> Pathway,3
+interacts with,325,Biological process -> Anatomy,2
+interacts with,325,Biological process -> Drug,2
+interacts with,325,Biological process -> Effect/phenotype,2
+interacts with,325,Biological process -> Molecular function,2
+interacts with,325,Cellular component -> Drug,2
+interacts with,325,Drug -> Biological process,2
+interacts with,325,Drug -> Effect/phenotype,2
+interacts with,325,Drug -> Molecular function,2
+interacts with,325,Gene/protein -> Disease,2
+interacts with,325,Anatomy -> Biological process,1
+interacts with,325,Anatomy -> Disease,1
+interacts with,325,Anatomy -> Drug,1
+interacts with,325,Anatomy -> Effect/phenotype,1
+interacts with,325,Anatomy -> Exposure,1
+interacts with,325,Biological process -> Pathway,1
+interacts with,325,Cellular component -> Disease,1
+interacts with,325,Disease -> Anatomy,1
+interacts with,325,Disease -> Exposure,1
+interacts with,325,Disease -> Pathway,1
+interacts with,325,Drug -> Anatomy,1
+interacts with,325,Effect/phenotype -> Anatomy,1
+interacts with,325,Effect/phenotype -> Biological process,1
+interacts with,325,Effect/phenotype -> Cellular component,1
+interacts with,325,Exposure -> Anatomy,1
+interacts with,325,Exposure -> Effect/phenotype,1
+interacts with,325,Exposure -> Pathway,1
+interacts with,325,Molecular function -> Anatomy,1
+interacts with,325,Molecular function -> Drug,1
+interacts with,325,Pathway -> Biological process,1
+interacts with,325,Pathway -> Drug,1
+interacts with,325,Pathway -> Exposure,1
+target,230,Drug -> Gene/protein,176
+target,230,Gene/protein -> Drug,54
+expression present,200,Gene/protein -> Anatomy,200
+side effect,195,Drug -> Effect/phenotype,106
+side effect,195,Drug -> Disease,49
+side effect,195,Effect/phenotype -> Effect/phenotype,11
+side effect,195,Effect/phenotype -> Drug,4
+side effect,195,Effect/phenotype -> Exposure,4
+side effect,195,Exposure -> Effect/phenotype,4
+side effect,195,Anatomy -> Disease,2
+side effect,195,Disease -> Drug,2
+side effect,195,Disease -> Effect/phenotype,2
+side effect,195,Effect/phenotype -> Disease,2
+side effect,195,Anatomy -> Effect/phenotype,1
+side effect,195,Anatomy -> Exposure,1
+side effect,195,Biological process -> Biological process,1
+side effect,195,Biological process -> Disease,1
+side effect,195,Biological process -> Effect/phenotype,1
+side effect,195,Disease -> Biological process,1
+side effect,195,Effect/phenotype -> Biological process,1
+side effect,195,Exposure -> Anatomy,1
+side effect,195,Exposure -> Biological process,1
+biomarker of,176,Gene/protein -> Disease,31
+biomarker of,176,Effect/phenotype -> Disease,23
+biomarker of,176,Effect/phenotype -> Effect/phenotype,14
+biomarker of,176,Exposure -> Exposure,13
+biomarker of,176,Exposure -> Effect/phenotype,9
+biomarker of,176,Disease -> Effect/phenotype,8
+biomarker of,176,Biological process -> Biological process,6
+biomarker of,176,Drug -> Disease,6
+biomarker of,176,Gene/protein -> Effect/phenotype,6
+biomarker of,176,Biological process -> Disease,5
+biomarker of,176,Disease -> Gene/protein,4
+biomarker of,176,Effect/phenotype -> Biological process,4
+biomarker of,176,Biological process -> Effect/phenotype,3
+biomarker of,176,Drug -> Biological process,3
+biomarker of,176,Effect/phenotype -> Exposure,3
+biomarker of,176,Exposure -> Disease,3
+biomarker of,176,Gene/protein -> Biological process,3
+biomarker of,176,Anatomy -> Biological process,2
+biomarker of,176,Cellular component -> Effect/phenotype,2
+biomarker of,176,Disease -> Biological process,2
+biomarker of,176,Drug -> Effect/phenotype,2
+biomarker of,176,Effect/phenotype -> Drug,2
+biomarker of,176,Effect/phenotype -> Gene/protein,2
+biomarker of,176,Exposure -> Biological process,2
+biomarker of,176,Molecular function -> Disease,2
+biomarker of,176,Anatomy -> Disease,1
+biomarker of,176,Anatomy -> Effect/phenotype,1
+biomarker of,176,Anatomy -> Gene/protein,1
+biomarker of,176,Biological process -> Anatomy,1
+biomarker of,176,Biological process -> Exposure,1
+biomarker of,176,Biological process -> Pathway,1
+biomarker of,176,Cellular component -> Disease,1
+biomarker of,176,Cellular component -> Drug,1
+biomarker of,176,Drug -> Exposure,1
+biomarker of,176,Effect/phenotype -> Anatomy,1
+biomarker of,176,Effect/phenotype -> Cellular component,1
+biomarker of,176,Effect/phenotype -> Pathway,1
+biomarker of,176,Exposure -> Pathway,1
+biomarker of,176,Gene/protein -> Anatomy,1
+biomarker of,176,Molecular function -> Drug,1
+biomarker of,176,Pathway -> Disease,1
+metabolizes,73,Drug -> Gene/protein,9
+metabolizes,73,Drug -> Biological process,5
+metabolizes,73,Drug -> Drug,5
+metabolizes,73,Drug -> Molecular function,4
+metabolizes,73,Gene/protein -> Molecular function,4
+metabolizes,73,Molecular function -> Gene/protein,4
+metabolizes,73,Gene/protein -> Cellular component,3
+metabolizes,73,Gene/protein -> Exposure,3
+metabolizes,73,Molecular function -> Drug,3
+metabolizes,73,Biological process -> Effect/phenotype,2
+metabolizes,73,Biological process -> Gene/protein,2
+metabolizes,73,Drug -> Exposure,2
+metabolizes,73,Drug -> Pathway,2
+metabolizes,73,Exposure -> Drug,2
+metabolizes,73,Exposure -> Gene/protein,2
+metabolizes,73,Gene/protein -> Pathway,2
+metabolizes,73,Anatomy -> Exposure,1
+metabolizes,73,Biological process -> Biological process,1
+metabolizes,73,Biological process -> Pathway,1
+metabolizes,73,Cellular component -> Drug,1
+metabolizes,73,Cellular component -> Gene/protein,1
+metabolizes,73,Disease -> Biological process,1
+metabolizes,73,Drug -> Cellular component,1
+metabolizes,73,Drug -> Disease,1
+metabolizes,73,Effect/phenotype -> Biological process,1
+metabolizes,73,Exposure -> Effect/phenotype,1
+metabolizes,73,Exposure -> Exposure,1
+metabolizes,73,Exposure -> Molecular function,1
+metabolizes,73,Exposure -> metabolite,1
+metabolizes,73,Gene/protein -> Biological process,1
+metabolizes,73,Molecular function -> Biological process,1
+metabolizes,73,Molecular function -> Molecular function,1
+metabolizes,73,Pathway -> Biological process,1
+metabolizes,73,metabolic byproduct -> Molecular function,1
+metabolizes,73,metabolite -> Drug,1
+synergistic interaction,60,Drug -> Drug,60
+affects disease risk,39,Gene/protein -> Effect/phenotype,15
+affects disease risk,39,Disease -> Gene/protein,6
+affects disease risk,39,Disease -> Effect/phenotype,3
+affects disease risk,39,Effect/phenotype -> Disease,3
+affects disease risk,39,Gene/protein -> Gene/protein,3
+affects disease risk,39,Anatomy -> Drug,1
+affects disease risk,39,Biological process -> Disease,1
+affects disease risk,39,Disease -> Disease,1
+affects disease risk,39,Disease -> Exposure,1
+affects disease risk,39,Drug -> Disease,1
+affects disease risk,39,Effect/phenotype -> Gene/protein,1
+affects disease risk,39,Exposure -> Disease,1
+affects disease risk,39,Gene/protein -> Biological process,1
+affects disease risk,39,Gene/protein -> Pathway,1
+transports,32,Exposure -> Anatomy,4
+transports,32,Gene/protein -> Cellular component,4
+transports,32,Gene/protein -> Drug,3
+transports,32,Anatomy -> Disease,2
+transports,32,Cellular component -> Biological process,2
+transports,32,Cellular component -> Cellular component,2
+transports,32,Gene/protein -> Molecular function,2
+transports,32,Biological process -> Biological process,1
+transports,32,Cellular component -> Drug,1
+transports,32,Cellular component -> Gene/protein,1
+transports,32,Disease -> Drug,1
+transports,32,Drug -> Anatomy,1
+transports,32,Drug -> Biological process,1
+transports,32,Drug -> Gene/protein,1
+transports,32,Effect/phenotype -> Molecular function,1
+transports,32,Exposure -> Disease,1
+transports,32,Exposure -> Exposure,1
+transports,32,Gene/protein -> Biological process,1
+transports,32,Gene/protein -> Exposure,1
+transports,32,Pathway -> Biological process,1
+binding,26,Gene/protein -> Molecular function,3
+binding,26,Cellular component -> Gene/protein,2
+binding,26,Drug -> Molecular function,2
+binding,26,Gene/protein -> Cellular component,2
+binding,26,Molecular function -> Cellular component,2
+binding,26,Molecular function -> Gene/protein,2
+binding,26,Biological process -> Drug,1
+binding,26,Biological process -> Molecular function,1
+binding,26,Biological process -> Pathway,1
+binding,26,Cellular component -> Molecular function,1
+binding,26,Drug -> Biological process,1
+binding,26,Drug -> Cellular component,1
+binding,26,Drug -> Pathway,1
+binding,26,Exposure -> Anatomy,1
+binding,26,Exposure -> Cellular component,1
+binding,26,Gene/protein -> Drug,1
+binding,26,Gene/protein -> Exposure,1
+binding,26,Molecular function -> Molecular function,1
+binding,26,Pathway -> Biological process,1
+enzyme activity,12,Biological process -> Biological process,5
+enzyme activity,12,Biological process -> Pathway,1
+enzyme activity,12,Cellular component -> Biological process,1
+enzyme activity,12,Cellular component -> Gene/protein,1
+enzyme activity,12,Gene/protein -> Biological process,1
+enzyme activity,12,Gene/protein -> Cellular component,1
+enzyme activity,12,Gene/protein -> Pathway,1
+enzyme activity,12,Pathway -> Biological process,1
+regulates,7,Gene/protein -> Anatomy,6
+regulates,7,Biological process -> Biological process,1
+agonism or antagonism,4,Drug -> Anatomy,1
+agonism or antagonism,4,Drug -> Molecular function,1
+agonism or antagonism,4,Gene/protein -> Pathway,1
+agonism or antagonism,4,Pathway -> Gene/protein,1

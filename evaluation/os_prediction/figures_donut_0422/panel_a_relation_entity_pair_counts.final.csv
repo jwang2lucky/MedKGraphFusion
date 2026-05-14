@@ -1,0 +1,78 @@
+﻿relation,relation_total,entity_pair_type,pair_count
+associated with,11131,Effect/phenotype -> Effect/phenotype,1607
+associated with,11131,Exposure -> Effect/phenotype,792
+associated with,11131,Exposure -> Exposure,769
+associated with,11131,Disease -> Disease,672
+associated with,11131,Biological process -> Biological process,601
+associated with,11131,Biological process -> Effect/phenotype,384
+associated with,11131,Other,6306
+used for,4435,Exposure -> Exposure,464
+used for,4435,Biological process -> Biological process,448
+used for,4435,Exposure -> Biological process,446
+used for,4435,Exposure -> Effect/phenotype,279
+used for,4435,Drug -> Effect/phenotype,200
+used for,4435,Drug -> Biological process,196
+used for,4435,Other,2402
+part of,3126,Exposure -> Exposure,355
+part of,3126,Gene/protein -> Biological process,144
+part of,3126,Gene/protein -> Cellular component,135
+part of,3126,Cellular component -> Anatomy,121
+part of,3126,Anatomy -> Exposure,118
+part of,3126,Exposure -> Anatomy,113
+part of,3126,Other,2140
+phenotype present,2705,Disease -> Effect/phenotype,1225
+phenotype present,2705,Effect/phenotype -> Disease,770
+phenotype present,2705,Effect/phenotype -> Effect/phenotype,156
+phenotype present,2705,Disease -> Disease,88
+phenotype present,2705,Exposure -> Effect/phenotype,70
+phenotype present,2705,Anatomy -> Effect/phenotype,63
+phenotype present,2705,Other,333
+parent-child,2455,Anatomy -> Anatomy,1421
+parent-child,2455,Biological process -> Biological process,444
+parent-child,2455,Disease -> Disease,212
+parent-child,2455,Cellular component -> Cellular component,174
+parent-child,2455,Effect/phenotype -> Effect/phenotype,171
+parent-child,2455,Molecular function -> Molecular function,26
+parent-child,2455,Pathway -> Pathway,7
+indication,2073,Drug -> Disease,677
+indication,2073,Exposure -> Disease,270
+indication,2073,Drug -> Effect/phenotype,246
+indication,2073,Exposure -> Effect/phenotype,139
+indication,2073,Biological process -> Disease,102
+indication,2073,Anatomy -> Disease,71
+indication,2073,Other,568
+causes,1669,Exposure -> Effect/phenotype,267
+causes,1669,Effect/phenotype -> Effect/phenotype,233
+causes,1669,Disease -> Disease,209
+causes,1669,Effect/phenotype -> Disease,109
+causes,1669,Biological process -> Effect/phenotype,89
+causes,1669,Biological process -> Biological process,69
+causes,1669,Other,693
+affects expression,1193,Effect/phenotype -> Effect/phenotype,127
+affects expression,1193,Biological process -> Biological process,122
+affects expression,1193,Exposure -> Effect/phenotype,98
+affects expression,1193,Gene/protein -> Biological process,73
+affects expression,1193,Exposure -> Biological process,52
+affects expression,1193,Biological process -> Effect/phenotype,50
+affects expression,1193,Other,671
+located in,1083,Disease -> Anatomy,130
+located in,1083,Effect/phenotype -> Anatomy,118
+located in,1083,Cellular component -> Cellular component,108
+located in,1083,Gene/protein -> Cellular component,95
+located in,1083,Cellular component -> Anatomy,87
+located in,1083,Exposure -> Anatomy,59
+located in,1083,Other,486
+expressed in,1017,Gene/protein -> Cellular component,261
+expressed in,1017,Cellular component -> Anatomy,118
+expressed in,1017,Anatomy -> Anatomy,84
+expressed in,1017,Cellular component -> Cellular component,51
+expressed in,1017,Cellular component -> Gene/protein,41
+expressed in,1017,Anatomy -> Gene/protein,28
+expressed in,1017,Other,434
+Other,5943,Gene/protein -> Gene/protein,653
+Other,5943,Exposure -> Disease,568
+Other,5943,Gene/protein -> Biological process,275
+Other,5943,Gene/protein -> Anatomy,222
+Other,5943,Biological process -> Biological process,214
+Other,5943,Disease -> Exposure,214
+Other,5943,Other,3797

@@ -1,0 +1,100 @@
+{"s": "Blood Glucose", "p": "Associated-With", "o": "Diabetes Mellitus"}
+{"s": "Flank Pain", "p": "Located-In", "o": "Kidney"}
+{"s": "Pleural Effusion", "p": "Located-In", "o": "Lung"}
+{"s": "Paranoid Schizophrenia", "p": "Associated-With", "o": "Atrial Fibrillation"}
+{"s": "Chest CT", "p": "Associated-With", "o": "Amiodarone Toxicity"}
+{"s": "Spinal Cord", "p": "Located-In", "o": "Cervical Spine"}
+{"s": "cultureblood culture routine", "p": "Associated-With", "o": "Bacteremia"}
+{"s": "Low Perceived Control", "p": "Causes", "o": "Increased Anxiety Sensitivity"}
+{"s": "Pain Disorder", "p": "Associated-With", "o": "Past Psychiatric History"}
+{"s": "High Fat Diet", "p": "Contributes-To-Pathogenesis", "o": "Obesity-associated Co-morbidities"}
+{"s": "Kava extract", "p": "Affects-Expression", "o": "CYP2C6"}
+{"s": "Uterine Artery Embolization", "p": "Part-Of", "o": "Hysterectomy"}
+{"s": "Foley Catheter", "p": "Used-For", "o": "Urinary Retention"}
+{"s": "Right Flank Pain", "p": "Associated-With", "o": "Hepatic Hydrothorax"}
+{"s": "constipation", "p": "Causes", "o": "narcotic pain medications"}
+{"s": "MCH", "p": "Located-In", "o": "07 blood"}
+{"s": "Diabetes", "p": "Has-Symptom", "o": "Cardiovascular Disease"}
+{"s": "INKT cells", "p": "Associated-With", "o": "PTEN deficiency"}
+{"s": "Ciprofloxacin", "p": "Treats", "o": "Pyelonephritis"}
+{"s": "cardiovascular disease", "p": "Causes", "o": "oxidative stress"}
+{"s": "esophageal varix", "p": "Associated-With", "o": "portal hypertension"}
+{"s": "Mesenchymal cells", "p": "Located-In", "o": "Pseudoglandular stage"}
+{"s": "constipation", "p": "Side-Effect", "o": "narcotic pain"}
+{"s": "Life Event", "p": "Associated-With", "o": "Depressive Symptoms"}
+{"s": "High Fat Diet", "p": "Used-For", "o": "Obesity"}
+{"s": "Disc Herniation", "p": "Located-In", "o": "Cervical Spine"}
+{"s": "ibuprofen", "p": "Used-For", "o": "pain control"}
+{"s": "CT head w/o contrast", "p": "Diagnoses", "o": "intracranial hemorrhage"}
+{"s": "Kava extract", "p": "Affects-Expression", "o": "CYP3A1"}
+{"s": "port placement", "p": "Used-For", "o": "sternal debridement"}
+{"s": "Clostridium difficile toxin A B test", "p": "Diagnoses", "o": "C. diff colitis"}
+{"s": "Lactulose", "p": "Treats", "o": "Hyperbilirubinemia"}
+{"s": "infarcts", "p": "Associated-With", "o": "right temporal"}
+{"s": "12", "p": "Associated-With", "o": "Angap"}
+{"s": "USP11", "p": "Affects-Expression", "o": "TGFBR2"}
+{"s": "urine culture", "p": "Used-For", "o": "diagnosis of urinary tract infection"}
+{"s": "tri", "p": "Part-Of", "o": "trapezii"}
+{"s": "Foley Catheter", "p": "Treats", "o": "Urinary Retention"}
+{"s": "HDR", "p": "Associated-With", "o": "Error-free Repair"}
+{"s": "weight bearing", "p": "Part-Of", "o": "rehabilitation protocol"}
+{"s": "pt", "p": "Associated-With", "o": "lactic acidosis"}
+{"s": "Adolescent Focused Individual Therapy", "p": "Used-For", "o": "adolescents with anorexia nervosa"}
+{"s": "hostility", "p": "Associated-With", "o": "negative affect"}
+{"s": "thought content", "p": "Part-Of", "o": "mental status evaluation"}
+{"s": "estrogen", "p": "Affects-Expression", "o": "genes involved in body weight regulation"}
+{"s": "carotid stenosis", "p": "Associated-With", "o": "acute ischemic stroke"}
+{"s": "LCS6 Variant Allele", "p": "Affects-Expression", "o": "Kras Gene Regulation"}
+{"s": "Aspiration", "p": "Causes", "o": "Pneumonia"}
+{"s": "vascular surgery", "p": "Used-For", "o": "evaluation of infected foot ulcer"}
+{"s": "Amyloid Deposition", "p": "Located-In", "o": "Neurodegenerative Regions of the Brain"}
+{"s": "inpatient blood culture", "p": "Used-For", "o": "diagnosis of infection"}
+{"s": "Statin Therapy", "p": "Used-For", "o": "High Cholesterol"}
+{"s": "left frontal lesion", "p": "Associated-With", "o": "vasogenic edema"}
+{"s": "albuterol inhaler", "p": "Used-For", "o": "asthma"}
+{"s": "Post-ictal period", "p": "Associated-With", "o": "Decreased interactiveness"}
+{"s": "Aspirin", "p": "Part-Of", "o": "Antithrombotic Therapy"}
+{"s": "Complete Blood Count (CBC)", "p": "Part-Of", "o": "Blood Test"}
+{"s": "Copy Number", "p": "Associated-With", "o": "Oncogenic Drivers"}
+{"s": "Cellulitis", "p": "Has-Symptom", "o": "Swelling"}
+{"s": "Hepatic Encephalopathy", "p": "Associated-With", "o": "Liver Dysfunction"}
+{"s": "tobramycin", "p": "Treats", "o": "bacterial infection"}
+{"s": "a-traumatic dressing removal please moisten/soak dressing well prior to removing do not tear old dressing off", "p": "Used-For", "o": "wound care"}
+{"s": "IV Morphine", "p": "Treats", "o": "Pain"}
+{"s": "Coronary Artery Disease", "p": "Associated-With", "o": "Aortic Stenosis"}
+{"s": "Abnormal Totbili", "p": "Associated-With", "o": "Fibromyalgia"}
+{"s": "Vitamin D Insufficiency", "p": "Causes", "o": "Impaired Bone Growth"}
+{"s": "final inpatient blood culture", "p": "Diagnoses", "o": "Sepsis"}
+{"s": "Cognitive Performance", "p": "Affects-Expression", "o": "Vascular Function"}
+{"s": "Chronic Pancreatitis", "p": "Associated-With", "o": "Pancreatic Ductal Dilation"}
+{"s": "Raloxifene", "p": "Treats", "o": "Cognitive Impairment"}
+{"s": "EMT", "p": "Associated-With", "o": "tumor microenvironment"}
+{"s": "Pleural effusions", "p": "Associated-With", "o": "Pulmonary edema"}
+{"s": "MicroRNAs", "p": "Associated-With", "o": "Cell Death"}
+{"s": "gentle laxative", "p": "Treats", "o": "constipation"}
+{"s": "ADHD", "p": "Associated-With", "o": "Denies SI/Hi"}
+{"s": "Worsening Headache", "p": "Associated-With", "o": "Visual Blurriness"}
+{"s": "Nausea", "p": "Associated-With", "o": "Vomiting"}
+{"s": "narcotic pain", "p": "Used-For", "o": "pain management"}
+{"s": "Aminoglycosides", "p": "Causes", "o": "Kidney Injury"}
+{"s": "portal gastropathy", "p": "Associated-With", "o": "cirrhosis"}
+{"s": "paranoia", "p": "Associated-With", "o": "thought content"}
+{"s": "head ct", "p": "Biomarker-Of", "o": "intracranial hemorrhage"}
+{"s": "HPV", "p": "Causes", "o": "Cervical Cancer"}
+{"s": "left knee", "p": "Located-In", "o": "lower extremities"}
+{"s": "JP drain", "p": "Associated-With", "o": "infection"}
+{"s": "Estrogen", "p": "Activates", "o": "synaptic plasticity"}
+{"s": "4D-XCAT phantom", "p": "Treats", "o": "radiation therapy studies"}
+{"s": "Family-Based Treatment", "p": "Used-For", "o": "adolescents with anorexia nervosa"}
+{"s": "Alcoholic Hepatitis", "p": "Associated-With", "o": "Pancreatitis"}
+{"s": "Substance Abuse", "p": "Associated-With", "o": "Ulcerative Colitis"}
+{"s": "Paranoid Schizophrenia", "p": "Associated-With", "o": "Anemia of Chronic Disease"}
+{"s": "Mexican Americans", "p": "Associated-With", "o": "Diabetic Retinopathy"}
+{"s": "Subdural Hematoma", "p": "Part-Of", "o": "Central Nervous System"}
+{"s": "preterm birth", "p": "Causes", "o": "short gestation"}
+{"s": "Bariatric Surgery", "p": "Associated-With", "o": "Reduced cancer incidence"}
+{"s": "gestational age at birth", "p": "Located-In", "o": "pregnancy"}
+{"s": "detector design", "p": "Used-For", "o": "image quality"}
+{"s": "vascular surgery", "p": "Contraindicated-For", "o": "intervention for peripheral vascular disease"}
+{"s": "choledocolithiasis", "p": "Causes", "o": "abdominal pain"}
+{"s": "ketamine/xylazine", "p": "Used-For", "o": "anesthesia"}

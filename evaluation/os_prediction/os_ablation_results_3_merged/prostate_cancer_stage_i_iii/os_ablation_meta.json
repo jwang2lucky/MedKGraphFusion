@@ -1,0 +1,16 @@
+{
+  "dataset": "Prostate Cancer - Stage I-III",
+  "rows": 1629,
+  "event_rate": 0.27071823204419887,
+  "median_os_time": 31.79174598,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Prostate Cancer": 1629
+  },
+  "stage_group_counts": {
+    "Stage I-III": 1629
+  }
+}

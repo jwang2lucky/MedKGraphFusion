@@ -1,0 +1,24 @@
+source_id,target_id,source_name,target_name,source_type,target_type,relation,in_primekg,in_new_triples,novel_vs_primekg,origin_tags,origins_json,new_origin_tags,new_origins_json
+disease|breast cancer,drug|letrozole,Breast Cancer,Letrozole,disease,drug,indication,0,1,1,NCT00001521|NCT00003140|NCT00004205,"[""NCT00001521"", ""NCT00003140"", ""NCT00004205""]",NCT00001521|NCT00003140|NCT00004205,"[""NCT00001521"", ""NCT00003140"", ""NCT00004205""]"
+drug|letrozole,gene/protein|alb,Letrozole,ALB,drug,gene/protein,carrier,1,0,0,,[],,[]
+gene/protein|alb,drug|abemaciclib,ALB,Abemaciclib,gene/protein,drug,carrier,1,0,0,,[],,[]
+disease|breast cancer,drug|raloxifene,Breast Cancer,Raloxifene,disease,drug,indication,0,1,1,PMC5760458|PMC5761074|PMC5761338,"[""PMC5760458"", ""PMC5761074"", ""PMC5761338""]",PMC5760458|PMC5761074|PMC5761338,"[""PMC5760458"", ""PMC5761074"", ""PMC5761338""]"
+drug|raloxifene,gene/protein|alb,Raloxifene,ALB,drug,gene/protein,carrier,1,0,0,,[],,[]
+gene/protein|alb,drug|palbociclib,ALB,Palbociclib,gene/protein,drug,carrier,1,0,0,,[],,[]
+disease|breast cancer,gene/protein|ddr2,Breast Cancer,DDR2,disease,gene/protein,associated with,0,1,1,PMC7323911|PMC7325628|PMC7340496,"[""PMC7323911"", ""PMC7325628"", ""PMC7340496""]",PMC7323911|PMC7325628|PMC7340496,"[""PMC7323911"", ""PMC7325628"", ""PMC7340496""]"
+gene/protein|ddr2,gene/protein|ret,DDR2,RET,gene/protein,gene/protein,ppi,1,0,0,,[],,[]
+gene/protein|ret,drug|selpercatinib,RET,Selpercatinib,gene/protein,drug,target,1,0,0,,[],,[]
+drug|selpercatinib,drug|abemaciclib,Selpercatinib,Abemaciclib,drug,drug,synergistic interaction,1,0,0,,[],,[]
+disease|breast cancer,gene/protein|znf423,Breast Cancer,ZNF423,disease,gene/protein,associated with,0,1,1,PMC5760458|PMC5761074|PMC5761338,"[""PMC5760458"", ""PMC5761074"", ""PMC5761338""]",PMC5760458|PMC5761074|PMC5761338,"[""PMC5760458"", ""PMC5761074"", ""PMC5761338""]"
+gene/protein|znf423,gene/protein|rara,ZNF423,RARA,gene/protein,gene/protein,ppi,1,0,0,,[],,[]
+gene/protein|rara,drug|tretinoin,RARA,Tretinoin,gene/protein,drug,target,1,0,0,,[],,[]
+drug|tretinoin,drug|palbociclib,Tretinoin,Palbociclib,drug,drug,synergistic interaction,1,0,0,,[],,[]
+disease|breast cancer,gene/protein|kras,Breast Cancer,KRAS,disease,gene/protein,associated with,1,0,0,,[],,[]
+gene/protein|kras,gene/protein|tp53,KRAS,TP53,gene/protein,gene/protein,ppi,0,1,1,PMC3272156|PMC3272273|PMC3274612,"[""PMC3272156"", ""PMC3272273"", ""PMC3274612""]",PMC3272156|PMC3272273|PMC3274612,"[""PMC3272156"", ""PMC3272273"", ""PMC3274612""]"
+gene/protein|tp53,gene/protein|cdk6,TP53,CDK6,gene/protein,gene/protein,ppi,1,0,0,,[],,[]
+gene/protein|cdk6,drug|abemaciclib,CDK6,Abemaciclib,gene/protein,drug,target,1,0,0,,[],,[]
+gene/protein|ret,drug|vandetanib,RET,Vandetanib,gene/protein,drug,target,1,0,0,,[],,[]
+drug|vandetanib,drug|palbociclib,Vandetanib,Palbociclib,drug,drug,synergistic interaction,1,0,0,,[],,[]
+gene/protein|tp53,gene/protein|cdk4,TP53,CDK4,gene/protein,gene/protein,ppi,1,0,0,,[],,[]
+gene/protein|cdk4,drug|palbociclib,CDK4,Palbociclib,gene/protein,drug,target,1,0,0,,[],,[]
+disease|breast cancer,gene/protein|rara,Breast Cancer,RARA,disease,gene/protein,associated with,1,0,0,,[],,[]

@@ -1,0 +1,12 @@
+node_id,node_type,node_name,pretty_name,is_patient_gene,is_patient_drug,is_patient_anchor,is_pathway_like,is_pancreas_related
+anatomy|pancreas,anatomy,pancreas,Pancreas,0,0,1,0,1
+gene/protein|cdkn2a,gene/protein,cdkn2a,CDKN2A,1,0,0,0,0
+effect/phenotype|pancreatic abscess,effect/phenotype,pancreatic abscess,Pancreatic Abscess,0,0,1,0,1
+drug|gemcitabine,drug,gemcitabine,Gemcitabine,0,1,0,0,0
+drug|paclitaxel,drug,paclitaxel,Paclitaxel,0,0,0,0,0
+gene/protein|slc4a1,gene/protein,slc4a1,SLC4A1,0,0,0,0,0
+gene/protein|brca1,gene/protein,brca1,BRCA1,0,0,0,0,0
+gene/protein|hgf,gene/protein,hgf,HGF,0,0,0,0,0
+gene/protein|cd44,gene/protein,cd44,CD44,0,0,0,0,0
+gene/protein|isoc2,gene/protein,isoc2,ISOC2,0,0,0,0,0
+gene/protein|rassf1,gene/protein,rassf1,RASSF1,0,0,0,0,0

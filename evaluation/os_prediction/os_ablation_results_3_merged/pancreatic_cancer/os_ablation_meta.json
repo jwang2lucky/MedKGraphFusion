@@ -1,0 +1,17 @@
+{
+  "dataset": "Pancreatic Cancer",
+  "rows": 3084,
+  "event_rate": 0.6825551232166018,
+  "median_os_time": 13.462998945,
+  "n_splits_requested": 5,
+  "n_splits_used": 5,
+  "top_k_treatments": 120,
+  "top_k_genes": 300,
+  "cancer_type_counts": {
+    "Pancreatic Cancer": 3084
+  },
+  "stage_group_counts": {
+    "Stage I-III": 1751,
+    "Stage IV": 1333
+  }
+}
